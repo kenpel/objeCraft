@@ -1,0 +1,44 @@
+@import url(base.css);
+
+body		{ background-color:#F7F7F7; color:black; }
+
+strong		{ background-color:inherit; color:red; }
+
+abbr		{ background-color:inherit; color:inherit; }
+
+a:link		{ background-color:inherit; color:blue; }
+
+a:visited	{ background-color:inherit; color:purple; }
+
+a:hover		{ background-color:inherit; color:fuchsia; }
+
+a:active	{ background-color:inherit; color:red; }
+
+h1	{ border-color:black; }
+
+h2	{ border-color:silver; }
+
+dl
+	{
+	border-left:0.25em solid gray;
+	border-right:0.25em solid gray;
+	border-bottom:1px solid #EEEEEE;
+	}
+
+dl:hover	{ background-color:#EEEEEE; color:inherit; }
+
+.example
+	{
+	background-color:inherit;
+	border-left:0.25em dotted #666600;
+	border-right:0.25em dotted #666600;
+	color:#666600;
+	}
+
+.example:hover	{ background-color:#EEEEBB; color:#666600; }
+
+.history	{ border:1px dashed black; }
+
+.date		{ font-weight:bold; }
+
+.footer	{ border-color:black; }

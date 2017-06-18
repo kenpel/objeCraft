@@ -1,0 +1,54 @@
+body	{
+	margin:-1em 2%;
+	letter-spacing:0.125ex;
+	line-height:1.25em;
+	text-align:center;
+}
+
+a	{ text-decoration:underline; }
+
+dfn,em,strong	{ font-style:normal; font-weight:bold; }
+
+dfn:before		{ content:"["; }
+
+dfn:after		{ content:"]"; }
+
+h1	{
+	border-style:none none solid;
+	border-width:1px;
+	font-size:250%;
+	font-weight:bold;
+	line-height:1em;
+	padding:0.5em;
+}
+
+h2	{
+	border-style:solid;
+	border-width:1px 1.25em;
+	font-size:175%;
+	font-weight:bold;
+	line-height:1em;
+	padding:0.5em;
+}
+
+dl	{
+	margin:1.25em 1.65em;
+	padding:0.25em 0.5em;
+	text-align:left;
+}
+
+li	{ margin:0.25em; }
+
+.history	{ margin:0 15%; }
+
+.footer	{
+	border-style:solid none none;
+	border-width:1px;
+	margin:2.5em 0;
+	padding:0.5em;
+}
+
+.lr2ir_blogparts	{
+	width:220px;
+	height:250px;
+}
