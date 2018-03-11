@@ -2898,6 +2898,18 @@
     "md5"     : "6c9997829b584889c929c130ba2eab3d"
 },{
     "level"   : "1",
+    "title"   : "searoad tracks =side blue=",
+    "artist"  : "sasakure.UK",
+    "comment" : "Intelligence(14-EX)",
+    "md5"     : "5c24108cc5f8dc356c8023928396832b"
+},{
+    "level"   : "1",
+    "title"   : "searoad tracks =side blue= [LN14]",
+    "artist"  : "sasakure.UK obj:ucc",
+    "comment" : "Intelligence",
+    "md5"     : "6bebfee78e52d7551f64c811c93e0ec9"
+},{
+    "level"   : "1",
     "title"   : "Seattle Hippies",
     "artist"  : "sa10",
     "comment" : "Rock'n Roll",
@@ -4776,6 +4788,12 @@
     "md5"     : "42b68ede71437098bfb90af2c15673bf"
 },{
     "level"   : "2",
+    "title"   : "Lies",
+    "artist"  : "0310",
+    "comment" : "Future House",
+    "md5"     : "ada752e5f1f2edc1b83a5478b23e1350"
+},{
+    "level"   : "2",
     "title"   : "Longinus [DP ANOTHER]",
     "artist"  : "琥珀 obj.vectorla  *FLIP",
     "comment" : "Tribe Core",
@@ -5170,12 +5188,6 @@
     "artist"  : "きせのちうむ / obj:猫車Master",
     "comment" : "SPANISH CROSSOVER",
     "md5"     : "35e596e074bb63a03a87d1dfc663a357"
-},{
-    "level"   : "2",
-    "title"   : "searoad tracks =side blue= [LN14]",
-    "artist"  : "sasakure.UK obj:ucc",
-    "comment" : "Intelligence",
-    "md5"     : "6bebfee78e52d7551f64c811c93e0ec9"
 },{
     "level"   : "2",
     "title"   : "Seed [DP HYPER]",
@@ -6028,6 +6040,12 @@
     "artist"  : "Grand Thaw / obj:Lilium",
     "comment" : "Neo Pagan Folk",
     "md5"     : "82834dd2a78a3536adf2292f146bef8d"
+},{
+    "level"   : "3",
+    "title"   : "Agito",
+    "artist"  : "polycube × 鑓田(alpha complex) obj: lichtr",
+    "comment" : "MUSIC",
+    "md5"     : "f2d10e8aafb5ccd93d92a7a2ab6ea323"
 },{
     "level"   : "3",
     "title"   : "Air (Another14)",
@@ -7332,6 +7350,12 @@
     "md5"     : "93ac5621b9392a98c299a9c1176f9ca1"
 },{
     "level"   : "3",
+    "title"   : "searoad tracks =side blue=",
+    "artist"  : "sasakure.UK / sequence : pinoIce",
+    "comment" : "Intelligence(14-Maniaxx)",
+    "md5"     : "d4128b5a0207e8b2f74976db3012baf1"
+},{
+    "level"   : "3",
     "title"   : "SEPIA [DP ANOTHER]",
     "artist"  : "SHIKI/-45 obj:けろりん",
     "comment" : "TRANCE",
@@ -7528,6 +7552,12 @@
     "artist"  : "yassu obj:ucc",
     "comment" : "聖剣伝説3",
     "md5"     : "19f691c3e1403f6a95e2ebcfaabd347d"
+},{
+    "level"   : "3",
+    "title"   : "the scenery [DP ANOTHER]",
+    "artist"  : "punchhh",
+    "comment" : "Drum'n'bass/Crossover",
+    "md5"     : "b6f635f6986a8ac6627accd79332df4d"
 },{
     "level"   : "3",
     "title"   : "THE SEVEN + Cold Tribe (remix)",
@@ -9144,6 +9174,12 @@
     "md5"     : "c961c5ba3da39fe054fb91e48da9daaa"
 },{
     "level"   : "4",
+    "title"   : "Infomorph",
+    "artist"  : "ETIA. feat. Jenga Movie: vol-t / obj: lichtr",
+    "comment" : "DRUM'N'BASS",
+    "md5"     : "bea9c28cfd69a68ea0e55eb4e2be5d06"
+},{
+    "level"   : "4",
     "title"   : "isolato  (14key)",
     "artist"  : "abysalla *L.MIRROR",
     "comment" : "Witch House",
@@ -9616,6 +9652,12 @@
     "artist"  : "LU",
     "comment" : "SKULLSTEP MIX",
     "md5"     : "0b6a74253716ad06e1d6994a75e2bc85"
+},{
+    "level"   : "4",
+    "title"   : "Ruined field",
+    "artist"  : "Y.W",
+    "comment" : "DESPAIR /// 14KEYS GLEIPNIR LN",
+    "md5"     : "8de82a1da116c351a9ed2ea919b05bf8"
 },{
     "level"   : "4",
     "title"   : "S t r a i n <14key another>",
@@ -10876,6 +10918,12 @@
     "artist"  : "aym / obj:lichtr",
     "comment" : "TECHNO",
     "md5"     : "826f9b67119d592d3f2275011b32ef83"
+},{
+    "level"   : "5",
+    "title"   : "Bruteforce [14 Hyper]",
+    "artist"  : "Haegoe *R.MIRROR",
+    "comment" : "Gabba",
+    "md5"     : "885481d06a7a60b1ed02e966520361d1"
 },{
     "level"   : "5",
     "title"   : "Brynhildr",
@@ -18294,6 +18342,12 @@
     "md5"     : "6b94a541b7949be89f9ec37499550659"
 },{
     "level"   : "8",
+    "title"   : "B.0.X [DP ANOTHER]",
+    "artist"  : "Blue-J *FLIP LR.MIRROR",
+    "comment" : "TECHNO MIXTURE",
+    "md5"     : "893cfb609f2b2537b4f900a0bff1c1c4"
+},{
+    "level"   : "8",
     "title"   : "B.B.K.K.B.K.K. (DP BASS vs KICK)",
     "artist"  : "nora2r / 出前 / obj:ゆゆゆ！ *FLIP",
     "comment" : "UK HARDCORE",
@@ -21972,6 +22026,12 @@
     "md5"     : "8f36362eface1ed2e0808af42b35368d"
 },{
     "level"   : "9",
+    "title"   : "ZENITHALIZE [HIMMEL]",
+    "artist"  : "姉ヶ崎 寧々 obj;茜ヶ崎 空 BGA : photonskyto",
+    "comment" : "FULL ON -offnen Sie die Tur von Cuvelia-",
+    "md5"     : "64b0144472846f9d7fa50b83c14960e9"
+},{
+    "level"   : "9",
     "title"   : "ZENITHALIZE [DPz]",
     "artist"  : "姉ヶ崎 寧々/obj kohane BGA : photonskyto  *FLIP",
     "comment" : "FULL ON",
@@ -21994,6 +22054,12 @@
     "artist"  : "virkato / 廃墟",
     "comment" : "8bit mix",
     "md5"     : "9da28044fad50eed230e0b9165e286a5"
+},{
+    "level"   : "9",
+    "title"   : "きもい家 (針葉樹)",
+    "artist"  : "RUZEEA / srof *MAXBPM360 FLIP",
+    "comment" : "comic horror[DoubleExpert?]",
+    "md5"     : "4a5bc42c931fe4a99a467630ecd601d5"
 },{
     "level"   : "9",
     "title"   : "さようなら、いままで魚をありがとう",
@@ -22060,6 +22126,12 @@
     "artist"  : "Team:SASAKURATION obj:ucc *L.MIRROR",
     "comment" : "WORLDTRONICA",
     "md5"     : "a9d8d185c2d0506c68a1245f87aca56a"
+},{
+    "level"   : "9",
+    "title"   : "エンバディメント ～2010 flynation mix～",
+    "artist"  : "Y.W / Symphonian",
+    "comment" : "86 SPREAD TRANCE /// 14KEYS KAWAII",
+    "md5"     : "44e036bcc1eb8b064ba3ae6597f5826a"
 },{
     "level"   : "9",
     "title"   : "クインティ アーティストステージBGM  (Pop Step.Remix)",
@@ -22459,7 +22531,7 @@
 },{
     "level"   : "9",
     "title"   : "虹微笑x1肌色扇情扇情",
-    "artist"  : "The Lovers / obj : Ill",
+    "artist"  : "The Lovers / obj : Ill *AVERAGE",
     "comment" : "2ジ[14EX]",
     "md5"     : "bbf187d639df257c48e97a90aecc8662"
 },{
@@ -23976,14 +24048,8 @@
     "md5"     : "577778e9a26d61f22037a7e89296cbf4"
 },{
     "level"   : "10",
-    "title"   : "ZENITHALIZE [HIMMEL]",
-    "artist"  : "姉ヶ崎 寧々 obj;茜ヶ崎 空 BGA : photonskyto",
-    "comment" : "FULL ON -offnen Sie die Tur von Cuvelia-",
-    "md5"     : "64b0144472846f9d7fa50b83c14960e9"
-},{
-    "level"   : "10",
     "title"   : "ZENITHALIZE -DP CHALLENGE*-",
-    "artist"  : "姉ヶ崎 寧々 BGA : photonskyto  obj : FM-TOWNS  *LR.MIRROR",
+    "artist"  : "姉ヶ崎 寧々 BGA : photonskyto  obj : FM-TOWNS  *L.MIR",
     "comment" : "FULL ON",
     "md5"     : "75420dc6c916c77a83551ef235d6ed1e"
 },{
@@ -24028,12 +24094,6 @@
     "artist"  : "sampling minor SUICA / obj : Ill *FLIP",
     "comment" : "HAPPY HARDCORE　-14MANIAC-",
     "md5"     : "5338fc570ea559491b8bb2bc58d21693"
-},{
-    "level"   : "10",
-    "title"   : "きもい家 (針葉樹)",
-    "artist"  : "RUZEEA / srof *MAXBPM360 FLIP",
-    "comment" : "comic horror[DoubleExpert?]",
-    "md5"     : "4a5bc42c931fe4a99a467630ecd601d5"
 },{
     "level"   : "10",
     "title"   : "しぇる☆どっきんぐ ～だめ！このままじゃ溢れちゃう！～ -DP 使い魔-",
@@ -24088,12 +24148,6 @@
     "artist"  : "メスクラ (エヴァたん＆メコたん) *FLIP LR.RANDOM",
     "comment" : "ルネッサンスコア",
     "md5"     : "9bc32b60b2661a997c00556271547796"
-},{
-    "level"   : "10",
-    "title"   : "エンバディメント ～2010 flynation mix～",
-    "artist"  : "Y.W / Symphonian *FLIP",
-    "comment" : "86 SPREAD TRANCE /// 14KEYS KAWAII",
-    "md5"     : "44e036bcc1eb8b064ba3ae6597f5826a"
 },{
     "level"   : "10",
     "title"   : "オトゲラヴ！ [ムリザラヴ！]",
@@ -24163,7 +24217,7 @@
 },{
     "level"   : "10",
     "title"   : "ピアノ協奏曲第１番\"蠍火\"（カービィのための） [more IIDX]",
-    "artist"  : "fether (obj:k as patsenner) *LR.RANDOM",
+    "artist"  : "fether (obj:k as patsenner)",
     "comment" : "kirby dirge",
     "md5"     : "45f717653b9915e3baf28334f94b347a"
 },{
@@ -26274,6 +26328,18 @@
     "md5"     : "fcfece1727a146dc5915274485b9f8ce"
 },{
     "level"   : "★3",
+    "title"   : "Kids' Tricky Cheating (Acoustic Piano Side)",
+    "artist"  : "SlowMouse",
+    "comment" : "Sixteen-Handed Piano Quartet",
+    "md5"     : "d1fd0af86867aea0ec02369a1988d839"
+},{
+    "level"   : "★3",
+    "title"   : "Kids' Tricky Cheating (Honkytonk Side)",
+    "artist"  : "SlowMouse",
+    "comment" : "Sixteen-Handed Piano Quartet",
+    "md5"     : "01fef29059dcb14dd1a10624f13fa8bd"
+},{
+    "level"   : "★3",
     "title"   : "KRAKEN [ULTIMATE]",
     "artist"  : "HEXAHEDRA/obj:epics- *FLIP L.MIRROR",
     "comment" : "HARDCORE ULTIMATE",
@@ -26658,6 +26724,12 @@
     "md5"     : "7bb530b4c0bbb92fd4f25ab908d82e6b"
 },{
     "level"   : "★3",
+    "title"   : "凍て空の結晶 [CH14]",
+    "artist"  : "星霜ステラ obj:ucc *FLIP LR.MIRROR",
+    "comment" : "Lonely",
+    "md5"     : "b6ce1188119125f86914410208be3ee1"
+},{
+    "level"   : "★3",
     "title"   : "嘆きの樹 [DP INSANE]",
     "artist"  : "金獅子 Remixed by Hate *FLIP L.MIR or LR.RAN",
     "comment" : "8bit mix",
@@ -26910,6 +26982,12 @@
     "md5"     : "c14519724728826c93dfd2256f9faaee"
 },{
     "level"   : "★4",
+    "title"   : "Bruteforce [14 Another]",
+    "artist"  : "Haegoe *L.MIR or LR.MIR or FLIP L.MIR",
+    "comment" : "Gabba",
+    "md5"     : "db301ff193ab6ed598929a4ac82e63d2"
+},{
+    "level"   : "★4",
     "title"   : "Busy Factory [DP INSANE]",
     "artist"  : "+ / movie:sgvc obj.LetsOTL",
     "comment" : "Tech Electro",
@@ -26998,6 +27076,12 @@
     "artist"  : "remixed celas OBJ:KLOC  *正規 or FLIP LR.MIR",
     "comment" : "nrg",
     "md5"     : "d67edd9ccb6cfcb3f0d7211a77b3276e"
+},{
+    "level"   : "★4",
+    "title"   : "Dreadnought",
+    "artist"  : "Mastermind(xi+nora2r) iimo / obj: lichtr  *MINBPM L.MIR or LR.RAN",
+    "comment" : "Breakthrough",
+    "md5"     : "d87082bc27587aad465f89bf9dc49e59"
 },{
     "level"   : "★4",
     "title"   : "Dumbass",
@@ -27202,6 +27286,18 @@
     "artist"  : "Kei Izumi obj:ucc *LR.RANDOM",
     "comment" : "MEDIEVAL CORE",
     "md5"     : "e330cd5dab792a007aa7500c9f6f3170"
+},{
+    "level"   : "★4",
+    "title"   : "Kids' Tricky Cheating (Mellow Grand Piano Side)",
+    "artist"  : "SlowMouse",
+    "comment" : "Sixteen-Handed Piano Quartet",
+    "md5"     : "3b170dc8272dd26660a6ef6b3e679bf6"
+},{
+    "level"   : "★4",
+    "title"   : "Kids' Tricky Cheating (Rock Piano Side)",
+    "artist"  : "SlowMouse",
+    "comment" : "Sixteen-Handed Piano Quartet",
+    "md5"     : "e206134fb88248ee4b1f19f0e936f9a7"
 },{
     "level"   : "★4",
     "title"   : "L (LOKINOTHER)",
@@ -27754,12 +27850,6 @@
     "artist"  : "チャチャ / srof",
     "comment" : "東方紅魔郷　～ the Embodiment of Scarlet Devil.",
     "md5"     : "297e83a7abf835295a199757cd781f99"
-},{
-    "level"   : "★4",
-    "title"   : "凍て空の結晶 [CH14]",
-    "artist"  : "星霜ステラ obj:ucc *FLIP L.MIRROR",
-    "comment" : "Lonely",
-    "md5"     : "b6ce1188119125f86914410208be3ee1"
 },{
     "level"   : "★4",
     "title"   : "嘆きの樹 [8bit mix M14-]",
@@ -28626,6 +28716,12 @@
     "md5"     : "b36ae00b130e16e28eb770008a87f23a"
 },{
     "level"   : "★5",
+    "title"   : "V804N [DP ANOTHER]",
+    "artist"  : "II-L *SUD+",
+    "comment" : "ガラパゴスケータイ",
+    "md5"     : "b2cc3459a06f4674026afc57f6383ae6"
+},{
+    "level"   : "★5",
     "title"   : "Valhalla [DP EX]",
     "artist"  : "xi / obj:Louis",
     "comment" : "NORSE MYTHOLOGY",
@@ -28651,7 +28747,7 @@
 },{
     "level"   : "★5",
     "title"   : "volcanic (DPAnother)",
-    "artist"  : "DETRO",
+    "artist"  : "DETRO *FLIP",
     "comment" : "ボルケーノ",
     "md5"     : "e61bf226fcbf995b288d8f7ecbc9d929"
 },{
@@ -29542,12 +29638,6 @@
     "artist"  : "東風屋 梓 *AVERAGE-20 FLIP",
     "comment" : "AQUATIC BREAKBEATS",
     "md5"     : "665203b8344a901a8a939eb13d4ee789"
-},{
-    "level"   : "★6",
-    "title"   : "V804N [DP ANOTHER]",
-    "artist"  : "II-L",
-    "comment" : "ガラパゴスケータイ",
-    "md5"     : "b2cc3459a06f4674026afc57f6383ae6"
 },{
     "level"   : "★6",
     "title"   : "VALLISTA [Rhodes14]",
@@ -30802,6 +30892,12 @@
     "artist"  : "witch's slave obj:kuro",
     "comment" : "GOTHIC D HARDWALTZ",
     "md5"     : "f19600cca8594b62fc58b83fa97d0c2e"
+},{
+    "level"   : "★9",
+    "title"   : "disperagioia [DP CHALLENGER+']",
+    "artist"  : "witch's slave obj:kuro",
+    "comment" : "GOTHIC D HARDWALTZ",
+    "md5"     : "c1b9295634d2e8693917b109a0abf9e8"
 },{
     "level"   : "★9",
     "title"   : "DTD Emperor [鬼14]",
