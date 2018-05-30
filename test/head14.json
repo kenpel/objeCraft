@@ -1,6 +1,6 @@
 ﻿{
     "name"     : "発狂DPBMS闇鍋難易度表",
-    "data_url" : "./data14.json",
+    "data_url" : "data14.json",
     "symbol"   : "★",
     "tag"      : "DP闇★"
 }
