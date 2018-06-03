@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 
 /* 難易度表用レイアウト */
 body.diff {
@@ -9,6 +9,10 @@ background-color:#222222;
 width: auto;
 min-width: 900px;
 line-height: 1.5;
+}
+
+h1 {
+text-align:center;
 }
 
 .tableflame {
