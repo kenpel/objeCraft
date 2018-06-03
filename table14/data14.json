@@ -438,8 +438,14 @@
     "md5"     : "1f58394ba2979a5fbd57ff8707d30dbe"
 },{
     "level"   : "?",
+    "title"   : "LEthAl wEApOn -Real Knief-",
+    "artist"  : "G.G-G☆",
+    "comment" : "FINAL ATTACK",
+    "md5"     : "5a3ffdc36c5b6ab825166d4cee7635fc"
+},{
+    "level"   : "?",
     "title"   : "Life-with-覚醒しすぎました！！！ごめんなさい！！！１１１",
-    "artist"  : "elephant&rose / Kz *FLIP L.MIRROR",
+    "artist"  : "elephant&rose / Kz *AVERAGE FLIP L.MIRROR",
     "comment" : "MORODASH TECHNO",
     "md5"     : "dedf0f184e7d09ada8c0cb097a761978"
 },{
@@ -15013,7 +15019,7 @@
 },{
     "level"   : "6",
     "title"   : "Trash Vox (H14keys)",
-    "artist"  : "off-beat *FLIP",
+    "artist"  : "off-beat *R.MIRROR",
     "comment" : "NU-NRG",
     "md5"     : "940b762c8894d6894880a9436f1489bd"
 },{
@@ -15316,6 +15322,12 @@
     "artist"  : "Team:SASAKURATION obj:ucc *FLIP",
     "comment" : "WORLDTRONICA",
     "md5"     : "231504229f28e02a239e6cb92108f018"
+},{
+    "level"   : "6",
+    "title"   : "クインティ アーティストステージBGM  (Pop Step.Remix)",
+    "artist"  : "remixed by sumomo *SUD+",
+    "comment" : "Light Pop (hard14)",
+    "md5"     : "f917764603d8e44bb58efe529e9b20be"
 },{
     "level"   : "6",
     "title"   : "クインティ ボーナスステージBGM (Hop Step.Remix)",
@@ -15703,7 +15715,7 @@
 },{
     "level"   : "6",
     "title"   : "虹微笑x1肌色扇情扇情　 [A14]",
-    "artist"  : "The Lovers obj:ucc",
+    "artist"  : "The Lovers obj:ucc *AVERAGE",
     "comment" : "2ジ",
     "md5"     : "248c63e4cdcfb5214d4ffd41b7090da3"
 },{
@@ -20268,6 +20280,12 @@
     "md5"     : "996866c07d2a397d2e0a622fad95bb07"
 },{
     "level"   : "8",
+    "title"   : "すばらきしこのせかい",
+    "artist"  : "麦コロッケ Notes: pico*  *R.MIRROR",
+    "comment" : "",
+    "md5"     : "c6347ce7ce3d134a8ebac477dd9ef42a"
+},{
+    "level"   : "8",
     "title"   : "その斯くも美しき紅に (DP ANOTHER)",
     "artist"  : "天音",
     "comment" : "Drum 'n' ambient",
@@ -20296,6 +20314,12 @@
     "artist"  : "λロ（手作り風） *FLIP",
     "comment" : "小宇宙",
     "md5"     : "8ef1ffc94ba92653701ac09853eac235"
+},{
+    "level"   : "8",
+    "title"   : "アルティメットリユニオン DP ANOTHER",
+    "artist"  : "nmk/-if-/obj@PEN",
+    "comment" : "CYBER　WALTZ",
+    "md5"     : "1317d76bfded3e4889c908709e0e1270"
 },{
     "level"   : "8",
     "title"   : "エイリアン Love feat. 初音ミク (tigerlily remix) -LAST BOSS-",
@@ -22513,7 +22537,7 @@
 },{
     "level"   : "9",
     "title"   : "おおいぬのワルツ -DP ANOTHER-",
-    "artist"  : "virkato / 廃墟",
+    "artist"  : "virkato / 廃墟 *MAXBPM+10",
     "comment" : "8bit mix",
     "md5"     : "9da28044fad50eed230e0b9165e286a5"
 },{
@@ -22528,12 +22552,6 @@
     "artist"  : "明智小衣 / obj:夢瑠 *FLIP LR.RANDOM",
     "comment" : "STRIP",
     "md5"     : "941c4439df37db095ff0cbba59bb9169"
-},{
-    "level"   : "9",
-    "title"   : "すばらきしこのせかい",
-    "artist"  : "麦コロッケ Notes: pico*  *R.MIRROR",
-    "comment" : "",
-    "md5"     : "c6347ce7ce3d134a8ebac477dd9ef42a"
 },{
     "level"   : "9",
     "title"   : "そんな舌ちょん切って捨ててやる！！ [ANOTHER]",
@@ -22572,12 +22590,6 @@
     "md5"     : "0a22ba6f1f691c065f73ef86236b0e75"
 },{
     "level"   : "9",
-    "title"   : "アルティメットリユニオン DP ANOTHER",
-    "artist"  : "nmk/-if-/obj@PEN",
-    "comment" : "CYBER　WALTZ",
-    "md5"     : "1317d76bfded3e4889c908709e0e1270"
-},{
-    "level"   : "9",
     "title"   : "エピトゥリカの祀 [EXTRA14]",
     "artist"  : "Team:SASAKURATION obj:ucc *L.MIRROR",
     "comment" : "WORLDTRONICA",
@@ -22588,12 +22600,6 @@
     "artist"  : "Y.W / Symphonian",
     "comment" : "86 SPREAD TRANCE /// 14KEYS KAWAII",
     "md5"     : "44e036bcc1eb8b064ba3ae6597f5826a"
-},{
-    "level"   : "9",
-    "title"   : "クインティ アーティストステージBGM  (Pop Step.Remix)",
-    "artist"  : "remixed by sumomo",
-    "comment" : "Light Pop (hard14)",
-    "md5"     : "f917764603d8e44bb58efe529e9b20be"
 },{
     "level"   : "9",
     "title"   : "クロートーと星の観測者 [DP CHALLENEGR]",
@@ -23119,7 +23125,7 @@
 },{
     "level"   : "10",
     "title"   : "Angelic layer [DP ANOTHER+]",
-    "artist"  : "SHIKI obj:NEPIA *FLIP LR.MIRROR",
+    "artist"  : "SHIKI obj:NEPIA",
     "comment" : "TRANCE",
     "md5"     : "e5ac09a7757ab0723edd3f24f7214214"
 },{
@@ -23671,7 +23677,7 @@
 },{
     "level"   : "10",
     "title"   : "MENDES A14",
-    "artist"  : "Humanoid Remixed by Hate obj:ucc *LR.RANDOM",
+    "artist"  : "Humanoid Remixed by Hate obj:ucc *LR.RAN or L.MIR or R.MIR",
     "comment" : "8bit mix",
     "md5"     : "7c166e91a5262e3784efc7cc1091d4b1"
 },{
@@ -23686,6 +23692,12 @@
     "artist"  : "mossari feat.TEA obj:kuro",
     "comment" : "Toypop",
     "md5"     : "3c92dfccaab6064b8e7c3fb77d75a4a0"
+},{
+    "level"   : "10",
+    "title"   : "Moon-gate [Waning]",
+    "artist"  : "Music:しらいし obj:nBel *FLIP L.MIR or R.MIR",
+    "comment" : "Crystal Trance",
+    "md5"     : "a9d1c94124f0b6956fe2abb4a1c44c90"
 },{
     "level"   : "10",
     "title"   : "Moonlight Symphony -Another-",
@@ -25201,7 +25213,7 @@
 },{
     "level"   : "★1",
     "title"   : "ねぇ？メイドさんはみんな忠実だと思う？ [ANOTHER14]",
-    "artist"  : "かおみりん feat.こもも×みゆ Obj:ゆ～兎 *AVERAGE FLIP LR.MIRROR",
+    "artist"  : "かおみりん feat.こもも×みゆ Obj:ゆ～兎 *AVERAGE",
     "comment" : "AKIBA ドS POP",
     "md5"     : "fa9732a6a1c588549f11b9c8840f4e5a"
 },{
@@ -27493,7 +27505,7 @@
 },{
     "level"   : "★4",
     "title"   : "Calamity Fortune [SERPENT]",
-    "artist"  : "ZUN remixed by LeaF obj:ROCO Movie:Optie  *正規 or L.MIR",
+    "artist"  : "ZUN remixed by LeaF obj:ROCO Movie:Optie  *R.MIRROR",
     "comment" : "EMOTIONAL HARDCORE TECHNO",
     "md5"     : "2d211b7cc1959b7b050d7ba515e0dcc4"
 },{
@@ -27706,6 +27718,12 @@
     "artist"  : "keyc",
     "comment" : "Nu Style Gabba",
     "md5"     : "f07cea518888a34c40a1aff0445c2dd9"
+},{
+    "level"   : "★4",
+    "title"   : "Gerard [Enjoy]",
+    "artist"  : "Widowmaker / obj:Hador",
+    "comment" : "memorial",
+    "md5"     : "aa3272f75acd44e59f252216ed9b54bf"
 },{
     "level"   : "★4",
     "title"   : "gradation [もうちょっとだけMGNother]",
@@ -27960,12 +27978,6 @@
     "md5"     : "79e3138c734266ef1743048eaaa6a5c2"
 },{
     "level"   : "★4",
-    "title"   : "Offertorium quia DaDass (DX)",
-    "artist"  : "DaDass",
-    "comment" : "Goa Trance",
-    "md5"     : "79afadcce6b71ef999c0a53d6f75c26f"
-},{
-    "level"   : "★4",
     "title"   : "on the sequence #1 [これはひどい]",
     "artist"  : "6yen/obj:名無し *FLIP (低速無し)",
     "comment" : "d'n'b",
@@ -27991,7 +28003,7 @@
 },{
     "level"   : "★4",
     "title"   : "OVERDOSER (remix)",
-    "artist"  : "L-more/P.Crel *FLIP R.MIRROR",
+    "artist"  : "L-more/P.Crel *FLIP LR.MIRROR",
     "comment" : "D'n'B / Hard Techno (Another14)",
     "md5"     : "e603004498b4f8578e728936b950d28a"
 },{
@@ -28459,7 +28471,7 @@
 },{
     "level"   : "★4",
     "title"   : "異説彼岸花 第二 -終世のリコリス- [DP2000KEY]",
-    "artist"  : "田井中 律 / obj:二代目IIDX16相坂 *L.MIR or L.MIR R.RAN",
+    "artist"  : "田井中 律 / obj:二代目IIDX16相坂",
     "comment" : "HARD RENAISSANCE",
     "md5"     : "933f7fe37a87ed36b16f7e4fdb4f5818"
 },{
@@ -28722,12 +28734,6 @@
     "md5"     : "97df48f29f457358fa597cedd076ee0b"
 },{
     "level"   : "★5",
-    "title"   : "Cross Galaxy [DP_EX+]",
-    "artist"  : "kanone mov:deadblue238 obj:ucc",
-    "comment" : "ENERGETIC TRANCE",
-    "md5"     : "1876dd38c376049540497cfb7a3eb6db"
-},{
-    "level"   : "★5",
     "title"   : "CUTEXECUTE (DA)",
     "artist"  : "QUARKPOP *AVERAGE",
     "comment" : "HARDCORE",
@@ -28795,7 +28801,7 @@
 },{
     "level"   : "★5",
     "title"   : "Fate/fete (DP ANOTHER)",
-    "artist"  : "ZUN(Arr.sun3)/obj:新橋 *LR.RANDOM",
+    "artist"  : "ZUN(Arr.sun3)/obj:新橋 *R.RANDOM",
     "comment" : "drum&synth",
     "md5"     : "6cc94dc4adf2114e4207706035893506"
 },{
@@ -28818,18 +28824,6 @@
     "md5"     : "ea1528d9a45ef47dca0bf7d6ec95ddb5"
 },{
     "level"   : "★5",
-    "title"   : "FREEDOM DiVE [dpkey]",
-    "artist"  : "xi obj:key",
-    "comment" : "HAPPY HARDCORE",
-    "md5"     : "bef713d817f9037f7198ebf09ed9317a"
-},{
-    "level"   : "★5",
-    "title"   : "Gerard [Enjoy]",
-    "artist"  : "Widowmaker / obj:Hador",
-    "comment" : "memorial",
-    "md5"     : "aa3272f75acd44e59f252216ed9b54bf"
-},{
-    "level"   : "★5",
     "title"   : "GO REWRITE [Expert14]",
     "artist"  : "TRANCE TANCE Notes:Sphere + P-macs  *FLIP",
     "comment" : "BITCHAGE TRANCE",
@@ -28840,12 +28834,6 @@
     "artist"  : "λ口-G.Oジャス a.k.a Jhon Pants Uncle / obj: 634k/reobj:hamburger",
     "comment" : "Channel Out",
     "md5"     : "a7eb0e263a640c5c75ababf38680d79e"
-},{
-    "level"   : "★5",
-    "title"   : "good night,jewel. [EX14]",
-    "artist"  : "horosceased obj:ucc *L.MIRROR",
-    "comment" : "ジュエル",
-    "md5"     : "5e0b85793eb004ad305c1c1b34193271"
 },{
     "level"   : "★5",
     "title"   : "Grey Night [Nocturne]",
@@ -28987,7 +28975,7 @@
 },{
     "level"   : "★5",
     "title"   : "like a dandelion (「・ω・)「gao-",
-    "artist"  : "recognize m. / BGAnimation retu obj:ado",
+    "artist"  : "recognize m. / BGAnimation retu obj:ado *R.MIRROR",
     "comment" : "house",
     "md5"     : "ae2afa0caf2e3cbcec9ea0b789ad3b07"
 },{
@@ -29011,7 +28999,7 @@
 },{
     "level"   : "★5",
     "title"   : "marginated [試作14]",
-    "artist"  : "紅蓮月影 obj:ucc *AVERAGE+70",
+    "artist"  : "紅蓮月影 obj:ucc *AVERAGE+70 R.MIR or FLIP R.MIR",
     "comment" : "ジャッジメント",
     "md5"     : "08c603a6d775317c87137b06e06642f6"
 },{
@@ -29044,6 +29032,12 @@
     "artist"  : "3034 Anomie / IllusionRain  *AVERAGE-20",
     "comment" : "EXTREME TECHNO",
     "md5"     : "0a32c462775278f08e5066073bba0ebf"
+},{
+    "level"   : "★5",
+    "title"   : "Offertorium quia DaDass (DX)",
+    "artist"  : "DaDass *正規 or FLIP LR.RANDOM",
+    "comment" : "Goa Trance",
+    "md5"     : "79afadcce6b71ef999c0a53d6f75c26f"
 },{
     "level"   : "★5",
     "title"   : "Once in my life [DP INFINITY]",
@@ -29131,7 +29125,7 @@
 },{
     "level"   : "★5",
     "title"   : "Resurrection - 14EXLN",
-    "artist"  : "Kinato+- *FLIP R.MIRROR",
+    "artist"  : "Kinato+-",
     "comment" : "Fear Techno",
     "md5"     : "bcab76ce124f942621705e949d4783f1"
 },{
@@ -29292,12 +29286,6 @@
     "md5"     : "a319f6d6e6a8b7d72f87d0434747814f"
 },{
     "level"   : "★5",
-    "title"   : "ひだまりエクスプレス [injury]",
-    "artist"  : "mugijet / obj:ado",
-    "comment" : "nostalgia/daydream",
-    "md5"     : "fc9e98780f660cfd0a31a3725ba0fb50"
-},{
-    "level"   : "★5",
     "title"   : "ひつぎとふたご [AFOTHER]",
     "artist"  : "plastic feat.サキト (obj:k) *正規 or LR.RAN",
     "comment" : "NU-STYLE GABBA",
@@ -29311,7 +29299,7 @@
 },{
     "level"   : "★5",
     "title"   : "アルティメットリユニオン†leggendaria DP ANOTHER",
-    "artist"  : "nmk/-if-/obj@PEN/reobj:hamburger *R.MIRROR",
+    "artist"  : "nmk/-if-/obj@PEN/reobj:hamburger *L.MIRROR 最後遅い",
     "comment" : "CYBER　WALTZ",
     "md5"     : "4bcc138c4b0a62c0edb517079daa040b"
 },{
@@ -29338,6 +29326,12 @@
     "artist"  : "ROKINA BGA:REI-K OBJ:Yosk!",
     "comment" : "EXCELSIOR",
     "md5"     : "732b2878f67f36e5aa4fde0b1b03f2a7"
+},{
+    "level"   : "★5",
+    "title"   : "キミとボクへの葬送歌 [DP ANOTHER]",
+    "artist"  : "ROKINA obj:chudak BGA:REI-K",
+    "comment" : "EXCELSIOR",
+    "md5"     : "2c734fb0702a0e9402336764cfa28e3f"
 },{
     "level"   : "★5",
     "title"   : "タキオン [S]",
@@ -29700,6 +29694,12 @@
     "md5"     : "8fd6c1c9e92060c011d491713b518f35"
 },{
     "level"   : "★6",
+    "title"   : "Cross Galaxy [DP_EX+]",
+    "artist"  : "kanone mov:deadblue238 obj:ucc",
+    "comment" : "ENERGETIC TRANCE",
+    "md5"     : "1876dd38c376049540497cfb7a3eb6db"
+},{
+    "level"   : "★6",
     "title"   : "Cybele†LEGGENDARIA",
     "artist"  : "Respect for Cuvelia / reobj : Hador",
     "comment" : "CELESTIAL TRANCE",
@@ -29778,6 +29778,12 @@
     "md5"     : "19f4afe9a5c0129fd3c03b3bba535c8c"
 },{
     "level"   : "★6",
+    "title"   : "FREEDOM DiVE [dpkey]",
+    "artist"  : "xi obj:key",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "bef713d817f9037f7198ebf09ed9317a"
+},{
+    "level"   : "★6",
     "title"   : "G e n g a o z o [S]",
     "artist"  : "455 / rio / ob:右手が恋人",
     "comment" : "P s y",
@@ -29800,6 +29806,12 @@
     "artist"  : "Blacksparrow VS DeathisM",
     "comment" : "Orchestral Drum'n Bass",
     "md5"     : "4ff1019c2a61c8e2aa8a93315edc76bc"
+},{
+    "level"   : "★6",
+    "title"   : "good night,jewel. [EX14]",
+    "artist"  : "horosceased obj:ucc *L.MIRROR",
+    "comment" : "ジュエル",
+    "md5"     : "5e0b85793eb004ad305c1c1b34193271"
 },{
     "level"   : "★6",
     "title"   : "hericstreams [DP EX]",
@@ -30240,16 +30252,22 @@
     "md5"     : "e2fab00b6a7e8a3829d13eb524de1d6c"
 },{
     "level"   : "★6",
-    "title"   : "ZERODAY [Infinity]",
-    "artist"  : "Lunatic Sounds / Yusi. / obj:Hersh",
-    "comment" : "Schranz",
-    "md5"     : "81b096f2585d57c7f3c58dfed8cd34ac"
-},{
-    "level"   : "★6",
     "title"   : "★LittlE HearTs★ [VerA]",
     "artist"  : "ねこみみ魔法使い  obj:右手が恋人",
     "comment" : "HappY PoPcorN",
     "md5"     : "ca17c4cbd406b44018e8a8787726b8f8"
+},{
+    "level"   : "★6",
+    "title"   : "ひだまりエクスプレス [injury]",
+    "artist"  : "mugijet / obj:ado",
+    "comment" : "nostalgia/daydream",
+    "md5"     : "fc9e98780f660cfd0a31a3725ba0fb50"
+},{
+    "level"   : "★6",
+    "title"   : "キミとボクへの葬送歌 [14keyChallenge]",
+    "artist"  : "ROKINA BGA:REI-K obj:hoi2",
+    "comment" : "EXCELSIOR",
+    "md5"     : "365b5a50eebcdff48c34df0e73866816"
 },{
     "level"   : "★6",
     "title"   : "クロノトリガー [INSANE]",
@@ -30684,6 +30702,12 @@
     "md5"     : "83e52c2ba676a628601e6dc742000bea"
 },{
     "level"   : "★7",
+    "title"   : "Moon-gate [Waxing]",
+    "artist"  : "Music:しらいし obj:nBel *FLIP L.MIR or FLIP LR.MIR",
+    "comment" : "Crystal Trance",
+    "md5"     : "53480688781a3c0aba23812893081161"
+},{
+    "level"   : "★7",
     "title"   : "Name of oath [DP CHALLENGER+]",
     "artist"  : "void feat. コツキミヤ , Gt. えば /obj:kuro BGA : Photonskyto",
     "comment" : "Venerable Culture",
@@ -30826,6 +30850,12 @@
     "artist"  : "QJITAI",
     "comment" : "BREAK CORE",
     "md5"     : "d004998722ebdb61172f349897ceca45"
+},{
+    "level"   : "★7",
+    "title"   : "ZERODAY [Infinity]",
+    "artist"  : "Lunatic Sounds / Yusi. / obj:Hersh",
+    "comment" : "Schranz",
+    "md5"     : "81b096f2585d57c7f3c58dfed8cd34ac"
 },{
     "level"   : "★7",
     "title"   : "★LittlE HearTs★",
@@ -31660,6 +31690,12 @@
     "artist"  : "Music:しらいし/obj:nBel",
     "comment" : "Crystal Trance",
     "md5"     : "554afe4673eb8f88824c032ae406940f"
+},{
+    "level"   : "★9",
+    "title"   : "Moon-gate [FullMoon]",
+    "artist"  : "Music:しらいし obj:nBel",
+    "comment" : "Crystal Trance",
+    "md5"     : "b2a673fb838aba2ae8ff610da9447c08"
 },{
     "level"   : "★9",
     "title"   : "Name of oath [SP ANOTHER DP BATTLE]",
