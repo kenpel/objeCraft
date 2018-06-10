@@ -12,6 +12,12 @@
     "md5"     : "2d693e4081da35517527806454a563c3"
 },{
     "level"   : "?",
+    "title"   : "1:Garage -SPICY-",
+    "artist"  : "SUZUKI/obj BAAB",
+    "comment" : "SUZUKI MixSelf",
+    "md5"     : "40d501c763d8c7285fa484048418e8c1"
+},{
+    "level"   : "?",
     "title"   : "3.12.4 [DP ANOTHER]",
     "artist"  : "Yamajet *LR.MIRROR",
     "comment" : "TECHNO",
@@ -130,6 +136,12 @@
     "artist"  : "copyyyy",
     "comment" : "",
     "md5"     : "42055697442df05b35a7aefcae79f9a2"
+},{
+    "level"   : "?",
+    "title"   : "o2is (beatIV)",
+    "artist"  : "Octa the B.G. *フットペダル",
+    "comment" : "techno",
+    "md5"     : "a0c098c53053f87cc6b59e7f9ea8eff0"
 },{
     "level"   : "?",
     "title"   : "OMEGA IX",
@@ -294,6 +306,12 @@
     "md5"     : "8016ae1ab2363d9f1e13131ba8500d8e"
 },{
     "level"   : "1",
+    "title"   : "the end of life",
+    "artist"  : "ARMYTOM",
+    "comment" : "hard ambient",
+    "md5"     : "bbcb845db81ce539976ce3d72e22ec48"
+},{
+    "level"   : "1",
     "title"   : "this is the severe internet !!!!",
     "artist"  : "D11",
     "comment" : "EXHAUSTION TECHNO [ANOTHER10]",
@@ -322,6 +340,12 @@
     "artist"  : "bbangsami (BGA : smin, cinic) *AVERAGE",
     "comment" : "Detroit Techno",
     "md5"     : "9fb93f0d39e269a8df90a536e0219582"
+},{
+    "level"   : "2",
+    "title"   : "DJ BATTLE theme:PARANOiA (4 double DJ)",
+    "artist"  : "Remixed by Octa the B.G.",
+    "comment" : "freestyle",
+    "md5"     : "6e4ca3116bd61c72c66d013a03a6f0b1"
 },{
     "level"   : "2",
     "title"   : "GRAB BACK",
@@ -456,6 +480,12 @@
     "md5"     : "274f07522fe1cb54660b239020b1d6da"
 },{
     "level"   : "3",
+    "title"   : "Sleeping Terror ~You can't sleep tonight~ (bms edit) [10key EXTRA]",
+    "artist"  : "Arranged by SANY-ON / Obj. jueL BGA by Anomie",
+    "comment" : "JUMPSTYLE",
+    "md5"     : "a193970cb08c94ef2e1debc6c632c07c"
+},{
+    "level"   : "3",
     "title"   : "トゥナイト・イズ・ザ・ナイト（調教済み）",
     "artist"  : "ヤマダ☆トゥナイト",
     "comment" : "Newromanthique Discothique テクノ歌謡",
@@ -478,6 +508,12 @@
     "artist"  : "pn *LR.RANDOM",
     "comment" : "psy-trance",
     "md5"     : "8210f93ba0e3b1c82153b2448fc3bab4"
+},{
+    "level"   : "4",
+    "title"   : "Carefree",
+    "artist"  : "human sequencer TAKE",
+    "comment" : "INSTRUMENTAL",
+    "md5"     : "dff350cc2a906fdabcd78ffba5c8c8c0"
 },{
     "level"   : "4",
     "title"   : "Distracted Worker",
@@ -600,6 +636,12 @@
     "md5"     : "65619975fb30e531e017c55883269e26"
 },{
     "level"   : "5",
+    "title"   : "BEER",
+    "artist"  : "Is-m",
+    "comment" : "COLLAGE TECHNO",
+    "md5"     : "11d71ccbc5cd99a9ec27957c130a7040"
+},{
+    "level"   : "5",
     "title"   : "Crystal Forever -LOVE D mix- (10key)",
     "artist"  : "arranged by Yamajet",
     "comment" : "KONAMIX",
@@ -690,6 +732,12 @@
     "md5"     : "16e7e0d84c61a7fdec24bf5a6b1a6356"
 },{
     "level"   : "6",
+    "title"   : "KILL ME KISS YOU",
+    "artist"  : "加賀崎聡 / obj. ルゼ",
+    "comment" : "DISTORTION",
+    "md5"     : "10289568b135973b650e62c885d12773"
+},{
+    "level"   : "6",
     "title"   : "martyr (10keys)",
     "artist"  : "2:00",
     "comment" : "hardtechno",
@@ -732,6 +780,12 @@
     "md5"     : "33ea82071587d0b2410f148088f6a901"
 },{
     "level"   : "7",
+    "title"   : "Aqua Regia Squall",
+    "artist"  : "DJ owl-light vs xi",
+    "comment" : "DARKSTEP MIX",
+    "md5"     : "fdf9c29641575f9eb6bf16c2e3540f17"
+},{
+    "level"   : "7",
     "title"   : "ドリームグライダー  <10KEYS ANOTHER>",
     "artist"  : "ドリームグライダー *LR.RANDOM",
     "comment" : "ドリームグライダー",
@@ -750,10 +804,22 @@
     "md5"     : "dc967566f02c678feba098a1543ef2ca"
 },{
     "level"   : "8",
+    "title"   : "Hold me [DP ANOTHER]",
+    "artist"  : "Pinky *MAXBPM+70",
+    "comment" : "FUNK",
+    "md5"     : "f2ddf66e61b7bb08739fb756184e2ad8"
+},{
+    "level"   : "8",
     "title"   : "Ire -a lie notes-",
     "artist"  : "Rife",
     "comment" : "NU SKOOL BREAKS",
     "md5"     : "0dfe4bce0ef8b7ed87e33f0231c8b42d"
+},{
+    "level"   : "8",
+    "title"   : "Nine Spot After Dark (10K MANIAC)",
+    "artist"  : "dj BEATCONTROLLER / objeCraft *LR.RANDOM",
+    "comment" : "ELECTRIC FUNKY HOUSE",
+    "md5"     : "45f5b03e16b4414ad373887d48e58603"
 },{
     "level"   : "8",
     "title"   : "polymeric congealment",
