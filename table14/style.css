@@ -1,79 +1,68 @@
-﻿@charset "utf-8";
-
-/* 難易度表用レイアウト */
-body.diff {
-margin:0px auto 0px auto;
-padding:0px 0px 0px 0px;
-text-align:left;
-background-color:#222222;
-width: auto;
-min-width: 900px;
-line-height: 1.5;
+body {
+    color: #ffffee;
+    background-color: #222222;
+    line-height: 1.5;
 }
 
 h1 {
-text-align:center;
+    text-align: center;
 }
 
-.tableflame {
-margin-left:auto;
-margin-right:auto;
-padding:0px 5px 0px 5px;
-text-align:center;
-background-color:#222222;
-min-width: 900px;
+body a:link {
+    color: cyan;
 }
 
-.tableflame a {
-color:#0000c0;
+body a:visited {
+    color: orchid;
 }
 
-.tableflame a:visited {
-color:#0000c0;
+#difficulty_index {
+    text-align: center;
+    margin: auto auto;
+    border-style: dashed;
+    border-width: 2px;
+}
+
+#difficulty_table {
+    color: white;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 1px;
+    table-layout: fixed;
+    width: 100%;
+}
+
+#difficulty_table tr {
+    transition-property: color, background-color;
+    transition-duration: 0.2s;
+}
+
+#difficulty_table .level {
+    width: 4em;
+}
+
+#difficulty_table a:link {
+    color: blue;
+}
+
+#difficulty_table a:visited {
+    color: purple;
+}
+
+.tr_header {
+    background-color: #666666;
 }
 
 .tr_separate {
-height:20px;
-color:#ffffff;
-font-size:16px;
-text-shadow:2px 2px 2px #444444;
-background-color:#aaaaaa;
+    background-color: #aaaaaa;
+    text-shadow: 2px 2px 2px #222222;
 }
 
 .tr_normal {
-background-color:#eeeeee;
+    color: black;
+    background-color: #eeeeee;
 }
 
-.tr_new {
-background-color:#ff8888;
-}
-
-.tr_update {
-background-color:#8888ff;
-}
-
-.tableflame table {
-font-size: 12px;
-}
-
-.tableflame td {
-table-layout: fixed;
-}
-
-.tableflame tr,a {
- /*Firefox向け*/
--moz-transition-property: color, background-color;
--moz-transition-duration:0.2s;
-/*Chrome、Safari向け*/
--webkit-transition-property: color, background-color;
--webkit-transition-duration:0.2s;
-/*Opera向け*/
--o-transition-property: color, background-color;
--o-transition-duration:0.2s;
-transition-property: color, background-color;
-transition-duration:0.2s;
-}
-
-.tableflame tr.tr_normal:hover {
-background-color:#70f0f0;
+.tr_normal:hover {
+    background-color: #70f0f0;
 }
