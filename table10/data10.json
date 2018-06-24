@@ -306,6 +306,12 @@
     "md5"     : "0c00ecdf9fc28bb1ebd9e89a400419c6"
 },{
     "level"   : "1",
+    "title"   : "magenda water (double)",
+    "artist"  : "Mr.H",
+    "comment" : "TECHNO",
+    "md5"     : "6499f1e54cce2a5345a0164b50e918c4"
+},{
+    "level"   : "1",
     "title"   : "Natural Dream (10key)",
     "artist"  : "FateMaker (2012.1/22)",
     "comment" : "Peaceful Piano",
@@ -504,6 +510,12 @@
     "md5"     : "274f07522fe1cb54660b239020b1d6da"
 },{
     "level"   : "3",
+    "title"   : "QQQQQQ (10Q-Another)",
+    "artist"  : "Yamadajet",
+    "comment" : "HARENTI ELECTRO",
+    "md5"     : "756b09dc728ed12aa160b2c25df3ac72"
+},{
+    "level"   : "3",
     "title"   : "rorschachVIP",
     "artist"  : "LU",
     "comment" : "SKULLSTEP MIX",
@@ -586,6 +598,12 @@
     "artist"  : "fripside/ obj.Frenzy",
     "comment" : "Ani song",
     "md5"     : "d03657196150170792553fbe484c23b1"
+},{
+    "level"   : "4",
+    "title"   : "PAST FUTURE!!!",
+    "artist"  : "一次元 / 999",
+    "comment" : "TRIBAL_PercussionBattle(DOUBLE HARD)",
+    "md5"     : "9606381a60396837c0f8dcdb7735b50a"
 },{
     "level"   : "4",
     "title"   : "Quick Scamper Girl",
@@ -676,6 +694,12 @@
     "artist"  : "Is-m",
     "comment" : "COLLAGE TECHNO",
     "md5"     : "11d71ccbc5cd99a9ec27957c130a7040"
+},{
+    "level"   : "5",
+    "title"   : "contact force sense (remix)",
+    "artist"  : "TO-MAX remixed by LU",
+    "comment" : "NEUROTECH MIX",
+    "md5"     : "36a2bc9a8cc2fae5931d7b0855feb4b4"
 },{
     "level"   : "5",
     "title"   : "Crystal Forever -LOVE D mix- (10key)",
@@ -840,6 +864,12 @@
     "md5"     : "dc967566f02c678feba098a1543ef2ca"
 },{
     "level"   : "8",
+    "title"   : "Blood Tales [10Key Bloody]",
+    "artist"  : "Mellover / Harusabin 10Key - Mellover/SmiGoon  *LR.RANDOM",
+    "comment" : "Melodic DnB",
+    "md5"     : "d51174c7c1ae61216363b20b15cff302"
+},{
+    "level"   : "8",
     "title"   : "Hold me [DP ANOTHER]",
     "artist"  : "Pinky *MAXBPM+70",
     "comment" : "FUNK",
@@ -906,6 +936,18 @@
     "md5"     : "a9c95ecad2d28b7168637f23bf59ccec"
 },{
     "level"   : "10",
+    "title"   : "An Ego",
+    "artist"  : "π/3 vs mentalhealz *LR.RAN or LR.MIR",
+    "comment" : "CROSSBREED",
+    "md5"     : "ab8a354cc2da2bc4b3296e7e3ff140f4"
+},{
+    "level"   : "10",
+    "title"   : "Cervelle Connexion - 10K SHDMix",
+    "artist"  : "Warp-E",
+    "comment" : "Epic Trance",
+    "md5"     : "c22a9df1c5b716c823ea875244f60366"
+},{
+    "level"   : "10",
     "title"   : "driving blare [DP ANOTHER]",
     "artist"  : "unlimited player(s) *LR.RANDOM",
     "comment" : "JAZZSTEP",
@@ -946,6 +988,12 @@
     "artist"  : "sa10 / obj:夢瑠",
     "comment" : "Funky Gotta",
     "md5"     : "d36dced741562c27aa1aa7e30833debe"
+},{
+    "level"   : "★1",
+    "title"   : "Elttab Tsal -Prince on a star object Requiem-",
+    "artist"  : "霧原由羽 *LR.RANDOM or 正規",
+    "comment" : "HR/HM",
+    "md5"     : "45987e653dfa34d8b5f10eb15939dbcf"
 },{
     "level"   : "★1",
     "title"   : "M-D:M+A",
@@ -1020,10 +1068,22 @@
     "md5"     : "ceff3146def3eed12340887e1a262526"
 },{
     "level"   : "★7",
+    "title"   : "Etude for the Sinners [10KEYNS-Etude]",
+    "artist"  : "Ice (Trolled) / obj : Lampades *LR.RANDOM",
+    "comment" : "Experimental Etude",
+    "md5"     : "33ee1cfa673755d867527de88505753d"
+},{
+    "level"   : "★7",
     "title"   : "Wild Clown (10key-DNM)",
     "artist"  : "Symphonian *LR.MIRROR",
     "comment" : "Gabba",
     "md5"     : "177f68a76c6d9831412c4916a616427f"
+},{
+    "level"   : "★8",
+    "title"   : "HELLO MAN (DP)",
+    "artist"  : "Symphonian *LR.MIRROR",
+    "comment" : "Rotterdam Techno",
+    "md5"     : "a003f4357417736251ea1988acdb064c"
 },{
     "level"   : "★8",
     "title"   : "Wild Clown (10key-DHD)",
