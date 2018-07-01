@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="bmstable" content="easyhead.json">
+    <title>発狂DPBMS難度推定表 EASY</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+<h1>発狂DPBMS難度推定表 EASY</h1>
+
+<p><a href="http://ereter.net/">ereter's dp laboratory</a>の難易度推定値を使用した難易度表です。</p>
+
+<p>BeMusicSeekerで本難易度表のカスタムフォルダを作成する場合、以下の設定を推奨します。</p>
+
+<ol>
+	<li>左ツリーの難易度表を右クリック
+	<li>プロパティ
+	<li>一般タブ
+	<li>フォルダ接頭辞
+	<li>「LEVEL 」→「DP推定E★」 へ変更
+</ol>
+
+<table id="difficulty_index">
+    <caption>Quick Link</caption>
+    <tr>
+        <td><a href="#E★0.75">E★0.75</a>
+        <td><a href="#E★1.00">E★1.00</a>
+        <td><a href="#E★1.25">E★1.25</a>
+        <td><a href="#E★1.50">E★1.50</a>
+        <td><a href="#E★1.75">E★1.75</a>
+        <td><a href="#E★2.00">E★2.00</a>
+        <td><a href="#E★2.25">E★2.25</a>
+        <td><a href="#E★2.50">E★2.50</a>
+        <td><a href="#E★2.75">E★2.75</a>
+        <td><a href="#E★3.00">E★3.00</a>
+        <td><a href="#E★3.25">E★3.25</a>
+    <tr>
+        <td><a href="#E★3.50">E★3.50</a>
+        <td><a href="#E★3.75">E★3.75</a>
+        <td><a href="#E★4.00">E★4.00</a>
+        <td><a href="#E★4.25">E★4.25</a>
+        <td><a href="#E★4.50">E★4.50</a>
+        <td><a href="#E★4.75">E★4.75</a>
+        <td><a href="#E★5.00">E★5.00</a>
+        <td><a href="#E★5.25">E★5.25</a>
+        <td><a href="#E★5.50">E★5.50</a>
+        <td><a href="#E★5.75">E★5.75</a>
+        <td><a href="#E★6.00">E★6.00</a>
+    <tr>
+        <td><a href="#E★6.25">E★6.25</a>
+        <td><a href="#E★6.50">E★6.50</a>
+        <td><a href="#E★6.75">E★6.75</a>
+        <td><a href="#E★7.00">E★7.00</a>
+        <td><a href="#E★7.25">E★7.25</a>
+        <td><a href="#E★7.50">E★7.50</a>
+        <td><a href="#E★7.75">E★7.75</a>
+        <td><a href="#E★8.00">E★8.00</a>
+        <td><a href="#E★8.25">E★8.25</a>
+        <td><a href="#E★8.50">E★8.50</a>
+        <td><a href="#E★8.75">E★8.75</a>
+    <tr>
+        <td><a href="#E★9.00">E★9.00</a>
+        <td><a href="#E★9.25">E★9.25</a>
+        <td><a href="#E★9.50">E★9.50</a>
+        <td><a href="#E★9.75">E★9.75</a>
+        <td><a href="#E★10.00">E★10.00</a>
+        <td><a href="#E★10.25">E★10.25</a>
+        <td><a href="#E★10.50">E★10.50</a>
+        <td><a href="#E★10.75">E★10.75</a>
+        <td><a href="#E★11.00">E★11.00</a>
+        <td><a href="#E★11.25">E★11.25</a>
+        <td><a href="#E★11.50">E★11.50</a>
+    <tr>
+        <td><a href="#E★11.75">E★11.75</a>
+        <td><a href="#E★12.00">E★12.00</a>
+        <td><a href="#E★12.25">E★12.25</a>
+        <td><a href="#E★12.50">E★12.50</a>
+        <td><a href="#E★12.75">E★12.75</a>
+        <td><a href="#E★13.00">E★13.00</a>
+        <td><a href="#E★13.25">E★13.25</a>
+        <td><a href="#E★13.50">E★13.50</a>
+        <td><a href="#E★13.75">E★13.75</a>
+        <td><a href="#E★14.00">E★14.00</a>
+        <td><a href="#E★？">E★？</a>
+</table>
+
+<a accesskey="l" href="..">L) 戻る</a>
+
+<table id="difficulty_table">
+    <caption><progress>LOADING...</progress></caption>
+    <thead>
+        <tr class="tr_header">
+            <td class="level">LV
+            <td class="title">TITLE
+            <td class="artist">ARTIST
+            <td class="url">URL
+            <td class="diff_url">DIFF_URL
+            <td class="comment">COMMENT
+    <tbody>
+        <!-- ここに難易度表本体を生成する -->
+</table>
+
+<script>
+    var IR_url = "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=";
+    var header_url = document.querySelector("meta[name='bmstable']").getAttribute("content");
+
+    // 難易度表データjsonを取得してテーブル生成関数を呼び出す
+    var oReq = new XMLHttpRequest();
+    oReq.open("GET", header_url);
+    oReq.onload = function (oEvent) {
+        var header = JSON.parse(oReq.response);
+    
+        var oReq2 = new XMLHttpRequest();
+        oReq2.open("GET", header.data_url);
+        oReq2.onload = function (oEvent2) {
+            var data = JSON.parse(oReq2.response);
+    
+            makeBMSTable(data, header.symbol);
+        };
+        oReq2.send();
+    };
+    oReq.send();
+    
+    // テーブル生成関数
+    function makeBMSTable(rows, symbol) {
+        // 進捗初期設定
+        var progress = document.querySelector("#difficulty_table progress");
+        progress.max = rows.length - 1;
+        
+        // 難易度表データ注入
+        var tbody = document.querySelector("#difficulty_table > tbody");
+        tbody.innerHTML = rows.reduce(function (acc, row, idx, array) {
+            // 進捗どうですか
+            progress.value = idx;
+
+            // レベル区切りのキャプションを生成
+            if (idx === 0 || row.level !== array[idx - 1].level) {
+                var count = array.filter(function (arr) {
+                    return arr.level === row.level;
+                }).length;
+                
+                acc += (
+                    "<tr id='" + symbol + row.level + 
+                    "' class='tr_separate'><th colspan='6'>" + symbol + row.level + 
+                    " (" + count + "譜面)"
+                );
+            }
+    
+            // 譜面データ行を生成
+            return acc + (
+                "<tr class='tr_normal' title='" + symbol + row.rawlevel + "'><td>" + symbol + row.level + 
+                "<td><a href='" + IR_url + row.md5 + "' target='_blank'>" + row.title + 
+                "<\/a><td>" + row.artist + 
+                "<td><a href='" + row.url + "' target='_blank'>" + row.url +
+                "<td><a href='" + row.url_diff + "' target='_blank'>" + row.url_diff +
+                "<td>" + row.comment
+            );
+        }, "");
+        
+        // 進捗爆破
+        progress.parentNode.removeChild(progress);
+    }
+</script>
+
+<a href="..">L) 戻る</a>
+
+</body>
+</html>
