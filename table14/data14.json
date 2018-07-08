@@ -9804,12 +9804,6 @@
     "md5"     : "76b731c2190c653a76148727fd668d72"
 },{
     "level"   : "4",
-    "title"   : "PASERI [無理皿]",
-    "artist"  : "Nankumo / obj:litvyak",
-    "comment" : "CREW",
-    "md5"     : "eea2442ba32a195f34eb8206794cadae"
-},{
-    "level"   : "4",
     "title"   : "Phantasm Fantasia [DP LNA]",
     "artist"  : "KaKi",
     "comment" : "Uplifting Trance",
@@ -16446,6 +16440,12 @@
     "md5"     : "5c731e10b3ac538a2404b41f5a1e4e0f"
 },{
     "level"   : "7",
+    "title"   : "Creamy Sky [DP Another]",
+    "artist"  : "BTB Mov : mzet :-p & OLB / Obj. KENIN*",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "e345ae7ef9e65db56931c606209671e0"
+},{
+    "level"   : "7",
     "title"   : "Criminal Yuan-Sheng [DP HYPER]",
     "artist"  : "ZUN Remixed by くっちー obj:yutaka *L.MIRROR",
     "comment" : "UK HARDCORE",
@@ -21288,12 +21288,6 @@
     "md5"     : "af0512205911f97a606a82222e37432c"
 },{
     "level"   : "9",
-    "title"   : "Creamy Sky [DP Another]",
-    "artist"  : "BTB Mov : mzet :-p & OLB / Obj. KENIN*",
-    "comment" : "HAPPY HARDCORE",
-    "md5"     : "e345ae7ef9e65db56931c606209671e0"
-},{
-    "level"   : "9",
     "title"   : "Cruel Ultimatum [ 14Key / GENOCIDE ]",
     "artist"  : "Xyv & ArmySaw / obj:exclusion *R.MIRROR",
     "comment" : "INDUSTRIAL",
@@ -21313,7 +21307,7 @@
 },{
     "level"   : "9",
     "title"   : "D-period -moonlit world line- [もうちょっとだけMGNother]",
-    "artist"  : "kozato[obj:MGN] *LR.RANDOM",
+    "artist"  : "kozato[obj:MGN]",
     "comment" : "コザトランス2",
     "md5"     : "0e6af43729dc8784c59b745c395c3c26"
 },{
@@ -21412,12 +21406,6 @@
     "artist"  : "Mastermind(xi+nora2r) iimo / りりぃ  *LR.RAN or FLIP R.MIR",
     "comment" : "Breakthrough",
     "md5"     : "35b43bf9f6fca1d27f04b2c5b0aba170"
-},{
-    "level"   : "9",
-    "title"   : "DTD Emperor [A14]",
-    "artist"  : "ルゼ obj:ucc",
-    "comment" : "DRUM'N BASS",
-    "md5"     : "7c3052a71d1e87dfa35014df539b5704"
 },{
     "level"   : "9",
     "title"   : "Dystopia High [DPA]",
@@ -23484,6 +23472,12 @@
     "md5"     : "f24c0e437ed1fa494162275f02240d93"
 },{
     "level"   : "10",
+    "title"   : "DTD Emperor [A14]",
+    "artist"  : "ルゼ obj:ucc",
+    "comment" : "DRUM'N BASS",
+    "md5"     : "7c3052a71d1e87dfa35014df539b5704"
+},{
+    "level"   : "10",
     "title"   : "emergency call: Xeno [code;N1]",
     "artist"  : "ROKINA",
     "comment" : "BOSS BATTLE",
@@ -23737,7 +23731,7 @@
 },{
     "level"   : "10",
     "title"   : "Le Specimen d'un Papillon",
-    "artist"  : "Process 2.3.1 vs Y-Itoh / obj:lichtr",
+    "artist"  : "Process 2.3.1 vs Y-Itoh / obj:lichtr *SUD+",
     "comment" : "Trance",
     "md5"     : "02a85e76d05855e32ba304015b137f07"
 },{
@@ -23878,6 +23872,12 @@
     "artist"  : "sasakure.UK [obj:MGN]  *R.MIRROR",
     "comment" : "World Orchestra",
     "md5"     : "8ec04209c3db68367a3104e9ee428616"
+},{
+    "level"   : "10",
+    "title"   : "PASERI [無理皿]",
+    "artist"  : "Nankumo / obj:litvyak",
+    "comment" : "CREW",
+    "md5"     : "eea2442ba32a195f34eb8206794cadae"
 },{
     "level"   : "10",
     "title"   : "PEACE BREAKER [DP ANOTHER]",
@@ -27415,7 +27415,7 @@
 },{
     "level"   : "★3",
     "title"   : "硬核機動 [S]",
-    "artist"  : "しらいし",
+    "artist"  : "しらいし *FLIP",
     "comment" : "HARDCORE",
     "md5"     : "d38f439fad87b51eec1328cd46157fd6"
 },{
@@ -27676,12 +27676,6 @@
     "artist"  : "[IX] / BGA : EMSH / obj:nabisco",
     "comment" : "Trance",
     "md5"     : "b58bb5cca982be6753235bbf6fd0be4b"
-},{
-    "level"   : "★4",
-    "title"   : "DENGEKI Tube [WASEDAボルト]",
-    "artist"  : "BACO *FLIP",
-    "comment" : "ELECTROSHOCK",
-    "md5"     : "6a05f7c59de215cd4f09c6d2c5fba326"
 },{
     "level"   : "★4",
     "title"   : "DIFINITION OF INSANITY [DP EXTRA]",
@@ -28048,12 +28042,6 @@
     "artist"  : "ueotan  obj ; N *FLIP LR.MIRROR",
     "comment" : "GAMEMUSIC",
     "md5"     : "5d64acd7383c09b3b3e3b65d04c7729b"
-},{
-    "level"   : "★4",
-    "title"   : "Merry Christmas Mr.Lawrence [DPQ]",
-    "artist"  : "sasakure.UK OBJ : QUART  *LR.MIR or L.MIR R.RAN",
-    "comment" : "LAMENT",
-    "md5"     : "f56e252d29205247d3366e9529c31e18"
 },{
     "level"   : "★4",
     "title"   : "Metatron [TWIN]",
@@ -28837,7 +28825,7 @@
 },{
     "level"   : "★5",
     "title"   : "CUTEXECUTE (DA)",
-    "artist"  : "QUARKPOP *AVERAGE",
+    "artist"  : "QUARKPOP *AVERAGE 正規 or FLIP LR.MIR",
     "comment" : "HARDCORE",
     "md5"     : "226d24e5a7ae015c0962678068ee3d50"
 },{
@@ -28854,10 +28842,10 @@
     "md5"     : "9d5a0839f15d2bfda608ba81285b1887"
 },{
     "level"   : "★5",
-    "title"   : "DataErr0r [DP CHALLENGER]",
-    "artist"  : "Music : Lunatic Sounds / BGA : Photonskyto obj:kuro *FLIP LR.MIRROR",
-    "comment" : "ArtCore",
-    "md5"     : "85017eb80ab753c4cc0ff0dd562da3e0"
+    "title"   : "DENGEKI Tube [WASEDAボルト]",
+    "artist"  : "BACO *FLIP",
+    "comment" : "ELECTROSHOCK",
+    "md5"     : "6a05f7c59de215cd4f09c6d2c5fba326"
 },{
     "level"   : "★5",
     "title"   : "Desert Rose [Maniac14]",
@@ -28873,7 +28861,7 @@
 },{
     "level"   : "★5",
     "title"   : "End Time [uranus]",
-    "artist"  : "Cres / obj : Hador *R.MIR or L.MIR or LR.RAN",
+    "artist"  : "Cres / obj : Hador *L.MIR or LR.RAN",
     "comment" : "ReQuiEm tRanCe",
     "md5"     : "e794b8913b2dd785126cc18559efa831"
 },{
@@ -28897,7 +28885,7 @@
 },{
     "level"   : "★5",
     "title"   : "Faith. [S]",
-    "artist"  : "CrossGear *L.MIRROR",
+    "artist"  : "CrossGear *正規 or L.MIRROR",
     "comment" : "Progressive Trance",
     "md5"     : "b08d260dce85d95ab8f4b33ce36c658b"
 },{
@@ -28912,12 +28900,6 @@
     "artist"  : "mattoh37/-45 *MINBPM LR.RANDOM",
     "comment" : "ジャレコ",
     "md5"     : "beb332f916d579066ef51b9c1fbf7200"
-},{
-    "level"   : "★5",
-    "title"   : "Fly High [DP]",
-    "artist"  : "GYAON OBJ:KLOC  *正規 or FLIP LR.MIR",
-    "comment" : "SUPER INAZUMA KICK",
-    "md5"     : "ea1528d9a45ef47dca0bf7d6ec95ddb5"
 },{
     "level"   : "★5",
     "title"   : "GO REWRITE [Expert14]",
@@ -29116,6 +29098,12 @@
     "artist"  : "sasakure.UK obj:名無し",
     "comment" : "LAMENT",
     "md5"     : "97e09fdb2f2490a885cf3f96ffc47f55"
+},{
+    "level"   : "★5",
+    "title"   : "Merry Christmas Mr.Lawrence [DPQ]",
+    "artist"  : "sasakure.UK OBJ : QUART  *LR.MIR or L.MIR R.RAN",
+    "comment" : "LAMENT",
+    "md5"     : "f56e252d29205247d3366e9529c31e18"
 },{
     "level"   : "★5",
     "title"   : "Nice Magicgirls VS scary Walpurgis [14KEY ANOTHER]",
@@ -29797,7 +29785,7 @@
 },{
     "level"   : "★6",
     "title"   : "conflict [DP 無茶THER]",
-    "artist"  : "siromaru + cranky  obj ; N *FLIP R.MIR or FLIP LR.MIR",
+    "artist"  : "siromaru + cranky  obj ; N *FLIP R.MIR or FLIP LR.MIR or 正規",
     "comment" : "HARMONIC SCHRANZ",
     "md5"     : "8fd6c1c9e92060c011d491713b518f35"
 },{
@@ -29818,6 +29806,12 @@
     "artist"  : "maxXx65535 / cyclia *R.MIRROR",
     "comment" : "Artcore(DPA)",
     "md5"     : "c9be3fded9f1f19956c170152193475f"
+},{
+    "level"   : "★6",
+    "title"   : "DataErr0r [DP CHALLENGER]",
+    "artist"  : "Music : Lunatic Sounds / BGA : Photonskyto obj:kuro *正規 or FLIP LR.MIRROR",
+    "comment" : "ArtCore",
+    "md5"     : "85017eb80ab753c4cc0ff0dd562da3e0"
 },{
     "level"   : "★6",
     "title"   : "Daydreamer [S]",
@@ -29878,6 +29872,12 @@
     "artist"  : "mist-rose obj:ucc/reobj:hamburger *R.RANDOM",
     "comment" : "センチュリー",
     "md5"     : "edfdc0413cd6b69387b555efb62781ab"
+},{
+    "level"   : "★6",
+    "title"   : "Fly High [DP]",
+    "artist"  : "GYAON OBJ:KLOC  *正規 or FLIP LR.MIR",
+    "comment" : "SUPER INAZUMA KICK",
+    "md5"     : "ea1528d9a45ef47dca0bf7d6ec95ddb5"
 },{
     "level"   : "★6",
     "title"   : "Forceful Beat [CHALLENGER+]",
@@ -30475,7 +30475,7 @@
 },{
     "level"   : "★6",
     "title"   : "東の国のFLYING PAPARAZZI！ [DP 無茶THER]",
-    "artist"  : "樋奈月みつ obj ; N",
+    "artist"  : "樋奈月みつ obj ; N *FLIP LR.MIRROR",
     "comment" : "SOARLY TRANCE POP",
     "md5"     : "50f85ecc1cfb5e500e06ec96baa8f8ed"
 },{
@@ -30625,7 +30625,7 @@
 },{
     "level"   : "★7",
     "title"   : "carnot (ANOTHER)",
-    "artist"  : "kawasaki under ground obj.celi *R.MIRROR",
+    "artist"  : "kawasaki under ground obj.celi *R.MIR or FLIP R.MIR",
     "comment" : "HARD TECHNO",
     "md5"     : "a804855a2b644ff9327c511acdad8b25"
 },{
