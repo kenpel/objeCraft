@@ -552,6 +552,12 @@
     "md5"     : "a193970cb08c94ef2e1debc6c632c07c"
 },{
     "level"   : "3",
+    "title"   : "The Formula ~HARD~",
+    "artist"  : "Junk",
+    "comment" : "TRANCE",
+    "md5"     : "6889694f7e83c627a3a4cca4ccf55f18"
+},{
+    "level"   : "3",
     "title"   : "トゥナイト・イズ・ザ・ナイト（調教済み）",
     "artist"  : "ヤマダ☆トゥナイト",
     "comment" : "Newromanthique Discothique テクノ歌謡",
@@ -562,6 +568,12 @@
     "artist"  : "Rocky",
     "comment" : "INSI break",
     "md5"     : "c65e418cfe35a1a0c396a4ac04f35739"
+},{
+    "level"   : "4",
+    "title"   : "B.B.K.K.B.K.K. ~HARD~",
+    "artist"  : "nora2r",
+    "comment" : "UK HARDCORE",
+    "md5"     : "7a1243bf893678f0e6940694be9109d2"
 },{
     "level"   : "4",
     "title"   : "brightocean [ANOTHER10]",
@@ -580,6 +592,12 @@
     "artist"  : "human sequencer TAKE",
     "comment" : "INSTRUMENTAL",
     "md5"     : "dff350cc2a906fdabcd78ffba5c8c8c0"
+},{
+    "level"   : "4",
+    "title"   : "CLOCKTOWER ~HARD~",
+    "artist"  : "Chitose",
+    "comment" : "Art Progressive Fusion",
+    "md5"     : "50b5df97125c21ad7c6dc385f0e25ada"
 },{
     "level"   : "4",
     "title"   : "Distracted Worker",
@@ -900,6 +918,12 @@
     "md5"     : "d51174c7c1ae61216363b20b15cff302"
 },{
     "level"   : "8",
+    "title"   : "Caelumize ~HARD~",
+    "artist"  : "void",
+    "comment" : "Filmscore / Neurocore",
+    "md5"     : "483feb4a9728e2573ca18d1563e7102b"
+},{
+    "level"   : "8",
     "title"   : "Hold me [DP ANOTHER]",
     "artist"  : "Pinky *MAXBPM+70",
     "comment" : "FUNK",
@@ -1067,6 +1091,18 @@
     "comment" : "hardcore drum'nbass",
     "md5"     : "53ccc2502640cda0b703a79ae940885f"
 },{
+    "level"   : "★2",
+    "title"   : "夜明けの少女たち ~SUPER HARD~",
+    "artist"  : "Lubinn",
+    "comment" : "Sepia chant",
+    "md5"     : "f302df4f06de31af1cff21dbdc34c1b6"
+},{
+    "level"   : "★2",
+    "title"   : "点、線、面、立体 ~SUPER HARD~",
+    "artist"  : "sound piercer / mov : kkkfff2 *MAXBPM LR.MIRROR",
+    "comment" : "Progressive / Electronica",
+    "md5"     : "9e8db00f7f26d4b22106c3777144dadc"
+},{
     "level"   : "★3",
     "title"   : "12の練習曲 作品10  第5番 変ト長調",
     "artist"  : "ddou *LR.RANDOM",
@@ -1097,11 +1133,47 @@
     "comment" : "techno(DP/difficult)",
     "md5"     : "b5654db1aa1ca7aca76e0d53346bf243"
 },{
+    "level"   : "★4",
+    "title"   : "Fly Again ~SUPER HARD~",
+    "artist"  : "Junk feat.Salita",
+    "comment" : "HYPER TRANCE",
+    "md5"     : "d76ddb4a3fa4c88b194f75e1d73de9e5"
+},{
+    "level"   : "★5",
+    "title"   : "DRAGONLADY ~SUPER HARD~",
+    "artist"  : "Nankumo *LR.MIRROR or LR.RANDOM",
+    "comment" : "HAPPY",
+    "md5"     : "d03d7110af8963972b03e1022708e041"
+},{
+    "level"   : "★5",
+    "title"   : "Ereshkigal ~HARD~",
+    "artist"  : "ABE3",
+    "comment" : "DRUM'N'FORTE",
+    "md5"     : "56e8df31175eb37bb030e7a1dd80ea93"
+},{
+    "level"   : "★5",
+    "title"   : "We are the xxxx ~SUPER HARD~",
+    "artist"  : "ikaruga_nex feat. Salita *LR.MIRROR",
+    "comment" : "freeform",
+    "md5"     : "99d55938b80e1c9bc6574bf3fcb2b54c"
+},{
     "level"   : "★5",
     "title"   : "多重極展開 ~SUPER HARD~",
     "artist"  : "Rocky *LR.MIRROR",
     "comment" : "INSI break",
     "md5"     : "6385be7e2c8a55ae2e67e711d4d538d1"
+},{
+    "level"   : "★6",
+    "title"   : "B.B.K.K.B.K.K. ~SUPER HARD~",
+    "artist"  : "nora2r *LR.MIRROR",
+    "comment" : "UK HARDCORE",
+    "md5"     : "a2a6a8add83d340ae7dd38a1128cae5a"
+},{
+    "level"   : "★6",
+    "title"   : "PEACE BREAKER ~HARD~",
+    "artist"  : "Omnipotenx *LR.RANDOM",
+    "comment" : "SYMPHONIC SCHRANZ",
+    "md5"     : "d0cecd8f03dbd7773390dce707600871"
 },{
     "level"   : "★6",
     "title"   : "大都会partIII",
@@ -1138,6 +1210,12 @@
     "artist"  : "eicateve / Mentalstock / objeCraft",
     "comment" : "HARDCORE",
     "md5"     : "b0ed2a98504740ce67caf0cde9af637d"
+},{
+    "level"   : "★13",
+    "title"   : "FREEDOM DiVE↓ ~CATASTROPHE~",
+    "artist"  : "xi",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "216c55edbe7221c0a46d83ed4f5e8e31"
 },{
     "level"   : "無理",
     "title"   : "Egypt (10key)",
