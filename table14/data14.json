@@ -9432,6 +9432,12 @@
     "md5"     : "c961c5ba3da39fe054fb91e48da9daaa"
 },{
     "level"   : "4",
+    "title"   : "Infinite Stars★ [NEUTRONSTAR-14]",
+    "artist"  : "れおん *R.RANDOM",
+    "comment" : "Symphonic Synth",
+    "md5"     : "3b33f49628ad48620cca2dc17db416a0"
+},{
+    "level"   : "4",
     "title"   : "Infomorph",
     "artist"  : "ETIA. feat. Jenga Movie: vol-t / obj: lichtr",
     "comment" : "DRUM'N'BASS",
@@ -18684,6 +18690,12 @@
     "md5"     : "0ff8c73d53a6725e221665691764f660"
 },{
     "level"   : "8",
+    "title"   : "A c i - L [ D P - 並 ]",
+    "artist"  : "裏 吉 川 / obj:ED *R.MIRROR",
+    "comment" : "t r a n c e",
+    "md5"     : "2d6fad3153d8b8b98479c52bacac2e8f"
+},{
+    "level"   : "8",
     "title"   : "A c i - L [ D P - 小 ]",
     "artist"  : "裏 吉 川 / obj:ED *LR.MIRROR",
     "comment" : "t r a n c e",
@@ -18888,6 +18900,12 @@
     "md5"     : "a22a2e73f3ba1e4dbe6aaac7feca4ba2"
 },{
     "level"   : "8",
+    "title"   : "Beatrice",
+    "artist"  : "xi / obj:lichtr *R.MIRROR",
+    "comment" : "マジックジャズ",
+    "md5"     : "3905b085dba43821ee1da22d47cbd909"
+},{
+    "level"   : "8",
     "title"   : "beyond the limit [BEGINNER]",
     "artist"  : "Syatten obj:けろりん *R.MIRROR",
     "comment" : "Trance",
@@ -18898,6 +18916,12 @@
     "artist"  : "celas obj:kuro",
     "comment" : "witch's hardcore",
     "md5"     : "d429d500063a659ccbcf85776490be99"
+},{
+    "level"   : "8",
+    "title"   : "BINDING STROKE",
+    "artist"  : "Nankumo (obj:EIT)",
+    "comment" : "TECHNO",
+    "md5"     : "c6f4bc07f96f263bea0d46b2da2b3001"
 },{
     "level"   : "8",
     "title"   : "BINDING STROKE",
@@ -19030,6 +19054,12 @@
     "artist"  : "SHIKI obj:+- *FLIP",
     "comment" : "Trance　core / 14key",
     "md5"     : "9220cb0827b9545398b6694cf6c041e1"
+},{
+    "level"   : "8",
+    "title"   : "Cold Tribe (14)",
+    "artist"  : "A.T.M. / objeCraft *L.MIRROR",
+    "comment" : "Hard House",
+    "md5"     : "844bc5ed7d096cfe46632830c9eafe70"
 },{
     "level"   : "8",
     "title"   : "compressed eyes -side B-",
@@ -20923,7 +20953,7 @@
 },{
     "level"   : "9",
     "title"   : "4bidden Area -DP Another-",
-    "artist"  : "青龍 *FLIP",
+    "artist"  : "青龍 *FLIP L.MIRROR",
     "comment" : "DANCE SPEED",
     "md5"     : "a71a56e4e32ac90a9e8afeaaa837f030"
 },{
@@ -20932,12 +20962,6 @@
     "artist"  : "Yamajet BGA: sta / obj: PEN  *FLIP",
     "comment" : "Ascii Art Break",
     "md5"     : "eca3979c32a103bc8525db7e23a31fd4"
-},{
-    "level"   : "9",
-    "title"   : "A c i - L [ D P - 並 ]",
-    "artist"  : "裏 吉 川 / obj:ED *R.MIRROR",
-    "comment" : "t r a n c e",
-    "md5"     : "2d6fad3153d8b8b98479c52bacac2e8f"
 },{
     "level"   : "9",
     "title"   : "aballava(?) [A14]",
@@ -21073,12 +21097,6 @@
 },{
     "level"   : "9",
     "title"   : "Beatrice",
-    "artist"  : "xi / obj:lichtr",
-    "comment" : "マジックジャズ",
-    "md5"     : "3905b085dba43821ee1da22d47cbd909"
-},{
-    "level"   : "9",
-    "title"   : "Beatrice",
     "artist"  : "xi / obj : Ill",
     "comment" : "マジックジャズ[IDEAL]",
     "md5"     : "80c350535cde25c40dd1684bc774b1d7"
@@ -21118,12 +21136,6 @@
     "artist"  : "bug-light obj:JOY*T *LR.RANDOM",
     "comment" : "TECHNO",
     "md5"     : "6770e38ca10ac4fc8b1cd2133bdafea5"
-},{
-    "level"   : "9",
-    "title"   : "BINDING STROKE",
-    "artist"  : "Nankumo (obj:EIT)",
-    "comment" : "TECHNO",
-    "md5"     : "c6f4bc07f96f263bea0d46b2da2b3001"
 },{
     "level"   : "9",
     "title"   : "Black Lotus [DP NearMint]",
@@ -21250,12 +21262,6 @@
     "artist"  : "Est / obj:2y *L.MIRROR",
     "comment" : "TRANCE",
     "md5"     : "87841fcca9b540111cafa88937288bd8"
-},{
-    "level"   : "9",
-    "title"   : "Cold Tribe (14)",
-    "artist"  : "A.T.M. / objeCraft *L.MIRROR",
-    "comment" : "Hard House",
-    "md5"     : "844bc5ed7d096cfe46632830c9eafe70"
 },{
     "level"   : "9",
     "title"   : "Come To Me -BINBIN REMIX-  [Unlimited14]",
@@ -23065,7 +23071,7 @@
 },{
     "level"   : "9",
     "title"   : "雨月籠歌 [A14]",
-    "artist"  : "黒雛 obj:ucc",
+    "artist"  : "黒雛 obj:ucc *R.MIRROR",
     "comment" : "ラプンツェル",
     "md5"     : "18550a74c7b4856f53d1d547afc8d991"
 },{
@@ -23656,6 +23662,12 @@
     "artist"  : "篠螺悠那 feat. 鯛の小骨 obj:ucc *正規 or LR.RANDOM",
     "comment" : "Euro Rave",
     "md5"     : "d15316fa98cb0a9486a1a2fdf08ea3c5"
+},{
+    "level"   : "10",
+    "title"   : "Infinite Stars★ [BLACKHOLE-14]",
+    "artist"  : "れおん *R.MIRROR",
+    "comment" : "Symphonic Synth",
+    "md5"     : "98f7618e420bcb3cd661f8f52a5fe9be"
 },{
     "level"   : "10",
     "title"   : "insolence feat. Golmont [14keys Hyper]",
@@ -26575,7 +26587,7 @@
 },{
     "level"   : "★3",
     "title"   : "Andro [DP CHALLENGER+]",
-    "artist"  : "紅蓮月影 BGA:A-ZERO Project obj:kuro",
+    "artist"  : "紅蓮月影 BGA:A-ZERO Project obj:kuro  *FLIP LR.MIR",
     "comment" : "LOGICAL FORMAT",
     "md5"     : "8d5b8df217288510f94bbea9ba44633e"
 },{
@@ -28374,12 +28386,6 @@
     "md5"     : "dcc3b815b0782a34421e812094db4ab7"
 },{
     "level"   : "★4",
-    "title"   : "ДESPOND survivor",
-    "artist"  : "sumomo (& obj) // kusoX. *AVERAGE-40",
-    "comment" : "SuperNOVA MINIMAL",
-    "md5"     : "77ba1ae6c0b69a6ae0480af11bccf202"
-},{
-    "level"   : "★4",
     "title"   : "○○バスタースパーク [14KEYS ANOTHER]",
     "artist"  : "BACO BGA:石王マサト",
     "comment" : "ULTIMATE MEGA-BEAT RAVE",
@@ -28498,12 +28504,6 @@
     "artist"  : "L-uckgu-N 落雁  *LR.RANDOM",
     "comment" : "ambient",
     "md5"     : "7f1c2e9f80c32bbba14fd4d6efb905e4"
-},{
-    "level"   : "★4",
-    "title"   : "天風 (14keys Maniac)",
-    "artist"  : "うまるつふり / obj:imit8or *FLIP LR.RANDOM",
-    "comment" : "祭祀",
-    "md5"     : "a8b8d0e6f5c92b6b9e975bb3604aff2e"
 },{
     "level"   : "★4",
     "title"   : "少年は空を辿る -8bit mix- 【DP14】",
@@ -29388,6 +29388,12 @@
     "md5"     : "86d3b524ca062a54decce0ac7676d736"
 },{
     "level"   : "★5",
+    "title"   : "ДESPOND survivor",
+    "artist"  : "sumomo (& obj) // kusoX. *AVERAGE-40",
+    "comment" : "SuperNOVA MINIMAL",
+    "md5"     : "77ba1ae6c0b69a6ae0480af11bccf202"
+},{
+    "level"   : "★5",
     "title"   : "これ、Gamegameっすよ(^_^;) (bms edit)",
     "artist"  : "s-don / 篠乃ちよ obj : mbp",
     "comment" : "Tech Dance",
@@ -29526,6 +29532,12 @@
     "md5"     : "4b7356ffbe4475019a598ad371173062"
 },{
     "level"   : "★5",
+    "title"   : "天風 (14keys Maniac)",
+    "artist"  : "うまるつふり / obj:imit8or *FLIP LR.RANDOM",
+    "comment" : "祭祀",
+    "md5"     : "a8b8d0e6f5c92b6b9e975bb3604aff2e"
+},{
+    "level"   : "★5",
     "title"   : "幽雅に開け、青空の扉 -EXUSIA-",
     "artist"  : "Ark-Z / obj@PEN *R.MIRROR",
     "comment" : "PARODY HARDCORE / Phantasm",
@@ -29575,7 +29587,7 @@
 },{
     "level"   : "★5",
     "title"   : "神聖大樹 [BLACK ANOTHER14]",
-    "artist"  : "しらいし / srof",
+    "artist"  : "しらいし / srof *L.MIRROR",
     "comment" : "TRANCE",
     "md5"     : "84e32bdbd0a9c77632e11dbe6cfe0a3d"
 },{
@@ -31039,7 +31051,7 @@
 },{
     "level"   : "★7",
     "title"   : "モリオンの姫 [CH14]",
-    "artist"  : "wa. obj:ucc *FLIP R.MIR or FLIP LR.RAN",
+    "artist"  : "wa. obj:ucc *FLIP L.MIR or FLIP LR.RAN",
     "comment" : "IntelligenceTerror",
     "md5"     : "33041d9a9432b867919199e3f9ea5707"
 },{
@@ -31090,6 +31102,12 @@
     "artist"  : "ZUN (Arr.sun3) OBJ:KLOC REOBJ : Fruit",
     "comment" : "GOA TRANCE",
     "md5"     : "8db30a3154a633f2d020bd20995b0942"
+},{
+    "level"   : "★7",
+    "title"   : "星の器～STAR OF ANDROMEDA (DP OSHO)",
+    "artist"  : "ZUN (Arr.sun3) obj: QJITAI *FLIP LR.MIRROR",
+    "comment" : "GOA TRANCE",
+    "md5"     : "dc2e5be8a6477b3e20ed0ea3cbd0c319"
 },{
     "level"   : "★7",
     "title"   : "桜花撩乱 [なめらかプリン]",
@@ -32482,6 +32500,12 @@
     "artist"  : "tcheb / mov : 石王マサト obj:kuro",
     "comment" : "AGAINST \"The World\"",
     "md5"     : "b09fa894c94372a0fd9f876deba1b241"
+},{
+    "level"   : "★11",
+    "title"   : "ouroVoros [Fantasy]",
+    "artist"  : "Negentropy / obj:Hador Movie:Vogeln",
+    "comment" : "Symphonic Roar",
+    "md5"     : "b7b59a13d058b2f763a9f252d89ffaf0"
 },{
     "level"   : "★11",
     "title"   : "P.S : Plasma Strike - LAST BOSS -",
