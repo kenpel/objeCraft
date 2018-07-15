@@ -804,6 +804,12 @@
     "md5"     : "2a70aa1469a1023f7169b7d88eed6eb1"
 },{
     "level"   : "5",
+    "title"   : "白黒神楽煩悩七百七十七ツ之法則 ~NORMAL~",
+    "artist"  : "かゆき",
+    "comment" : "和洋折衷JazzRock",
+    "md5"     : "74d2218734e7fda2e61ce169f08bee5b"
+},{
+    "level"   : "5",
     "title"   : "腹腹時計",
     "artist"  : "Aozuna",
     "comment" : "Gabba",
@@ -1001,6 +1007,12 @@
     "comment" : "Chiptune",
     "md5"     : "a9c95ecad2d28b7168637f23bf59ccec"
 },{
+    "level"   : "9",
+    "title"   : "点、線、面、立体 ~HARD~",
+    "artist"  : "sound piercer / mov : kkkfff2 *LR.MIRROR",
+    "comment" : "Progressive / Electronica",
+    "md5"     : "b0494dda265c3d250758529714cf8a2b"
+},{
     "level"   : "10",
     "title"   : "An Ego",
     "artist"  : "π/3 vs mentalhealz *LR.RAN or LR.MIR",
@@ -1042,6 +1054,12 @@
     "artist"  : "Yamajet (remix by Mr.Mazuyama)  *SUD+ AVERAGE-60",
     "comment" : "BREAK CORE",
     "md5"     : "25dba6607feff720ca8bb139d53f6f29"
+},{
+    "level"   : "10",
+    "title"   : "YATA ~HARD~",
+    "artist"  : "kireji",
+    "comment" : "Harmonization",
+    "md5"     : "c836dac0d706af187f4a4c03d638abb8"
 },{
     "level"   : "10",
     "title"   : "ブレイクビーツ [double]",
@@ -1127,6 +1145,12 @@
     "comment" : "TECHNO",
     "md5"     : "ebc4fbc77b0d49ec86b463d433caf3ca"
 },{
+    "level"   : "★3",
+    "title"   : "ベストフレンド ~SUPER HARD~",
+    "artist"  : "渋谷凛",
+    "comment" : "NEW GENERATION",
+    "md5"     : "69cffc480c070a69966adcd63bfb04bd"
+},{
     "level"   : "★4",
     "title"   : "empire of the steam",
     "artist"  : "paraoka / objeCraft",
@@ -1139,11 +1163,23 @@
     "comment" : "HYPER TRANCE",
     "md5"     : "d76ddb4a3fa4c88b194f75e1d73de9e5"
 },{
+    "level"   : "★4",
+    "title"   : "Her Majesty ~HARD~",
+    "artist"  : "naotyu- / Mentalstock",
+    "comment" : "progressive breaks",
+    "md5"     : "3fdeee0f0013f8105258935d2a8f5a07"
+},{
     "level"   : "★5",
     "title"   : "DRAGONLADY ~SUPER HARD~",
     "artist"  : "Nankumo *LR.MIRROR or LR.RANDOM",
     "comment" : "HAPPY",
     "md5"     : "d03d7110af8963972b03e1022708e041"
+},{
+    "level"   : "★5",
+    "title"   : "Dream Rocket* ~SUPER HARD~",
+    "artist"  : "Junk",
+    "comment" : "Epic Trance",
+    "md5"     : "cddd127398e6ab75c3435c64123c87b9"
 },{
     "level"   : "★5",
     "title"   : "Ereshkigal ~HARD~",
@@ -1192,6 +1228,12 @@
     "artist"  : "Symphonian *LR.MIRROR",
     "comment" : "Gabba",
     "md5"     : "177f68a76c6d9831412c4916a616427f"
+},{
+    "level"   : "★7",
+    "title"   : "ホーリーサンバランド ~SUPER HARD~",
+    "artist"  : "HOLY SAMBA MASTER 佐藤 -SATOH-",
+    "comment" : "ゆったり系アンセムトランス",
+    "md5"     : "3440bf5026775678c86e842795fbf5df"
 },{
     "level"   : "★8",
     "title"   : "HELLO MAN (DP)",
