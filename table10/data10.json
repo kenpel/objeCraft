@@ -324,6 +324,12 @@
     "md5"     : "6499f1e54cce2a5345a0164b50e918c4"
 },{
     "level"   : "1",
+    "title"   : "MANO CORNUTO",
+    "artist"  : "DOT96",
+    "comment" : "ROCKIN' DNB",
+    "md5"     : "9ba8a3210d764877038a5db30d6b48cf"
+},{
+    "level"   : "1",
     "title"   : "Natural Dream (10key)",
     "artist"  : "FateMaker (2012.1/22)",
     "comment" : "Peaceful Piano",
@@ -636,6 +642,12 @@
     "md5"     : "52d929aa89459ec705ef8dfb7dcb452b"
 },{
     "level"   : "4",
+    "title"   : "My CAKES AND ALE",
+    "artist"  : "LU",
+    "comment" : "JUMP UP",
+    "md5"     : "9a1d88df3c50627969cc2ae12cf8641f"
+},{
+    "level"   : "4",
     "title"   : "only my railgun (10key)",
     "artist"  : "fripside/ obj.Frenzy",
     "comment" : "Ani song",
@@ -714,6 +726,12 @@
     "md5"     : "4637cad5d3955f30e988a789e79643e7"
 },{
     "level"   : "5",
+    "title"   : "7 colors* ~HARD~",
+    "artist"  : "Ym1024 feat. lamie*",
+    "comment" : "J-Rock Pop",
+    "md5"     : "4cc85498ee89d87aae4e07f23ac6fed5"
+},{
+    "level"   : "5",
     "title"   : "Ares [DP ANOTHER]",
     "artist"  : "UDSV",
     "comment" : "WORLD GROOVE",
@@ -760,6 +778,12 @@
     "artist"  : "ARMYTOM/LU",
     "comment" : "spatial",
     "md5"     : "80519b4161b2f6072997b350ff9bfff7"
+},{
+    "level"   : "5",
+    "title"   : "n a n o d e l i c -10hard-",
+    "artist"  : "sumomo",
+    "comment" : "Retro-NUSTYLE GABBA",
+    "md5"     : "9631592935a613934cb4410d04b0b33a"
 },{
     "level"   : "5",
     "title"   : "natsukage",
@@ -888,6 +912,12 @@
     "md5"     : "33ea82071587d0b2410f148088f6a901"
 },{
     "level"   : "7",
+    "title"   : "AIRSHAVER ~HARD~",
+    "artist"  : "mommy",
+    "comment" : "PROGRESSIVE",
+    "md5"     : "9a5edb4be9bc7247b6f12d7cb2534183"
+},{
+    "level"   : "7",
     "title"   : "Aqua Regia Squall",
     "artist"  : "DJ owl-light vs xi",
     "comment" : "DARKSTEP MIX",
@@ -916,6 +946,12 @@
     "artist"  : "",
     "comment" : "Transitional Rave (10lines)",
     "md5"     : "dc967566f02c678feba098a1543ef2ca"
+},{
+    "level"   : "8",
+    "title"   : "Altersist ~HARD~",
+    "artist"  : "void *LR.MIRROR",
+    "comment" : "DISALTERNATIVE TRANCE",
+    "md5"     : "b761478cdef3ae15a94b09e9ea9630cd"
 },{
     "level"   : "8",
     "title"   : "Blood Tales [10Key Bloody]",
@@ -960,10 +996,22 @@
     "md5"     : "deab4bb5608ac35e6d9c63d0579953a2"
 },{
     "level"   : "9",
+    "title"   : "Act Beloved ~HARD~",
+    "artist"  : "Nene Anegasaki feat. Salita",
+    "comment" : "PIANO HOUSE",
+    "md5"     : "f69efe5572f3927b9854a525a6a91320"
+},{
+    "level"   : "9",
     "title"   : "Blasphemie [DP ANOTHER]",
     "artist"  : "Pinky",
     "comment" : "JAZZ ELECTRO",
     "md5"     : "f4736749ca131d2fa7ebb7a8571b5b9f"
+},{
+    "level"   : "9",
+    "title"   : "Ereshkigal ~NORMAL~",
+    "artist"  : "ABE3 *LR.RANDOM",
+    "comment" : "DRUM'N'FORTE",
+    "md5"     : "1502b9dce94aff7a53bde228305fd1c6"
 },{
     "level"   : "9",
     "title"   : "Mechanical Beat (10)",
@@ -1068,6 +1116,12 @@
     "md5"     : "921779fe049a53534cd0f5b1510caacf"
 },{
     "level"   : "10",
+    "title"   : "恋の2-4-11 ~SUPER HARD~",
+    "artist"  : "Gun-SEKI feat.那珂",
+    "comment" : "IDOL SONG",
+    "md5"     : "4d23dbcf19aff1d583a746350139e24f"
+},{
+    "level"   : "10",
     "title"   : "祭月 [◎yumether◎]",
     "artist"  : "sa10 / obj:夢瑠",
     "comment" : "Funky Gotta",
@@ -1146,6 +1200,12 @@
     "md5"     : "ebc4fbc77b0d49ec86b463d433caf3ca"
 },{
     "level"   : "★3",
+    "title"   : "ヒメタイプ ~HARD~",
+    "artist"  : "ノクティス・江口・チェラム *LR.RANDOM",
+    "comment" : "IRREGULAR HI-BREAK",
+    "md5"     : "445a4dc870610fa1f4a614b774b17a6d"
+},{
+    "level"   : "★3",
     "title"   : "ベストフレンド ~SUPER HARD~",
     "artist"  : "渋谷凛",
     "comment" : "NEW GENERATION",
@@ -1169,6 +1229,18 @@
     "comment" : "progressive breaks",
     "md5"     : "3fdeee0f0013f8105258935d2a8f5a07"
 },{
+    "level"   : "★4",
+    "title"   : "多重極展開 ~SUPER HARD~",
+    "artist"  : "Rocky *LR.MIRROR",
+    "comment" : "INSI break",
+    "md5"     : "6385be7e2c8a55ae2e67e711d4d538d1"
+},{
+    "level"   : "★4",
+    "title"   : "架空ユリカゴ ~SUPER HARD~",
+    "artist"  : "Hate × Ritsu × Salita",
+    "comment" : "A-Rock",
+    "md5"     : "17df0e78959ff596326f62dce9644a4a"
+},{
     "level"   : "★5",
     "title"   : "DRAGONLADY ~SUPER HARD~",
     "artist"  : "Nankumo *LR.MIRROR or LR.RANDOM",
@@ -1188,16 +1260,22 @@
     "md5"     : "56e8df31175eb37bb030e7a1dd80ea93"
 },{
     "level"   : "★5",
+    "title"   : "Illusion of Mind ~HARD~",
+    "artist"  : "P4koo",
+    "comment" : "Melodic NRG",
+    "md5"     : "dcfe89be643cabcfe8b17465d07b66c2"
+},{
+    "level"   : "★5",
+    "title"   : "Love & Justice ~HARD~",
+    "artist"  : "Flonne / Raspberyl",
+    "comment" : "LOVELY HIGHSPEED",
+    "md5"     : "7bd08e11ac0227dc8735f94711a58582"
+},{
+    "level"   : "★5",
     "title"   : "We are the xxxx ~SUPER HARD~",
     "artist"  : "ikaruga_nex feat. Salita *LR.MIRROR",
     "comment" : "freeform",
     "md5"     : "99d55938b80e1c9bc6574bf3fcb2b54c"
-},{
-    "level"   : "★5",
-    "title"   : "多重極展開 ~SUPER HARD~",
-    "artist"  : "Rocky *LR.MIRROR",
-    "comment" : "INSI break",
-    "md5"     : "6385be7e2c8a55ae2e67e711d4d538d1"
 },{
     "level"   : "★6",
     "title"   : "B.B.K.K.B.K.K. ~SUPER HARD~",
@@ -1242,10 +1320,22 @@
     "md5"     : "a003f4357417736251ea1988acdb064c"
 },{
     "level"   : "★8",
+    "title"   : "Illusion of Mind ~SUPER HARD~",
+    "artist"  : "P4koo",
+    "comment" : "Melodic NRG",
+    "md5"     : "31d2c168c9175454ea17dc2f46b6f0dc"
+},{
+    "level"   : "★8",
     "title"   : "Wild Clown (10key-DHD)",
     "artist"  : "Symphonian *LR.MIRROR",
     "comment" : "Gabba",
     "md5"     : "dff83e2fdc9837493ce9b95b6ad169f3"
+},{
+    "level"   : "★8",
+    "title"   : "ヒメタイプ ~SUPER HARD~",
+    "artist"  : "ノクティス・江口・チェラム *LR.MIRROR",
+    "comment" : "IRREGULAR HI-BREAK",
+    "md5"     : "bc4106ab2465a85534271a10202b446a"
 },{
     "level"   : "★9",
     "title"   : "Gun to Childhead (A)",
@@ -1258,6 +1348,12 @@
     "artist"  : "xi",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "216c55edbe7221c0a46d83ed4f5e8e31"
+},{
+    "level"   : "★13",
+    "title"   : "High-Priestess ~SUPER HARD~",
+    "artist"  : "Luxion",
+    "comment" : "OVERKILL",
+    "md5"     : "6e98d54fda169f2895322200ab2b94aa"
 },{
     "level"   : "無理",
     "title"   : "Egypt (10key)",
