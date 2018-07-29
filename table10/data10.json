@@ -630,6 +630,12 @@
     "md5"     : "27f86904aa782eb8b8a8e04c74e50237"
 },{
     "level"   : "4",
+    "title"   : "Lasting Dream ~HARD~",
+    "artist"  : "ω",
+    "comment" : "PRELUDE",
+    "md5"     : "51a62391db3390e149e4263b2c059adc"
+},{
+    "level"   : "4",
     "title"   : "MAJESTY [10key ANOTHER]",
     "artist"  : "Emilio Valentine",
     "comment" : "Digital Quartet",
@@ -1152,6 +1158,12 @@
     "md5"     : "77d8ecaf8182bd000c429a1831397304"
 },{
     "level"   : "★2",
+    "title"   : "Absurd Gaff ~SUPER HARD~",
+    "artist"  : "siromaru *LR.RANDOM",
+    "comment" : "schranz",
+    "md5"     : "a1a61b05b89a94b9b1db33a8151e12a9"
+},{
+    "level"   : "★2",
     "title"   : "DJ BATTLE theme:PARANOiA (4 two DJs)",
     "artist"  : "Remixed by Octa the B.G. *SUD+",
     "comment" : "freestyle",
@@ -1312,6 +1324,12 @@
     "artist"  : "HOLY SAMBA MASTER 佐藤 -SATOH-",
     "comment" : "ゆったり系アンセムトランス",
     "md5"     : "3440bf5026775678c86e842795fbf5df"
+},{
+    "level"   : "★8",
+    "title"   : "Calamity Fortune ~CATASTROPHE~",
+    "artist"  : "ZUN remixed by LeaF",
+    "comment" : "EMOTIONAL HARDCORE TECHNO",
+    "md5"     : "8756305fbdf65ac2d6f68ecc365255cc"
 },{
     "level"   : "★8",
     "title"   : "HELLO MAN (DP)",
