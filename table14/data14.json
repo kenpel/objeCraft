@@ -294,6 +294,12 @@
     "md5"     : "a9554b1b842fde277e43a51ab995cb2b"
 },{
     "level"   : "?",
+    "title"   : "G e n g a o z o _ BIG  MAC  Hanon",
+    "artist"  : "455 / rio / black train",
+    "comment" : "P s y",
+    "md5"     : "615b256def1982a56a18d0eff567ea76"
+},{
+    "level"   : "?",
     "title"   : "G e n g a o z o _ more Hanon",
     "artist"  : "455 / rio / black train",
     "comment" : "P s y",
@@ -15324,6 +15330,12 @@
     "md5"     : "ea9e58e1a466599b5facc666dab94c4f"
 },{
     "level"   : "6",
+    "title"   : "ZENITHALIZE [DPz]",
+    "artist"  : "姉ヶ崎 寧々/obj kohane BGA : photonskyto  *FLIP",
+    "comment" : "FULL ON",
+    "md5"     : "4e5e6bec380d3c84a7b73b81ed436d54"
+},{
+    "level"   : "6",
     "title"   : "ZENITHALIZE [DP ANOTHERを餡蜜してみた]",
     "artist"  : "姉ヶ崎 寧々 obj:14 anmitsu BGA : photonskyto  *L.MIRROR",
     "comment" : "FULL ON",
@@ -19884,6 +19896,12 @@
     "md5"     : "2f2ae6c9e40ecc583edfdab087346e80"
 },{
     "level"   : "8",
+    "title"   : "Pandemonium [DP INSANE]",
+    "artist"  : "xi/obj:epics- *R.MIRROR or L.MIRROR",
+    "comment" : "無調音楽",
+    "md5"     : "01d7180735bf131da1c0fe37c67ccc6c"
+},{
+    "level"   : "8",
     "title"   : "Pangaea [LNA14]",
     "artist"  : "sasakure.UK obj:ucc *FLIP L.MIRROR",
     "comment" : "World Orchestra",
@@ -20122,6 +20140,12 @@
     "artist"  : "HUYU obj:肴",
     "comment" : "90's pop rock",
     "md5"     : "7b601571dc5e9b53aa3747f8d891a42b"
+},{
+    "level"   : "8",
+    "title"   : "Sequential Emotions [EX14]",
+    "artist"  : "Yamajet × Mentalstock obj:ucc *R.MIRROR",
+    "comment" : "TECH HOUSE",
+    "md5"     : "defb9e933719d03394562806000222e4"
 },{
     "level"   : "8",
     "title"   : "shocKing King [DIFFICULT D]",
@@ -22116,12 +22140,6 @@
     "md5"     : "43e3b37cef8d58b0355f1195eb048382"
 },{
     "level"   : "9",
-    "title"   : "Pandemonium [DP INSANE]",
-    "artist"  : "xi/obj:epics- *R.MIRROR",
-    "comment" : "無調音楽",
-    "md5"     : "01d7180735bf131da1c0fe37c67ccc6c"
-},{
-    "level"   : "9",
     "title"   : "PARAMOUNT ANTHEM! [DP ANOTHER]",
     "artist"  : "あかりちゃん BGA:Frantzz / obj:hi-low",
     "comment" : "CANDY RAVE",
@@ -22324,12 +22342,6 @@
     "artist"  : "w_tre respect for AT&HU / obj:lichtr *R.MIRROR or L.MIRROR",
     "comment" : "PIANO ALGEBRA",
     "md5"     : "8c387cf9f0723383e0ae2f140a17dc6d"
-},{
-    "level"   : "9",
-    "title"   : "Sequential Emotions [EX14]",
-    "artist"  : "Yamajet × Mentalstock obj:ucc *R.MIRROR",
-    "comment" : "TECH HOUSE",
-    "md5"     : "defb9e933719d03394562806000222e4"
 },{
     "level"   : "9",
     "title"   : "SIREN OF DAWN (DP ANOTHER)",
@@ -22606,12 +22618,6 @@
     "artist"  : "姉ヶ崎 寧々 obj;茜ヶ崎 空 BGA : photonskyto",
     "comment" : "FULL ON -offnen Sie die Tur von Cuvelia-",
     "md5"     : "64b0144472846f9d7fa50b83c14960e9"
-},{
-    "level"   : "9",
-    "title"   : "ZENITHALIZE [DPz]",
-    "artist"  : "姉ヶ崎 寧々/obj kohane BGA : photonskyto  *FLIP",
-    "comment" : "FULL ON",
-    "md5"     : "4e5e6bec380d3c84a7b73b81ed436d54"
 },{
     "level"   : "9",
     "title"   : "× -flatterer14-",
@@ -24337,7 +24343,7 @@
 },{
     "level"   : "10",
     "title"   : "オトゲラヴ！ [ムリザラヴ！]",
-    "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん / obj:zairu",
+    "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん / obj:zairu  *FLIP",
     "comment" : "A-POP",
     "md5"     : "eacd9cdb531fa328cefc8d0b155c30f8"
 },{
@@ -28776,12 +28782,6 @@
     "md5"     : "00c69e73b5dd219e761a845c12ef2b16"
 },{
     "level"   : "★5",
-    "title"   : "Castor(BMS edit) [DP INSANE]",
-    "artist"  : "polysha mov.zue-row / obj:コトネとしずくちゃん",
-    "comment" : "TRANCE",
-    "md5"     : "75d4d7993c5608a92d42bd6a6803310b"
-},{
-    "level"   : "★5",
     "title"   : "cheeselove [DP mami]",
     "artist"  : "charlotte obj. Gisela",
     "comment" : "okashicore",
@@ -29010,6 +29010,12 @@
     "md5"     : "b19f73e0110111952bb2e87f6a472a1d"
 },{
     "level"   : "★5",
+    "title"   : "Knock It Off [4G]",
+    "artist"  : "ETIA. photonskyto/OBJ:KLOC  *FLIP R.MIR or L.MIR",
+    "comment" : "TRANCECORE",
+    "md5"     : "52e69449b16ff00c31b392a3603d16c2"
+},{
+    "level"   : "★5",
     "title"   : "KonfliKt Princess [DP INFINITY]",
     "artist"  : "奏 obj:kuro mov:いとう まさき",
     "comment" : "Overture",
@@ -29215,7 +29221,7 @@
 },{
     "level"   : "★5",
     "title"   : "res extensa [DP EX]",
-    "artist"  : "adamthix / obj.A- vs 綾 *FLIP",
+    "artist"  : "adamthix / obj.A- vs 綾 *FLIP LR.MIRROR",
     "comment" : "TECHNO",
     "md5"     : "8349851d16a6dda7500af45194ee2859"
 },{
@@ -29551,7 +29557,7 @@
 },{
     "level"   : "★5",
     "title"   : "時架け [我]",
-    "artist"  : "Is-m / obj:Hersh Vo.　あまね（COOL&CREATE） BGA:iimo  *MAXBPM",
+    "artist"  : "Is-m / obj:Hersh Vo.　あまね（COOL&CREATE） BGA:iimo  *MAXBPM FLIP",
     "comment" : "ETERNAL",
     "md5"     : "1ed77eed505b85aff747d33b68ad4550"
 },{
@@ -29785,7 +29791,7 @@
 },{
     "level"   : "★6",
     "title"   : "Blooming [14key Insane]",
-    "artist"  : "Trish Movie:Vergil/Obj:ちとせ",
+    "artist"  : "Trish Movie:Vergil/Obj:ちとせ  *正規 or FLIP R.MIR",
     "comment" : "New Age",
     "md5"     : "ce4b526b809db30a71e9e2be9880f303"
 },{
@@ -29794,6 +29800,12 @@
     "artist"  : "uma feat. ましろ obj:kuro *FLIP LR.MIRROR",
     "comment" : "Eurobeat",
     "md5"     : "c6099221e3870cf5508d712ade89264f"
+},{
+    "level"   : "★6",
+    "title"   : "Castor(BMS edit) [DP INSANE]",
+    "artist"  : "polysha mov.zue-row / obj:コトネとしずくちゃん",
+    "comment" : "TRANCE",
+    "md5"     : "75d4d7993c5608a92d42bd6a6803310b"
 },{
     "level"   : "★6",
     "title"   : "conflict [DP 無茶THER]",
@@ -29988,12 +30000,6 @@
     "md5"     : "b5fddf61b7c813be76ce713fdd6100d7"
 },{
     "level"   : "★6",
-    "title"   : "Knock It Off [4G]",
-    "artist"  : "ETIA. photonskyto/OBJ:KLOC  *FLIP R.MIR or L.MIR",
-    "comment" : "TRANCECORE",
-    "md5"     : "52e69449b16ff00c31b392a3603d16c2"
-},{
-    "level"   : "★6",
     "title"   : "l'amour d'amour ～novice14～",
     "artist"  : "orangentle *FLIP",
     "comment" : "Lounge Pop",
@@ -30061,7 +30067,7 @@
 },{
     "level"   : "★6",
     "title"   : "MASAMUNE [DP CHALLENGE]",
-    "artist"  : "NS-Factory",
+    "artist"  : "NS-Factory *R.MIRROR",
     "comment" : "Oriental Edge",
     "md5"     : "d7557959c793edd42e9a03ede1e01fef"
 },{
@@ -30505,7 +30511,7 @@
 },{
     "level"   : "★6",
     "title"   : "異説彼岸花 第二 -終世のリコリス- [LN版DP2000KEY]",
-    "artist"  : "田井中 律 / obj:二代目IIDX16相坂",
+    "artist"  : "田井中 律 / obj:二代目IIDX16相坂 *FLIP or L.MIRROR",
     "comment" : "HARD RENAISSANCE",
     "md5"     : "2bd7c7bd3d6c54d3f85bfb610a1afd15"
 },{
