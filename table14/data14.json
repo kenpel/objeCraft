@@ -133,7 +133,7 @@
 },{
     "level"   : "?",
     "title"   : "Bullshit Delta",
-    "artist"  : "ANDROID-TC *FLIP LR.MIRROR",
+    "artist"  : "ANDROID-TC *SUD+ MINBPM 120 -> 60",
     "comment" : "ALLSPEED HARDCORE",
     "md5"     : "c2538c0db98d9ec8a2e1a9a63928f929"
 },{
@@ -10914,6 +10914,12 @@
     "md5"     : "09687f98f640f49bd1e80ad39b99dcd9"
 },{
     "level"   : "4",
+    "title"   : "長調による12の練習曲 第5番 アレグロ・バルバロ",
+    "artist"  : "Charles Valentin Alkan bms:Yosk!",
+    "comment" : "TRANSCENDENTAL ETUDE",
+    "md5"     : "bdb31008ab787e059cce5dd4c31246e5"
+},{
+    "level"   : "4",
     "title"   : "雪花 (14keys Maniac)",
     "artist"  : "うまるつふり / obj:imit8or",
     "comment" : "白透",
@@ -11242,6 +11248,12 @@
     "artist"  : "Muhiyh *LR.RANDOM",
     "comment" : "Die Walkure",
     "md5"     : "35884dc12e83ce1be127c8fa1b477e5f"
+},{
+    "level"   : "5",
+    "title"   : "Bullshit Delta",
+    "artist"  : "ANDROID-TC *SUD+ MINBPM 120 -> 60",
+    "comment" : "ALLSPEED HARDCORE",
+    "md5"     : "c31ec5efc678fada7ce59183314d65da"
 },{
     "level"   : "5",
     "title"   : "C.E. Days -14EX-",
@@ -19020,12 +19032,6 @@
     "md5"     : "106bb6ae7202f07d6081015beaef316a"
 },{
     "level"   : "8",
-    "title"   : "Bullshit Delta",
-    "artist"  : "ANDROID-TC *MINBPM 70",
-    "comment" : "ALLSPEED HARDCORE",
-    "md5"     : "c31ec5efc678fada7ce59183314d65da"
-},{
-    "level"   : "8",
     "title"   : "Calamity Fortune (DPB)",
     "artist"  : "ZUN remixed by LeaF *R.MIRROR",
     "comment" : "EMOTIONAL HARDCORE TECHNO",
@@ -20544,6 +20550,12 @@
     "md5"     : "8ef1ffc94ba92653701ac09853eac235"
 },{
     "level"   : "8",
+    "title"   : "アスレチック  [DP INSANE]",
+    "artist"  : "近藤浩治 bms:Yosk!",
+    "comment" : "ヨッシーアイランド",
+    "md5"     : "b81fa95668546ea29c83e9846741c0ef"
+},{
+    "level"   : "8",
     "title"   : "アルティメットリユニオン DP ANOTHER",
     "artist"  : "nmk/-if-/obj@PEN",
     "comment" : "CYBER　WALTZ",
@@ -20923,7 +20935,7 @@
 },{
     "level"   : "8",
     "title"   : "聖剣伝説2 ～呪術師～ (DP BLACK ANOTHER)",
-    "artist"  : "mattaku",
+    "artist"  : "mattaku *FLIP R.MIRROR",
     "comment" : "game music",
     "md5"     : "6005a25611488935acb25a37c01baa79"
 },{
@@ -21271,7 +21283,7 @@
 },{
     "level"   : "9",
     "title"   : "CHEETAHMEN II -REMIX EX14-",
-    "artist"  : "FALL / obj:Redrum *FLIP LR.MIRROR",
+    "artist"  : "FALL / obj:Redrum *FLIP LR.MIR or FLIP LR.RAN",
     "comment" : "TECHNO",
     "md5"     : "ee18e374710600a3e5a3bf9963d915cf"
 },{
@@ -21846,12 +21858,6 @@
     "md5"     : "edbf956170b237bb9351b568d1d1da6b"
 },{
     "level"   : "9",
-    "title"   : "L9 (Stair to Hell mode)Another DP [皿なし]",
-    "artist"  : "paraoka　object by NORE/DP:DJKYO *LR.MIRROR",
-    "comment" : "pro階段sive",
-    "md5"     : "26fa4b900122ef85aa65b4d9e2190f60"
-},{
-    "level"   : "9",
     "title"   : "Lake of Moonlight [A14]",
     "artist"  : "東風谷誠 feat.かなえゆめ obj:ucc *正規 or FLIP LR.MIRROR",
     "comment" : "RECOLLECTION TRANCE",
@@ -21924,12 +21930,6 @@
     "md5"     : "19dd7514996c1d83396cf79d33dd0b03"
 },{
     "level"   : "9",
-    "title"   : "LUNASA the Stormcauser [Another+]",
-    "artist"  : "ZUN (Remixed by EXCALIpUR)+- *FLIP L.MIRROR",
-    "comment" : "FREEFORM",
-    "md5"     : "5e85a560b6c6b1427bc4cb763d242552"
-},{
-    "level"   : "9",
     "title"   : "Lunatic Rave [ANOTHER]",
     "artist"  : "Ark-Z / NA2KI(CrossGear) / PEN",
     "comment" : "TRANCE SEQUENCER",
@@ -21967,7 +21967,7 @@
 },{
     "level"   : "9",
     "title"   : "Maharaja Trance [Maharani]",
-    "artist"  : "Queen P.A.L. / Hador *FLIP R.MIRROR",
+    "artist"  : "Queen P.A.L. / Hador *FLIP LR.MIRROR",
     "comment" : "HYPER TECHNO",
     "md5"     : "e8cf73919a799ccbceb3d8d7e95eb00e"
 },{
@@ -22009,7 +22009,7 @@
 },{
     "level"   : "9",
     "title"   : "MIDNIGHT STROLLING [14INSANE]",
-    "artist"  : "Ill *FLIP",
+    "artist"  : "Ill",
     "comment" : "TECHNO",
     "md5"     : "6d2792e648c6bab8a825af2417d37916"
 },{
@@ -22051,7 +22051,7 @@
 },{
     "level"   : "9",
     "title"   : "Mokotans -Prototype-",
-    "artist"  : "nmk/sPH1Ca/Symphonian",
+    "artist"  : "nmk/sPH1Ca/Symphonian *FLIP",
     "comment" : "HARD RESURRECTION",
     "md5"     : "69ceb4d52c91737095bb82dc9dafe03c"
 },{
@@ -22069,7 +22069,7 @@
 },{
     "level"   : "9",
     "title"   : "Moonscape (DP ANOTHER+)",
-    "artist"  : "syatten / srof *FLIP LR.RANDOM",
+    "artist"  : "syatten / srof",
     "comment" : "European Trance",
     "md5"     : "064ac9af32dfe5362a5b35066dd4dcd4"
 },{
@@ -22705,7 +22705,7 @@
 },{
     "level"   : "9",
     "title"   : "サーカス・ギャロップ -normal-",
-    "artist"  : "Marc-Andre' Hamelin *FLIP LR.MIRROR",
+    "artist"  : "Marc-Andre' Hamelin *FLIP LR.MIR or FLIP LR.RAN",
     "comment" : "現代音楽",
     "md5"     : "773457357c979ad7602a52e16d986743"
 },{
@@ -23718,6 +23718,12 @@
     "md5"     : "65e6d0847431d8b5d8c2615fe4185a40"
 },{
     "level"   : "10",
+    "title"   : "L9 (Stair to Hell mode)Another DP [皿なし]",
+    "artist"  : "paraoka　object by NORE/DP:DJKYO *LR.MIRROR",
+    "comment" : "pro階段sive",
+    "md5"     : "26fa4b900122ef85aa65b4d9e2190f60"
+},{
+    "level"   : "10",
     "title"   : "L9 -Shuttle run",
     "artist"  : "paraoka object by Kz/Hanon",
     "comment" : "Progressive",
@@ -23770,6 +23776,12 @@
     "artist"  : "honey princess *最後少し止まる",
     "comment" : "H.H.P",
     "md5"     : "d7ceee363f148e62affaf0efab8bc7c3"
+},{
+    "level"   : "10",
+    "title"   : "LUNASA the Stormcauser [Another+]",
+    "artist"  : "ZUN (Remixed by EXCALIpUR)+-",
+    "comment" : "FREEFORM",
+    "md5"     : "5e85a560b6c6b1427bc4cb763d242552"
 },{
     "level"   : "10",
     "title"   : "Lyrical Stream  [ANOTHER14]",
@@ -25693,7 +25705,7 @@
 },{
     "level"   : "★2",
     "title"   : "BGT-No.15",
-    "artist"  : "-45 (obj:EIT)",
+    "artist"  : "-45 (obj:EIT) *正規 or FLIP R.MIRROR",
     "comment" : "Occultic",
     "md5"     : "170a67652e0a91aa3c14fab625141409"
 },{
@@ -25789,7 +25801,7 @@
 },{
     "level"   : "★2",
     "title"   : "Dream Rocket* [DPA]",
-    "artist"  : "Junk OBJ:KLOC  *L.MIRROR",
+    "artist"  : "Junk OBJ:KLOC",
     "comment" : "Epic Trance",
     "md5"     : "ba63eceb4bc2fcee654b559202dff442"
 },{
@@ -26556,6 +26568,12 @@
     "md5"     : "f6e9fe9f7efde02c8fad22eca4e86964"
 },{
     "level"   : "★2",
+    "title"   : "長調による12の練習曲 第5番 アレグロ・バルバロ",
+    "artist"  : "Charles Valentin Alkan bms:Yosk!  *L.MIRROR",
+    "comment" : "TRANSCENDENTAL ETUDE",
+    "md5"     : "ec16cb9aabc1c72b8af11f6ffee40491"
+},{
+    "level"   : "★2",
     "title"   : "魔理沙が大変な事になりました [EX14]",
     "artist"  : "IOSYS Remixed by Hate obj:ucc",
     "comment" : "原曲破壊",
@@ -26635,7 +26653,7 @@
 },{
     "level"   : "★3",
     "title"   : "BBBLOW (EX14)",
-    "artist"  : "onoken / obj:Redrum *FLIP R.MIRROR or 正規",
+    "artist"  : "onoken / obj:Redrum *FLIP or 正規",
     "comment" : "tribal euro",
     "md5"     : "0336fef6ffbc308a99b6b9db7d0539ed"
 },{
@@ -26713,7 +26731,7 @@
 },{
     "level"   : "★3",
     "title"   : "DEEPDARKFANTASY (14 Aniki)",
-    "artist"  : "DaDass vs Sinnippolian *R.MIRROR",
+    "artist"  : "DaDass vs Sinnippolian *R.MIRROR or FLIP L.MIR R.RAN",
     "comment" : "Man's Minimal",
     "md5"     : "9bfcf3fdfa1b1adf87fb7e712e3644c3"
 },{
@@ -29496,12 +29514,6 @@
     "md5"     : "c2eec0f82b71c5c3a9218c5fae4dc02c"
 },{
     "level"   : "★5",
-    "title"   : "プナイプナイたいそう [DP INS☆NE]",
-    "artist"  : "立秋 feat.ちょこ obj:Starfish",
-    "comment" : "プナイプナイPOP",
-    "md5"     : "f8e822c988dc4181a783c81dc4e111af"
-},{
-    "level"   : "★5",
     "title"   : "ヨッシーアイランド 「クッパ」 [14KEYS SPECIAL]",
     "artist"  : "近藤浩治 BMS:krg / obj:alt",
     "comment" : "GAME MUSIC",
@@ -29509,7 +29521,7 @@
 },{
     "level"   : "★5",
     "title"   : "ロッカー [大学]",
-    "artist"  : "ATEMAK - obj:(=ﾟωﾟ)ノぃょぅ *FLIP",
+    "artist"  : "ATEMAK - obj:(=ﾟωﾟ)ノぃょぅ",
     "comment" : "H-techno",
     "md5"     : "b51bf7b3c6d0decb459f01d986f7c04b"
 },{
@@ -29692,6 +29704,12 @@
     "artist"  : "nitro obj:kuro",
     "comment" : "MACHINEDANCE",
     "md5"     : "6b96cd22494719cc8920ed7979701929"
+},{
+    "level"   : "★6",
+    "title"   : "A (nepiA)",
+    "artist"  : "裏吉川 obj:NEPIA *FLIP R.MIR or R.MIR",
+    "comment" : "",
+    "md5"     : "cf6faa5dededb13d2f115a388e6ad29b"
 },{
     "level"   : "★6",
     "title"   : "A c i - L [DPA by blazar]",
@@ -30396,6 +30414,12 @@
     "md5"     : "d2abdf5b2af17882728b196fc6eed2ec"
 },{
     "level"   : "★6",
+    "title"   : "プナイプナイたいそう [DP INS☆NE]",
+    "artist"  : "立秋 feat.ちょこ obj:Starfish",
+    "comment" : "プナイプナイPOP",
+    "md5"     : "f8e822c988dc4181a783c81dc4e111af"
+},{
+    "level"   : "★6",
     "title"   : "ホーリーサンバランド -DP LAST BOSS-",
     "artist"  : "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.LetsOTL",
     "comment" : "ゆったり系アンセムトランス",
@@ -30562,12 +30586,6 @@
     "artist"  : "鹿目まどか /差分?赤い人 obj ;key 佐倉杏子",
     "comment" : "ENTROPY",
     "md5"     : "092aa3e55d78c2c36eae96cdc058fd62"
-},{
-    "level"   : "★7",
-    "title"   : "A (nepiA)",
-    "artist"  : "裏吉川 obj:NEPIA *FLIP R.MIR or R.MIR",
-    "comment" : "",
-    "md5"     : "cf6faa5dededb13d2f115a388e6ad29b"
 },{
     "level"   : "★7",
     "title"   : "Akasha",
