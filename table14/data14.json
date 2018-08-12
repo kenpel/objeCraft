@@ -18948,6 +18948,12 @@
     "md5"     : "d429d500063a659ccbcf85776490be99"
 },{
     "level"   : "8",
+    "title"   : "Bicolor Spirit [DP INSANE]",
+    "artist"  : "urimu Movie:RAIDEN / Obj:ゆ～兎",
+    "comment" : "HARD TRANCE",
+    "md5"     : "7008ff0237c4c9c65809950654b8c01c"
+},{
+    "level"   : "8",
     "title"   : "BINDING STROKE",
     "artist"  : "Nankumo (obj:EIT)",
     "comment" : "TECHNO",
@@ -19198,6 +19204,12 @@
     "artist"  : "moma / *8284*",
     "comment" : "Piano Forte",
     "md5"     : "6bed8cef4dc0d2de14f8efaac88afd44"
+},{
+    "level"   : "8",
+    "title"   : "encore [DC]",
+    "artist"  : "Hate+ / obj = Mr.egg BGA : S.P.S.B.  *AVERAGE",
+    "comment" : "- Level 2 -",
+    "md5"     : "a6e27067459b53821d4e54deddf7b544"
 },{
     "level"   : "8",
     "title"   : "End Time [DP ANOTHER]",
@@ -19582,6 +19594,18 @@
     "artist"  : "polysha Obj.Gatia",
     "comment" : "SYMPHONIC DRUM'N BASS",
     "md5"     : "b22c50cdcdd666c651dba012f59ccb19"
+},{
+    "level"   : "8",
+    "title"   : "Joker ('A`)",
+    "artist"  : "D.J.Nero - obj:(=ﾟωﾟ)ノぃょぅ",
+    "comment" : "RENAISSANCE",
+    "md5"     : "e9b91377d8dd16de5567e45ce5689d8c"
+},{
+    "level"   : "8",
+    "title"   : "Judah [DP INSANE]",
+    "artist"  : "上杉うた/obj:epics-",
+    "comment" : "hard nrg",
+    "md5"     : "4b2d84e3ee6fddaf678d30cb695d638a"
 },{
     "level"   : "8",
     "title"   : "jus†ice [ANOTHER]",
@@ -21174,12 +21198,6 @@
     "md5"     : "5894999d95f3d09819d8bb8f80f545df"
 },{
     "level"   : "9",
-    "title"   : "Bicolor Spirit [DP INSANE]",
-    "artist"  : "urimu Movie:RAIDEN / Obj:ゆ～兎",
-    "comment" : "HARD TRANCE",
-    "md5"     : "7008ff0237c4c9c65809950654b8c01c"
-},{
-    "level"   : "9",
     "title"   : "bigbug (ANOTHER)",
     "artist"  : "bug-light obj:JOY*T *LR.RANDOM",
     "comment" : "TECHNO",
@@ -21492,12 +21510,6 @@
     "md5"     : "df08b8d24f55da5a91d3f536d5450d70"
 },{
     "level"   : "9",
-    "title"   : "encore [DC]",
-    "artist"  : "Hate+ / obj = Mr.egg BGA : S.P.S.B.  *AVERAGE",
-    "comment" : "- Level 2 -",
-    "md5"     : "a6e27067459b53821d4e54deddf7b544"
-},{
-    "level"   : "9",
     "title"   : "Endless Dream MGNother.2nd",
     "artist"  : "SHIKI // BGA:あかくらげ & M.H [obj:MGN]",
     "comment" : "HAPPY HARDCORE(14key)",
@@ -21715,7 +21727,7 @@
 },{
     "level"   : "9",
     "title"   : "HAELEQUIN [DP EX]",
-    "artist"  : "orangentle / deadblue238 / obj:Louis *L.MIRROR",
+    "artist"  : "orangentle / deadblue238 / obj:Louis *R.MIRROR",
     "comment" : "Dissociative Identity Disorder",
     "md5"     : "71f10dfbda1e77d43241d5557649639a"
 },{
@@ -21796,18 +21808,6 @@
     "artist"  : "kohaxy obj.vectorla",
     "comment" : "Hi-tech Fullon",
     "md5"     : "f0b2bacc636002f743bc458ee90b9a5c"
-},{
-    "level"   : "9",
-    "title"   : "Joker ('A`)",
-    "artist"  : "D.J.Nero - obj:(=ﾟωﾟ)ノぃょぅ *R.MIRROR",
-    "comment" : "RENAISSANCE",
-    "md5"     : "e9b91377d8dd16de5567e45ce5689d8c"
-},{
-    "level"   : "9",
-    "title"   : "Judah [DP INSANE]",
-    "artist"  : "上杉うた/obj:epics- *FLIP",
-    "comment" : "hard nrg",
-    "md5"     : "4b2d84e3ee6fddaf678d30cb695d638a"
 },{
     "level"   : "9",
     "title"   : "Junkie(BMS Edit) (DA)",
@@ -28206,12 +28206,6 @@
     "md5"     : "85d9563ff6fa43d6c39e0c1128a79b6e"
 },{
     "level"   : "★4",
-    "title"   : "R'DAM NATION 2001 [DPH]",
-    "artist"  : "Aozuna *FLIP LR.RAN 1p3->1, 2p5->7",
-    "comment" : "GABBA",
-    "md5"     : "72aaf3ae20efde5878937d101c51bfb5"
-},{
-    "level"   : "★4",
     "title"   : "RAY",
     "artist"  : "MILK obj@PEN  *FLIP",
     "comment" : "HARD TRANCE",
@@ -28872,6 +28866,12 @@
     "md5"     : "1920be665840a7e78b44ff384ed1a4b6"
 },{
     "level"   : "★5",
+    "title"   : "digital tribe -DP Another-",
+    "artist"  : "GEMA *LR.RANDOM",
+    "comment" : "Tek Tribal",
+    "md5"     : "974d88ff4af54b8efe310aa9ed94d655"
+},{
+    "level"   : "★5",
     "title"   : "Doppelganger [DP LAST BOSS]",
     "artist"  : "LeaF /obj: QJITAI Movie:To7  *FIXOFF 180",
     "comment" : "EINSAMKEIT",
@@ -29203,7 +29203,7 @@
 },{
     "level"   : "★5",
     "title"   : "Pluto [Sadistic14]",
-    "artist"  : "midori  obj ； S *FLIP LR.MIRROR",
+    "artist"  : "midori  obj ； S *FLIP LR.MIR or FLIP LR.RAN",
     "comment" : "Trance",
     "md5"     : "b05fcf581121bbcfa79439e032c5931a"
 },{
@@ -29224,6 +29224,12 @@
     "artist"  : "モリモリあつし obj:kuro bga.HALLPBE.S",
     "comment" : "HARD RENAISSANCE",
     "md5"     : "80bdcd9226083fbc2c68dbf92b4b1159"
+},{
+    "level"   : "★5",
+    "title"   : "R'DAM NATION 2001 [DPH]",
+    "artist"  : "Aozuna *FLIP LR.RAN 1p3->1, 2p5->7",
+    "comment" : "GABBA",
+    "md5"     : "72aaf3ae20efde5878937d101c51bfb5"
 },{
     "level"   : "★5",
     "title"   : "Re*incarnacion (DPB)",
@@ -29845,7 +29851,7 @@
 },{
     "level"   : "★6",
     "title"   : "Cynthia -with moon light-",
-    "artist"  : "maxXx65535 / cyclia *R.MIRROR",
+    "artist"  : "maxXx65535 / cyclia",
     "comment" : "Artcore(DPA)",
     "md5"     : "c9be3fded9f1f19956c170152193475f"
 },{
@@ -29872,12 +29878,6 @@
     "artist"  : "BACO (DPobject by Mr.2MV + tsk) *FLIP or 正規",
     "comment" : "ELECTROSHOCK",
     "md5"     : "dba97e7a716003bb99f94c27da3f88ae"
-},{
-    "level"   : "★6",
-    "title"   : "digital tribe -DP Another-",
-    "artist"  : "GEMA *LR.RANDOM",
-    "comment" : "Tek Tribal",
-    "md5"     : "974d88ff4af54b8efe310aa9ed94d655"
 },{
     "level"   : "★6",
     "title"   : "disperagioia [DP CHALLENGER]",
@@ -30763,7 +30763,7 @@
 },{
     "level"   : "★7",
     "title"   : "I",
-    "artist"  : "LeaF Movie:Optie / obj:lichtr  *AVE-30",
+    "artist"  : "LeaF Movie:Optie / obj:lichtr  *SUD+ AVE-40",
     "comment" : "PROGRESSIVE IDM",
     "md5"     : "4f8575de279c590c823b7de0a21110bd"
 },{
