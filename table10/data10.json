@@ -84,6 +84,12 @@
     "md5"     : "d41ab13e9adfca71e02f413ef6ce2907"
 },{
     "level"   : "?",
+    "title"   : "Electric Butterfly ~SUPER HARD~",
+    "artist"  : "t+pazolite",
+    "comment" : "Happy Hardcore",
+    "md5"     : "9b58f3f66d7f536d8623c75ae6556b36"
+},{
+    "level"   : "?",
     "title"   : "ENDTITLE 9 [DP HARD]",
     "artist"  : "TEM",
     "comment" : "PROGRESSIVE ROCK",
@@ -318,6 +324,12 @@
     "md5"     : "0c00ecdf9fc28bb1ebd9e89a400419c6"
 },{
     "level"   : "1",
+    "title"   : "for me... (Radio Edit)",
+    "artist"  : "seizan",
+    "comment" : "JUSCO NATION JAZZ HOUSE",
+    "md5"     : "d92930beac2af3cf06189830ef65b4dd"
+},{
+    "level"   : "1",
     "title"   : "magenda water (double)",
     "artist"  : "Mr.H",
     "comment" : "TECHNO",
@@ -334,6 +346,12 @@
     "artist"  : "FateMaker (2012.1/22)",
     "comment" : "Peaceful Piano",
     "md5"     : "e990155b448e72c524e619aa9b1bceec"
+},{
+    "level"   : "1",
+    "title"   : "rave and rave [HARD10]",
+    "artist"  : "MIX-MAX *LR.MIRROR",
+    "comment" : "TECHNO",
+    "md5"     : "aef30fc3c8d15701d0f9e04c3116d1a3"
 },{
     "level"   : "1",
     "title"   : "Respect 2 beatmania",
@@ -514,6 +532,12 @@
     "artist"  : "Cres / 131",
     "comment" : "ReQuiEm tRanCe",
     "md5"     : "0091e19abaf44d3f54d6f4f5e0be50c3"
+},{
+    "level"   : "3",
+    "title"   : "G3 Double",
+    "artist"  : "Mr.H",
+    "comment" : "DRUM'N CORE-5",
+    "md5"     : "8365bd0162273393f01b12765452d156"
 },{
     "level"   : "3",
     "title"   : "Gun to Childhead",
@@ -732,6 +756,12 @@
     "md5"     : "4637cad5d3955f30e988a789e79643e7"
 },{
     "level"   : "5",
+    "title"   : "31,AUGUST",
+    "artist"  : "DJ-PC *MAXBPM LR.MIRROR",
+    "comment" : "END",
+    "md5"     : "6326e30fccfb9adcbc101c054ab8b4f5"
+},{
+    "level"   : "5",
     "title"   : "7 colors* ~HARD~",
     "artist"  : "Ym1024 feat. lamie*",
     "comment" : "J-Rock Pop",
@@ -760,6 +790,12 @@
     "artist"  : "Is-m",
     "comment" : "COLLAGE TECHNO",
     "md5"     : "11d71ccbc5cd99a9ec27957c130a7040"
+},{
+    "level"   : "5",
+    "title"   : "breakpush [dp hard]",
+    "artist"  : "ポポス",
+    "comment" : "electronica",
+    "md5"     : "4b38d243db9a9cf16e2dbe2f08afef63"
 },{
     "level"   : "5",
     "title"   : "contact force sense (remix)",
