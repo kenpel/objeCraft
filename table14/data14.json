@@ -18924,6 +18924,12 @@
     "md5"     : "80dcf25e5a98e5cf7943ac4bc8cb0cfc"
 },{
     "level"   : "8",
+    "title"   : "Bad Apple!! -YH mix- [Macintosh]",
+    "artist"  : "ZUN , Arr:ゆ～兎 / Obj:killer TOMATO",
+    "comment" : "Trance",
+    "md5"     : "c2d6647787de1c2033991c66bde71526"
+},{
+    "level"   : "8",
     "title"   : "Beach Volleybal Fighting!  [Mortal14]",
     "artist"  : "Mr.Faine obj:killer TOMATO",
     "comment" : "Happy Hardcore",
@@ -21049,7 +21055,7 @@
 },{
     "level"   : "9",
     "title"   : "Aeventyr [DP EX]",
-    "artist"  : "Grand Thaw / obj:Louis *R.MIRROR",
+    "artist"  : "Grand Thaw / obj:Louis",
     "comment" : "Neo Pagan Folk",
     "md5"     : "b3bc559673f21782da88878abed7538b"
 },{
@@ -21157,15 +21163,9 @@
 },{
     "level"   : "9",
     "title"   : "AVALON [Hi-Speed 200]",
-    "artist"  : "Team:SASAKURATION :obj FIXBPM-Min *FIXOFF 220",
+    "artist"  : "Team:SASAKURATION :obj FIXBPM-Min *SUD+ FIXOFF 240",
     "comment" : "Ω",
     "md5"     : "03878db294265ae58099f87c1f826ff1"
-},{
-    "level"   : "9",
-    "title"   : "Bad Apple!! -YH mix- [Macintosh]",
-    "artist"  : "ZUN , Arr:ゆ～兎 / Obj:killer TOMATO *FLIP L.MIRROR",
-    "comment" : "Trance",
-    "md5"     : "c2d6647787de1c2033991c66bde71526"
 },{
     "level"   : "9",
     "title"   : "Beatrice",
@@ -22830,22 +22830,10 @@
     "md5"     : "f9eed42418a78fc6559c9c50b89914d4"
 },{
     "level"   : "9",
-    "title"   : "夜がずり落ちてくる [EX14]",
-    "artist"  : "Ｙ丸 obj:ucc *L.MIRROR or FLIP R.MIRROR",
-    "comment" : "KUSO Synth",
-    "md5"     : "26e9889ca0d6c4b1461466bfc1c8564a"
-},{
-    "level"   : "9",
     "title"   : "夜桜 [二千本桜]",
     "artist"  : "彩音 / 小宮真央 [obj:MGN/Re_2017]",
     "comment" : "oriental",
     "md5"     : "75fc64d294494a623dbe9145803e1825"
-},{
-    "level"   : "9",
-    "title"   : "夢、幻。 -皆、伝。-",
-    "artist"  : "NIKITA / misokabocha obj:shyBlasters(LA＆N)",
-    "comment" : "SYMPHONIC BREAK BEATS",
-    "md5"     : "ef096b099ffddf02c6749eb1b029d818"
 },{
     "level"   : "9",
     "title"   : "夢、幻。 [Lumen Lunae]",
@@ -22986,12 +22974,6 @@
     "md5"     : "a4c19b77256f5df367c04b745c6fc00b"
 },{
     "level"   : "9",
-    "title"   : "秩序の秋桜 [皿皿-Hyper-]",
-    "artist"  : "くっちー obj:yutaka Movie:HEART CREATE  *R.MIRROR",
-    "comment" : "CYBER OPUS",
-    "md5"     : "17f9d3a176c5faee464ab0b7d62167d0"
-},{
-    "level"   : "9",
     "title"   : "空に光る [DPA]",
     "artist"  : "crimson OBJ:KLOC  *FLIP R.MIRROR",
     "comment" : "POP TRANCE",
@@ -23080,12 +23062,6 @@
     "artist"  : "黒雛 obj:ucc *R.MIRROR",
     "comment" : "ラプンツェル",
     "md5"     : "18550a74c7b4856f53d1d547afc8d991"
-},{
-    "level"   : "9",
-    "title"   : "飛翔天華 [精霊天翔]",
-    "artist"  : "しらいし obj:けろりん *LR.RANDOM",
-    "comment" : "J-CLASSICAL TRANCE CORE",
-    "md5"     : "ec34ec3a5c44f59572a19e4eeaed8cbd"
 },{
     "level"   : "9",
     "title"   : "魔界イコノクラスト [LNEX14]",
@@ -23764,6 +23740,12 @@
     "artist"  : "horoscope/obj:hamburger object by あ",
     "comment" : "リュウセイグン",
     "md5"     : "e81b95a8cf612e75ef36c08ca9f1ec12"
+},{
+    "level"   : "10",
+    "title"   : "Lonely Cat [DP Cat fog]",
+    "artist"  : "* (Asterisk) 前川みく×多田李衣菜 / obj:MGN",
+    "comment" : "HOUSE",
+    "md5"     : "fd25ef62b4d13e156d280959e91a7bb0"
 },{
     "level"   : "10",
     "title"   : "Love-Colored Look of the Sky [Downsized notes]",
@@ -24456,6 +24438,18 @@
     "md5"     : "3156c6908d455bd9dc3bad7ad764e744"
 },{
     "level"   : "10",
+    "title"   : "夜がずり落ちてくる [EX14]",
+    "artist"  : "Ｙ丸 obj:ucc *L.MIRROR or FLIP R.MIRROR",
+    "comment" : "KUSO Synth",
+    "md5"     : "26e9889ca0d6c4b1461466bfc1c8564a"
+},{
+    "level"   : "10",
+    "title"   : "夢、幻。 -皆、伝。-",
+    "artist"  : "NIKITA / misokabocha obj:shyBlasters(LA＆N) *FLIP LR.MIRROR",
+    "comment" : "SYMPHONIC BREAK BEATS",
+    "md5"     : "ef096b099ffddf02c6749eb1b029d818"
+},{
+    "level"   : "10",
     "title"   : "奏龍ピアソラ",
     "artist"  : "daisan / obj:lichtr *L.MIR or FLIP L.MIR",
     "comment" : "エレメンタルフュージョン",
@@ -24588,6 +24582,12 @@
     "md5"     : "de397d520c998e66bbab4017791c9668"
 },{
     "level"   : "10",
+    "title"   : "秩序の秋桜 [皿皿-Hyper-]",
+    "artist"  : "くっちー obj:yutaka Movie:HEART CREATE  *R.MIRROR",
+    "comment" : "CYBER OPUS",
+    "md5"     : "17f9d3a176c5faee464ab0b7d62167d0"
+},{
+    "level"   : "10",
     "title"   : "花砂に消ゆ†",
     "artist"  : "utah",
     "comment" : "CYBER ARABIAN",
@@ -24616,6 +24616,12 @@
     "artist"  : "しも fw. hapi⇒ *FLIP",
     "comment" : "INSTRUMENTAL",
     "md5"     : "28ed2f4b3a0ec1512b6dfbd1937eaf1a"
+},{
+    "level"   : "10",
+    "title"   : "飛翔天華 [精霊天翔]",
+    "artist"  : "しらいし obj:けろりん *LR.RANDOM or R.MIRROR",
+    "comment" : "J-CLASSICAL TRANCE CORE",
+    "md5"     : "ec34ec3a5c44f59572a19e4eeaed8cbd"
 },{
     "level"   : "10",
     "title"   : "魔女達の舞踏会 [ex14]",
@@ -26419,7 +26425,7 @@
 },{
     "level"   : "★2",
     "title"   : "レトロモダンの玩具工場 [DP INSANE]",
-    "artist"  : "38k *FLIP",
+    "artist"  : "38k *L.MIRROR",
     "comment" : "Retrogressive",
     "md5"     : "26f7d6100583286d73ee5884c3c3759a"
 },{
@@ -29779,7 +29785,7 @@
 },{
     "level"   : "★6",
     "title"   : "Aragami [大パニック]",
-    "artist"  : "xi iimo",
+    "artist"  : "xi iimo  *正規 or FLIP LR.MIRROR",
     "comment" : "LIFE STREAM",
     "md5"     : "69de444deb5615b65059febff095b8a3"
 },{
@@ -29869,7 +29875,7 @@
 },{
     "level"   : "★6",
     "title"   : "Demystify Feast [少女臭]",
-    "artist"  : "zun/MIDI：こんそめ/編集：wanco obj:けろりん",
+    "artist"  : "zun/MIDI：こんそめ/編集：wanco obj:けろりん *MINBPM",
     "comment" : "東方萃夢想",
     "md5"     : "bb38a606a04e71218beb0feac8b1dff8"
 },{
@@ -30085,7 +30091,7 @@
 },{
     "level"   : "★6",
     "title"   : "MASAMUNE [DP CHALLENGE]",
-    "artist"  : "NS-Factory *R.MIRROR",
+    "artist"  : "NS-Factory *正規 or FLIP LR.MIRROR",
     "comment" : "Oriental Edge",
     "md5"     : "d7557959c793edd42e9a03ede1e01fef"
 },{
@@ -30124,12 +30130,6 @@
     "artist"  : "Arranged by Y.W",
     "comment" : "HAPPY SYMPHONY /// 14KEYS CATASTROPHE LN",
     "md5"     : "311e7143764ca5997aa07c210eb83bea"
-},{
-    "level"   : "★6",
-    "title"   : "N.U.clear",
-    "artist"  : "seizan",
-    "comment" : "MSGS TECH CORE",
-    "md5"     : "532b0732e4de52d4a7258863ba305dc3"
 },{
     "level"   : "★6",
     "title"   : "Name of oath [Infinity]",
@@ -30271,7 +30271,7 @@
 },{
     "level"   : "★6",
     "title"   : "sterminio [DP ANOTHER]",
-    "artist"  : "tarolabo/石王マサト/ルゼ/obj. o",
+    "artist"  : "tarolabo/石王マサト/ルゼ/obj. o *LR.RANDOM",
     "comment" : "[Futurismo]",
     "md5"     : "81f9b09f907bef15dd2252552aefc2ed"
 },{
@@ -30838,6 +30838,12 @@
     "artist"  : "Music:しらいし obj:nBel *FLIP L.MIR or FLIP LR.MIR",
     "comment" : "Crystal Trance",
     "md5"     : "53480688781a3c0aba23812893081161"
+},{
+    "level"   : "★7",
+    "title"   : "N.U.clear",
+    "artist"  : "seizan",
+    "comment" : "MSGS TECH CORE",
+    "md5"     : "532b0732e4de52d4a7258863ba305dc3"
 },{
     "level"   : "★7",
     "title"   : "Name of oath [DP CHALLENGER+]",
@@ -32808,6 +32814,12 @@
     "md5"     : "769ceeec57cf6cb098e6110d1d6edbca"
 },{
     "level"   : "★15",
+    "title"   : "千年の羽 [bmstyle]",
+    "artist"  : "ておくれ(.gate)",
+    "comment" : "Houkai3rd(困難)",
+    "md5"     : "f7989f7886317369e0470929bf0bdb75"
+},{
+    "level"   : "★15",
     "title"   : "音楽 パガニーニの「ラ・カンパネラ」の主題より",
     "artist"  : "弁士カンタビレオ *MAX+40 FLIP",
     "comment" : "サイレント",
@@ -33246,10 +33258,22 @@
     "md5"     : "ca3bba32dfd6608602bd6b07ad014bc2"
 },{
     "level"   : "無理",
+    "title"   : "六兆年と一分物語",
+    "artist"  : "落龍 feat 重音テト",
+    "comment" : "ASIAN HIGH-SPEED",
+    "md5"     : "d0c643ce59ee47ae8da506eec963aaaf"
+},{
+    "level"   : "無理",
     "title"   : "加賀岬 (arranged)",
     "artist"  : "ておくれ(.gate) feat 重音テト",
     "comment" : "かがのうた[2P]",
     "md5"     : "325f163481bcb18bcff17dfedb7782c7"
+},{
+    "level"   : "無理",
+    "title"   : "卑弥呼 (PSG mix)",
+    "artist"  : "朱雀vs玄武vs落龍",
+    "comment" : "PSG-TERIC SPEED CORE[2P]",
+    "md5"     : "73e275ac25d22b818f1325180f2c5e3d"
 },{
     "level"   : "無理",
     "title"   : "字",
