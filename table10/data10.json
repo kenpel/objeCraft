@@ -606,6 +606,12 @@
     "md5"     : "c65e418cfe35a1a0c396a4ac04f35739"
 },{
     "level"   : "4",
+    "title"   : "Absurd Gaff ~HARD~",
+    "artist"  : "siromaru",
+    "comment" : "schranz",
+    "md5"     : "f6c75f79690290f2370d1587f28e4740"
+},{
+    "level"   : "4",
     "title"   : "B.B.K.K.B.K.K. ~HARD~",
     "artist"  : "nora2r",
     "comment" : "UK HARDCORE",
@@ -978,6 +984,12 @@
     "md5"     : "e409f1e7830fcbcf0517ae9c27ee0efc"
 },{
     "level"   : "7",
+    "title"   : "The Question ~HARD~",
+    "artist"  : "Personative feat. MC. NOREAJ",
+    "comment" : "NU DANCE",
+    "md5"     : "2aee234f0164606bf00af32e61de8652"
+},{
+    "level"   : "7",
     "title"   : "ドリームグライダー  <10KEYS ANOTHER>",
     "artist"  : "ドリームグライダー *LR.RANDOM",
     "comment" : "ドリームグライダー",
@@ -1024,6 +1036,12 @@
     "artist"  : "Rife",
     "comment" : "NU SKOOL BREAKS",
     "md5"     : "0dfe4bce0ef8b7ed87e33f0231c8b42d"
+},{
+    "level"   : "8",
+    "title"   : "Mario Paint (Time Regression Mix for BMS) ~SUPER HARD~",
+    "artist"  : "ueotan",
+    "comment" : "GAMEMUSIC",
+    "md5"     : "bb9bed901758bacfd836fb3b03855c92"
 },{
     "level"   : "8",
     "title"   : "Nine Spot After Dark (10K MANIAC)",
