@@ -13164,6 +13164,12 @@
     "md5"     : "c030d08f84b930242a16db72da23a64d"
 },{
     "level"   : "5",
+    "title"   : "終わりだけ易しい",
+    "artist"  : "sa10 *SUD+ AVERAGE-20 FLIP",
+    "comment" : "FUNKOT",
+    "md5"     : "a7a052b4645699635bdb3fac8d1fa940"
+},{
+    "level"   : "5",
     "title"   : "絵空事の世界と私 [DP ANOTHER]",
     "artist"  : "イヴ / Obj:ゆ～兎",
     "comment" : "Dramatical",
@@ -13192,6 +13198,12 @@
     "artist"  : "Hate × tarolabo obj:ucc *FLIP R.MIRROR",
     "comment" : "LOUNGE HOUSE",
     "md5"     : "096810062ef3e31365a659f7dd87fc24"
+},{
+    "level"   : "5",
+    "title"   : "酢雀",
+    "artist"  : "凄駆 *FLIP R.RANDOM",
+    "comment" : "朱雀",
+    "md5"     : "c4ed24db986486aab55994eaed5f6821"
 },{
     "level"   : "5",
     "title"   : "銀の風",
@@ -18774,6 +18786,12 @@
     "md5"     : "0fa0e9b8cbd12261b158c0a838d10ff6"
 },{
     "level"   : "8",
+    "title"   : "Air -DP ANOTHER- [long]",
+    "artist"  : "SHIKI / black train / DDX / srof *正規 or L.MIRROR",
+    "comment" : "TRANCE CORE",
+    "md5"     : "143515d4a7d997022a88bf0303bbfbee"
+},{
+    "level"   : "8",
     "title"   : "Akasagarbha -dp insane-",
     "artist"  : "wa. vs ETIA./obj:epics- deadblue238 *FLIP",
     "comment" : "MULTIVERSE",
@@ -20928,6 +20946,12 @@
     "md5"     : "f19cbc5866f407e6409e84449da63a53"
 },{
     "level"   : "8",
+    "title"   : "神聖大樹 [DP HARD]",
+    "artist"  : "しらいし / srof *R.MIRROR",
+    "comment" : "TRANCE",
+    "md5"     : "c5c84fb0b215a1ab1d6a30a3a768ddf5"
+},{
+    "level"   : "8",
     "title"   : "祭月 [A14]",
     "artist"  : "sa10 obj:ucc",
     "comment" : "Funky Gotta",
@@ -20944,6 +20968,12 @@
     "artist"  : "東京アリス幻樂団 obj:k",
     "comment" : "happy hardcore",
     "md5"     : "eb17db4d8c1bbb132ae188744af876ea"
+},{
+    "level"   : "8",
+    "title"   : "空に光る [DPA]",
+    "artist"  : "crimson OBJ:KLOC  *FLIP R.MIRROR",
+    "comment" : "POP TRANCE",
+    "md5"     : "1723163dbaabf2444abafbdeeeb03756"
 },{
     "level"   : "8",
     "title"   : "竹取はっぴ～☆リミックス！ [A14]",
@@ -21064,12 +21094,6 @@
     "artist"  : "SHIKI / black train / DDX / srof *L.MIRROR",
     "comment" : "TRANCE CORE",
     "md5"     : "a1b4dcc94e9968082c4e2082497e40c0"
-},{
-    "level"   : "9",
-    "title"   : "Air -DP ANOTHER- [long]",
-    "artist"  : "SHIKI / black train / DDX / srof *L.MIRROR",
-    "comment" : "TRANCE CORE",
-    "md5"     : "143515d4a7d997022a88bf0303bbfbee"
 },{
     "level"   : "9",
     "title"   : "Albtraum Partei ~ﾁﾗﾀｺﾀﾚｵ鯊ﾇ ﾃ狠ｦ~ [14keys Another]",
@@ -22531,7 +22555,7 @@
 },{
     "level"   : "9",
     "title"   : "veiled altar [A14]",
-    "artist"  : "Charon Fedoul obj:ucc *FLIP",
+    "artist"  : "Charon Fedoul obj:ucc *MAXBPM FLIP",
     "comment" : "エキストラバトル",
     "md5"     : "e4b9122c17cdf591a35066266ff69857"
 },{
@@ -22962,22 +22986,10 @@
     "md5"     : "b8c048b5be140a68cfa5f9374e65163d"
 },{
     "level"   : "9",
-    "title"   : "神聖大樹 [DP HARD]",
-    "artist"  : "しらいし / srof *R.MIRROR",
-    "comment" : "TRANCE",
-    "md5"     : "c5c84fb0b215a1ab1d6a30a3a768ddf5"
-},{
-    "level"   : "9",
     "title"   : "私たちの恋は観音開き  [GirlsLoveFestival]",
     "artist"  : "髭姫 feat.しゆ＆橘花音＆えみゅう。 obj:けろりん LYRICS：やんばるん BGA：髭姫 Arr.Milk_tya",
     "comment" : "クレイジーサイコレズ",
     "md5"     : "a4c19b77256f5df367c04b745c6fc00b"
-},{
-    "level"   : "9",
-    "title"   : "空に光る [DPA]",
-    "artist"  : "crimson OBJ:KLOC  *FLIP R.MIRROR",
-    "comment" : "POP TRANCE",
-    "md5"     : "1723163dbaabf2444abafbdeeeb03756"
 },{
     "level"   : "9",
     "title"   : "竹取はっぴー [EX14]",
@@ -23002,12 +23014,6 @@
     "artist"  : "ゆ～兎 Respect for ZUN ～おてんば恋娘～",
     "comment" : "Game Music",
     "md5"     : "eebeb8f8bbdcc08ce904d6d7e17e8236"
-},{
-    "level"   : "9",
-    "title"   : "終わりだけ易しい",
-    "artist"  : "sa10 *FLIP AVERAGE-20",
-    "comment" : "FUNKOT",
-    "md5"     : "a7a052b4645699635bdb3fac8d1fa940"
 },{
     "level"   : "9",
     "title"   : "自強號 ★9~10",
@@ -23044,12 +23050,6 @@
     "artist"  : "RYO-K [obj:MGN]",
     "comment" : "Elec-Chill Out",
     "md5"     : "40dd3cd57daa2ec9efe4d45de29bcb77"
-},{
-    "level"   : "9",
-    "title"   : "酢雀",
-    "artist"  : "凄駆 *FLIP R.RANDOM",
-    "comment" : "朱雀",
-    "md5"     : "c4ed24db986486aab55994eaed5f6821"
 },{
     "level"   : "9",
     "title"   : "銀の風",
@@ -24793,7 +24793,7 @@
 },{
     "level"   : "★1",
     "title"   : "CROSSFIRE [CH14]",
-    "artist"  : "BOKKEN FUCHSIA BOKKEN BLUE obj:ucc  *FLIP",
+    "artist"  : "BOKKEN FUCHSIA BOKKEN BLUE obj:ucc",
     "comment" : "HYBRIDIZE PSYBOKKEN",
     "md5"     : "ea4242bff8da40325c552ac89572bbfa"
 },{
@@ -27589,7 +27589,7 @@
 },{
     "level"   : "★4",
     "title"   : "Aragami [地]",
-    "artist"  : "xi / obj:Hador iimo  *FLIP LR.MIRROR",
+    "artist"  : "xi / obj:Hador iimo  *FLIP LR.MIRROR or R.MIRROR",
     "comment" : "LIFE STREAM",
     "md5"     : "c538ef0558a82718c2d95e7a8a1f1e17"
 },{
@@ -28513,7 +28513,7 @@
 },{
     "level"   : "★4",
     "title"   : "地獄の業火で焼肉大会！？ [双・亜那坐阿]",
-    "artist"  : "さかみりと img:しぐれぷに子 notes:おさら  *正規 or R.MIR",
+    "artist"  : "さかみりと img:しぐれぷに子 notes:おさら  *正規 or FLIP L.MIR",
     "comment" : "超地獄式歌葬曲",
     "md5"     : "919fe5b669842e2beac98653e42872e5"
 },{
@@ -28528,12 +28528,6 @@
     "artist"  : "L-uckgu-N 落雁  *LR.RANDOM",
     "comment" : "ambient",
     "md5"     : "7f1c2e9f80c32bbba14fd4d6efb905e4"
-},{
-    "level"   : "★4",
-    "title"   : "少年は空を辿る -8bit mix- 【DP14】",
-    "artist"  : "Power Of Nature Arrange:Yosk!  *正規 or FLIP LR.MIR",
-    "comment" : "ムラクモ－８ｂｉｔミックス",
-    "md5"     : "2acd7fb32f58032f7ec4f19a980242a7"
 },{
     "level"   : "★4",
     "title"   : "幸せについて -クリアできたらヒューマンシーケンサーEDIT-",
@@ -29365,7 +29359,7 @@
 },{
     "level"   : "★5",
     "title"   : "underwater sunset ［あ！］",
-    "artist"  : "xarva (obj:k) *FLIP LR.MIR or L.MIR",
+    "artist"  : "xarva (obj:k) *FLIP LR.MIRROR",
     "comment" : "epic house",
     "md5"     : "28cf59439c28fa865376972ec722a659"
 },{
@@ -29461,7 +29455,7 @@
 },{
     "level"   : "★5",
     "title"   : "オトゲラヴ！  [INSANE DPLOVE]",
-    "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:Zarpedon Movie:kkkfff2 / Illust:永山ゆうのん",
+    "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:Zarpedon Movie:kkkfff2 / Illust:永山ゆうのん  *FLIP LR.M or FLIP R.M",
     "comment" : "A-POP",
     "md5"     : "6fede52769825d01afc28d171fea0ae6"
 },{
@@ -29566,6 +29560,12 @@
     "artist"  : "うまるつふり / obj:imit8or *FLIP LR.RANDOM",
     "comment" : "祭祀",
     "md5"     : "a8b8d0e6f5c92b6b9e975bb3604aff2e"
+},{
+    "level"   : "★5",
+    "title"   : "少年は空を辿る -8bit mix- 【DP14】",
+    "artist"  : "Power Of Nature Arrange:Yosk!  *正規 or FLIP LR.MIR",
+    "comment" : "ムラクモ－８ｂｉｔミックス",
+    "md5"     : "2acd7fb32f58032f7ec4f19a980242a7"
 },{
     "level"   : "★5",
     "title"   : "幽雅に開け、青空の扉 -EXUSIA-",
@@ -31027,7 +31027,7 @@
 },{
     "level"   : "★7",
     "title"   : "ひつぎとふたご [14KEY/Lunatic]",
-    "artist"  : "plastic feat.サキト+-",
+    "artist"  : "plastic feat.サキト+- *LR.RANDOM",
     "comment" : "NU-STYLE GABBA",
     "md5"     : "8424e95c7b5c0563e8bca54ceb762982"
 },{
@@ -31387,7 +31387,7 @@
 },{
     "level"   : "★8",
     "title"   : "MENDES 本家Black Another",
-    "artist"  : "Humanoid Remixed by Hate obj:KONAMIのだれか",
+    "artist"  : "Humanoid Remixed by Hate obj:KONAMIのだれか *L.MIRROR",
     "comment" : "8bit mix",
     "md5"     : "a852375ceeb292760e165de0e6b7a267"
 },{
@@ -31549,7 +31549,7 @@
 },{
     "level"   : "★8",
     "title"   : "地獄人形 (ANOTHER14)",
-    "artist"  : "sun3 *FLIP L.MIRROR",
+    "artist"  : "sun3 *FLIP LR.MIRROR",
     "comment" : "Trance core",
     "md5"     : "d18c2daba85424d9cd336301df3279e0"
 },{
