@@ -20328,6 +20328,12 @@
     "md5"     : "5e650beb2b82378789f73001636d79b8"
 },{
     "level"   : "8",
+    "title"   : "thunder storm",
+    "artist"  : "Modulation Spin",
+    "comment" : "filter schranz",
+    "md5"     : "24863c79411dd97877a4b3762a3bf6d9"
+},{
+    "level"   : "8",
     "title"   : "Titania [A14]",
     "artist"  : "HOUJIROU obj:ucc BGA : Mentalstock  *LR.MIR or FLIP LR.MIR",
     "comment" : "Noir Place",
@@ -20758,6 +20764,12 @@
     "artist"  : "er[obj:MGN]",
     "comment" : "ゆるふわボッサ/ゆるふわハウス",
     "md5"     : "849304a9d741e9a85f9c60f87a1b831e"
+},{
+    "level"   : "8",
+    "title"   : "君、beer.",
+    "artist"  : "FALL remixed by s-don / obj j.pami *FLIP LR.MIRROR",
+    "comment" : "CUMBIA",
+    "md5"     : "726e7aead7bb21c277bcf771482414a5"
 },{
     "level"   : "8",
     "title"   : "夜桜 -Another14-",
@@ -22488,12 +22500,6 @@
     "md5"     : "8ede1ec2893b34df5be134686438e35c"
 },{
     "level"   : "9",
-    "title"   : "thunder storm",
-    "artist"  : "Modulation Spin",
-    "comment" : "filter schranz",
-    "md5"     : "24863c79411dd97877a4b3762a3bf6d9"
-},{
-    "level"   : "9",
     "title"   : "Time files [ANOTHER14]",
     "artist"  : "xi Obj.Gatia *LR.RANDOM or L.MIRROR",
     "comment" : "HAPPY",
@@ -22554,12 +22560,6 @@
     "md5"     : "d6e3d25437d6fc341092b806f2973816"
 },{
     "level"   : "9",
-    "title"   : "veiled altar [A14]",
-    "artist"  : "Charon Fedoul obj:ucc *MAXBPM FLIP",
-    "comment" : "エキストラバトル",
-    "md5"     : "e4b9122c17cdf591a35066266ff69857"
-},{
-    "level"   : "9",
     "title"   : "volcanic -EDEN ( ﾟдﾟ )-",
     "artist"  : "DETRO / obj.URIT *FLIP",
     "comment" : "ボルケーノ",
@@ -22570,12 +22570,6 @@
     "artist"  : "xarva & iimo Remixed by Atomic Sphere  *FLIP R.MIRROR",
     "comment" : "HALFSTEP DNB MIX",
     "md5"     : "d8dcf3fb20ced6bf20129cf8f5b11424"
-},{
-    "level"   : "9",
-    "title"   : "Wasabi 極辛",
-    "artist"  : "Ninja Action Team / sequence : pinoIce *FLIP",
-    "comment" : "Bigbeat",
-    "md5"     : "81cfb859565544822573b91551da5c5a"
 },{
     "level"   : "9",
     "title"   : "Welcome Mr.E-R [DPQ]",
@@ -22668,14 +22662,8 @@
     "md5"     : "4a5bc42c931fe4a99a467630ecd601d5"
 },{
     "level"   : "9",
-    "title"   : "さようなら、いままで魚をありがとう",
-    "artist"  : "明智小衣 / obj:夢瑠 *FLIP LR.RANDOM",
-    "comment" : "STRIP",
-    "md5"     : "941c4439df37db095ff0cbba59bb9169"
-},{
-    "level"   : "9",
     "title"   : "そんな舌ちょん切って捨ててやる！！ [ANOTHER]",
-    "artist"  : "幸せの教室 *FLIP",
+    "artist"  : "幸せの教室",
     "comment" : "-",
     "md5"     : "7802fe17564158a5adb90431739621dc"
 },{
@@ -22702,12 +22690,6 @@
     "artist"  : "メスクラ (エヴァたん＆メコたん) / 29 / obj : 打者走者",
     "comment" : "ルネッサンスコア",
     "md5"     : "cab507e556fff9ac73f765829fadddc5"
-},{
-    "level"   : "9",
-    "title"   : "アズール [A14]",
-    "artist"  : "メスクラ (エヴァたん＆メコたん) obj:ucc *LR.RANDOM",
-    "comment" : "ルネッサンスコア",
-    "md5"     : "0a22ba6f1f691c065f73ef86236b0e75"
 },{
     "level"   : "9",
     "title"   : "エピトゥリカの祀 [EXTRA14]",
@@ -22828,12 +22810,6 @@
     "artist"  : "er / obj:綾",
     "comment" : "ゆるふわボッサ/ゆるふわハウス",
     "md5"     : "acb91ee1f02ad098fec9a759c381fa76"
-},{
-    "level"   : "9",
-    "title"   : "君、beer.",
-    "artist"  : "FALL remixed by s-don / obj j.pami *FLIP LR.MIRROR",
-    "comment" : "CUMBIA",
-    "md5"     : "726e7aead7bb21c277bcf771482414a5"
 },{
     "level"   : "9",
     "title"   : "嘆きの樹 [8bit mix A14]",
@@ -23797,7 +23773,7 @@
 },{
     "level"   : "10",
     "title"   : "MENDES A14",
-    "artist"  : "Humanoid Remixed by Hate obj:ucc *LR.RAN or L.MIR or R.MIR",
+    "artist"  : "Humanoid Remixed by Hate obj:ucc *LR.RANDOM",
     "comment" : "8bit mix",
     "md5"     : "7c166e91a5262e3784efc7cc1091d4b1"
 },{
@@ -24192,6 +24168,12 @@
     "md5"     : "7283bee748b50041e1b465c1f86870e3"
 },{
     "level"   : "10",
+    "title"   : "veiled altar [A14]",
+    "artist"  : "Charon Fedoul obj:ucc *MAXBPM FLIP",
+    "comment" : "エキストラバトル",
+    "md5"     : "e4b9122c17cdf591a35066266ff69857"
+},{
+    "level"   : "10",
     "title"   : "volcanic [A14]",
     "artist"  : "DETRO obj:ucc",
     "comment" : "ボルケーノ",
@@ -24294,6 +24276,12 @@
     "md5"     : "5338fc570ea559491b8bb2bc58d21693"
 },{
     "level"   : "10",
+    "title"   : "さようなら、いままで魚をありがとう",
+    "artist"  : "明智小衣 / obj:夢瑠 *LR.MIRROR or LR.RANDOM",
+    "comment" : "STRIP",
+    "md5"     : "941c4439df37db095ff0cbba59bb9169"
+},{
+    "level"   : "10",
     "title"   : "しぇる☆どっきんぐ ～だめ！このままじゃ溢れちゃう！～ -DP 使い魔-",
     "artist"  : "髭姫 feat.しゆ＆橘花音  *LR.RANDOM LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO obj:ゆゆゆ！",
     "comment" : "LILY POP",
@@ -24328,6 +24316,12 @@
     "artist"  : "Alicia* / obj:killer TOMATO *FLIP LR.MIRROR",
     "comment" : "DRAMATIC TRANCE CORE",
     "md5"     : "4c4b3afd203e2c4c96ed88748fee73a0"
+},{
+    "level"   : "10",
+    "title"   : "アズール [A14]",
+    "artist"  : "メスクラ (エヴァたん＆メコたん) obj:ucc *FLIP LR.RANDOM",
+    "comment" : "ルネッサンスコア",
+    "md5"     : "0a22ba6f1f691c065f73ef86236b0e75"
 },{
     "level"   : "10",
     "title"   : "アズール リミックス <DP ANOTHER>",
@@ -25342,6 +25336,12 @@
     "artist"  : "ZUN(Remixed by 八意)/obj@PEN *FLIP LR.MIRROR",
     "comment" : "Piano DnB",
     "md5"     : "72dfb8d78f6e72fe7e0f51ea13ff7cb9"
+},{
+    "level"   : "★1",
+    "title"   : "Wasabi 極辛",
+    "artist"  : "Ninja Action Team / sequence : pinoIce *FLIP LR.MIRROR",
+    "comment" : "Bigbeat",
+    "md5"     : "81cfb859565544822573b91551da5c5a"
 },{
     "level"   : "★1",
     "title"   : "Wizdomiot [DP ANOTHER]",
@@ -28260,12 +28260,6 @@
     "md5"     : "6d1d41ab908e9861857f94a062b47c79"
 },{
     "level"   : "★4",
-    "title"   : "SHOTGUN ANTHEM [DP anOTLer]",
-    "artist"  : "H.U.T GiGAR / obj.LetsOTL",
-    "comment" : "GABBER",
-    "md5"     : "20bee6ca32e177be049c79b6d845ef88"
-},{
-    "level"   : "★4",
     "title"   : "SPACE RAIDERS",
     "artist"  : "度胸姉妹 / obj:lichtr *正規 or FLIP",
     "comment" : "TRANSCENDENTAL ETUDES",
@@ -29292,6 +29286,12 @@
     "md5"     : "6130ff3641cbf7ef3f72995ec3b985d6"
 },{
     "level"   : "★5",
+    "title"   : "SHOTGUN ANTHEM [DP anOTLer]",
+    "artist"  : "H.U.T GiGAR / obj.LetsOTL",
+    "comment" : "GABBER",
+    "md5"     : "20bee6ca32e177be049c79b6d845ef88"
+},{
+    "level"   : "★5",
     "title"   : "squartatrice [DP GOD]",
     "artist"  : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) BGA ： 美樹さやか",
     "comment" : "HARD RENAISSAYAKA",
@@ -29359,7 +29359,7 @@
 },{
     "level"   : "★5",
     "title"   : "underwater sunset ［あ！］",
-    "artist"  : "xarva (obj:k) *FLIP LR.MIRROR",
+    "artist"  : "xarva (obj:k) *FLIP LR.MIR or FLIP R.MIR",
     "comment" : "epic house",
     "md5"     : "28cf59439c28fa865376972ec722a659"
 },{
@@ -30103,7 +30103,7 @@
 },{
     "level"   : "★6",
     "title"   : "Master of GENOCIDE [MASTER14]",
-    "artist"  : "yukitani feat. DJ YKTN and DJ UMA note by Y.W *AVERAGE FLIP L.MIR",
+    "artist"  : "yukitani feat. DJ YKTN and DJ UMA note by Y.W *AVERAGE-10 FLIP L.MIR",
     "comment" : "Nerd Funk",
     "md5"     : "39a3586186ba1b207442abe520d1f829"
 },{
