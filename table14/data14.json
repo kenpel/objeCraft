@@ -5586,6 +5586,12 @@
     "md5"     : "df92c355a5bef5d75a301d36bae79e36"
 },{
     "level"   : "2",
+    "title"   : "UnFaked phantOm [DP ANOTHER]",
+    "artist"  : "sak obj:alt",
+    "comment" : "ENIGMA",
+    "md5"     : "827359165eff4f73e8e06406a52eb0ab"
+},{
+    "level"   : "2",
     "title"   : "unsettle-realplay14 [Real]",
     "artist"  : "snowdrop /obj:spt *FLIP LR.RANDOM",
     "comment" : "experimental",
@@ -7884,12 +7890,6 @@
     "md5"     : "562bdebd0bfcefcd4af9b7cb649a4fa6"
 },{
     "level"   : "3",
-    "title"   : "UnFaked phantOm [DP ANOTHER]",
-    "artist"  : "sak obj:alt",
-    "comment" : "ENIGMA",
-    "md5"     : "827359165eff4f73e8e06406a52eb0ab"
-},{
-    "level"   : "3",
     "title"   : "Vajuranda [BGA DP HYPER]",
     "artist"  : "Lightning Obj:ゆ～兎",
     "comment" : "elemental breaks",
@@ -9852,12 +9852,6 @@
     "md5"     : "84c3f15db6a56ced3cf34785b2464edd"
 },{
     "level"   : "4",
-    "title"   : "Precious!!! [14key,Bonus]",
-    "artist"  : "mommy",
-    "comment" : "PIANO SOLO",
-    "md5"     : "b9984287bb0fb6383fe5459c213a0bd3"
-},{
-    "level"   : "4",
     "title"   : "Pure Boys -for Beginner14-",
     "artist"  : "luzebzk(from 300club)/obj:epics-",
     "comment" : "XBeatsLA",
@@ -10354,12 +10348,6 @@
     "artist"  : "keyc / Symphonian",
     "comment" : "m9 MINIMAL",
     "md5"     : "1aa0f976a5b9361fe1d2581d15b6ad51"
-},{
-    "level"   : "4",
-    "title"   : "Wizdomiot [DP HYPER]",
-    "artist"  : "ZUN remixed by LeaF / obj.LetsOTL Movie:Optie",
-    "comment" : "RATIONAL PUNISHMENT",
-    "md5"     : "efbee21ff8911e62a83867fbead9de0c"
 },{
     "level"   : "4",
     "title"   : "World Against 2 [DP sub another]",
@@ -11862,6 +11850,12 @@
     "md5"     : "e1dc420eb5fe525ed4fc2234c51260ad"
 },{
     "level"   : "5",
+    "title"   : "Infomorph [sub another]",
+    "artist"  : "ETIA. feat. Jenga obj:kuro Movie: vol-t",
+    "comment" : "DRUM'N'BASS",
+    "md5"     : "5cbaf5e8229965a69843533ea1b28c5e"
+},{
+    "level"   : "5",
     "title"   : "Jack o' Lantern -14keys-",
     "artist"  : "anubasu-anubasu BGA by 出前 / obj:Lilium",
     "comment" : "RAVE / HARD DANCE",
@@ -12220,6 +12214,12 @@
     "artist"  : "TAG underground *FLIP LR.MIRROR",
     "comment" : "Chiptune",
     "md5"     : "7aba22022e656622966a54d800da92a4"
+},{
+    "level"   : "5",
+    "title"   : "Precious!!! [14key,Bonus]",
+    "artist"  : "mommy",
+    "comment" : "PIANO SOLO",
+    "md5"     : "b9984287bb0fb6383fe5459c213a0bd3"
 },{
     "level"   : "5",
     "title"   : "prohibition of world [H14]",
@@ -12664,6 +12664,12 @@
     "artist"  : "U-hey / respect for ZUN[obj:mymt]",
     "comment" : "HARD AYA",
     "md5"     : "2cc3736eed10d336e3801a6674db6ffc"
+},{
+    "level"   : "5",
+    "title"   : "Wizdomiot [DP HYPER]",
+    "artist"  : "ZUN remixed by LeaF / obj.LetsOTL Movie:Optie",
+    "comment" : "RATIONAL PUNISHMENT",
+    "md5"     : "efbee21ff8911e62a83867fbead9de0c"
 },{
     "level"   : "5",
     "title"   : "Xecus -14GB-",
@@ -14206,12 +14212,6 @@
     "artist"  : "mommy",
     "comment" : "PIANO SOLO",
     "md5"     : "2cee669d43062d796c5c4d7d51651da0"
-},{
-    "level"   : "6",
-    "title"   : "Infomorph [sub another]",
-    "artist"  : "ETIA. feat. Jenga obj:kuro Movie: vol-t",
-    "comment" : "DRUM'N'BASS",
-    "md5"     : "5cbaf5e8229965a69843533ea1b28c5e"
 },{
     "level"   : "6",
     "title"   : "intertwined -DP ANOTHER-",
@@ -22146,12 +22146,6 @@
     "md5"     : "296249f0f54007ba996d3b63e7d4e1db"
 },{
     "level"   : "9",
-    "title"   : "on the sequence #3 with G BGA",
-    "artist"  : "6yen // sequence : pinoIce *FLIP",
-    "comment" : "d'n'b",
-    "md5"     : "9b6c40fa334ca583a5151483440b616b"
-},{
-    "level"   : "9",
     "title"   : "Once in my life [DP CHALLENGER]",
     "artist"  : "Manaka Takane feat.Nananao obj:kuro *R.MIRROR",
     "comment" : "Maiden House",
@@ -22176,12 +22170,6 @@
     "md5"     : "43e3b37cef8d58b0355f1195eb048382"
 },{
     "level"   : "9",
-    "title"   : "PARAMOUNT ANTHEM! [DP ANOTHER]",
-    "artist"  : "あかりちゃん BGA:Frantzz / obj:hi-low",
-    "comment" : "CANDY RAVE",
-    "md5"     : "fc7b6990bee9ccd98a0e8504ccc8f8af"
-},{
-    "level"   : "9",
     "title"   : "PHANTOM KILLER [DP INSANE+]",
     "artist"  : "q/stol / object by meteor* *L.MIRROR",
     "comment" : "Heavy Metal",
@@ -22189,7 +22177,7 @@
 },{
     "level"   : "9",
     "title"   : "Phase V (DP Another)",
-    "artist"  : "ユウスケタケウチ(6yen) / obj.BACO *L.MIRROR",
+    "artist"  : "ユウスケタケウチ(6yen) / obj.BACO *FLIP R.MIRROR",
     "comment" : "d'n'b",
     "md5"     : "ba3c4407d1d28fce904e496abb7e9f95"
 },{
@@ -22216,12 +22204,6 @@
     "artist"  : "妃宮 千早 with. 七々原 薫子 (BG : ケイリ・グランセリウス)",
     "comment" : "フラワーステップ",
     "md5"     : "c8dc214003898e6ace09d3341701fc01"
-},{
-    "level"   : "9",
-    "title"   : "Pursuit Of Outer Space DP HYPER",
-    "artist"  : "Grand thaw obj-h *FLIP LR.MIRROR",
-    "comment" : "EPIC TRANCE",
-    "md5"     : "73e80887465d411fd1cc8f2f1a106879"
 },{
     "level"   : "9",
     "title"   : "Quad Queens [SP to DP]",
@@ -22266,12 +22248,6 @@
     "md5"     : "0325364a16c1678fb544d3cad7c35054"
 },{
     "level"   : "9",
-    "title"   : "Read Air",
-    "artist"  : "ark k'fied *FLIP",
-    "comment" : "HARD CLASSICAL",
-    "md5"     : "24b4caba7631e6eadbba3eb1137a97e8"
-},{
-    "level"   : "9",
     "title"   : "reAdvenTia [CHALLENGER]",
     "artist"  : "daisan obj:kuro *FLIP LR.MIRROR",
     "comment" : "Artcore",
@@ -22300,12 +22276,6 @@
     "artist"  : "ROKINA obj:KyphosisCompany BGI:REI-K",
     "comment" : "HARD BREAKS",
     "md5"     : "a4c225ad54daea398f193935f38b2ec7"
-},{
-    "level"   : "9",
-    "title"   : "Remilia ～吸血鬼の為の協奏曲 [A14.ver2011]",
-    "artist"  : "くっちー / あっきー obj:ucc *FLIP L.MIRROR",
-    "comment" : "PIANO CONCERTO",
-    "md5"     : "37db00fab1fec0e8bf0b08e559ff5d4a"
 },{
     "level"   : "9",
     "title"   : "RESISTANCE FOR RESISTANCE [ANOTHER14]",
@@ -23850,6 +23820,12 @@
     "md5"     : "58d772de4127584cff11cf453425c686"
 },{
     "level"   : "10",
+    "title"   : "on the sequence #3 with G BGA",
+    "artist"  : "6yen // sequence : pinoIce",
+    "comment" : "d'n'b",
+    "md5"     : "9b6c40fa334ca583a5151483440b616b"
+},{
+    "level"   : "10",
     "title"   : "Over Sound",
     "artist"  : "EXAM.S/BGA:S-BLUE *FLIP",
     "comment" : "Mixture",
@@ -23860,6 +23836,12 @@
     "artist"  : "sasakure.UK [obj:MGN]  *R.MIRROR",
     "comment" : "World Orchestra",
     "md5"     : "8ec04209c3db68367a3104e9ee428616"
+},{
+    "level"   : "10",
+    "title"   : "PARAMOUNT ANTHEM! [DP ANOTHER]",
+    "artist"  : "あかりちゃん BGA:Frantzz / obj:hi-low",
+    "comment" : "CANDY RAVE",
+    "md5"     : "fc7b6990bee9ccd98a0e8504ccc8f8af"
 },{
     "level"   : "10",
     "title"   : "PASERI [無理皿]",
@@ -23922,6 +23904,12 @@
     "md5"     : "4f76ddd15195e52e6c5957887e9e5437"
 },{
     "level"   : "10",
+    "title"   : "Pursuit Of Outer Space DP HYPER",
+    "artist"  : "Grand thaw obj-h *FLIP L.RANDOM",
+    "comment" : "EPIC TRANCE",
+    "md5"     : "73e80887465d411fd1cc8f2f1a106879"
+},{
+    "level"   : "10",
     "title"   : "Qualia [LN14 / BGA Edit]",
     "artist"  : "Junk / RAY obj:ucc *L.MIRROR",
     "comment" : "Future Pop",
@@ -23950,6 +23938,12 @@
     "artist"  : "くっちー / あっきー obj:ucc *L.MIRROR",
     "comment" : "PIANO CONCERTO",
     "md5"     : "c612e6e8fa2ae09ed81e16f820f3c302"
+},{
+    "level"   : "10",
+    "title"   : "Remilia ～吸血鬼の為の協奏曲 [A14.ver2011]",
+    "artist"  : "くっちー / あっきー obj:ucc *FLIP R.MIRROR",
+    "comment" : "PIANO CONCERTO",
+    "md5"     : "37db00fab1fec0e8bf0b08e559ff5d4a"
 },{
     "level"   : "10",
     "title"   : "Rocketropoliscratch",
@@ -26142,6 +26136,12 @@
     "md5"     : "701ccc06b22973d220f7407ef28f2fd1"
 },{
     "level"   : "★2",
+    "title"   : "Read Air",
+    "artist"  : "ark k'fied *FLIP",
+    "comment" : "HARD CLASSICAL",
+    "md5"     : "24b4caba7631e6eadbba3eb1137a97e8"
+},{
+    "level"   : "★2",
     "title"   : "Recollection -ANOTHER14-",
     "artist"  : "taqumi / obj:tako_st *FLIP",
     "comment" : "Drum'n Bass",
@@ -27451,7 +27451,7 @@
 },{
     "level"   : "★3",
     "title"   : "白の魔法の光 [magical]",
-    "artist"  : "こどものなみだ",
+    "artist"  : "こどものなみだ *FLIP",
     "comment" : "ハッピーケアガール",
     "md5"     : "7103ca707b9dc771092fba1fa79eacd8"
 },{
@@ -28276,12 +28276,6 @@
     "artist"  : "syzfonics(仮名) *R.MIRROR",
     "comment" : "Trance",
     "md5"     : "a40d103981e56d59a004a2d2726f26cd"
-},{
-    "level"   : "★4",
-    "title"   : "The Formula [Free]",
-    "artist"  : "Junk BGA : YARITA / obj:Hersh",
-    "comment" : "TRANCE",
-    "md5"     : "9bc918dae5103051fcb9b60e28fa2a52"
 },{
     "level"   : "★4",
     "title"   : "The Lady Is A Trump [CH14]",
@@ -29326,6 +29320,12 @@
     "artist"  : "DJ ZUMMER feat. MC TUMMER Lovers T BGA by S-BLUE a.k.a 4UMMER  *MAX+50 SUD+",
     "comment" : "Cacophony Style ZUMMERCORE",
     "md5"     : "553aca64b6e517b4d525c7ca5884b581"
+},{
+    "level"   : "★5",
+    "title"   : "The Formula [Free]",
+    "artist"  : "Junk BGA : YARITA / obj:Hersh",
+    "comment" : "TRANCE",
+    "md5"     : "9bc918dae5103051fcb9b60e28fa2a52"
 },{
     "level"   : "★5",
     "title"   : "Theme of \"NIGHT WRITER\" -QOHMix- [14LINE]†LEGGENDARIA",
