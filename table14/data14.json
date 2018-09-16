@@ -18090,6 +18090,12 @@
     "md5"     : "72a25a64f0052c2345d98495667d8568"
 },{
     "level"   : "7",
+    "title"   : "◆ B a r o q u e ◆ [14key_another]",
+    "artist"  : "tarolabo//obj.MIST *L.RAN R.MIR or FLIP L.MIR",
+    "comment" : "[ProgressiveJack]",
+    "md5"     : "511e8d55d0fc763f85394df1157c3c56"
+},{
+    "level"   : "7",
     "title"   : "★LittlE HearTs★ [DP_Afother]",
     "artist"  : "ねこみみ魔法使い+- *L.MIRROR",
     "comment" : "HappY PoPcorN",
@@ -18772,6 +18778,12 @@
     "artist"  : "owl-light obj:ucc",
     "comment" : "DRUM'N'BASS",
     "md5"     : "f12cf76f04a4eda4560f61f4c0b66381"
+},{
+    "level"   : "8",
+    "title"   : "Act Beloved [DP ☆NOTHER]",
+    "artist"  : "Nene Anegasaki feat. Salita Movie : Ryuka / obj:Starfish",
+    "comment" : "PIANO HOUSE",
+    "md5"     : "7c8ccc1cf2bd2eb0ecd49f7790f3ff9c"
 },{
     "level"   : "8",
     "title"   : "After Burner DP Another+",
@@ -21408,6 +21420,12 @@
     "md5"     : "0c38eafa5cf3a4440832242fd1bd2ef7"
 },{
     "level"   : "9",
+    "title"   : "Cynical [DP Realistic Rework]",
+    "artist"  : "Blue-J",
+    "comment" : "TECHNO",
+    "md5"     : "1cb56df9e368e08de786733760c96301"
+},{
+    "level"   : "9",
     "title"   : "D-25 -disintegrate- もうちょっとだけMGNother [total修正]",
     "artist"  : "kozato snow[obj:MGN]",
     "comment" : "コザトランス",
@@ -21472,12 +21490,6 @@
     "artist"  : "beatMARIO / obj.boxpurin *FLIP",
     "comment" : "TECHNO",
     "md5"     : "8f1ab5113139b32f1d92278c6614dc55"
-},{
-    "level"   : "9",
-    "title"   : "detritus [ANOTHER]",
-    "artist"  : "e.l.d",
-    "comment" : "HARD TECHNO",
-    "md5"     : "6d334b53791303eb9cb0c7cd96873e39"
 },{
     "level"   : "9",
     "title"   : "Disaster [14]",
@@ -21816,6 +21828,12 @@
     "md5"     : "440dca57ee5b329a4a21b19d56cc81db"
 },{
     "level"   : "9",
+    "title"   : "Homura [DPEX]",
+    "artist"  : "Puru / kkkfff2 / obj:slaim",
+    "comment" : "Future Bass",
+    "md5"     : "5f4459b6f1d1ebc4255530ea52d5ddf4"
+},{
+    "level"   : "9",
     "title"   : "hurt, scenery, groundrainbow",
     "artist"  : "syatten + coda / obj:QJITAI",
     "comment" : "time paradox",
@@ -21910,12 +21928,6 @@
     "artist"  : "SHIKI *LR.RANDOM",
     "comment" : "TRANCE",
     "md5"     : "594da246ef49cac0ce17a4eac5fcf38d"
-},{
-    "level"   : "9",
-    "title"   : "Larmagellanicud [DP_MGNother]",
-    "artist"  : "horoscope xx LUZE[obj:MGN] BGA:壱AIR  *FLIP",
-    "comment" : "Reorganized DnB",
-    "md5"     : "cbad46297fb4a8053f5d84d81d9120e0"
 },{
     "level"   : "9",
     "title"   : "Last Battle-T260G- [CH14]",
@@ -22416,6 +22428,12 @@
     "md5"     : "053a9df4c39af51f5437b7377101a0e6"
 },{
     "level"   : "9",
+    "title"   : "TEN [DP ☆NOTHER]",
+    "artist"  : "2X obj:Starfish",
+    "comment" : "Oriental Trance",
+    "md5"     : "589e28759366808cced12e5fca052d26"
+},{
+    "level"   : "9",
     "title"   : "Terpsichore [DP ANOTHER]",
     "artist"  : "Jun Kuroda / obj.LetsOTL",
     "comment" : "Artcore",
@@ -22708,6 +22726,12 @@
     "artist"  : "MNMr feat. ココ // obj:(ﾟﾚﾟ)",
     "comment" : "happy hardcore",
     "md5"     : "30c0afce50d51078cafaca0cbc3a16c5"
+},{
+    "level"   : "9",
+    "title"   : "ゼビウス嫌い [14key]",
+    "artist"  : "SOLVALOU obj:肴",
+    "comment" : "xevious",
+    "md5"     : "1a8ef27f6d6a977af128cbab5de78445"
 },{
     "level"   : "9",
     "title"   : "トココ21 ⊂㌍㌢⊃",
@@ -23286,6 +23310,12 @@
     "md5"     : "9dfea158eab37d3ee3fe2df744dcc147"
 },{
     "level"   : "10",
+    "title"   : "Chronomia [VerH]",
+    "artist"  : "Lime / inukoro  obj:右手が恋人",
+    "comment" : "Dramatical",
+    "md5"     : "968e735562607ffb60a83d4170b5c138"
+},{
+    "level"   : "10",
     "title"   : "Clear Blue BMS edit",
     "artist"  : "sun3 / obj:lichtr",
     "comment" : "Happy Hardcore",
@@ -23308,6 +23338,12 @@
     "artist"  : "siromaru + cranky obj ; N *FLIP LR.MIRROR",
     "comment" : "HARMONIC SCHRANZ",
     "md5"     : "7807abb44eba0044f29d7c762a354ff2"
+},{
+    "level"   : "10",
+    "title"   : "Cosmic Raid [DP 準星]",
+    "artist"  : "xellox  / obj:mymt",
+    "comment" : "PSYCHEDELIC TRANCE",
+    "md5"     : "40010764bca15d9bbcd767a160cb7c86"
 },{
     "level"   : "10",
     "title"   : "Cybele [DP ANOTHER]",
@@ -23656,6 +23692,12 @@
     "artist"  : "NAGI / obj:slash",
     "comment" : "euro beat",
     "md5"     : "8f6c3873802c8216b06345d181a79053"
+},{
+    "level"   : "10",
+    "title"   : "Larmagellanicud [DP_MGNother]",
+    "artist"  : "horoscope xx LUZE[obj:MGN] BGA:壱AIR  *FLIP",
+    "comment" : "Reorganized DnB",
+    "md5"     : "cbad46297fb4a8053f5d84d81d9120e0"
 },{
     "level"   : "10",
     "title"   : "Last Battle ~Chrono Trigger~  [DP ANOTHER]",
@@ -24172,6 +24214,12 @@
     "artist"  : "DETRO obj:ucc",
     "comment" : "ボルケーノ",
     "md5"     : "ef03a08d7f8cd74c0f2f4cc979d5d988"
+},{
+    "level"   : "10",
+    "title"   : "volcanic -東尋坊-",
+    "artist"  : "DETRO　obj:lakeside",
+    "comment" : "ボルケーノ",
+    "md5"     : "41df9b6a1858997d3367006250724377"
 },{
     "level"   : "10",
     "title"   : "WAKEFULNESS",
@@ -24816,6 +24864,12 @@
     "md5"     : "3b13ad90ba2f1015e2cf7e6f65e20161"
 },{
     "level"   : "★1",
+    "title"   : "detritus [ANOTHER]",
+    "artist"  : "e.l.d",
+    "comment" : "HARD TECHNO",
+    "md5"     : "6d334b53791303eb9cb0c7cd96873e39"
+},{
+    "level"   : "★1",
     "title"   : "Disabution (?_?)",
     "artist"  : "MIDI:Piroron / BMS:shammy / OBJ:objeCraft *FLIP L.MIRROR",
     "comment" : "Synth Rock",
@@ -25458,12 +25512,6 @@
     "md5"     : "7b72dbf88fcfbaba1ff68209256dc49c"
 },{
     "level"   : "★1",
-    "title"   : "八大地獄邪魂転生狂葬散火歌 [双・這韋爆亜]",
-    "artist"  : "さかみりと img:しぐれぷに子 notes:OSR  *FLIP",
-    "comment" : "地獄愛弩瑠歌妖曲",
-    "md5"     : "f85ce8f259cc9673a1420f975aa63ad6"
-},{
-    "level"   : "★1",
     "title"   : "冥界帰航 [冥14]",
     "artist"  : "ZUN(Arr.sun3) obj:ucc *正規 or LR.RANDOM",
     "comment" : "MYSTIC SEQUENCER",
@@ -25924,6 +25972,12 @@
     "artist"  : "keyc obj:NEPIA *SUD+",
     "comment" : "HIPHOP",
     "md5"     : "9610cb55c55cef6bc96b11dd2b90c2b9"
+},{
+    "level"   : "★2",
+    "title"   : "itsuka [別れ]",
+    "artist"  : "eicateve tonishina[vocal] 高松[movie] 森永君尋[illust] / obj:Hersh",
+    "comment" : "Pop / Her Story II",
+    "md5"     : "79d71b5b9eea58648628166672b2d0dd"
 },{
     "level"   : "★2",
     "title"   : "J219 [狂14]",
@@ -26436,6 +26490,12 @@
     "md5"     : "fc347e9ef58517208ef3afe7c660561f"
 },{
     "level"   : "★2",
+    "title"   : "八大地獄邪魂転生狂葬散火歌 [双・這韋爆亜]",
+    "artist"  : "さかみりと img:しぐれぷに子 notes:OSR  *FLIP",
+    "comment" : "地獄愛弩瑠歌妖曲",
+    "md5"     : "f85ce8f259cc9673a1420f975aa63ad6"
+},{
+    "level"   : "★2",
     "title"   : "十六夜桜 [DP ANOTHER+]",
     "artist"  : "kozato (obj:k) *正規 or FLIP LR.MIR",
     "comment" : "JP Spiritual Core",
@@ -26545,7 +26605,7 @@
 },{
     "level"   : "★2",
     "title"   : "白き星姫-Принцесса белая звезда- [CHALLENGER]",
-    "artist"  : "おみー obj:kuro *FLIP LR.MIRROR",
+    "artist"  : "おみー obj:kuro *FLIP L.MIRROR",
     "comment" : "INTELLIGENCE TRANCE",
     "md5"     : "7a05b64bd8707b6ad9dab486f363ce17"
 },{
@@ -29454,12 +29514,6 @@
     "md5"     : "4bcc138c4b0a62c0edb517079daa040b"
 },{
     "level"   : "★5",
-    "title"   : "オトゲラヴ！  [INSANE DPLOVE]",
-    "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:Zarpedon Movie:kkkfff2 / Illust:永山ゆうのん  *FLIP LR.M or FLIP R.M",
-    "comment" : "A-POP",
-    "md5"     : "6fede52769825d01afc28d171fea0ae6"
-},{
-    "level"   : "★5",
     "title"   : "オトゲラヴ！ {DP INFINITY-}",
     "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:kuro Movie:kkkfff2 / Illust:永山ゆうのん",
     "comment" : "A-POP",
@@ -29512,6 +29566,12 @@
     "artist"  : "koushirou（卑屈P） / obj : Ill *FLIP R.MIRROR",
     "comment" : "Techno Pop",
     "md5"     : "87e62864f9b16707ef33c1338cfa7713"
+},{
+    "level"   : "★5",
+    "title"   : "パネルでポン/フレアのテーマ [DP leggendaria]",
+    "artist"  : "tarolabo /// obj:ムギ五級 reobj:あずさ *FLIP L.MIR R.RAN",
+    "comment" : "[riphop]",
+    "md5"     : "7e225a938c7abbcf047828eb897d8a40"
 },{
     "level"   : "★5",
     "title"   : "ピアノ狂騒曲第零番「神姫」 [武装]",
@@ -29964,12 +30024,6 @@
     "md5"     : "4ff1019c2a61c8e2aa8a93315edc76bc"
 },{
     "level"   : "★6",
-    "title"   : "good night,jewel. [EX14]",
-    "artist"  : "horosceased obj:ucc *L.MIRROR",
-    "comment" : "ジュエル",
-    "md5"     : "5e0b85793eb004ad305c1c1b34193271"
-},{
-    "level"   : "★6",
     "title"   : "Harmony [S]",
     "artist"  : "Lime / 温泉の力 /",
     "comment" : "kawaiicore",
@@ -30396,6 +30450,12 @@
     "md5"     : "fc9e98780f660cfd0a31a3725ba0fb50"
 },{
     "level"   : "★6",
+    "title"   : "オトゲラヴ！  [INSANE DPLOVE]",
+    "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:Zarpedon Movie:kkkfff2 / Illust:永山ゆうのん  *FLIP LR.M or FLIP R.M",
+    "comment" : "A-POP",
+    "md5"     : "6fede52769825d01afc28d171fea0ae6"
+},{
+    "level"   : "★6",
     "title"   : "キミとボクへの葬送歌 [14keyChallenge]",
     "artist"  : "ROKINA BGA:REI-K obj:hoi2",
     "comment" : "EXCELSIOR",
@@ -30750,6 +30810,12 @@
     "md5"     : "6816307a41c20023f242309a3c143ad7"
 },{
     "level"   : "★7",
+    "title"   : "good night,jewel. [EX14]",
+    "artist"  : "horosceased obj:ucc *L.MIRROR",
+    "comment" : "ジュエル",
+    "md5"     : "5e0b85793eb004ad305c1c1b34193271"
+},{
+    "level"   : "★7",
     "title"   : "GOODTEK [BAD]",
     "artist"  : "EBIMAYO *LR.RANDOM",
     "comment" : "GOODPUMP",
@@ -30868,6 +30934,12 @@
     "artist"  : "sasakure.UK  obj ;; ravelll",
     "comment" : "World Orchestra",
     "md5"     : "624f9376652b266b20982a4b24d44637"
+},{
+    "level"   : "★7",
+    "title"   : "Papillon [DP EXTRA]",
+    "artist"  : "Symphonian / Personality / Obj:Dr.K",
+    "comment" : "Full On",
+    "md5"     : "6e1104842f945d1c41e3f4250168a0ae"
 },{
     "level"   : "★7",
     "title"   : "PHANTOM LOST [DP EXTRA]",
@@ -31387,9 +31459,9 @@
 },{
     "level"   : "★8",
     "title"   : "MENDES 本家Black Another",
-    "artist"  : "Humanoid Remixed by Hate obj:KONAMIのだれか *L.MIRROR",
+    "artist"  : "Humanoid Remixed by Hate obj:KONAMIのだれか",
     "comment" : "8bit mix",
-    "md5"     : "a852375ceeb292760e165de0e6b7a267"
+    "md5"     : "3178f56bda4357d141bbe469d39debbb"
 },{
     "level"   : "★8",
     "title"   : "myste`re? [Pandora]",
