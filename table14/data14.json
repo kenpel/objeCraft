@@ -3648,6 +3648,12 @@
     "md5"     : "fc623ecec84ed23c26bf51fb45c1a994"
 },{
     "level"   : "1",
+    "title"   : "ヒメタイプ [DP sub another]",
+    "artist"  : "ノクティス・江口・チェラム obj;kuro *FLIP LR.MIRROR",
+    "comment" : "IRREGULAR HI-BREAK",
+    "md5"     : "1a5a681b93d2da23fe833d3dfaa0f36f"
+},{
+    "level"   : "1",
     "title"   : "ピアノ連弾的「You」～ひぐらしのなく頃に～ [DP ANOTHER]",
     "artist"  : "じぽたん MIDI : 猫姫 obj:けろりん",
     "comment" : "ピアノ連弾",
@@ -5952,6 +5958,12 @@
     "md5"     : "a0dda7a96e664f128e11704b7854a284"
 },{
     "level"   : "2",
+    "title"   : "星の器～STAR OF ANDROMEDA (ANOTHER7+7)",
+    "artist"  : "ZUN (Arr.sun3) [obj:mymt]",
+    "comment" : "GOA TRANCE",
+    "md5"     : "549872a04ac306ec0c0eea0f32ebeb87"
+},{
+    "level"   : "2",
     "title"   : "月時計　Last・Dial (DP HYPER)",
     "artist"  : "ZUN(Arr.sun3) obj:irul",
     "comment" : "Trance core",
@@ -6526,6 +6538,12 @@
     "artist"  : "Is-m BGA:140 / obj:2y",
     "comment" : "J-TECHNO",
     "md5"     : "bdc9ada00f51571c6737e3c2b8dae6ed"
+},{
+    "level"   : "3",
+    "title"   : "Contrail -ANOTHER-",
+    "artist"  : "RIN obj.vectorla",
+    "comment" : "TRANCE",
+    "md5"     : "fd8ce260db8e5b1b23b13b2742448d2e"
 },{
     "level"   : "3",
     "title"   : "Cosmo Memory [DP M-Another]",
@@ -8652,6 +8670,12 @@
     "md5"     : "b49d309b049de7115417c66126f9b23e"
 },{
     "level"   : "4",
+    "title"   : "Alpha Lyrae",
+    "artist"  : "ume / obj:夢瑠",
+    "comment" : "energetic trance pop(DP Another)",
+    "md5"     : "9a584701f30c32fed692d7684a83ffca"
+},{
+    "level"   : "4",
     "title"   : "AltMirrorBell HYPER",
     "artist"  : "Grand thaw / obj.boxpurin",
     "comment" : "NOCTURNE",
@@ -9436,6 +9460,12 @@
     "artist"  : "Learicorn - obj:(=ﾟωﾟ)ノぃょぅ",
     "comment" : "TRANCE CORE",
     "md5"     : "4b782734c6ab6523186eca00c09b5d5c"
+},{
+    "level"   : "4",
+    "title"   : "In other Words...? [14keys]",
+    "artist"  : "真壁瑞希 obj.天乃桜音々",
+    "comment" : "makabe'n bass",
+    "md5"     : "704e19f7970443511777558326d203f9"
 },{
     "level"   : "4",
     "title"   : "Indigo Sky -AnotherDP-",
@@ -10266,6 +10296,12 @@
     "md5"     : "3ade09c7e5831a8257f9d342e8600f9f"
 },{
     "level"   : "4",
+    "title"   : "Un Castello Spinoso [DP ☆NOTHER]",
+    "artist"  : "Modulation Spin obj:Starfish",
+    "comment" : "Gothic SPEED",
+    "md5"     : "8e01b31c16f86a0695c575fc0d700d71"
+},{
+    "level"   : "4",
     "title"   : "Unfictioniam <DPA>",
     "artist"  : "USOTA FUMINORI design : absorb spanish",
     "comment" : "SF ELECTRO",
@@ -10636,6 +10672,12 @@
     "artist"  : "tarolabo /// obj:ムギ五級",
     "comment" : "[riphop]",
     "md5"     : "126c8e41264fb79dd0125332a59dbf68"
+},{
+    "level"   : "4",
+    "title"   : "ヒメタイプ [DP sub black another]",
+    "artist"  : "ノクティス・江口・チェラム obj;kuro",
+    "comment" : "IRREGULAR HI-BREAK",
+    "md5"     : "6ca5a0fc584e79d66c9fa3b4e6a7b2fc"
 },{
     "level"   : "4",
     "title"   : "ピアノ協奏曲第1番 月光条例",
@@ -13260,6 +13302,12 @@
     "md5"     : "b0ab4e8ea9eb8cb80e28f8cff18baa5c"
 },{
     "level"   : "6",
+    "title"   : "0-1 [Gy]",
+    "artist"  : "zegudo. obj:Gypsy",
+    "comment" : "Hard Bass",
+    "md5"     : "1471a81745605b5bb796666b5192b0fe"
+},{
+    "level"   : "6",
     "title"   : "12tomorrow [DP LovelyAnother]",
     "artist"  : "Feelful (obj:patsenner) (L-Mys & 碑蓮)",
     "comment" : "HAPPY HARDCORE",
@@ -13552,6 +13600,12 @@
     "artist"  : "Professor S obj:ucc *R.MIRROR",
     "comment" : "TEKNO",
     "md5"     : "5d7024334ee56ceedb8fc8820b5269dc"
+},{
+    "level"   : "6",
+    "title"   : "BRILLIANT STAR ～煌星の雫～ [14key]",
+    "artist"  : "shimizushi obj:肴 BGA : vol-t & a.a",
+    "comment" : "White Canvas",
+    "md5"     : "5808ed1506eefb7594018a681f632bab"
 },{
     "level"   : "6",
     "title"   : "cadence [DP muri!]",
@@ -17442,6 +17496,12 @@
     "md5"     : "018cd06674a025dc0df446d55ab54003"
 },{
     "level"   : "7",
+    "title"   : "Power Plant -H.S.Mix-",
+    "artist"  : "M225",
+    "comment" : "J-Tekno(14Keys Less Another)",
+    "md5"     : "7fbe50294cbad0f586128c93cfe829ef"
+},{
+    "level"   : "7",
     "title"   : "PrayStation [PrayPlayers]",
     "artist"  : "Ras / Keybreakers",
     "comment" : "ELECTRO SHOT",
@@ -19572,12 +19632,6 @@
     "md5"     : "a3eed5a92cffd69fd32686e400a2932b"
 },{
     "level"   : "8",
-    "title"   : "High-Priestess -Ring of the hornet-",
-    "artist"  : "Luxion　obj;Lakeside",
-    "comment" : "OVERKILL",
-    "md5"     : "5f91f5987c3ca34963941a39dca2981b"
-},{
-    "level"   : "8",
     "title"   : "Hold me [EX14]",
     "artist"  : "Pinky obj:ucc *MAXBPM+70 R.MIRROR",
     "comment" : "FUNK",
@@ -21174,6 +21228,12 @@
     "md5"     : "c987b5559e389a8b193865813ee9981d"
 },{
     "level"   : "9",
+    "title"   : "Arcadia [DP sub black another+]",
+    "artist"  : "HaL feat. riri / obj:kuro",
+    "comment" : "tribal pop",
+    "md5"     : "c6e8a2105cf984d5201f7e1e8fdda5d7"
+},{
+    "level"   : "9",
     "title"   : "Ascension to Heaven -14GB-",
     "artist"  : "xi obj:no.ix",
     "comment" : "ARTCORE",
@@ -21666,6 +21726,12 @@
     "md5"     : "6dd67e3116c87b24e346e5f37a06c5b6"
 },{
     "level"   : "9",
+    "title"   : "Forceful Beat [ANOTHER']",
+    "artist"  : "keyc obj:kuro",
+    "comment" : "GABBA",
+    "md5"     : "b33a1613dec6c9c8ff0ff979b10bcca6"
+},{
+    "level"   : "9",
     "title"   : "FULL COMBO Pt.2 [DP Another]",
     "artist"  : "Blue-J *R.MIRROR",
     "comment" : "Percussion Techno",
@@ -21826,6 +21892,12 @@
     "artist"  : "Yosk! Obj.Gatia *FLIP",
     "comment" : "Elebeats",
     "md5"     : "440dca57ee5b329a4a21b19d56cc81db"
+},{
+    "level"   : "9",
+    "title"   : "High-Priestess -Ring of the hornet-",
+    "artist"  : "Luxion　obj;Lakeside *SUD+",
+    "comment" : "OVERKILL",
+    "md5"     : "5f91f5987c3ca34963941a39dca2981b"
 },{
     "level"   : "9",
     "title"   : "Homura [DPEX]",
@@ -22204,6 +22276,12 @@
     "artist"  : "TAG underground Arranged by Orina/obj:epics- *LR.MIRROR",
     "comment" : "Happy Hardcore",
     "md5"     : "5755ee24efcd0612273a29d9016f684a"
+},{
+    "level"   : "9",
+    "title"   : "Power Plant -H.S.Mix-",
+    "artist"  : "M225 *FLIP LR.MIRROR",
+    "comment" : "J-Tekno(14Keys Another)",
+    "md5"     : "6da0a4d9f8d309c242ff232d8b8bd093"
 },{
     "level"   : "9",
     "title"   : "PUPA{DP CHALLENGER}",
@@ -22744,6 +22822,12 @@
     "artist"  : "daisan obj:kuro",
     "comment" : "Continental",
     "md5"     : "05d569d03ea95e757d512cf19ba3507d"
+},{
+    "level"   : "9",
+    "title"   : "ヒメタイプ [DP CHALLENGER]",
+    "artist"  : "ノクティス・江口・チェラム obj;kuro",
+    "comment" : "IRREGULAR HI-BREAK",
+    "md5"     : "d6a2f738b3d383db092e65b46a86a829"
 },{
     "level"   : "9",
     "title"   : "ピアノ協奏曲第2番\"神龜瀧\" [14A]",
@@ -24624,6 +24708,12 @@
     "md5"     : "17f9d3a176c5faee464ab0b7d62167d0"
 },{
     "level"   : "10",
+    "title"   : "結婚します(^_^;) (Piano Version)",
+    "artist"  : "Waldeus von Dovjak/(^_^;) *MAXBPM",
+    "comment" : "CLASSIC6 ver.piano",
+    "md5"     : "091712dda1d0b95818b141983db4d36d"
+},{
+    "level"   : "10",
     "title"   : "花砂に消ゆ†",
     "artist"  : "utah",
     "comment" : "CYBER ARABIAN",
@@ -24952,12 +25042,6 @@
     "artist"  : "daiji+lobsak remix aki *FLIP",
     "comment" : "tance pop",
     "md5"     : "7ec7e0ba8781112959c67447602104be"
-},{
-    "level"   : "★1",
-    "title"   : "Forceful Beat [CHALLENGER]",
-    "artist"  : "keyc obj:kuro *正規 or LR.MIRROR",
-    "comment" : "GABBA",
-    "md5"     : "0bf4163e292814f6d6f012832d6f522e"
 },{
     "level"   : "★1",
     "title"   : "fragmentation (14A)",
@@ -25495,7 +25579,7 @@
 },{
     "level"   : "★1",
     "title"   : "ホーリーサンバランド [ダブル鯖味噌]",
-    "artist"  : "HOLY SAMBA MASTER 佐藤 -SATOH- obj:けろりん *L.MIRROR",
+    "artist"  : "HOLY SAMBA MASTER 佐藤 -SATOH- obj:けろりん *FLIP or L.MIRROR",
     "comment" : "ゆったり系アンセムトランス",
     "md5"     : "7015720b8643d92ad6008a26d07e50b5"
 },{
@@ -25732,6 +25816,12 @@
     "artist"  : "ATM / o.c. underground *L.MIRROR",
     "comment" : "minimal techno",
     "md5"     : "448e207a24b1f8bb72a62f45f22526c5"
+},{
+    "level"   : "★2",
+    "title"   : "Arcadia [DP CHALLENGER+]",
+    "artist"  : "HaL feat. riri / obj:kuro",
+    "comment" : "tribal pop",
+    "md5"     : "47cef6400590b313dbda89b215f3e117"
 },{
     "level"   : "★2",
     "title"   : "Ascension to Heaven [Rapture]",
@@ -26085,7 +26175,7 @@
     "title"   : "night starter DP Another+",
     "artist"  : "ken obj:hoi2",
     "comment" : "Digi rock",
-    "md5"     : "1dd813c720758ba91a42433cdac4dde1"
+    "md5"     : "55f6159f8f1c925199f8c652a0300c64"
 },{
     "level"   : "★2",
     "title"   : "No.337 A14",
@@ -27906,6 +27996,12 @@
     "md5"     : "4334bdbdef225691c16f6f434f0b2890"
 },{
     "level"   : "★4",
+    "title"   : "Forceful Beat [DP CHALLENGER']",
+    "artist"  : "keyc obj:kuro *FLIP LR.MIRROR",
+    "comment" : "GABBA",
+    "md5"     : "09604c120340f8357be73765fd81fd01"
+},{
+    "level"   : "★4",
     "title"   : "Forceful Beat [CHALLENGER]",
     "artist"  : "keyc obj:kuro",
     "comment" : "GABBA",
@@ -27970,6 +28066,12 @@
     "artist"  : "TEKINA",
     "comment" : "HUMANOID CORE",
     "md5"     : "05270991d07b02581dcdaffc57ba624d"
+},{
+    "level"   : "★4",
+    "title"   : "HAL -Eternal Girl- (DP Another)",
+    "artist"  : "P.E. / 海示 obj.nor  *FLIP L.RAN R.MIR or FLIP L.S-RAN R.MIR",
+    "comment" : "DIGITAL FANTASY",
+    "md5"     : "3dca147474ce83b4f2fe630f0f888b32"
 },{
     "level"   : "★4",
     "title"   : "HAPPY CIRCULATION [S]",
@@ -28258,6 +28360,12 @@
     "artist"  : "kou / o.c. underground",
     "comment" : "floor",
     "md5"     : "416c542daf985502e6f7287221ba3428"
+},{
+    "level"   : "★4",
+    "title"   : "Power Plant -H.S.Mix-",
+    "artist"  : "M225 *FLIP LR.MIRROR",
+    "comment" : "J-Tekno(14Keys Limited)",
+    "md5"     : "a1856c046425a0d89a8a9e9dcd7354a2"
 },{
     "level"   : "★4",
     "title"   : "Programmed Utopia [al-majisti]",
@@ -29896,6 +30004,12 @@
     "artist"  : "polysha mov.zue-row / obj:コトネとしずくちゃん",
     "comment" : "TRANCE",
     "md5"     : "75d4d7993c5608a92d42bd6a6803310b"
+},{
+    "level"   : "★6",
+    "title"   : "Chronomia [VerA]",
+    "artist"  : "Lime / inukoro  obj:右手が恋人",
+    "comment" : "Dramatical",
+    "md5"     : "983c26965ef956e1be48f40828d89ed6"
 },{
     "level"   : "★6",
     "title"   : "conflict [DP 無茶THER]",
