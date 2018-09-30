@@ -654,6 +654,12 @@
     "md5"     : "be0ad55c389a6671b6a5eaf6586ccc2a"
 },{
     "level"   : "?",
+    "title"   : "RED FRACTION (TRIAD MIX) -DP ANOTHER-",
+    "artist"  : "XXXXX",
+    "comment" : "DUB BREAKS",
+    "md5"     : "d21691ebf9f690a360ccd269819464f2"
+},{
+    "level"   : "?",
     "title"   : "Road To Cherry Blossom DP?",
     "artist"  : "Grand Thaw と ハカセ  *MAXBPM (分岐譜面)",
     "comment" : "Japanese Spiritual",
@@ -3162,7 +3168,7 @@
     "md5"     : "2482ac7cf9fa98806ed15e0a1643eb4c"
 },{
     "level"   : "1",
-    "title"   : "TEReSA [14 Another]",
+    "title"   : "TEReSA  [14 Another]",
     "artist"  : "Dark_seeD /obj:spt",
     "comment" : "[HardTechno]",
     "md5"     : "0bdddbfacd357b2e09e2e11dc0d9fcc4"
@@ -5478,7 +5484,7 @@
     "md5"     : "b96ba398a774ecaeb210c4da956fe9a7"
 },{
     "level"   : "2",
-    "title"   : "supersoulsimulator [DP えぬTHER-]",
+    "title"   : "supersoulsimulator  [DP えぬTHER-]",
     "artist"  : "Yamajet  obj ; N",
     "comment" : "FILTER HOUSE",
     "md5"     : "f1aec98dc60c53724899fd65580f1f62"
@@ -6934,6 +6940,12 @@
     "artist"  : "ZUN remixed by bbangsami / illust : fuente",
     "comment" : "Touhou Orgel core",
     "md5"     : "d1290bd6d21bbb17abbd3c110022a677"
+},{
+    "level"   : "3",
+    "title"   : "HyperHeadache (DP Another)",
+    "artist"  : "PSYPHA / 589+-",
+    "comment" : "PSYCHEDELIC",
+    "md5"     : "f9e22e5171c66e922172d90a54a9e7f1"
 },{
     "level"   : "3",
     "title"   : "Hypertext Transfer Protocol [14keys Hyper]",
@@ -10420,6 +10432,12 @@
     "artist"  : "ridis obj:けろりん",
     "comment" : "intelligence",
     "md5"     : "6a8b7b6c84ecb472f1cec7c71923ff8f"
+},{
+    "level"   : "4",
+    "title"   : "Yutu (14_Extreme)",
+    "artist"  : "Zris obj:Gypsy",
+    "comment" : "Xrossbreed",
+    "md5"     : "e0e753a494a96fe548593a84e3c77172"
 },{
     "level"   : "4",
     "title"   : "ZEUS [DP Another]",
@@ -14454,6 +14472,12 @@
     "md5"     : "309884061de9e0ea33472c0f68edef06"
 },{
     "level"   : "6",
+    "title"   : "Love☆Spellcard [DP-LUNATIC]",
+    "artist"  : "uma feat. ましろ obj:eclair et fleur  *FLIP",
+    "comment" : "Vocal Hardcore",
+    "md5"     : "4b5557c75052e81d1e9ef1735ab665b5"
+},{
+    "level"   : "6",
     "title"   : "Luminance (DP ANOTHER)",
     "artist"  : "Cocoa (obj:ka2o)",
     "comment" : "UK HARDCORE",
@@ -14826,7 +14850,7 @@
     "md5"     : "604e010eb1d694e363e89bdd1daaad44"
 },{
     "level"   : "6",
-    "title"   : "R140 [14 Another]",
+    "title"   : "R140  [14 Another]",
     "artist"  : "MisstypeTourist /obj:spt",
     "comment" : "PSYTEK",
     "md5"     : "dd9e5d0de9ed9d3d6e87e1b2cc8da514"
@@ -20346,8 +20370,8 @@
     "md5"     : "fa769db15ac673bc335909ff8ca317dc"
 },{
     "level"   : "8",
-    "title"   : "supersoulsimulator [DP えぬTHER]",
-    "artist"  : "Yamajet  obj ; N *R.MIRROR",
+    "title"   : "supersoulsimulator  [DP えぬTHER]",
+    "artist"  : "Yamajet  obj ; N",
     "comment" : "FILTER HOUSE",
     "md5"     : "86dfbd4c7ec7c3c3398584e8389220cb"
 },{
@@ -22896,6 +22920,12 @@
     "md5"     : "af600383d013e20f4bc41370ffcdc702"
 },{
     "level"   : "9",
+    "title"   : "四十五年ノ雪桜 [ノ]",
+    "artist"  : "kozato KEH  *LR.MIRROR",
+    "comment" : "Dramatical",
+    "md5"     : "41578ab65b479a07236a4dbd2e2721f7"
+},{
+    "level"   : "9",
     "title"   : "夕焼け空中庭園 [sub black another]",
     "artist"  : "猫蝙蝠コンツェルン movie : Y.A.B.tutidama  *FLIP LR.MIRROR",
     "comment" : "shuffle pop'n",
@@ -23134,6 +23164,12 @@
     "artist"  : "moriga / oc *FLIP R.MIRROR",
     "comment" : "techno",
     "md5"     : "99f59bacb55654ccf991e4b0b145e1f7"
+},{
+    "level"   : "10",
+    "title"   : "1st Acceleration [DPQ]",
+    "artist"  : "Xerenet OBJ : QUART",
+    "comment" : "RAVE",
+    "md5"     : "c6ae01bd7533b92af44df300b3751d61"
 },{
     "level"   : "10",
     "title"   : "3.14 (TT mix)",
@@ -24426,6 +24462,18 @@
     "md5"     : "fe5bf98e4000d668cb6983bcdc91f526"
 },{
     "level"   : "10",
+    "title"   : "ふしぎなおくりもの [DP お蔵入り]",
+    "artist"  : "9-zen obj:肴",
+    "comment" : "Everyone Happy! Wi-Fi Connection",
+    "md5"     : "0b0e2c5c5d0924759d8206587dd3c53a"
+},{
+    "level"   : "10",
+    "title"   : "ふしぎなおくりもの [DPA]",
+    "artist"  : "9-zen obj:肴",
+    "comment" : "Everyone Happy! Wi-Fi Connection",
+    "md5"     : "7cdf0e379373303886ae2240879699a2"
+},{
+    "level"   : "10",
     "title"   : "ほしぞら遊覧飛行 [14keys Another]",
     "artist"  : "山蝙蝠ホールディングス movie : Y.A.B.tudidama  *L.MIR or FLIP L.MIR",
     "comment" : "Happy Hard kirby pop",
@@ -25386,7 +25434,7 @@
     "md5"     : "3bc80ea3367020f4d080810ac4dacc0f"
 },{
     "level"   : "★1",
-    "title"   : "supersoulsimulator [DP えぬTHER+]",
+    "title"   : "supersoulsimulator  [DP えぬTHER+]",
     "artist"  : "Yamajet  obj ; N",
     "comment" : "FILTER HOUSE",
     "md5"     : "5a8786ecb28354f1c8fa814a71d9ed4e"
@@ -28542,6 +28590,12 @@
     "md5"     : "ebeffb105901d104e10cb3998d146328"
 },{
     "level"   : "★4",
+    "title"   : "Yutu (14_Master)",
+    "artist"  : "Zris obj:Gypsy",
+    "comment" : "Xrossbreed",
+    "md5"     : "90b4c872db9294222466f956fdfb093b"
+},{
+    "level"   : "★4",
     "title"   : "Zeitmesser [14key_Rasch]",
     "artist"  : "tarolabo obj:ado",
     "comment" : "[Shami jazzy]",
@@ -28594,6 +28648,12 @@
     "artist"  : "ツナマヨちゃん feat.assoa obj:killer TOMATO *FLIP L.MIRROR",
     "comment" : "木工ボンドASDF",
     "md5"     : "99dbea8b188eede25a1d4347b0a8a28a"
+},{
+    "level"   : "★4",
+    "title"   : "ひつぎとふたご -NTR-",
+    "artist"  : "plastic feat.サキトobj:shyBlasters(LA＆N)",
+    "comment" : "NU-STYLE GABBA",
+    "md5"     : "0e2849a714b61cac6bd3f5c2391456bc"
 },{
     "level"   : "★4",
     "title"   : "ふわり、ふわり。 [舞空術]",
@@ -31984,6 +32044,12 @@
     "artist"  : "碧 / obj:Hador",
     "comment" : "TENTATIVE",
     "md5"     : "834e295ccde17a8b428a71178925d91d"
+},{
+    "level"   : "★9",
+    "title"   : "LEthAl wEApOn 一人民族大移動",
+    "artist"  : "G.G-G☆ Object:KEH  *FLIP LR.RANDOM",
+    "comment" : "FINAL ATTACK",
+    "md5"     : "4f142e02dbc32c230565b0eee451f7a8"
 },{
     "level"   : "★9",
     "title"   : "LivedaM [Evil14]",
