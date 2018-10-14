@@ -186,6 +186,12 @@
     "md5"     : "8bc573ca0c4593e8f9a6d6b2b34a28f9"
 },{
     "level"   : "?",
+    "title"   : "Decolora [DP another]",
+    "artist"  : "ぜらにも obj:海馬瀬人と四糸乃",
+    "comment" : "Postclassical",
+    "md5"     : "056f5eb8dbfdc141329d8b7980141da2"
+},{
+    "level"   : "?",
     "title"   : "dirty option -ANOTHER14-",
     "artist"  : "4G with 岡本武士",
     "comment" : "FUTURE POP",
@@ -688,6 +694,12 @@
     "artist"  : "ジャンジャー obj:killer TOMATO",
     "comment" : "BM Short Music",
     "md5"     : "32d7c2657980a175385a5a8c661ed160"
+},{
+    "level"   : "?",
+    "title"   : "sensitive -DPIR-",
+    "artist"  : "white crystal / black train /まっつん /KEH",
+    "comment" : "（縦連打）",
+    "md5"     : "c04bed2d9452adf684a6c0ef20e76f91"
 },{
     "level"   : "?",
     "title"   : "Snow Black(Rework)-Watching 14",
@@ -8592,6 +8604,12 @@
     "md5"     : "911833fe39b35791d8b3f2d28a0218f4"
 },{
     "level"   : "4",
+    "title"   : "[OpenMRF]COSMO TRAVEL [SUPERCLUSTER]",
+    "artist"  : "Reanisz×minun♂ obj.vectorla  *FLIP LR.MIRROR",
+    "comment" : "Drum'n'Bass",
+    "md5"     : "040077ba38277b2e8dbb43b244bda752"
+},{
+    "level"   : "4",
     "title"   : "A BEAUTIFUL WINGS -14keyAnother-",
     "artist"  : "SHIKI /obj:spt",
     "comment" : "HAPPY HARDCORE",
@@ -14172,6 +14190,12 @@
     "md5"     : "71e2bd5d5b56ad3da480fc4168ac522c"
 },{
     "level"   : "6",
+    "title"   : "glacial world [A14]",
+    "artist"  : "Ice obj:ucc *LR.RANDOM or R.MIRROR",
+    "comment" : "elemental core",
+    "md5"     : "b3ca6f72d357a000b9d135742002cb4c"
+},{
+    "level"   : "6",
     "title"   : "Glisten  (DP Another)",
     "artist"  : "11.UK Hardcore Team",
     "comment" : "UK Hardcore",
@@ -18624,6 +18648,18 @@
     "md5"     : "06b59889343d7680b7798b3c65ffd82b"
 },{
     "level"   : "7",
+    "title"   : "時空の覇者 Sa・Ga3 バトルメドレー (DP BLACK ANOTHER)",
+    "artist"  : "mattaku *SUD+ FLIP LR.RAN or FLIP",
+    "comment" : "game music",
+    "md5"     : "d81c88971daf09f0643685f39a8cddcc"
+},{
+    "level"   : "7",
+    "title"   : "時空の覇者 Sa・Ga3 バトルメドレー -story ver.- (DP BLACK ANOTHER)",
+    "artist"  : "mattaku *SUD+ FLIP LR.RAN or FLIP",
+    "comment" : "game music",
+    "md5"     : "95720ea0e80ea7fde2c1ffc3debecd32"
+},{
+    "level"   : "7",
     "title"   : "景色の境界 14key MGNother",
     "artist"  : "A.I.TOYS[obj:MGN] *FLIP",
     "comment" : "art core",
@@ -20136,6 +20172,12 @@
     "md5"     : "5f2c8283f8efa9b6897400c43a6f99e9"
 },{
     "level"   : "8",
+    "title"   : "Quad Queens [SP to DP]",
+    "artist"  : "D.J.Nero obj.Larkid *LR.RANDOM",
+    "comment" : "RENAISSANCE",
+    "md5"     : "2bcc0c8997d68732860d1360f96280a1"
+},{
+    "level"   : "8",
     "title"   : "Qualia [kumanother]",
     "artist"  : "Junk (obj:k)",
     "comment" : "Future Pop",
@@ -20838,6 +20880,12 @@
     "md5"     : "037800c9041f6e89d967eac3decdfa3d"
 },{
     "level"   : "8",
+    "title"   : "モノリスの園 [14KEYS]",
+    "artist"  : "LOKI",
+    "comment" : "ETHEREAL BREAKS ATMOSPHERIC",
+    "md5"     : "692054a2e8da881fc72e2ae0fac52738"
+},{
+    "level"   : "8",
     "title"   : "ユニオンコード [14KEYS TECHNICAL]",
     "artist"  : "BACO #include <Octa the B.G.> <Red sheep> <朝日大学付属高校カバディー部キャプテン> <フロン> <L_Z> <massop> <HeARTy> BGA: AOO  *FLIP",
     "comment" : "ASSEMBLE",
@@ -20980,12 +21028,6 @@
     "artist"  : "Yosk!",
     "comment" : "TimE PedDleR",
     "md5"     : "b36a0174e58cf012af6ddb4b1d78d31d"
-},{
-    "level"   : "8",
-    "title"   : "時空の覇者 Sa・Ga3 バトルメドレー (DP BLACK ANOTHER)",
-    "artist"  : "mattaku *SUD+ FLIP LR.RANDOM",
-    "comment" : "game music",
-    "md5"     : "d81c88971daf09f0643685f39a8cddcc"
 },{
     "level"   : "8",
     "title"   : "暁月～蒼い夢 夢うつつ [DPQ]",
@@ -21433,7 +21475,7 @@
 },{
     "level"   : "9",
     "title"   : "Calm Garden",
-    "artist"  : "落雁 *FLIP L.MIRROR",
+    "artist"  : "落雁 *FLIP L.MIR or FLIP L.MIR R.RAN",
     "comment" : "Healing Harp",
     "md5"     : "ab6fecb4e823173d59fb5491bce76622"
 },{
@@ -21466,12 +21508,6 @@
     "artist"  : "FALL / obj:Redrum *FLIP LR.MIR or FLIP LR.RAN",
     "comment" : "TECHNO",
     "md5"     : "ee18e374710600a3e5a3bf9963d915cf"
-},{
-    "level"   : "9",
-    "title"   : "Cherry Blossom Shower -DP ANOTHER-",
-    "artist"  : "Belle. *FLIP R.MIRROR",
-    "comment" : "SPEED DANCE",
-    "md5"     : "498caad48303c19257d84eb7ea282290"
 },{
     "level"   : "9",
     "title"   : "Clockwork -Cleep Slide-",
@@ -21580,12 +21616,6 @@
     "artist"  : "ねこみりん / srof *R.MIRROR",
     "comment" : "LIGHT RAVE",
     "md5"     : "f24ea0e010b1aa99cf44be7cf16e3bd2"
-},{
-    "level"   : "9",
-    "title"   : "Decolora [DP another]",
-    "artist"  : "ぜらにも obj:海馬瀬人と四糸乃",
-    "comment" : "Postclassical",
-    "md5"     : "056f5eb8dbfdc141329d8b7980141da2"
 },{
     "level"   : "9",
     "title"   : "DEEP MARINE STRIKER (ANOTHER14)",
@@ -21780,6 +21810,12 @@
     "md5"     : "38ab698c4f41e11d3516ab94fdeefe43"
 },{
     "level"   : "9",
+    "title"   : "G e n g a o z o - 人 中 薬",
+    "artist"  : "455-38B object : keh  *LR.RANDOM",
+    "comment" : "P s y",
+    "md5"     : "ed55a9e69b61e1900b7d62bc24f48219"
+},{
+    "level"   : "9",
     "title"   : "G e n g a o z o _ A F O _ D P",
     "artist"  : "455-38B+- *FLIP R.MIRROR",
     "comment" : "P s y",
@@ -21804,6 +21840,12 @@
     "md5"     : "efccf427556dc97383760549a6398403"
 },{
     "level"   : "9",
+    "title"   : "G e n g a o z o _ more穴クエ階段Δ",
+    "artist"  : "455 / rio / black train",
+    "comment" : "P s y",
+    "md5"     : "9cc30c054b4c12b886adccee7b4ff192"
+},{
+    "level"   : "9",
     "title"   : "G.N. [DP fk]",
     "artist"  : "keyc",
     "comment" : "Nu Style Gabba",
@@ -21814,12 +21856,6 @@
     "artist"  : "Is-m[obj:mymt] BGA:syatten",
     "comment" : "TECHNO",
     "md5"     : "4aa90be82d96cee99e955e4d0ca498e7"
-},{
-    "level"   : "9",
-    "title"   : "glacial world [A14]",
-    "artist"  : "Ice obj:ucc *LR.RANDOM",
-    "comment" : "elemental core",
-    "md5"     : "b3ca6f72d357a000b9d135742002cb4c"
 },{
     "level"   : "9",
     "title"   : "GO REWRITE [ANOTHER]",
@@ -21847,7 +21883,7 @@
 },{
     "level"   : "9",
     "title"   : "good night,jewel. [A14]",
-    "artist"  : "horosceased obj:ucc *LR.RANDOM",
+    "artist"  : "horosceased obj:ucc",
     "comment" : "ジュエル",
     "md5"     : "70cc7a3704908aa3c1f04997ee252bae"
 },{
@@ -21949,7 +21985,7 @@
 },{
     "level"   : "9",
     "title"   : "hurt, scenery, groundrainbow",
-    "artist"  : "syatten + coda / obj:QJITAI",
+    "artist"  : "syatten + coda / obj:QJITAI *SUD+",
     "comment" : "time paradox",
     "md5"     : "0709da21dbe74d4921b2abc837d76554"
 },{
@@ -22336,12 +22372,6 @@
     "artist"  : "妃宮 千早 with. 七々原 薫子 (BG : ケイリ・グランセリウス)",
     "comment" : "フラワーステップ",
     "md5"     : "c8dc214003898e6ace09d3341701fc01"
-},{
-    "level"   : "9",
-    "title"   : "Quad Queens [SP to DP]",
-    "artist"  : "D.J.Nero obj.Larkid",
-    "comment" : "RENAISSANCE",
-    "md5"     : "2bcc0c8997d68732860d1360f96280a1"
 },{
     "level"   : "9",
     "title"   : "Rainy City(What did you say?) -DPA-",
@@ -23040,12 +23070,6 @@
     "md5"     : "2f8c2c5bdb022727fab299c6100e9687"
 },{
     "level"   : "9",
-    "title"   : "時空の覇者 Sa・Ga3 バトルメドレー -story ver.- (DP BLACK ANOTHER)",
-    "artist"  : "mattaku *MAX+30",
-    "comment" : "game music",
-    "md5"     : "95720ea0e80ea7fde2c1ffc3debecd32"
-},{
-    "level"   : "9",
     "title"   : "月と時計の使者 まじかる☆さくや",
     "artist"  : "oto feat.きせの obj:srof *R.MIRROR or FLIP R.MIRROR",
     "comment" : "Magical Pop [いざよい さくや]",
@@ -23448,6 +23472,12 @@
     "md5"     : "751e1ab09d700739450d408df33730d3"
 },{
     "level"   : "10",
+    "title"   : "Cherry Blossom Shower -DP ANOTHER-",
+    "artist"  : "Belle. *FLIP R.MIRROR",
+    "comment" : "SPEED DANCE",
+    "md5"     : "498caad48303c19257d84eb7ea282290"
+},{
+    "level"   : "10",
     "title"   : "CHMR -One More Confis-",
     "artist"  : "TEKINA ;no9",
     "comment" : "CRYSTAL TECHNOLOGY",
@@ -23598,6 +23628,12 @@
     "md5"     : "e5ff61f7922ad667b2e0d7509816627c"
 },{
     "level"   : "10",
+    "title"   : "energy night [ENERGY BOMBER]",
+    "artist"  : "KAH (BGA:自動車原付　イラスト:手鞠鈴) obj:けろりん",
+    "comment" : "rave tech",
+    "md5"     : "5503e1f48d5a9ecba061fb0ad97d66a3"
+},{
+    "level"   : "10",
     "title"   : "Epatoivo LdsRmx [ANOTHER]",
     "artist"  : "Le Dos-on *FLIP LR.MIRROR",
     "comment" : "FREEFORM",
@@ -23635,7 +23671,7 @@
 },{
     "level"   : "10",
     "title"   : "Fantasista Eleven (For BMS)",
-    "artist"  : "KAI",
+    "artist"  : "KAI *正規 or LR.RANDOM",
     "comment" : "EURO TRANCE",
     "md5"     : "8f154820564abc4113e643073f120ea4"
 },{
@@ -26479,7 +26515,7 @@
 },{
     "level"   : "★2",
     "title"   : "Titanomaquia [DP ANOTHER]",
-    "artist"  : "ルゼ obj : Yamajet  *正規 or L.MIR",
+    "artist"  : "ルゼ obj : Yamajet  *FLIP",
     "comment" : "神統譜",
     "md5"     : "a16edade818b7fc1ebbcf39df5d7af0b"
 },{
@@ -26833,7 +26869,7 @@
 },{
     "level"   : "★3",
     "title"   : "8th:Planet [INSANE]",
-    "artist"  : "P4koo obj:SUGURI Visual : HAEGOE  *FLIP",
+    "artist"  : "P4koo obj:SUGURI Visual : HAEGOE  *FLIP L.MIR R.RAN",
     "comment" : "Space Techno",
     "md5"     : "e25b5496e57f23127423d2660d28e6ca"
 },{
@@ -30601,7 +30637,7 @@
 },{
     "level"   : "★6",
     "title"   : "VALLISTA [Rhodes14]",
-    "artist"  : "削除 / Mentalstock / obj:slash",
+    "artist"  : "削除 / Mentalstock / obj:slash *SUD+",
     "comment" : "Overture / IDM",
     "md5"     : "f36bc59f982bbfb5abea4a2d9de12b3f"
 },{
@@ -31248,6 +31284,12 @@
     "md5"     : "80a343d48127b7e84b23aab6144a6f6d"
 },{
     "level"   : "★7",
+    "title"   : "Valkyrie Revolutia [Gram†LEGGENDARIA]",
+    "artist"  : "------ obj:nBel",
+    "comment" : "Holy knight core",
+    "md5"     : "f6fbc7b6cbe28afa35fe7c22b7d94a1a"
+},{
+    "level"   : "★7",
     "title"   : "volcanic",
     "artist"  : "DETRO obj:NEPIA vs kumamoto",
     "comment" : "ボルケーノ",
@@ -31812,6 +31854,12 @@
     "md5"     : "9ec893226a045c80e415fe58ee5998f9"
 },{
     "level"   : "★8",
+    "title"   : "★LittlE HearTs★ [S]",
+    "artist"  : "ねこみみ魔法使い  obj:右手が恋人",
+    "comment" : "HappY PoPcorN",
+    "md5"     : "eb3d1f997acb4b9359523c96677dedeb"
+},{
+    "level"   : "★8",
     "title"   : "★So SweeT LittlE HearT★ [ANOTHER]",
     "artist"  : "kbwnk max obj:ROCO",
     "comment" : "ハッピーポップコーン　 (14key)",
@@ -32250,12 +32298,6 @@
     "md5"     : "becfec6478459bc6c5ab2c39ebcea8d2"
 },{
     "level"   : "★9",
-    "title"   : "Valkyrie Revolutia [Gram†LEGGENDARIA]",
-    "artist"  : "------ obj:nBel",
-    "comment" : "Holy knight core",
-    "md5"     : "f6fbc7b6cbe28afa35fe7c22b7d94a1a"
-},{
-    "level"   : "★9",
     "title"   : "Voyage into a cage... [PHANTASM]",
     "artist"  : "原曲:ZUN　編曲:あかみ *AVERAGE-50 L.RANDOM",
     "comment" : "GRAND PIANO",
@@ -32278,12 +32320,6 @@
     "artist"  : "ねこみみ魔法使い+- *FLIP L.MIRROR",
     "comment" : "HappY PoPcorN",
     "md5"     : "42132eba0f850400cc3f6bbf9a6c2fe6"
-},{
-    "level"   : "★9",
-    "title"   : "★LittlE HearTs★ [S]",
-    "artist"  : "ねこみみ魔法使い  obj:右手が恋人",
-    "comment" : "HappY PoPcorN",
-    "md5"     : "eb3d1f997acb4b9359523c96677dedeb"
 },{
     "level"   : "★9",
     "title"   : "★So SweeT LittlE HearT★ なんだと・・・",
