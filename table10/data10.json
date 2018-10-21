@@ -1290,6 +1290,12 @@
     "md5"     : "43caf1700c3a309c62e896a875c839c6"
 },{
     "level"   : "★2",
+    "title"   : "ヒメタイプ ~HARD~",
+    "artist"  : "ノクティス・江口・チェラム *LR.RANDOM",
+    "comment" : "IRREGULAR HI-BREAK",
+    "md5"     : "445a4dc870610fa1f4a614b774b17a6d"
+},{
+    "level"   : "★2",
     "title"   : "夜明けの少女たち ~SUPER HARD~",
     "artist"  : "Lubinn",
     "comment" : "Sepia chant",
@@ -1332,12 +1338,6 @@
     "md5"     : "ebc4fbc77b0d49ec86b463d433caf3ca"
 },{
     "level"   : "★3",
-    "title"   : "ヒメタイプ ~HARD~",
-    "artist"  : "ノクティス・江口・チェラム *LR.RANDOM",
-    "comment" : "IRREGULAR HI-BREAK",
-    "md5"     : "445a4dc870610fa1f4a614b774b17a6d"
-},{
-    "level"   : "★3",
     "title"   : "ベストフレンド ~SUPER HARD~",
     "artist"  : "渋谷凛",
     "comment" : "NEW GENERATION",
@@ -1348,12 +1348,6 @@
     "artist"  : "Nene Anegasaki feat. Salita *LR.MIRROR",
     "comment" : "PIANO HOUSE",
     "md5"     : "627413a2bfe597bf13e1fa1fb79fbe56"
-},{
-    "level"   : "★4",
-    "title"   : "empire of the steam",
-    "artist"  : "paraoka / objeCraft",
-    "comment" : "techno(DP/difficult)",
-    "md5"     : "b5654db1aa1ca7aca76e0d53346bf243"
 },{
     "level"   : "★4",
     "title"   : "Fly Again ~SUPER HARD~",
@@ -1396,6 +1390,12 @@
     "artist"  : "Junk",
     "comment" : "Epic Trance",
     "md5"     : "cddd127398e6ab75c3435c64123c87b9"
+},{
+    "level"   : "★5",
+    "title"   : "empire of the steam",
+    "artist"  : "paraoka / objeCraft",
+    "comment" : "techno(DP/difficult)",
+    "md5"     : "b5654db1aa1ca7aca76e0d53346bf243"
 },{
     "level"   : "★5",
     "title"   : "Ereshkigal ~HARD~",
