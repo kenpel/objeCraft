@@ -1092,6 +1092,12 @@
     "md5"     : "410b759bd3546e4a36023ab7e3a09025"
 },{
     "level"   : "?",
+    "title"   : "小さなトリカゴ 14",
+    "artist"  : "a*ri. // dp131",
+    "comment" : "",
+    "md5"     : "9c1837f19370a167f1d41b3a62097044"
+},{
+    "level"   : "?",
     "title"   : "或る表現者の男 [境地の先に在るものは]",
     "artist"  : "eicateve 千頭和直輝[act+poet] かゆき[gt] まきのせな[mv+cam] q/stol,なの太,おう未[cam] むらしん[sv+cam]",
     "comment" : "Poetry Reading / My Story",
@@ -1282,6 +1288,12 @@
     "artist"  : "syatten",
     "comment" : "Progressive House",
     "md5"     : "b3307a2f68b6f78db339ef05050a6e8e"
+},{
+    "level"   : "1",
+    "title"   : "Amusing Colorful Pudding. (DP ANOTHER)",
+    "artist"  : "yukitani / DKN obj : Thulium",
+    "comment" : "Electro Swing Pop",
+    "md5"     : "7f14c3b7d502e8632279e3f70c5966ac"
 },{
     "level"   : "1",
     "title"   : "Ancient Memory(A mix) [LN14]",
@@ -4386,6 +4398,12 @@
     "md5"     : "88b451d8196bf4759e14e50a1507edd8"
 },{
     "level"   : "2",
+    "title"   : "Chronomia [VerN]",
+    "artist"  : "Lime / inukoro  obj:右手が恋人",
+    "comment" : "Dramatical",
+    "md5"     : "c18083f24c1d798f2b9daf71dd7f7c4d"
+},{
+    "level"   : "2",
     "title"   : "CILBIDA [dpLunaticBLN]",
     "artist"  : "DJ YOSHITAKA×ZUN remixed by ueo obj:srof  *FLIP",
     "comment" : "jubea東方",
@@ -6216,6 +6234,12 @@
     "md5"     : "228c254ba0282236ade85a28607f7f31"
 },{
     "level"   : "3",
+    "title"   : "Adam [DP ANOTHER]",
+    "artist"  : "しらいし obj: misty.ls04",
+    "comment" : "CLASSICAL TRANCE",
+    "md5"     : "d09440e12fce675d8ee99b1ade235ae6"
+},{
+    "level"   : "3",
     "title"   : "adolescent person -DP ANOTHER-",
     "artist"  : "Is-m BGA:yuru",
     "comment" : "TECHNO POP",
@@ -7792,6 +7816,12 @@
     "artist"  : "Gatia",
     "comment" : "CHIPTUNE",
     "md5"     : "b11e95bd4ed01b7b4539d02098bba423"
+},{
+    "level"   : "3",
+    "title"   : "The Cliff [14key,Another]",
+    "artist"  : "mommy",
+    "comment" : "PROGRESSIVE FUSION",
+    "md5"     : "cf98b3629af0280686d034f20363bc7e"
 },{
     "level"   : "3",
     "title"   : "THE COLD OF LIE-bms edit- [DP ANOTHER]",
@@ -10842,6 +10872,12 @@
     "md5"     : "215334071d6aa657c48f4e2fd77f1551"
 },{
     "level"   : "4",
+    "title"   : "勇敢なる者達 [DP ANOTHER]",
+    "artist"  : "しらいし obj: misty.ls04",
+    "comment" : "CLASSICAL TRANCE",
+    "md5"     : "37836b9d85ac28a920d48d6172176e0e"
+},{
+    "level"   : "4",
     "title"   : "午後のこいしちゃん [DP ⌒ワ⌒]",
     "artist"  : "er / obj.LetsOTL",
     "comment" : "ゆるふわボッサ/ゆるふわハウス",
@@ -11778,6 +11814,12 @@
     "md5"     : "82e1ca2bcfb8ae1f039ec8ca061f770b"
 },{
     "level"   : "5",
+    "title"   : "G e n g a o z o _ D",
+    "artist"  : "455-38B / 131",
+    "comment" : "P s y",
+    "md5"     : "2b386861d6c6d45c61648cba3e000f59"
+},{
+    "level"   : "5",
     "title"   : "G e n g a o z o _ D P A",
     "artist"  : "455 / rio / dp-314",
     "comment" : "P s y",
@@ -12634,12 +12676,6 @@
     "artist"  : "Jun Kuroda obj.vectorla  *FLIP LR.RANDOM",
     "comment" : "Artcore",
     "md5"     : "c96f027cd7478d9affbc633ea71cb448"
-},{
-    "level"   : "5",
-    "title"   : "The Cliff [14key,Another]",
-    "artist"  : "mommy",
-    "comment" : "PROGRESSIVE FUSION",
-    "md5"     : "cf98b3629af0280686d034f20363bc7e"
 },{
     "level"   : "5",
     "title"   : "The Formula [DP INSANE]",
@@ -23916,6 +23952,12 @@
     "md5"     : "e81b95a8cf612e75ef36c08ca9f1ec12"
 },{
     "level"   : "10",
+    "title"   : "Little Wizard [Double Wizard]",
+    "artist"  : "Yosk! [obj:MGN]",
+    "comment" : "S/2013 J 1",
+    "md5"     : "64a79921325dd750906a7d6b5a52594b"
+},{
+    "level"   : "10",
     "title"   : "Lonely Cat [DP Cat fog]",
     "artist"  : "* (Asterisk) 前川みく×多田李衣菜 / obj:MGN",
     "comment" : "HOUSE",
@@ -28156,6 +28198,12 @@
     "artist"  : "witch's slave Graphic : koavenit  *FLIP LR.MIR",
     "comment" : "GOTHIC HARDCORE",
     "md5"     : "6916db29f791b2b52e08f605a5e7346e"
+},{
+    "level"   : "★4",
+    "title"   : "G e n g a o z o - 人 中 薬 + 親 小",
+    "artist"  : "455-38B object : keh  *LR.RANDOM",
+    "comment" : "P s y",
+    "md5"     : "52fd5bb1ebad1377ce3ae996650d3925"
 },{
     "level"   : "★4",
     "title"   : "G e n g a o z o _超絶糞譜面14",
