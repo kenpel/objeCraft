@@ -4860,6 +4860,12 @@
     "md5"     : "4759d5b545a1cdae14d2622e61bb5cfc"
 },{
     "level"   : "2",
+    "title"   : "Is This Your Memory? [Insane]",
+    "artist"  : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:Thulium",
+    "comment" : "Future Bass",
+    "md5"     : "0ed3cf04dd716879b4ec4ef50aff2cd0"
+},{
+    "level"   : "2",
     "title"   : "J219 [DPQ]",
     "artist"  : "cranky OBJ : QUART",
     "comment" : "EURO BEAT",
@@ -5122,6 +5128,12 @@
     "artist"  : "牧野/obj:epics-",
     "comment" : "HAPPY",
     "md5"     : "8a43148e60a6652b1b89b220de31e474"
+},{
+    "level"   : "2",
+    "title"   : "Our Dream, Our Justice [DP Sub Another+]",
+    "artist"  : "tcheb / mov : 石王マサト obj:kuro",
+    "comment" : "AGAINST \"The World\"",
+    "md5"     : "776666eb989eb10b1e2cfb38367b0f33"
 },{
     "level"   : "2",
     "title"   : "OVERDOSER -cyber mix-",
@@ -5986,6 +5998,12 @@
     "artist"  : "Ark-Z / Obj:ゆ～兎",
     "comment" : "ラグナロク",
     "md5"     : "274a67e15e06809637d9c8061e1c0cf6"
+},{
+    "level"   : "2",
+    "title"   : "幻雪夜 [粉雪]",
+    "artist"  : "しらいし obj: misty.ls04　　*R.MIRROR",
+    "comment" : "J-Trance",
+    "md5"     : "a9b1760c6e25b5d540a82d74e2f09122"
 },{
     "level"   : "2",
     "title"   : "恍惚之宴 [H14]",
@@ -9156,10 +9174,10 @@
     "md5"     : "531454c468fe58b005bfc24de84e3b2d"
 },{
     "level"   : "4",
-    "title"   : "Dreadnought",
+    "title"   : "Dreadnought [DP sub another+]",
     "artist"  : "Mastermind(xi+nora2r) obj:kuro iimo",
     "comment" : "Breakthrough",
-    "md5"     : "9eca163a7305a02e433b1e87a1781324"
+    "md5"     : "eeb436e6c4ac9e079187e6f1103d80b6"
 },{
     "level"   : "4",
     "title"   : "Dystopia High [DPH]",
@@ -9904,6 +9922,12 @@
     "artist"  : "void obj:ucc BGA : Identity 7",
     "comment" : "Filmscore / Trance",
     "md5"     : "87bb02b45c2a1352b5d021920deb91c7"
+},{
+    "level"   : "4",
+    "title"   : "Our Dream, Our Justice [DP Sub Black Another+]",
+    "artist"  : "tcheb / mov : 石王マサト obj:kuro",
+    "comment" : "AGAINST \"The World\"",
+    "md5"     : "3d6408517abfa86af1f9c311adc3db3c"
 },{
     "level"   : "4",
     "title"   : "Ovital [DP HYPER]",
@@ -19410,6 +19434,12 @@
     "md5"     : "5814a6d0ca2802eeb9db92ccf9a936f8"
 },{
     "level"   : "8",
+    "title"   : "Dreadnought [DP sub black another+]",
+    "artist"  : "Mastermind(xi+nora2r) obj:kuro iimo",
+    "comment" : "Breakthrough",
+    "md5"     : "2bef2aaca13082016b396c6beddc4f61"
+},{
+    "level"   : "8",
     "title"   : "Drop Down [DP Another]",
     "artist"  : "LunaticSounds / ShiginoEicar Obj_Onedict",
     "comment" : "Drum&Bass",
@@ -21259,7 +21289,7 @@
 },{
     "level"   : "9",
     "title"   : "153200112 -DP ANOTHER-",
-    "artist"  : "Project Chord Minor / Obj : .t29 *MAX+50 FLIP L.MIRROR",
+    "artist"  : "Project Chord Minor / Obj : .t29 *SUD+ MAX+50",
     "comment" : "Hard Techno",
     "md5"     : "f83c71a9f56ee794de0aa872c7c86e4e"
 },{
@@ -21694,12 +21724,6 @@
     "artist"  : "LeaF /obj: QJITAI Movie:To7  *FIXOFF 170",
     "comment" : "EINSAMKEIT",
     "md5"     : "e5e2d61525feca58d28c38dbd41875cc"
-},{
-    "level"   : "9",
-    "title"   : "Dreadnought",
-    "artist"  : "Mastermind(xi+nora2r) obj:kuro iimo",
-    "comment" : "Breakthrough",
-    "md5"     : "df7d9a9808713e060dcd3ec112adbc7a"
 },{
     "level"   : "9",
     "title"   : "Dreadnought [DPA]",
@@ -27216,6 +27240,12 @@
     "md5"     : "670c21f977d909deff6a1fa2ada7720b"
 },{
     "level"   : "★3",
+    "title"   : "Halcyon [DP CHALLENGER]",
+    "artist"  : "xi / obj:kuro",
+    "comment" : "RENAISSANCE HARDCORE",
+    "md5"     : "d4440a7a6244203a9b0cdadf90a2e5ff"
+},{
+    "level"   : "★3",
     "title"   : "Her Majesty",
     "artist"  : "naotyu- OBJ:KLOC",
     "comment" : "progressive breaks",
@@ -27412,6 +27442,12 @@
     "artist"  : "しらいし (obj:NEPIA)",
     "comment" : "Classical Trance",
     "md5"     : "feec47e334e199443023acf5ce796613"
+},{
+    "level"   : "★3",
+    "title"   : "Our Dream, Our Justice [DP CHALLENGER+]",
+    "artist"  : "tcheb / mov : 石王マサト obj:kuro",
+    "comment" : "AGAINST \"The World\"",
+    "md5"     : "846d74b4e7ff080f41c28d5d5857a328"
 },{
     "level"   : "★3",
     "title"   : "Parousia [DP_A]",
@@ -28054,12 +28090,6 @@
     "artist"  : "remixed celas OBJ:KLOC  *正規 or FLIP LR.MIR",
     "comment" : "nrg",
     "md5"     : "d67edd9ccb6cfcb3f0d7211a77b3276e"
-},{
-    "level"   : "★4",
-    "title"   : "Dreadnought",
-    "artist"  : "Mastermind(xi+nora2r) iimo / obj: lichtr  *MINBPM L.MIR or LR.RAN",
-    "comment" : "Breakthrough",
-    "md5"     : "d87082bc27587aad465f89bf9dc49e59"
 },{
     "level"   : "★4",
     "title"   : "Dumbass",
@@ -29137,7 +29167,7 @@
 },{
     "level"   : "★5",
     "title"   : "cheeselove [DP mami]",
-    "artist"  : "charlotte obj. Gisela",
+    "artist"  : "charlotte obj. Gisela  *FLIP",
     "comment" : "okashicore",
     "md5"     : "8ac2cf80f2483c1b3b6d68d6baa63531"
 },{
@@ -29218,6 +29248,18 @@
     "artist"  : "LeaF /obj: QJITAI Movie:To7  *FIXOFF 180",
     "comment" : "EINSAMKEIT",
     "md5"     : "1638aa49b41b6240aa75a99f6a7efab9"
+},{
+    "level"   : "★5",
+    "title"   : "Dreadnought",
+    "artist"  : "Mastermind(xi+nora2r) iimo / obj: lichtr  *MINBPM L.MIR or LR.RAN",
+    "comment" : "Breakthrough",
+    "md5"     : "d87082bc27587aad465f89bf9dc49e59"
+},{
+    "level"   : "★5",
+    "title"   : "Dreadnought [DP CHALLENGER+]",
+    "artist"  : "Mastermind(xi+nora2r) obj:kuro iimo",
+    "comment" : "Breakthrough",
+    "md5"     : "36faebee1e1c488b9de7fb942c119536"
 },{
     "level"   : "★5",
     "title"   : "End Time [uranus]",
@@ -30330,6 +30372,12 @@
     "md5"     : "4ff1019c2a61c8e2aa8a93315edc76bc"
 },{
     "level"   : "★6",
+    "title"   : "Halcyon [DP CHALLENGER+]",
+    "artist"  : "xi / obj:kuro *正規 or FLIP LR.MIRROR",
+    "comment" : "RENAISSANCE HARDCORE",
+    "md5"     : "a34fe31e9282be5c6d7374744ebb9f8a"
+},{
+    "level"   : "★6",
     "title"   : "Harmony [S]",
     "artist"  : "Lime / 温泉の力 /",
     "comment" : "kawaiicore",
@@ -30733,7 +30781,7 @@
 },{
     "level"   : "★6",
     "title"   : "★LittlE HearTs★ [VerA]",
-    "artist"  : "ねこみみ魔法使い  obj:右手が恋人",
+    "artist"  : "ねこみみ魔法使い  obj:右手が恋人 *FLIP LR.MIRROR",
     "comment" : "HappY PoPcorN",
     "md5"     : "ca17c4cbd406b44018e8a8787726b8f8"
 },{
@@ -30757,7 +30805,7 @@
 },{
     "level"   : "★6",
     "title"   : "クロノトリガー [INSANE]",
-    "artist"  : "Celas / obj:Chrono *FLIP LR.MIRROR",
+    "artist"  : "Celas / obj:Chrono *FLIP LR.MIR or FLIP LR.RAN",
     "comment" : "GAME MUSIC",
     "md5"     : "06adee9e7f05329d8c3fd1fe97dea41d"
 },{
