@@ -401,6 +401,18 @@
     "comment" : "TECHNO",
     "md5"     : "3e13705186db5ef30068ed11bc4e7f4b"
 },{
+    "level"   : "1",
+    "title"   : "ヒメタイプ ~NORMAL~",
+    "artist"  : "ノクティス・江口・チェラム",
+    "comment" : "IRREGULAR HI-BREAK",
+    "md5"     : "2ec9397cb3a6e420801949d4480fda06"
+},{
+    "level"   : "1",
+    "title"   : "恋の2-4-11 ~HARD~",
+    "artist"  : "Gun-SEKI feat.那珂",
+    "comment" : "IDOL SONG",
+    "md5"     : "0bff851828e620348fa91364a8752ca4"
+},{
     "level"   : "2",
     "title"   : "AcidAce-Alliance (deep mix)",
     "artist"  : "paraoka Remixed by doctor.R *MINBPM",
@@ -724,6 +736,12 @@
     "artist"  : "Yamajet *AVERAGE",
     "comment" : "BREAK CORE",
     "md5"     : "8d2e9695bcf76d1556cea873a9793dae"
+},{
+    "level"   : "4",
+    "title"   : "Red -reduction division- ~SUPER HARD~",
+    "artist"  : "nmk feat.KANAE YUME",
+    "comment" : "----",
+    "md5"     : "ab07f75bcb1901d1c54611e3b36df414"
 },{
     "level"   : "4",
     "title"   : "rorschach",
@@ -1098,6 +1116,12 @@
     "md5"     : "b2c22175c476d4b744d4375254a3954a"
 },{
     "level"   : "8",
+    "title"   : "Red-rize \"B172 mix\" ~HARD~",
+    "artist"  : "wint",
+    "comment" : "HYPER EURO RAVE",
+    "md5"     : "3c356fb3d9abebe8426287a98630ece2"
+},{
+    "level"   : "8",
     "title"   : "Urban Renewal [DP ANOTHER]",
     "artist"  : "Studio Chieph",
     "comment" : "BIGBEAT",
@@ -1176,6 +1200,12 @@
     "md5"     : "b0494dda265c3d250758529714cf8a2b"
 },{
     "level"   : "10",
+    "title"   : "Altersist ~SUPER HARD~",
+    "artist"  : "void *LR.MIRROR",
+    "comment" : "DISALTERNATIVE TRANCE",
+    "md5"     : "b8805e281a9f4a3df6f099545395c659"
+},{
+    "level"   : "10",
     "title"   : "An Ego",
     "artist"  : "π/3 vs mentalhealz *LR.RAN or LR.MIR",
     "comment" : "CROSSBREED",
@@ -1228,6 +1258,12 @@
     "artist"  : "Octa the B.G.",
     "comment" : "ブレイクビーツ",
     "md5"     : "921779fe049a53534cd0f5b1510caacf"
+},{
+    "level"   : "10",
+    "title"   : "幸なる旋律 -the Solitary Melody- ~SUPER HARD~",
+    "artist"  : "xenothium remixed by gmtn.",
+    "comment" : "GOTHIC HARDTRANCE",
+    "md5"     : "3bab1644c56b2cc0e9117f4173d5cd3d"
 },{
     "level"   : "10",
     "title"   : "恋の2-4-11 ~SUPER HARD~",
@@ -1343,6 +1379,12 @@
     "comment" : "NEW GENERATION",
     "md5"     : "69cffc480c070a69966adcd63bfb04bd"
 },{
+    "level"   : "★3",
+    "title"   : "乙女ノススメ！ ~HARD~",
+    "artist"  : "悠然 *LR.RANDOM",
+    "comment" : "HAPPY HARD CORE",
+    "md5"     : "3ad377cd33d892445c9bfa6cdaf3f134"
+},{
     "level"   : "★4",
     "title"   : "Act Beloved ~SUPER HARD~",
     "artist"  : "Nene Anegasaki feat. Salita *LR.MIRROR",
@@ -1440,6 +1482,12 @@
     "md5"     : "a2a6a8add83d340ae7dd38a1128cae5a"
 },{
     "level"   : "★6",
+    "title"   : "Necrophantasia -LifeZero- ~SUPER HARD~",
+    "artist"  : "CrossGear",
+    "comment" : "Eastern Phantasm",
+    "md5"     : "2665e0790549da98ffcf938418a2a9af"
+},{
+    "level"   : "★6",
     "title"   : "PEACE BREAKER ~HARD~",
     "artist"  : "Omnipotenx *LR.RANDOM",
     "comment" : "SYMPHONIC SCHRANZ",
@@ -1516,6 +1564,12 @@
     "artist"  : "eicateve / Mentalstock / objeCraft",
     "comment" : "HARDCORE",
     "md5"     : "b0ed2a98504740ce67caf0cde9af637d"
+},{
+    "level"   : "★10",
+    "title"   : "Mario Paint (Time Regression Mix for BMS) ~CATASTROPHE~",
+    "artist"  : "ueotan *LR.RANDOM",
+    "comment" : "GAMEMUSIC",
+    "md5"     : "f6e02fba003f20c9cd078fe49bc92b05"
 },{
     "level"   : "★13",
     "title"   : "FREEDOM DiVE↓ ~CATASTROPHE~",
