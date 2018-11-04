@@ -186,6 +186,12 @@
     "md5"     : "8bc573ca0c4593e8f9a6d6b2b34a28f9"
 },{
     "level"   : "?",
+    "title"   : "Daydreamer [Syndrome]",
+    "artist"  : "Lime / Roaring Flame",
+    "comment" : "Hardcore",
+    "md5"     : "42d4a3e658f2a1f2e5bf6912801ed14c"
+},{
+    "level"   : "?",
     "title"   : "Decolora [DP another]",
     "artist"  : "ぜらにも obj:海馬瀬人と四糸乃",
     "comment" : "Postclassical",
@@ -310,6 +316,12 @@
     "artist"  : "455 / rio / black train",
     "comment" : "P s y",
     "md5"     : "615b256def1982a56a18d0eff567ea76"
+},{
+    "level"   : "?",
+    "title"   : "G e n g a o z o _ MEGA  MAC  Hanon",
+    "artist"  : "455 / rio / black train",
+    "comment" : "P s y",
+    "md5"     : "fef6db96fea59572bd2e592b6479af99"
 },{
     "level"   : "?",
     "title"   : "G e n g a o z o _ more Hanon",
@@ -958,6 +970,12 @@
     "artist"  : "ちんぽ *AVERAGE",
     "comment" : "ごめんなさい",
     "md5"     : "d73f009d0a87a69b0bd3886598c5ba96"
+},{
+    "level"   : "?",
+    "title"   : "ただの嫌がらせ2",
+    "artist"  : "ちんぽ *HS60 LR.S-RANDOM",
+    "comment" : "ごめんなさい",
+    "md5"     : "a0ec899feb7d0e33750e75160f0fb008"
 },{
     "level"   : "?",
     "title"   : "てーまおぶまいあまあまあはやい",
@@ -8268,6 +8286,12 @@
     "md5"     : "95967731eaa7d629a502d8e41238a548"
 },{
     "level"   : "3",
+    "title"   : "ベストフレンド [DP ANOTHER]",
+    "artist"  : "渋谷凛 / 成宮由愛",
+    "comment" : "IDOL SONG / NEW GENERATION",
+    "md5"     : "f7cba5233e404264871cd333d6775c8e"
+},{
+    "level"   : "3",
     "title"   : "ホームラン [14key Super Run]",
     "artist"  : "路傍の石 Original:中潟憲雄 / obj:畑正憲",
     "comment" : "Chiptune",
@@ -12568,6 +12592,12 @@
     "artist"  : "Yoshitoshi Abo *FLIP R.RANDOM",
     "comment" : "EXPERIMENTAL DUB",
     "md5"     : "ba035b592dfd02d611d414391e27a473"
+},{
+    "level"   : "5",
+    "title"   : "Schlaflosigkeitnacht",
+    "artist"  : "DJ角煮 vs B.E. / obj:夢瑠",
+    "comment" : "FREEFORM HARDCORE",
+    "md5"     : "2b6c4c49b938f8cfc8ae9dbf7fc9e23b"
 },{
     "level"   : "5",
     "title"   : "Selenetic Eternia MGNother",
@@ -25020,12 +25050,6 @@
     "md5"     : "a1ef5294ec76cc3190d5eeea097ec9d3"
 },{
     "level"   : "★1",
-    "title"   : "B.B.K.K.B.K.K. (14crazy)",
-    "artist"  : "nora2r / 出前 / obj:JGh *FLIP LR.MIRROR",
-    "comment" : "UK HARDCORE",
-    "md5"     : "14f2af07f1e7603451c7817c9a2b3391"
-},{
-    "level"   : "★1",
     "title"   : "BABYLON [DP ANOTHER 2010]",
     "artist"  : "SHIKI / obj:killer TOMATO *FLIP R.MIRROR",
     "comment" : "HARD RENAISSANCE",
@@ -26028,6 +26052,12 @@
     "md5"     : "7aae43c80525dce07666f38b8dc993bd"
 },{
     "level"   : "★2",
+    "title"   : "B.B.K.K.B.K.K. (14crazy)",
+    "artist"  : "nora2r / 出前 / obj:JGh *FLIP LR.MIRROR",
+    "comment" : "UK HARDCORE",
+    "md5"     : "14f2af07f1e7603451c7817c9a2b3391"
+},{
+    "level"   : "★2",
     "title"   : "Beyond The Alice (14A)",
     "artist"  : "天音",
     "comment" : "WORLD / ELECTRONICA",
@@ -26626,6 +26656,12 @@
     "artist"  : "DETRO obj:ucc",
     "comment" : "ボルケーノ",
     "md5"     : "251582b7c1577c3327caf126dcb1198d"
+},{
+    "level"   : "★2",
+    "title"   : "VY Canis Majoris [Rustin's DP Hyper]",
+    "artist"  : "戒斗 Rustin *FLIP or L.MIRROR",
+    "comment" : "プラネットランス",
+    "md5"     : "38a75166c1ea363fd0f2f521dba979d6"
 },{
     "level"   : "★2",
     "title"   : "Wasabi [DP生山葵]",
@@ -27624,22 +27660,10 @@
     "md5"     : "83bc2c864531110239b9610c05f2bff1"
 },{
     "level"   : "★3",
-    "title"   : "VY Canis Majoris [Rustin's DP Hyper]",
-    "artist"  : "戒斗 Rustin *FLIP or L.MIRROR",
-    "comment" : "プラネットランス",
-    "md5"     : "38a75166c1ea363fd0f2f521dba979d6"
-},{
-    "level"   : "★3",
     "title"   : "winged dolphin [giman]",
     "artist"  : "ぽんきち Rustin",
     "comment" : "フ?ン?ジックネイション",
     "md5"     : "11760070db0e34e89d4e91542f143a31"
-},{
-    "level"   : "★3",
-    "title"   : "Y",
-    "artist"  : "ヲルバ＝田中・ヴァニラ obj:LIEF  *R.MIRROR",
-    "comment" : "IRREGULAR HI-BREAK",
-    "md5"     : "4a425e6b792ec7d91b13ba1295707e45"
 },{
     "level"   : "★3",
     "title"   : "Yuck [DP ANOTHER]",
@@ -27781,7 +27805,7 @@
 },{
     "level"   : "★3",
     "title"   : "水晶世界 ～Fracture～ [DPcrystal]",
-    "artist"  : "秋山 澪 obj 穂海",
+    "artist"  : "秋山 澪 obj 穂海  *L.MIRROR",
     "comment" : "hard nrg",
     "md5"     : "37abb3e34210b713637112adc006368b"
 },{
@@ -28698,6 +28722,12 @@
     "md5"     : "e6c8f21ba04a9a46a60b67ece9c3cfd3"
 },{
     "level"   : "★4",
+    "title"   : "underwater sunset ［あ！］",
+    "artist"  : "xarva (obj:k) *FLIP LR.MIR or FLIP R.MIR",
+    "comment" : "epic house",
+    "md5"     : "28cf59439c28fa865376972ec722a659"
+},{
+    "level"   : "★4",
     "title"   : "unquenchable [Impossible14]",
     "artist"  : "dj Extrose obj,係長 *LR.MIRROR",
     "comment" : "SPEED TEK",
@@ -28732,6 +28762,12 @@
     "artist"  : "paraoka *LR.MIRROR SUD+",
     "comment" : "rock",
     "md5"     : "6a45afa9bb97f4d62eca1efd64328eb2"
+},{
+    "level"   : "★4",
+    "title"   : "Y",
+    "artist"  : "ヲルバ＝田中・ヴァニラ obj:LIEF  *R.MIRROR",
+    "comment" : "IRREGULAR HI-BREAK",
+    "md5"     : "4a425e6b792ec7d91b13ba1295707e45"
 },{
     "level"   : "★4",
     "title"   : "Yakumo >>JOINT STRUGGLE [DP ANOTHER]",
@@ -29760,12 +29796,6 @@
     "md5"     : "99d419367566c3e40c569459d6826159"
 },{
     "level"   : "★5",
-    "title"   : "underwater sunset ［あ！］",
-    "artist"  : "xarva (obj:k) *FLIP LR.MIR or FLIP R.MIR",
-    "comment" : "epic house",
-    "md5"     : "28cf59439c28fa865376972ec722a659"
-},{
-    "level"   : "★5",
     "title"   : "Unshakable　 [やる夫]",
     "artist"  : "RiraN obj:右手が恋人",
     "comment" : "Euporic Hardstyle",
@@ -29917,7 +29947,7 @@
 },{
     "level"   : "★5",
     "title"   : "ピアノ狂騒曲第零番「神姫」 [武装]",
-    "artist"  : "kurena / obj:ED *SUD+ 正規 or R.MIR",
+    "artist"  : "kurena / obj:ED *SUD+ FLIP R.MIRROR",
     "comment" : "Ancient Concerto",
     "md5"     : "c2eec0f82b71c5c3a9218c5fae4dc02c"
 },{
@@ -30118,6 +30148,12 @@
     "artist"  : "nitro obj:kuro",
     "comment" : "MACHINEDANCE",
     "md5"     : "6b96cd22494719cc8920ed7979701929"
+},{
+    "level"   : "★6",
+    "title"   : "[line:delta] [force]",
+    "artist"  : "nitro / obj:alt",
+    "comment" : "SHAPESHIFTER",
+    "md5"     : "70237b6c2fcac1d8902d9962ffad3df1"
 },{
     "level"   : "★6",
     "title"   : "A (nepiA)",
@@ -33460,6 +33496,12 @@
     "artist"  : "Saka-ROW組 feat. HINA",
     "comment" : "HAPPY-HARD-CORE-POP",
     "md5"     : "5e3afa634d407a664dac958bd6111889"
+},{
+    "level"   : "無理",
+    "title"   : "L.D.2013 -D.P.-",
+    "artist"  : "Andy Lee arranged by Saka-ROW組 *AVERAGE",
+    "comment" : "EUROBEAT",
+    "md5"     : "0a11cfde655faf58d7071428d967f170"
 },{
     "level"   : "無理",
     "title"   : "Lonely Wilderness",
