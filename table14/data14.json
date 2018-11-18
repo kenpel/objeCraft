@@ -1182,6 +1182,12 @@
     "md5"     : "75caa2f889f50c33612c55c7ca372e7c"
 },{
     "level"   : "?",
+    "title"   : "ｶﾁｬｶﾁｬｶﾁｬ……ｯﾀｰﾝ!!",
+    "artist"  : "たっかー /@PEN *FLIP",
+    "comment" : "typing [Realforce]",
+    "md5"     : "af09f042737f06b857ddab5e158d689b"
+},{
+    "level"   : "?",
     "title"   : "ﾃ-ﾚｯﾃｰ新宿談 [仮配置用おまけ]",
     "artist"  : "djvaka つーか念力譜面なんですいませんがむしろ消して *AVERAGE 正規 or FLIP LR.MIR",
     "comment" : "NU-FAMIＫOＮ ROMANCING HARDCORE/176/鷲リスペクト",
@@ -11118,6 +11124,12 @@
     "md5"     : "e0a7c0a906ed5cc4f172fa0be505a9ea"
 },{
     "level"   : "4",
+    "title"   : "革命のエチュード",
+    "artist"  : "F.F.Chopin remixed by sfjjjjjj *FLIP L.MIRROR R.RANDOM",
+    "comment" : "FM-MA2",
+    "md5"     : "c3351e4370035e52177f2993c7da7fc0"
+},{
+    "level"   : "4",
     "title"   : "＼ポコピー／ (二十円)",
     "artist"  : "仙豆 / obj:ハメック星人 *FLIP R.RANDOM",
     "comment" : "piccolo",
@@ -16213,7 +16225,7 @@
 },{
     "level"   : "7",
     "title"   : "3.14",
-    "artist"  : "ルゼ / obj:lichtr *FLIP LR.MIRROR",
+    "artist"  : "ルゼ / obj:lichtr *R.MIR or FLIP LR.MIR",
     "comment" : "PSYTEC",
     "md5"     : "14e358527f6a9364489e619cc1cac86d"
 },{
@@ -16459,7 +16471,7 @@
 },{
     "level"   : "7",
     "title"   : "Back 2 Oldskool [DP Maniac]",
-    "artist"  : "vorbis obj:azurite *R.MIRROR",
+    "artist"  : "vorbis obj:azurite *R.MIRROR or FLIP",
     "comment" : "Death Hyper Techno Mission of Juliana's Tokyo",
     "md5"     : "c0435afb47dc989146ea3ac2a56578f6"
 },{
@@ -18217,7 +18229,7 @@
 },{
     "level"   : "7",
     "title"   : "Violet また一歩、海に近づいたな",
-    "artist"  : "SUPER STAR 健人-TAKEHITO- / obj:lichtr *R.MIRROR",
+    "artist"  : "SUPER STAR 健人-TAKEHITO- / obj:lichtr",
     "comment" : "ONLY ONE TRANCE",
     "md5"     : "33b0234e397d2b83ea5f32a35e216eec"
 },{
@@ -18238,6 +18250,12 @@
     "artist"  : "kumorin obj:kuro",
     "comment" : "piano ambient",
     "md5"     : "61102a29f3c3f98b15ab55f9cc1d7282"
+},{
+    "level"   : "7",
+    "title"   : "Welcome Mr.E-R [DPQ]",
+    "artist"  : "beatMARIO OBJ : QUART  *AVERAGE",
+    "comment" : "Oriental Euro",
+    "md5"     : "257dcec754131aa5ba3fd9ece1513418"
 },{
     "level"   : "7",
     "title"   : "Whitescape [Another 14]",
@@ -18888,12 +18906,6 @@
     "md5"     : "706085fc30e345fb202037e2482e91f7"
 },{
     "level"   : "7",
-    "title"   : "革命のエチュード",
-    "artist"  : "F.F.Chopin remixed by sfjjjjjj",
-    "comment" : "FM-MA2",
-    "md5"     : "c3351e4370035e52177f2993c7da7fc0"
-},{
-    "level"   : "7",
     "title"   : "音楽（なんでも吸い込むピンク色のための） [DP]",
     "artist"  : "Yosk!/obj:epics- *FLIP",
     "comment" : "kirby silent",
@@ -18922,12 +18934,6 @@
     "artist"  : "あやめ♪ obj:アカイライ",
     "comment" : "Game Music",
     "md5"     : "f781b7d93eee40fd7b95dd34c3ebd1d2"
-},{
-    "level"   : "7",
-    "title"   : "ｶﾁｬｶﾁｬｶﾁｬ……ｯﾀｰﾝ!!",
-    "artist"  : "たっかー /@PEN *FLIP",
-    "comment" : "typing [Realforce]",
-    "md5"     : "af09f042737f06b857ddab5e158d689b"
 },{
     "level"   : "8",
     "title"   : ".357 Magnum [12.3]",
@@ -19543,7 +19549,7 @@
 },{
     "level"   : "8",
     "title"   : "Eternity",
-    "artist"  : "Ym1024 Movie : highluin / obj:lichtr",
+    "artist"  : "Ym1024 Movie : highluin / obj:lichtr  *FLIP L.MIR",
     "comment" : "Euphoric Trance",
     "md5"     : "b9e92ce664581a276df762f156b67647"
 },{
@@ -20916,6 +20922,12 @@
     "md5"     : "434a927e31eeba5b869a20101626042a"
 },{
     "level"   : "8",
+    "title"   : "ゼビウス嫌い [14key]",
+    "artist"  : "SOLVALOU obj:肴",
+    "comment" : "xevious",
+    "md5"     : "1a8ef27f6d6a977af128cbab5de78445"
+},{
+    "level"   : "8",
     "title"   : "ダーク・アヴァターラ・ビーム  [KALI]",
     "artist"  : "スーパーサイキッカー 藤井 -FUJY- / Symphonian *FLIP",
     "comment" : "DARK FULL ON",
@@ -21400,6 +21412,12 @@
     "artist"  : "紅蓮月影 BGA:A-ZERO Project obj:kuro",
     "comment" : "LOGICAL FORMAT",
     "md5"     : "56dcf27e2577d1c972b335eccb3f1557"
+},{
+    "level"   : "9",
+    "title"   : "Andromeda [DP Another]",
+    "artist"  : "hurirai BGA:hrchem obj:Yosk!",
+    "comment" : "Starburst",
+    "md5"     : "4a0cdfb39d32ff4437c2b2a9387d6753"
 },{
     "level"   : "9",
     "title"   : "Angel dust [14keys Maniacx]",
@@ -22806,12 +22824,6 @@
     "md5"     : "d8dcf3fb20ced6bf20129cf8f5b11424"
 },{
     "level"   : "9",
-    "title"   : "Welcome Mr.E-R [DPQ]",
-    "artist"  : "beatMARIO OBJ : QUART  *AVERAGE",
-    "comment" : "Oriental Euro",
-    "md5"     : "257dcec754131aa5ba3fd9ece1513418"
-},{
-    "level"   : "9",
     "title"   : "wind-line (DP AYATHER)",
     "artist"  : "ZUN(Arr.sun3) / 射命丸 文 *FLIP",
     "comment" : "House",
@@ -22972,12 +22984,6 @@
     "artist"  : "MNMr feat. ココ // obj:(ﾟﾚﾟ)",
     "comment" : "happy hardcore",
     "md5"     : "30c0afce50d51078cafaca0cbc3a16c5"
-},{
-    "level"   : "9",
-    "title"   : "ゼビウス嫌い [14key]",
-    "artist"  : "SOLVALOU obj:肴",
-    "comment" : "xevious",
-    "md5"     : "1a8ef27f6d6a977af128cbab5de78445"
 },{
     "level"   : "9",
     "title"   : "トココ21 ⊂㌍㌢⊃",
@@ -23410,12 +23416,6 @@
     "artist"  : "knot / iimode-do /A-zert /obj:QJITAI",
     "comment" : "Techno",
     "md5"     : "b5d31a956b1472b05ce730f18eee58bd"
-},{
-    "level"   : "10",
-    "title"   : "Andromeda [DP Another]",
-    "artist"  : "hurirai BGA:hrchem obj:Yosk!",
-    "comment" : "Starburst",
-    "md5"     : "4a0cdfb39d32ff4437c2b2a9387d6753"
 },{
     "level"   : "10",
     "title"   : "Angelic layer [DP ANOTHER+]",
@@ -24559,7 +24559,7 @@
 },{
     "level"   : "10",
     "title"   : "Xecus [Real]",
-    "artist"  : "SHIKI/fity(obj:A-4) *FLIP R.MIRROR",
+    "artist"  : "SHIKI/fity(obj:A-4) *R.MIRROR or FLIP R.MIRROR",
     "comment" : "Trance core",
     "md5"     : "062d85c63eae694cac70bdffd0501a69"
 },{
@@ -29839,7 +29839,7 @@
 },{
     "level"   : "★5",
     "title"   : "x-Aria [DP えぬTHER+]",
-    "artist"  : "ridis  obj ; N",
+    "artist"  : "ridis  obj ; N *正規 or L.MIRROR",
     "comment" : "intelligence",
     "md5"     : "e05216f33674d459fc7164a1d138a333"
 },{
@@ -30913,7 +30913,7 @@
 },{
     "level"   : "★6",
     "title"   : "夢/あるいは在りし日の [Reminiscence]",
-    "artist"  : "BMS: Nego_tiator / Movie: Fiz obj:nBel",
+    "artist"  : "BMS: Nego_tiator / Movie: Fiz obj:nBel *正規 or R.MIRROR",
     "comment" : "Lyrical D'n'B",
     "md5"     : "a3ea38289398fc8112aeff2d7a6c7b4c"
 },{
