@@ -1199,6 +1199,12 @@
     "comment" : "Progressive / Electronica",
     "md5"     : "b0494dda265c3d250758529714cf8a2b"
 },{
+    "level"   : "9",
+    "title"   : "魔理沙は大変なものを盗んでいきました ~SUPER HARD~",
+    "artist"  : "SB YUNE",
+    "comment" : "IOSYS",
+    "md5"     : "adb2435ff4d5fbc87ad5fcbaf2d4cf71"
+},{
     "level"   : "10",
     "title"   : "Altersist ~SUPER HARD~",
     "artist"  : "void *LR.MIRROR",
@@ -1410,6 +1416,12 @@
     "md5"     : "e1e7af1a8e5b6e38ad3a6301e987f129"
 },{
     "level"   : "★4",
+    "title"   : "Lunatic Wave ~HARD~",
+    "artist"  : "Lunatic Sounds + Masquerade *LR.MIRROR",
+    "comment" : "Melodic Trance",
+    "md5"     : "c790651e5c8877c351b16a43e9cc326f"
+},{
+    "level"   : "★4",
     "title"   : "多重極展開 ~SUPER HARD~",
     "artist"  : "Rocky *LR.MIRROR",
     "comment" : "INSI break",
@@ -1475,11 +1487,29 @@
     "comment" : "HappY PoPcorN",
     "md5"     : "ca5efda8d47d40010f052a29f08f4901"
 },{
+    "level"   : "★5",
+    "title"   : "エーデルワイス ~SUPER HARD~",
+    "artist"  : "黄泉路テヂーモ",
+    "comment" : "echolocation",
+    "md5"     : "6da20d68775530e323aabc481a687127"
+},{
     "level"   : "★6",
     "title"   : "B.B.K.K.B.K.K. ~SUPER HARD~",
     "artist"  : "nora2r *LR.MIRROR",
     "comment" : "UK HARDCORE",
     "md5"     : "a2a6a8add83d340ae7dd38a1128cae5a"
+},{
+    "level"   : "★6",
+    "title"   : "Caelumize ~SUPER HARD~",
+    "artist"  : "void",
+    "comment" : "Filmscore / Neurocore",
+    "md5"     : "b6b42f9df5631bfad2cf8b3ce1c14c97"
+},{
+    "level"   : "★6",
+    "title"   : "Fantasy ~SUPER HARD~",
+    "artist"  : "goangra *LR.RANDOM",
+    "comment" : "HARD RENAISSANSE",
+    "md5"     : "5b5b68420327466bb7f034c96ce55862"
 },{
     "level"   : "★6",
     "title"   : "Necrophantasia -LifeZero- ~SUPER HARD~",
@@ -1540,6 +1570,12 @@
     "artist"  : "P4koo",
     "comment" : "Melodic NRG",
     "md5"     : "31d2c168c9175454ea17dc2f46b6f0dc"
+},{
+    "level"   : "★8",
+    "title"   : "Ocean Memory ~SUPER HARD~",
+    "artist"  : "Junk *LR.MIRROR",
+    "comment" : "HYPER TRANCE",
+    "md5"     : "2893767788bd3262f7d02ad65c1b0571"
 },{
     "level"   : "★8",
     "title"   : "only my railgun ~SUPER HARD~",
