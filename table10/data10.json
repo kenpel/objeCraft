@@ -564,6 +564,12 @@
     "md5"     : "b0e80e1cea693b808767308a4930211a"
 },{
     "level"   : "3",
+    "title"   : "elegante ~HARD~",
+    "artist"  : "LP+",
+    "comment" : "Maiden House",
+    "md5"     : "cf436f4d4b9b87474069f4f785787dbf"
+},{
+    "level"   : "3",
     "title"   : "End Time [10keys]",
     "artist"  : "Cres / 131",
     "comment" : "ReQuiEm tRanCe",
@@ -634,6 +640,12 @@
     "artist"  : "Rocky",
     "comment" : "INSI break",
     "md5"     : "c65e418cfe35a1a0c396a4ac04f35739"
+},{
+    "level"   : "3",
+    "title"   : "白黒神楽煩悩七百七十七ツ之法則 ~EASY~",
+    "artist"  : "かゆき",
+    "comment" : "和洋折衷JazzRock",
+    "md5"     : "2f1cdea86a1b18fe47ac56075cca0d85"
 },{
     "level"   : "4",
     "title"   : "Absurd Gaff ~HARD~",
@@ -808,6 +820,12 @@
     "artist"  : "w32 / 131",
     "comment" : "HOUSE MIX",
     "md5"     : "4637cad5d3955f30e988a789e79643e7"
+},{
+    "level"   : "5",
+    "title"   : "-if- ~HARD~",
+    "artist"  : "HOMURA",
+    "comment" : "Parallel Story",
+    "md5"     : "f6df35809c38d2c4bc46079ea5b979f2"
 },{
     "level"   : "5",
     "title"   : "31,AUGUST",
@@ -1140,10 +1158,22 @@
     "md5"     : "f4736749ca131d2fa7ebb7a8571b5b9f"
 },{
     "level"   : "9",
+    "title"   : "Calamity Fortune ~HARD~",
+    "artist"  : "ZUN remixed by LeaF *LR.RANDOM",
+    "comment" : "EMOTIONAL HARDCORE TECHNO",
+    "md5"     : "de26532edf30fa8e8601a9ea07b1e54c"
+},{
+    "level"   : "9",
     "title"   : "Ereshkigal ~NORMAL~",
     "artist"  : "ABE3 *LR.RANDOM",
     "comment" : "DRUM'N'FORTE",
     "md5"     : "1502b9dce94aff7a53bde228305fd1c6"
+},{
+    "level"   : "9",
+    "title"   : "KRAKEN ~HARD~",
+    "artist"  : "HEXAHEDRA",
+    "comment" : "HARDCORE ULTIMATE",
+    "md5"     : "28424de1e433b223ebe513e4d4819b48"
 },{
     "level"   : "9",
     "title"   : "Mechanical Beat (10)",
@@ -1162,6 +1192,12 @@
     "artist"  : "Neun_jack *LR.MIRROR",
     "comment" : "NEURO FUNK",
     "md5"     : "2227fdd48c7e645deff3c4ccbdc8083e"
+},{
+    "level"   : "9",
+    "title"   : "only my railgun ~HARD~",
+    "artist"  : "fripSide",
+    "comment" : "Ani song",
+    "md5"     : "6632de63c7741c1ae59a1c3a5b4ece75"
 },{
     "level"   : "9",
     "title"   : "QUESTING",
@@ -1398,6 +1434,12 @@
     "md5"     : "627413a2bfe597bf13e1fa1fb79fbe56"
 },{
     "level"   : "★4",
+    "title"   : "Akasagarbha ~HARD~",
+    "artist"  : "wa. vs ETIA.",
+    "comment" : "MULTIVERSE",
+    "md5"     : "a06c39c1fc2fc9100819bda694f8a636"
+},{
+    "level"   : "★4",
     "title"   : "Fly Again ~SUPER HARD~",
     "artist"  : "Junk feat.Salita",
     "comment" : "HYPER TRANCE",
@@ -1470,6 +1512,12 @@
     "md5"     : "7bd08e11ac0227dc8735f94711a58582"
 },{
     "level"   : "★5",
+    "title"   : "rainy beauty ~SUPER HARD~",
+    "artist"  : "Rabbit Bat *LR.MIRROR",
+    "comment" : "Romantic Beats",
+    "md5"     : "06019c2269d89b686cea953b5bbbbb36"
+},{
+    "level"   : "★5",
     "title"   : "We are the xxxx ~SUPER HARD~",
     "artist"  : "ikaruga_nex feat. Salita *LR.MIRROR",
     "comment" : "freeform",
@@ -1506,6 +1554,12 @@
     "md5"     : "b6b42f9df5631bfad2cf8b3ce1c14c97"
 },{
     "level"   : "★6",
+    "title"   : "Clear Blue ~SUPER HARD~",
+    "artist"  : "sun3",
+    "comment" : "Happy Hardcore",
+    "md5"     : "92f1b71efc90f9e628914580bee82bd5"
+},{
+    "level"   : "★6",
     "title"   : "Fantasy ~SUPER HARD~",
     "artist"  : "goangra *LR.RANDOM",
     "comment" : "HARD RENAISSANSE",
@@ -1524,6 +1578,12 @@
     "md5"     : "d0cecd8f03dbd7773390dce707600871"
 },{
     "level"   : "★6",
+    "title"   : "Say A Vengeance ~SUPER HARD~",
+    "artist"  : "ETIA. feat.Jenga *LR.MIRROR or LR.RANDOM",
+    "comment" : "J-CORE",
+    "md5"     : "1ea47d3eff8f2b3f14e128a3b1e8db52"
+},{
+    "level"   : "★6",
     "title"   : "大都会partIII",
     "artist"  : "Atomic Sphere feat. emonic *LR.RANDOM",
     "comment" : "DRUM'N'BASS",
@@ -1534,6 +1594,12 @@
     "artist"  : "Ice (Trolled) / obj : Lampades *LR.RANDOM",
     "comment" : "Experimental Etude",
     "md5"     : "33ee1cfa673755d867527de88505753d"
+},{
+    "level"   : "★7",
+    "title"   : "Floating Garden ~SUPER HARD~",
+    "artist"  : "TrioStaR x Lilyca x Mentalstock",
+    "comment" : "Euphoric Trance",
+    "md5"     : "c8f24803a2016c29a9b364de1351a181"
 },{
     "level"   : "★7",
     "title"   : "Wild Clown (10key-DNM)",
@@ -1590,6 +1656,12 @@
     "md5"     : "dff83e2fdc9837493ce9b95b6ad169f3"
 },{
     "level"   : "★8",
+    "title"   : "YATA ~SUPER HARD~",
+    "artist"  : "kireji",
+    "comment" : "Harmonization",
+    "md5"     : "d0abaf04a30065edf8f27b1a11f8bc1a"
+},{
+    "level"   : "★8",
     "title"   : "ヒメタイプ ~SUPER HARD~",
     "artist"  : "ノクティス・江口・チェラム *LR.MIRROR",
     "comment" : "IRREGULAR HI-BREAK",
@@ -1600,6 +1672,12 @@
     "artist"  : "eicateve / Mentalstock / objeCraft",
     "comment" : "HARDCORE",
     "md5"     : "b0ed2a98504740ce67caf0cde9af637d"
+},{
+    "level"   : "★9",
+    "title"   : "PEACE BREAKER ~SUPER HARD~",
+    "artist"  : "Omnipotenx",
+    "comment" : "SYMPHONIC SCHRANZ",
+    "md5"     : "87c16ca4114f9649ad9469bd192f5aec"
 },{
     "level"   : "★10",
     "title"   : "Mario Paint (Time Regression Mix for BMS) ~CATASTROPHE~",
