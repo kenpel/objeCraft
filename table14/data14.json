@@ -751,7 +751,7 @@
 },{
     "level"   : "?",
     "title"   : "SunSetStars [EX14]",
-    "artist"  : "Singing Starling obj:ucc",
+    "artist"  : "Singing Starling obj:ucc *AVE-20 FLIP L.MIR",
     "comment" : "サンセット",
     "md5"     : "db6cee94bc57003681308a8e76c6c5c5"
 },{
@@ -1192,6 +1192,12 @@
     "artist"  : "djvaka つーか念力譜面なんですいませんがむしろ消して *AVERAGE 正規 or FLIP LR.MIR",
     "comment" : "NU-FAMIＫOＮ ROMANCING HARDCORE/176/鷲リスペクト",
     "md5"     : "1d529e31a889be5057122571081ac1fd"
+},{
+    "level"   : "1",
+    "title"   : "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 ～Falling in \"B\" mix～",
+    "artist"  : "((LMB)) / Obj:ゆ～兎",
+    "comment" : "post rock",
+    "md5"     : "45a82d4e44ee8763e1f8692eece3ee96"
 },{
     "level"   : "1",
     "title"   : "- JUPITER - [14KEYS ANOTHER]",
@@ -2040,6 +2046,12 @@
     "md5"     : "b348add609f53c4f157920567b2d5388"
 },{
     "level"   : "1",
+    "title"   : "FF4 Main Theme （SM-NX D&B Arrange） [14KEYS ANOTHER]",
+    "artist"  : "Arrange by SM-NX (BGI : アカツキユウ) *L.MIRROR",
+    "comment" : "Drum & Bass",
+    "md5"     : "20b8fd1af72d8f88f2a6e74eaf90200f"
+},{
+    "level"   : "1",
     "title"   : "Fly Again (bms edit) [Hyper14]",
     "artist"  : "Junk feat.Salita / obj:epics-",
     "comment" : "HYPER TRANCE",
@@ -2142,6 +2154,12 @@
     "md5"     : "6869c1a5ca7a4376ec3c7168fbc0bf7a"
 },{
     "level"   : "1",
+    "title"   : "Good Bye, Blue Ogre (DPA)",
+    "artist"  : "anubasu-anubasu vs Est / obj:sr",
+    "comment" : "TRANCE",
+    "md5"     : "a7b7eeea0094fb964d2b3d163a6212ef"
+},{
+    "level"   : "1",
     "title"   : "GOODBOUNCE [DPA]",
     "artist"  : "EBIMAYO 柏駅東口から徒歩10分 / obj:Yosk!",
     "comment" : "GOODDONK",
@@ -2200,6 +2218,12 @@
     "artist"  : "enxel / Obj:ゆ～兎",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "b947ca70a8e97353b9f79a37752e8605"
+},{
+    "level"   : "1",
+    "title"   : "Happy Flight",
+    "artist"  : "uet Obj.Gatia",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "be9c7ae37c8cddc49adcd5b07d831385"
 },{
     "level"   : "1",
     "title"   : "happy puppy [EASY]",
@@ -2958,6 +2982,12 @@
     "md5"     : "5737457c8ef36c68e5a5c4f4da544bfb"
 },{
     "level"   : "1",
+    "title"   : "Rambling Mind [DP ANOTHER]",
+    "artist"  : "DEMK/obj:Gatia",
+    "comment" : "INTELLIGENCE",
+    "md5"     : "0d15c09b1b0340efe1eb804d3f91ca3f"
+},{
+    "level"   : "1",
     "title"   : "Re:End of a Dream [DPN]",
     "artist"  : "uma vs. モリモリあつし",
     "comment" : "Hard Renaissance",
@@ -3088,6 +3118,12 @@
     "artist"  : "TiS/obj:epics- Illust:TanPoPo/Object:MO2MO2/Thanks:Dolvis",
     "comment" : "SummerRomance",
     "md5"     : "54b6a3aa5a7db8a76232ce2e0f9c07d4"
+},{
+    "level"   : "1",
+    "title"   : "Smart Pretty [DPA]",
+    "artist"  : "U-hey feat.小彩 obj:肴 *FLIP",
+    "comment" : "ELECTRO POP",
+    "md5"     : "5c0a4d629738a516a08754b89901736a"
 },{
     "level"   : "1",
     "title"   : "Smiling [subanother14]",
@@ -3982,6 +4018,12 @@
     "artist"  : "HOUJIROU",
     "comment" : "JP-S RAVE",
     "md5"     : "234b35edb9e16df3365af75c16b5d398"
+},{
+    "level"   : "1",
+    "title"   : "舞姫 ～buki～　 [ANOTHER]",
+    "artist"  : "HOUJIROU (obj:k)",
+    "comment" : "JP-S RAVE",
+    "md5"     : "8b48716b42215c5f7686cf1c5be4f99a"
 },{
     "level"   : "1",
     "title"   : "花鳥風月",
@@ -5658,6 +5700,12 @@
     "md5"     : "0f02f3d09fa7218c97d49358b50539e7"
 },{
     "level"   : "2",
+    "title"   : "ULTRA PARTY PEOPLE!!　 [DPA]",
+    "artist"  : "U-hey obj:肴",
+    "comment" : "HDM",
+    "md5"     : "6f8d0785f59e9eda8c51bdb0101d1eef"
+},{
+    "level"   : "2",
     "title"   : "Uncle Arabian H14",
     "artist"  : "maxXx65535 obj:ucc",
     "comment" : "Psychedelic Trance",
@@ -5812,6 +5860,12 @@
     "artist"  : "圃 *FLIP L.MIRROR",
     "comment" : "TECHNO",
     "md5"     : "b9278a5c8b2e5a40216f065eaac8bf5a"
+},{
+    "level"   : "2",
+    "title"   : "ぷよ通魔導の塔終盤（SM-NX MAIN Mix） [14KEYS ANOTHER]",
+    "artist"  : "Arrange by SM-NX",
+    "comment" : "MAINSTREAM HARDCORE/Hard Style",
+    "md5"     : "bead1e40fba677a231668f51c7a7578e"
 },{
     "level"   : "2",
     "title"   : "やさしい両手 [DP ANOTHER]",
@@ -6706,6 +6760,12 @@
     "artist"  : "π/3 BGA:Optie",
     "comment" : "NU SKOOL BREAKBEATS DARKSTEP DRUMSTEP ANTHEM HARDCORE",
     "md5"     : "13a764a4e4e5cdf50f3ba9a15755b73d"
+},{
+    "level"   : "3",
+    "title"   : "Dragon Tribute",
+    "artist"  : "Byakko+",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "bf8e899bb376e755baa639ee1bd3c793"
 },{
     "level"   : "3",
     "title"   : "Dreadnought",
@@ -7768,12 +7828,6 @@
     "artist"  : "nmk / Obj:ゆ～兎",
     "comment" : "ArtCore",
     "md5"     : "77049e33fcbb6a4472d562a11a4fa5e0"
-},{
-    "level"   : "3",
-    "title"   : "Special Travel (BMS Edit) (DP Gy-A)",
-    "artist"  : "tanacoro / obj:Gypsy",
-    "comment" : "drum step",
-    "md5"     : "dfecf40a1e955c7be8a374d045f1414e"
 },{
     "level"   : "3",
     "title"   : "Spectrum [14key,Another]",
@@ -11562,6 +11616,12 @@
     "md5"     : "3990f337d883326342d7b889cb9d77e4"
 },{
     "level"   : "5",
+    "title"   : "D [DPQ]",
+    "artist"  : "myu OBJ : QUART",
+    "comment" : "big-beat",
+    "md5"     : "e80568cfb73fcb228336d835c0803149"
+},{
+    "level"   : "5",
     "title"   : "Dandelion Sparkle!! [14ANOTHER/NEWBGA]",
     "artist"  : "p_d Artwork : ふりっと★ / obj:KA",
     "comment" : "SPRING CORE",
@@ -13801,7 +13861,7 @@
 },{
     "level"   : "6",
     "title"   : "catnex  [14keys another]",
-    "artist"  : "bm_asahi object by mommy",
+    "artist"  : "bm_asahi object by mommy  *MINBPM",
     "comment" : "Minimal Techno",
     "md5"     : "edb0fae412cbb4a1af9fba61985a4295"
 },{
@@ -17683,7 +17743,7 @@
 },{
     "level"   : "7",
     "title"   : "PrayStation [PrayPlayers]",
-    "artist"  : "Ras / Keybreakers",
+    "artist"  : "Ras / Keybreakers *LR.RANDOM",
     "comment" : "ELECTRO SHOT",
     "md5"     : "3c7436610ddad54e3afa7fd162b927a9"
 },{
@@ -19588,12 +19648,6 @@
     "artist"  : "-45 / obj:No.Q",
     "comment" : "far 2013.12.16/myDisc",
     "md5"     : "0a9b661cdaaf63eae4a54def7d74bfb4"
-},{
-    "level"   : "8",
-    "title"   : "Extinction and reproduction [DP Ex]",
-    "artist"  : "sept *FLIP",
-    "comment" : "psychedelic",
-    "md5"     : "446dab732eb1dfaa2fc87279b1712947"
 },{
     "level"   : "8",
     "title"   : "Extinction and reproduction [Resurrection]",
@@ -25234,6 +25288,12 @@
     "artist"  : "しらいし obj:けろりん *R.MIRROR",
     "comment" : "Pops Rock",
     "md5"     : "1d402089a7d04ed814ea2a517ab7a629"
+},{
+    "level"   : "★1",
+    "title"   : "Extinction and reproduction [DP Ex]",
+    "artist"  : "sept *R.MIRROR",
+    "comment" : "psychedelic",
+    "md5"     : "446dab732eb1dfaa2fc87279b1712947"
 },{
     "level"   : "★1",
     "title"   : "EXTRAPHANTASM [DP INSANE]",
