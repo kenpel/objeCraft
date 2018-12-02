@@ -270,6 +270,12 @@
     "md5"     : "5178236df2e5929a4f758f66ca9df8f1"
 },{
     "level"   : "?",
+    "title"   : "eschatology [FOUR-HANDS]",
+    "artist"  : "Takuya Namba / BGA: 空読無 白眼&scytheleg / obj. Bluvel",
+    "comment" : "Oldskool \"Sample-Only Style\" / Baile Funk",
+    "md5"     : "5829dbc64bbfadec7cadeb68f50a867b"
+},{
+    "level"   : "?",
     "title"   : "especies exoticas",
     "artist"  : "spine *FLIP LR.MIRROR",
     "comment" : "ALTERNATIVE SAMBA HOUSE [DP BRAZIL]",
@@ -1366,6 +1372,12 @@
     "artist"  : "gya9 vs anubasu-anubasu BGA by KG / Obj:ゆ～兎",
     "comment" : "HARD TRANCE",
     "md5"     : "03028a53619420a7318f76c1c04f5cf1"
+},{
+    "level"   : "1",
+    "title"   : "Anti Function -DP HYPER-",
+    "artist"  : "Is-m BGA:ハマドメハマル",
+    "comment" : "OLDSKOOL TECH*TRICK",
+    "md5"     : "ddc18f1ec07ebf12a7f124f3486b0c2c"
 },{
     "level"   : "1",
     "title"   : "asciination [14key Another]",
@@ -2680,6 +2692,12 @@
     "artist"  : "cittan*/objEPICS-",
     "comment" : "BUCHIAGE TRANCE",
     "md5"     : "8ea750a2224554388181e5b45695ea44"
+},{
+    "level"   : "1",
+    "title"   : "Mifis -Confinement- [DP ANOTHER]",
+    "artist"  : "MALVA. BGA : 焼き鳥　Illustration : 恋々",
+    "comment" : "ALCHEMIST -Ⅳ-(FUTURE)",
+    "md5"     : "7ab8b1a7514b3a0bf42671eea95e4825"
 },{
     "level"   : "1",
     "title"   : "Milky way castella (14key hard vocal ver)",
@@ -4906,6 +4924,12 @@
     "artist"  : "パンダ７７号/obj:epics- *LR.MIRROR",
     "comment" : "Tech electro",
     "md5"     : "70a1d07b6f8c0eeb5c25e9affb3bfabd"
+},{
+    "level"   : "2",
+    "title"   : "HYPE THE TOON [14KEY ANOTHER]",
+    "artist"  : "oxygen",
+    "comment" : "OLDSKOOL BEATS",
+    "md5"     : "a74eb7b609f48eb92d6cca823726e928"
 },{
     "level"   : "2",
     "title"   : "Ignition",
@@ -8916,6 +8940,12 @@
     "md5"     : "0bd368fb0d2ad65d910230123c3be2f3"
 },{
     "level"   : "4",
+    "title"   : "Anti Function  -DP ANOTHER-",
+    "artist"  : "Is-m BGA:ハマドメハマル",
+    "comment" : "OLDSKOOL TECH*TRICK",
+    "md5"     : "b73c05f5bc653e4d2a801129d58f2297"
+},{
+    "level"   : "4",
     "title"   : "Ares [A14]",
     "artist"  : "UDSV obj:ucc *FLIP",
     "comment" : "WORLD GROOVE",
@@ -12028,6 +12058,12 @@
     "artist"  : "雷鼓 *FLIP LR.MIRROR",
     "comment" : "ESOTERIC SLOWCORE",
     "md5"     : "65aa4c5dcd08b3efccf7d65aee510234"
+},{
+    "level"   : "5",
+    "title"   : "Hanky-Panky",
+    "artist"  : "TRIAL BGA:KinCraft",
+    "comment" : "Rotterdam Techno",
+    "md5"     : "779e8302c24384ed132da53db536a200"
 },{
     "level"   : "5",
     "title"   : "Happico Happico [14keys ALK-A]",
@@ -22464,6 +22500,12 @@
     "md5"     : "37b06cd21a435d5185332690f77567dc"
 },{
     "level"   : "9",
+    "title"   : "Nonentity [14KEYS HYPER]",
+    "artist"  : "Eiserne Jungfrau / obj. Bluvel Movie: GAMEBAKA  *FLIP L.MIR",
+    "comment" : "GOTHIC SPEEDCORE",
+    "md5"     : "87804bc761e2691301cd73c8e26beadd"
+},{
+    "level"   : "9",
     "title"   : "Now On  [ANOTHER14]",
     "artist"  : "FICY",
     "comment" : "HARDCORE",
@@ -23482,6 +23524,12 @@
     "artist"  : "sun3(obj:A-4) *LR.MIRROR",
     "comment" : "Nu-style Gabba",
     "md5"     : "39d3f1d69fa9b9025121b2590556b3aa"
+},{
+    "level"   : "10",
+    "title"   : "Anti Function  -DP INSANE-",
+    "artist"  : "Is-m BGA:ハマドメハマル  *FLIP L.MIR",
+    "comment" : "OLDSKOOL TECH*TRICK",
+    "md5"     : "2344584fd7bc2c430ffd3a12afdfad9d"
 },{
     "level"   : "10",
     "title"   : "Astral Xebec",
@@ -28225,7 +28273,7 @@
 },{
     "level"   : "★4",
     "title"   : "far in the Angelic Planet [DP NEPIANOTHER]",
-    "artist"  : "Est / saikoro / syatten / 29 / NEPIA *FLIP R.MIRROR or LR.RANDOM",
+    "artist"  : "Est / saikoro / syatten / 29 / NEPIA *FLIP R.MIR or R.MIR or LR.RAN",
     "comment" : "TRI TRANCE",
     "md5"     : "5bd94eb43c5a769f06a122a55201eec6"
 },{
