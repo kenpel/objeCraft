@@ -162,6 +162,12 @@
     "md5"     : "ef44b864b879048e5e966392f1f8a6b2"
 },{
     "level"   : "?",
+    "title"   : "MINUS MAKES MUSIC (10keys:heee)",
+    "artist"  : "dj spine *LR.MIRROR",
+    "comment" : "OLDSKOOL TECHNO",
+    "md5"     : "de2ffc1d21b78ae54b29a0031987a5dd"
+},{
+    "level"   : "?",
     "title"   : "NOLIFEKING",
     "artist"  : "copyyyy",
     "comment" : "",
@@ -366,6 +372,12 @@
     "md5"     : "e990155b448e72c524e619aa9b1bceec"
 },{
     "level"   : "1",
+    "title"   : "Once in my life ~HARD~",
+    "artist"  : "Manaka Takane feat.Nananao",
+    "comment" : "Maiden House",
+    "md5"     : "254c2923ce2877868811af52f54dc1ba"
+},{
+    "level"   : "1",
     "title"   : "rave and rave [HARD10]",
     "artist"  : "MIX-MAX *LR.MIRROR",
     "comment" : "TECHNO",
@@ -418,6 +430,12 @@
     "artist"  : "paraoka Remixed by doctor.R *MINBPM",
     "comment" : "house(DP/another)",
     "md5"     : "c14f3aca414c4a32e378157bdea85802"
+},{
+    "level"   : "2",
+    "title"   : "Altersist ~NORMAL~",
+    "artist"  : "void",
+    "comment" : "DISALTERNATIVE TRANCE",
+    "md5"     : "edac5041fb613cd2912436a40aec67ea"
 },{
     "level"   : "2",
     "title"   : "BEPEN (The robot is not an organism mix)",
@@ -636,6 +654,12 @@
     "md5"     : "80f0ac91e3f2bb09f73c6b6f9310a141"
 },{
     "level"   : "3",
+    "title"   : "図書室のエルザ ~HARD~",
+    "artist"  : "nmk feat.KANAE YUME",
+    "comment" : "EUROBEAT",
+    "md5"     : "8fbf2de72ba828cba23698c4570ae19f"
+},{
+    "level"   : "3",
     "title"   : "多重極展開 ~HARD~",
     "artist"  : "Rocky",
     "comment" : "INSI break",
@@ -646,6 +670,12 @@
     "artist"  : "かゆき",
     "comment" : "和洋折衷JazzRock",
     "md5"     : "2f1cdea86a1b18fe47ac56075cca0d85"
+},{
+    "level"   : "3",
+    "title"   : "虚空グラデーション ~HARD~",
+    "artist"  : "fmy. × TrioStaR × Lylica* × ｂ",
+    "comment" : "Hybridize Trance",
+    "md5"     : "5b906d602c826d459b38a83b2821ecda"
 },{
     "level"   : "4",
     "title"   : "Absurd Gaff ~HARD~",
@@ -694,6 +724,12 @@
     "artist"  : "Mellover *LR.MIRROR",
     "comment" : "Trance",
     "md5"     : "a96ec55c2c084b7ded1bb743c7c4da6d"
+},{
+    "level"   : "4",
+    "title"   : "Fly Again ~NORMAL~",
+    "artist"  : "Junk feat.Salita",
+    "comment" : "HYPER TRANCE",
+    "md5"     : "d068f9e2963e6382d5f5dc48700d93c9"
 },{
     "level"   : "4",
     "title"   : "HE is an Energizer",
@@ -762,6 +798,12 @@
     "md5"     : "8b8bbea6e87ebeb9e014eeffbb1ac1ee"
 },{
     "level"   : "4",
+    "title"   : "SIREN OF DAWN ~HARD~",
+    "artist"  : "K",
+    "comment" : "TECHNO",
+    "md5"     : "024fe699d1bdff7392cf857152618c3f"
+},{
+    "level"   : "4",
     "title"   : "strawberry music [10keys Another]",
     "artist"  : "Yamajet feat. jeli",
     "comment" : "Bossa Gogo",
@@ -798,6 +840,12 @@
     "md5"     : "4efe9e417441c412f3e19cdbe8accc96"
 },{
     "level"   : "4",
+    "title"   : "Twilight Galaxy ~HARD~",
+    "artist"  : "NS-Factory / photonskyto",
+    "comment" : "Energetic Trance",
+    "md5"     : "b52bf70252ffd96ed06a001245236eda"
+},{
+    "level"   : "4",
     "title"   : "vision (Double)",
     "artist"  : "Yamajet",
     "comment" : "TRIBAL TRANCE",
@@ -814,6 +862,12 @@
     "artist"  : "エルリ鳥 obj. MIC(H) / Kz",
     "comment" : "afterimage",
     "md5"     : "53e7a29118aa317539d38074d46c3c81"
+},{
+    "level"   : "4",
+    "title"   : "平衡世界 -Parallel World- ~NORMAL~",
+    "artist"  : "daisan",
+    "comment" : "Mirage Story",
+    "md5"     : "018f454c7b2fc647d1614b6803c8e174"
 },{
     "level"   : "4",
     "title"   : "（＾∀＾）Ａ",
@@ -1074,6 +1128,12 @@
     "md5"     : "39f2562c228e365168c0c8546b666f2d"
 },{
     "level"   : "7",
+    "title"   : "幸なる旋律 -the Solitary Melody- ~HARD~",
+    "artist"  : "xenothium remixed by gmtn.",
+    "comment" : "GOTHIC HARDTRANCE",
+    "md5"     : "d5ee1f6cd7ed9daca4202004e6a2d03a"
+},{
+    "level"   : "7",
     "title"   : "本格的 ガチムチクラブミュージック ドラムステップ編",
     "artist"  : "cybermiso",
     "comment" : "DRUMSTEP",
@@ -1144,6 +1204,12 @@
     "artist"  : "Studio Chieph",
     "comment" : "BIGBEAT",
     "md5"     : "deab4bb5608ac35e6d9c63d0579953a2"
+},{
+    "level"   : "8",
+    "title"   : "乙女ノススメ！ ~NORMAL~",
+    "artist"  : "悠然",
+    "comment" : "HAPPY HARD CORE",
+    "md5"     : "658faf20c3ab4255d5271721caf296ba"
 },{
     "level"   : "9",
     "title"   : "Act Beloved ~HARD~",
@@ -1230,10 +1296,22 @@
     "md5"     : "a9c95ecad2d28b7168637f23bf59ccec"
 },{
     "level"   : "9",
+    "title"   : "図書室のエルザ ~SUPER HARD~",
+    "artist"  : "nmk feat.KANAE YUME",
+    "comment" : "EUROBEAT",
+    "md5"     : "cc01fcb8e1c6b914261f6282c862991b"
+},{
+    "level"   : "9",
     "title"   : "点、線、面、立体 ~HARD~",
     "artist"  : "sound piercer / mov : kkkfff2 *LR.MIRROR",
     "comment" : "Progressive / Electronica",
     "md5"     : "b0494dda265c3d250758529714cf8a2b"
+},{
+    "level"   : "9",
+    "title"   : "虚空グラデーション ~SUPER HARD~",
+    "artist"  : "fmy. × TrioStaR × Lylica* × ｂ",
+    "comment" : "Hybridize Trance",
+    "md5"     : "84964bf1ea76e0097a0fb4aa6f196abb"
 },{
     "level"   : "9",
     "title"   : "魔理沙は大変なものを盗んでいきました ~SUPER HARD~",
@@ -1318,6 +1396,12 @@
     "artist"  : "sa10 / obj:夢瑠",
     "comment" : "Funky Gotta",
     "md5"     : "d36dced741562c27aa1aa7e30833debe"
+},{
+    "level"   : "★1",
+    "title"   : "Calamity Fortune ~SUPER HARD~",
+    "artist"  : "ZUN remixed by LeaF *LR.MIRROR",
+    "comment" : "EMOTIONAL HARDCORE TECHNO",
+    "md5"     : "5807554c1336510c8d35f8dcb8a67389"
 },{
     "level"   : "★1",
     "title"   : "Elttab Tsal -Prince on a star object Requiem-",
@@ -1512,6 +1596,12 @@
     "md5"     : "7bd08e11ac0227dc8735f94711a58582"
 },{
     "level"   : "★5",
+    "title"   : "PUPA ~SUPER HARD~",
+    "artist"  : "モリモリあつし",
+    "comment" : "HARD RENAISSANCE",
+    "md5"     : "6b2feee8eb62368d6c56cc581b546de6"
+},{
+    "level"   : "★5",
     "title"   : "rainy beauty ~SUPER HARD~",
     "artist"  : "Rabbit Bat *LR.MIRROR",
     "comment" : "Romantic Beats",
@@ -1584,10 +1674,22 @@
     "md5"     : "1ea47d3eff8f2b3f14e128a3b1e8db52"
 },{
     "level"   : "★6",
+    "title"   : "図書室のエルザ ~CATASTROPHE~",
+    "artist"  : "nmk feat.KANAE YUME",
+    "comment" : "EUROBEAT",
+    "md5"     : "34d98e1fd3a1e9619ef284df3ec04bee"
+},{
+    "level"   : "★6",
     "title"   : "大都会partIII",
     "artist"  : "Atomic Sphere feat. emonic *LR.RANDOM",
     "comment" : "DRUM'N'BASS",
     "md5"     : "ceff3146def3eed12340887e1a262526"
+},{
+    "level"   : "★6",
+    "title"   : "白黒神楽煩悩七百七十七ツ之法則 ~SUPER HARD~",
+    "artist"  : "かゆき",
+    "comment" : "和洋折衷JazzRock",
+    "md5"     : "74ee11b791b1947f85be41dfd967e548"
 },{
     "level"   : "★7",
     "title"   : "Etude for the Sinners [10KEYNS-Etude]",
@@ -1667,6 +1769,12 @@
     "comment" : "IRREGULAR HI-BREAK",
     "md5"     : "bc4106ab2465a85534271a10202b446a"
 },{
+    "level"   : "★8",
+    "title"   : "乙女ノススメ！ ~SUPER HARD~",
+    "artist"  : "悠然",
+    "comment" : "HAPPY HARD CORE",
+    "md5"     : "82493fa9d643f1c1c0cebc671c4ff718"
+},{
     "level"   : "★9",
     "title"   : "Gun to Childhead (A)",
     "artist"  : "eicateve / Mentalstock / objeCraft",
@@ -1685,6 +1793,12 @@
     "comment" : "GAMEMUSIC",
     "md5"     : "f6e02fba003f20c9cd078fe49bc92b05"
 },{
+    "level"   : "★10",
+    "title"   : "Quad Queens ~SUPER HARD~",
+    "artist"  : "D.J.Nero",
+    "comment" : "RENAISSANCE",
+    "md5"     : "b3c685c5816490e718f496bd8b78e885"
+},{
     "level"   : "★13",
     "title"   : "FREEDOM DiVE↓ ~CATASTROPHE~",
     "artist"  : "xi",
@@ -1696,6 +1810,12 @@
     "artist"  : "Luxion",
     "comment" : "OVERKILL",
     "md5"     : "6e98d54fda169f2895322200ab2b94aa"
+},{
+    "level"   : "★16",
+    "title"   : "Toki (Sound piercer's Timesucker Remix) ~XRATE~",
+    "artist"  : "puru twk. sound piercer (feat.Hee Bun.D)",
+    "comment" : "Freeform / Gabber",
+    "md5"     : "8b4b632f8a03bd0b6febedf3d0b4be02"
 },{
     "level"   : "無理",
     "title"   : "Egypt (10key)",
