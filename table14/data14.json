@@ -270,10 +270,22 @@
     "md5"     : "5178236df2e5929a4f758f66ca9df8f1"
 },{
     "level"   : "?",
+    "title"   : "eschatology [TWO-HANDS]",
+    "artist"  : "Takuya Namba / BGA: 空読無 白眼&scytheleg",
+    "comment" : "Oldskool \"Sample-Only Style\" / Baile Funk",
+    "md5"     : "088abb3dab2223e320530652ac6b334f"
+},{
+    "level"   : "?",
     "title"   : "eschatology [FOUR-HANDS]",
     "artist"  : "Takuya Namba / BGA: 空読無 白眼&scytheleg / obj. Bluvel",
     "comment" : "Oldskool \"Sample-Only Style\" / Baile Funk",
     "md5"     : "5829dbc64bbfadec7cadeb68f50a867b"
+},{
+    "level"   : "?",
+    "title"   : "eschatology [ONE-MAN BAND]",
+    "artist"  : "Takuya Namba / BGA: 空読無 白眼&scytheleg *FLIP",
+    "comment" : "Oldskool \"Sample-Only Style\" / Baile Funk",
+    "md5"     : "31fb23c6c89a4cfcfccda618a169da54"
 },{
     "level"   : "?",
     "title"   : "especies exoticas",
@@ -616,6 +628,12 @@
     "artist"  : "Kate Lesing feat. RANDO: / Kz *AVERAGE FLIP",
     "comment" : "Trance techno",
     "md5"     : "17f6427125f63f1fafeec9a49255aca9"
+},{
+    "level"   : "?",
+    "title"   : "Over The \"Period\"  -Revolutionary.Himix-",
+    "artist"  : "Remixed by Mister.Himi *SUD+ AVERAGE-90 FLIP",
+    "comment" : "FUTURE DANCE GAME MUSIC",
+    "md5"     : "8b5db517dce3e8d513e8eac29d605084"
 },{
     "level"   : "?",
     "title"   : "Over the Sky [縦連打]",
@@ -1378,6 +1396,12 @@
     "artist"  : "Is-m BGA:ハマドメハマル",
     "comment" : "OLDSKOOL TECH*TRICK",
     "md5"     : "ddc18f1ec07ebf12a7f124f3486b0c2c"
+},{
+    "level"   : "1",
+    "title"   : "Aquahighway [DP INSANE]",
+    "artist"  : "@gra_pha obj.nor",
+    "comment" : "POP TUNE",
+    "md5"     : "f6ea746dcc5b232252641e413073bd19"
 },{
     "level"   : "1",
     "title"   : "asciination [14key Another]",
@@ -2908,6 +2932,12 @@
     "artist"  : "Omnipotenx",
     "comment" : "SYMPHONIC SCHRANZ",
     "md5"     : "baa443f81709dbef1be1076856b1d63c"
+},{
+    "level"   : "1",
+    "title"   : "perfume of reunion -DP ANOTHER-",
+    "artist"  : "parakeet41/2 BGA:HAINA",
+    "comment" : "OLDSKOOL NOSTALPOP",
+    "md5"     : "5053443f61297cbaff0b2e7ad5f35714"
 },{
     "level"   : "1",
     "title"   : "phantasmagoria. (bms edit)",
@@ -6396,6 +6426,12 @@
     "md5"     : "68e1698e25f1fc84a71829c3e0301a08"
 },{
     "level"   : "3",
+    "title"   : "Air Rider (Another14)",
+    "artist"  : "Wired7i",
+    "comment" : "Techno",
+    "md5"     : "1a53a283d68ec681c1bbe4268b1316e6"
+},{
+    "level"   : "3",
     "title"   : "AKIKAZE [DP ANOTHER]",
     "artist"  : "polysha/obj:epics- *FLIP R.MIRROR",
     "comment" : "TRANCE",
@@ -7032,6 +7068,12 @@
     "md5"     : "3caab26d10135235f94bd966420eaa60"
 },{
     "level"   : "3",
+    "title"   : "FUTURE 1999",
+    "artist"  : "Yosk!",
+    "comment" : "OLDSKOOL-FUTURISM",
+    "md5"     : "89d5132c0ad8972ae7ace513bc229cfe"
+},{
+    "level"   : "3",
     "title"   : "GaRaKuTic Dream (dust)",
     "artist"  : "NEKI←T / obj : Ill",
     "comment" : "HAPPY HARDCORE",
@@ -7288,6 +7330,12 @@
     "artist"  : "cittan*/obj:epics-",
     "comment" : "ANTHEM EUPHORIA",
     "md5"     : "09170a7abead9fcb7fed236527017ad6"
+},{
+    "level"   : "3",
+    "title"   : "LIEBE  [14KEYS_HYPER]",
+    "artist"  : "水兵 *FLIP",
+    "comment" : "CHARM TRANCE",
+    "md5"     : "37c40a3b29e01c32cb4611e542b84e36"
 },{
     "level"   : "3",
     "title"   : "LIGHT EDGE",
@@ -10356,6 +10404,12 @@
     "md5"     : "0471f0ee3dd8bacd5bfe84b2f9770784"
 },{
     "level"   : "4",
+    "title"   : "Summer-Like [DP_Another]",
+    "artist"  : "ma*4lo",
+    "comment" : "TROPICAL TRANCE",
+    "md5"     : "40891f4d93275b7435434209ff5c5797"
+},{
+    "level"   : "4",
     "title"   : "SupersonicdiverS [14key,Another]",
     "artist"  : "mommy",
     "comment" : "J-ROCK FUSION",
@@ -10858,6 +10912,12 @@
     "artist"  : "シィナ × A.M. obj:ucc *R.MIRROR",
     "comment" : "Paean",
     "md5"     : "2311b841278ff1061b973f82de4f23b9"
+},{
+    "level"   : "4",
+    "title"   : "スピカ [DP ANOTHER]",
+    "artist"  : "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー",
+    "comment" : "Energetic Dream Pop",
+    "md5"     : "bbfda0f6a39370401e99a89ab0747034"
 },{
     "level"   : "4",
     "title"   : "スペクトラム (DP)",
@@ -11560,6 +11620,12 @@
     "artist"  : "parakeet 41 BGA:vj tote",
     "comment" : "FUTURE JAZZ",
     "md5"     : "63d87377114aee0ad8135df8dc6ad57a"
+},{
+    "level"   : "5",
+    "title"   : "Chromosphere [DP ANOTHER]",
+    "artist"  : "鈎兎(KagiUsagi)",
+    "comment" : "drum'n bass",
+    "md5"     : "9192e5d3f03d1fd475815cbafd1035a6"
 },{
     "level"   : "5",
     "title"   : "CHRONO CROSS ～時の傷痕～ [ANOTHER]",
@@ -17412,6 +17478,12 @@
     "md5"     : "08c35ff441106138557775515d59b95d"
 },{
     "level"   : "7",
+    "title"   : "Karula <DP MILD>",
+    "artist"  : "gmtn. vs. witch's slave",
+    "comment" : "OLDSKOOL Hi-TENSION ASIANCORE",
+    "md5"     : "358e9f98bbe41de3eb75bd3c2ab2db98"
+},{
+    "level"   : "7",
     "title"   : "kioku [brainstorming]",
     "artist"  : "luzebzk(from 300club)",
     "comment" : "GARAGE TECHNO",
@@ -20290,6 +20362,12 @@
     "artist"  : "anubasu-anubasu Remixed by くっちー BGA:highluin",
     "comment" : "J-CORE",
     "md5"     : "48f2896851e3d981448f64c777c53095"
+},{
+    "level"   : "8",
+    "title"   : "Over The \"Period\" -Revolutionary.Himix-",
+    "artist"  : "Remixed by Mister.Himi *SUD+ AVERAGE-90",
+    "comment" : "FUTURE DANCE GAME MUSIC",
+    "md5"     : "e7e3733e899d9074cba8d8d80caaa1f5"
 },{
     "level"   : "8",
     "title"   : "P.S : Plasma Strike - 14 [NM]",
@@ -23232,6 +23310,12 @@
     "md5"     : "797888b3c69502ef0e0c4a70447ad80c"
 },{
     "level"   : "9",
+    "title"   : "幸降開花",
+    "artist"  : "落龍",
+    "comment" : "ASIAN HIGH-SPEED[14鍵難]",
+    "md5"     : "797888b3c69502ef0e0c4a70447ad80c"
+},{
+    "level"   : "9",
     "title"   : "幽雅に咲かせ、墨染の桜 [DP Normal]",
     "artist"  : "zun+- *FLIP LR.MIRROR",
     "comment" : "東方妖々夢",
@@ -23566,12 +23650,6 @@
     "artist"  : "光吉猛修の父 *AVERAGE FLIP L.MIRROR",
     "comment" : "ミツヨシオーケストラ",
     "md5"     : "100a159343aedc42d5042117ba7fcc5b"
-},{
-    "level"   : "10",
-    "title"   : "Back 2 Oldskool [DP is Still Alive]",
-    "artist"  : "vorbis obj:Ais *FLIP",
-    "comment" : "Death Hyper Techno Mission of Juliana's Tokyo",
-    "md5"     : "b2e4b67aac184fbdd1bc9e9721cbac43"
 },{
     "level"   : "10",
     "title"   : "Bangin' Dumpin' Rumble Bomber",
@@ -25164,6 +25242,12 @@
     "md5"     : "8108b203af694c9641191e2f9ee0f7ec"
 },{
     "level"   : "★1",
+    "title"   : "Back 2 Oldskool [DP is Still Alive]",
+    "artist"  : "vorbis obj:Ais *FLIP",
+    "comment" : "Death Hyper Techno Mission of Juliana's Tokyo",
+    "md5"     : "b2e4b67aac184fbdd1bc9e9721cbac43"
+},{
+    "level"   : "★1",
     "title"   : "Be advocated [Devil's 14]",
     "artist"  : "Vector27 / obj:killer TOMATO *R.MIRROR",
     "comment" : "Fusion Hardstyle / Techno",
@@ -26143,7 +26227,7 @@
 },{
     "level"   : "★2",
     "title"   : "Apetope (14)",
-    "artist"  : "ATM / o.c. underground *L.MIRROR",
+    "artist"  : "ATM / o.c. underground *FLIP L.MIRROR",
     "comment" : "minimal techno",
     "md5"     : "448e207a24b1f8bb72a62f45f22526c5"
 },{
@@ -26257,7 +26341,7 @@
 },{
     "level"   : "★2",
     "title"   : "Doitz No.9",
-    "artist"  : "新装姉妹 *SUD+",
+    "artist"  : "新装姉妹 *SUD+ MAXBPM+40",
     "comment" : "SHOPPING CORE [DP DEUTSCH]",
     "md5"     : "803411783a71d6a03f35206b7f12fa7a"
 },{
@@ -27367,7 +27451,7 @@
 },{
     "level"   : "★3",
     "title"   : "G e n g a o z o _ more穴ネメ",
-    "artist"  : "455-38B *R.MIRROR",
+    "artist"  : "455-38B *R.MIRROR or FLIP L.MIR R.RAN",
     "comment" : "P s y",
     "md5"     : "b924e4169622f4f3629e892eab3db713"
 },{
@@ -27547,7 +27631,7 @@
 },{
     "level"   : "★3",
     "title"   : "Lucifuge Rofocale (Another14)",
-    "artist"  : "L-Mys(obj:A-4)",
+    "artist"  : "L-Mys(obj:A-4) *FLIP",
     "comment" : "DARKFEAR",
     "md5"     : "b778a803e68e7710a521d6f57b051574"
 },{
@@ -30958,6 +31042,12 @@
     "artist"  : "Celas / obj:Chrono *FLIP LR.MIR or FLIP LR.RAN",
     "comment" : "GAME MUSIC",
     "md5"     : "06adee9e7f05329d8c3fd1fe97dea41d"
+},{
+    "level"   : "★6",
+    "title"   : "ハッピーだあああぁああぁあぁあああ！！！！！",
+    "artist"  : "Specter L *R.MIRROR",
+    "comment" : "USUAL TECHNO[DP ANOTHER]",
+    "md5"     : "c1695f73b3b006c46696968bf6336b44"
 },{
     "level"   : "★6",
     "title"   : "ファンデーションを塗らなきゃ (14KEYS)",
