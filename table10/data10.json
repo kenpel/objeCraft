@@ -102,6 +102,18 @@
     "md5"     : "89db14892f7905f093524819a13e99c7"
 },{
     "level"   : "?",
+    "title"   : "eschatology [SOLO]",
+    "artist"  : "Takuya Namba / BGA: 空読無 白眼&scytheleg",
+    "comment" : "Oldskool \"Sample-Only Style\" / Baile Funk",
+    "md5"     : "9465f3b343327f467feed46e128401b5"
+},{
+    "level"   : "?",
+    "title"   : "eschatology [DUET]",
+    "artist"  : "Takuya Namba / BGA: 空読無 白眼&scytheleg / obj. Bluvel",
+    "comment" : "Oldskool \"Sample-Only Style\" / Baile Funk",
+    "md5"     : "60e99e48738d9b42df3fe8d71d8d8a72"
+},{
+    "level"   : "?",
     "title"   : "EXPLOSIVE HEAD [10KEYS HARD]",
     "artist"  : "MIX-MAX",
     "comment" : "HARD TECHNO",
@@ -154,6 +166,12 @@
     "artist"  : "paraoka",
     "comment" : "progressive(2P)",
     "md5"     : "e6cd7db297c324021284262e5b21f629"
+},{
+    "level"   : "?",
+    "title"   : "LIEBE  [10KEYS_ANOTHER]",
+    "artist"  : "水兵",
+    "comment" : "CHARM TRANCE",
+    "md5"     : "428b4f7ed52fba4fd9245ae6a60ab2a9"
 },{
     "level"   : "?",
     "title"   : "Make More Noise!",
@@ -654,6 +672,12 @@
     "md5"     : "80f0ac91e3f2bb09f73c6b6f9310a141"
 },{
     "level"   : "3",
+    "title"   : "ベストフレンド ~HARD~",
+    "artist"  : "渋谷凛",
+    "comment" : "NEW GENERATION",
+    "md5"     : "b4633afd7ff9d530aebe53804b3413b3"
+},{
+    "level"   : "3",
     "title"   : "図書室のエルザ ~HARD~",
     "artist"  : "nmk feat.KANAE YUME",
     "comment" : "EUROBEAT",
@@ -718,6 +742,12 @@
     "artist"  : "12x",
     "comment" : "techno",
     "md5"     : "450b32fe518c4c79a188f95083e0963e"
+},{
+    "level"   : "4",
+    "title"   : "ERIS ~HARD~",
+    "artist"  : "Grand Thaw",
+    "comment" : "Sound Track",
+    "md5"     : "527c444191fd7d37af0302c64bd78238"
 },{
     "level"   : "4",
     "title"   : "Fallen Air [10Key SuperHard]",
@@ -1288,6 +1318,12 @@
     "artist"  : "Personative",
     "comment" : "HYPER TECH DANCE",
     "md5"     : "a5e8146951bc2f0126b22c7c62697494"
+},{
+    "level"   : "9",
+    "title"   : "トルコ行進曲 (Hd-NRG mix) ~HARD~",
+    "artist"  : "celas respect for W.A.Mozart *LR.RANDOM",
+    "comment" : "HARD NRG",
+    "md5"     : "81232b680838dc6a0f358e3d891e8293"
 },{
     "level"   : "9",
     "title"   : "ホームラン  [10key maniac]",
