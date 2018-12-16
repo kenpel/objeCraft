@@ -888,6 +888,12 @@
     "md5"     : "d5329a830d26156152d905b38eb6125a"
 },{
     "level"   : "4",
+    "title"   : "りりりくろ！！ ~NORMAL~",
+    "artist"  : "代打三兄弟（走）",
+    "comment" : "shuffle pop'n",
+    "md5"     : "1202502b320b911183bdb40e1a13c5eb"
+},{
+    "level"   : "4",
     "title"   : "スペクトラム DPH",
     "artist"  : "エルリ鳥 obj. MIC(H) / Kz",
     "comment" : "afterimage",
@@ -1096,6 +1102,12 @@
     "artist"  : "Aozuna",
     "comment" : "GOREGRIND",
     "md5"     : "0359f97aee9f202f8bb3a07c86483589"
+},{
+    "level"   : "6",
+    "title"   : "The Island of Albatross ~HARD~",
+    "artist"  : "anubasu-anubasu *LR.RANDOM",
+    "comment" : "ENERGETIC TRANCE",
+    "md5"     : "ae49c6720c34530e0d6f78dc64848469"
 },{
     "level"   : "6",
     "title"   : "witchcraft",
@@ -1320,6 +1332,12 @@
     "md5"     : "a5e8146951bc2f0126b22c7c62697494"
 },{
     "level"   : "9",
+    "title"   : "Xhroria ~SUPER HARD~",
+    "artist"  : "AcuticNotes",
+    "comment" : "AcuticCore",
+    "md5"     : "e00f393b872f74c287814480be3073ae"
+},{
+    "level"   : "9",
     "title"   : "トルコ行進曲 (Hd-NRG mix) ~HARD~",
     "artist"  : "celas respect for W.A.Mozart *LR.RANDOM",
     "comment" : "HARD NRG",
@@ -1426,6 +1444,12 @@
     "artist"  : "Gun-SEKI feat.那珂",
     "comment" : "IDOL SONG",
     "md5"     : "4d23dbcf19aff1d583a746350139e24f"
+},{
+    "level"   : "10",
+    "title"   : "架空ユリカゴ ~HARD~",
+    "artist"  : "Hate × Ritsu × Salita *LR.RANDOM",
+    "comment" : "A-Rock",
+    "md5"     : "c3c36a2ecfe0b450f7fe866d60b4b839"
 },{
     "level"   : "10",
     "title"   : "祭月 [◎yumether◎]",
