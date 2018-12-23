@@ -21169,7 +21169,7 @@
 },{
     "level"   : "8",
     "title"   : "ピアノ狂騒曲第零番「神姫」 [ANOTHER14]",
-    "artist"  : "kurena / obj:ED",
+    "artist"  : "kurena / obj:ED *SUD+",
     "comment" : "Ancient Concerto",
     "md5"     : "35ecf0ec1307b9abf5548e6420e17d68"
 },{
@@ -27912,12 +27912,6 @@
     "md5"     : "efc1e3c8341bf392bbc91e26a9299713"
 },{
     "level"   : "★3",
-    "title"   : "ひつぎとふたご [14KEY/KF]",
-    "artist"  : "plastic feat.サキト+-",
-    "comment" : "NU-STYLE GABBA",
-    "md5"     : "b6a06744eb819414f96cc75156b06c18"
-},{
-    "level"   : "★3",
     "title"   : "アズール リミックス -DPANOTHER-",
     "artist"  : "メスクラ (エヴァたん＆メコたん) / midori / obj:h *FLIP R.MIRROR",
     "comment" : "ルネッサンスコア",
@@ -29064,6 +29058,12 @@
     "md5"     : "99dbea8b188eede25a1d4347b0a8a28a"
 },{
     "level"   : "★4",
+    "title"   : "ひつぎとふたご [14KEY/KF]",
+    "artist"  : "plastic feat.サキト+-",
+    "comment" : "NU-STYLE GABBA",
+    "md5"     : "b6a06744eb819414f96cc75156b06c18"
+},{
+    "level"   : "★4",
     "title"   : "ひつぎとふたご -NTR-",
     "artist"  : "plastic feat.サキトobj:shyBlasters(LA＆N)",
     "comment" : "NU-STYLE GABBA",
@@ -29239,7 +29239,7 @@
 },{
     "level"   : "★4",
     "title"   : "舞姫 [DPA]",
-    "artist"  : "HOUJIROU OBJ:KLOC",
+    "artist"  : "HOUJIROU OBJ:KLOC  *FLIP LR.MIR or 正規",
     "comment" : "JP-S RAVE",
     "md5"     : "47c5e2f6239c3d16badbac4616bdea09"
 },{
