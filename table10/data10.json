@@ -443,6 +443,12 @@
     "comment" : "IDOL SONG",
     "md5"     : "0bff851828e620348fa91364a8752ca4"
 },{
+    "level"   : "1",
+    "title"   : "魔理沙は大変なものを盗んでいきました ~HARD~",
+    "artist"  : "SB YUNE",
+    "comment" : "IOSYS",
+    "md5"     : "b4619d3c40b96ba553243c1eee3f3f0e"
+},{
     "level"   : "2",
     "title"   : "AcidAce-Alliance (deep mix)",
     "artist"  : "paraoka Remixed by doctor.R *MINBPM",
@@ -1056,6 +1062,12 @@
     "md5"     : "2a70aa1469a1023f7169b7d88eed6eb1"
 },{
     "level"   : "5",
+    "title"   : "夜明けの少女たち ~HARD~",
+    "artist"  : "Lubinn",
+    "comment" : "Sepia chant",
+    "md5"     : "926ecb52e5579f02eb3316ed3591f93d"
+},{
+    "level"   : "5",
     "title"   : "白黒神楽煩悩七百七十七ツ之法則 ~NORMAL~",
     "artist"  : "かゆき",
     "comment" : "和洋折衷JazzRock",
@@ -1422,6 +1434,12 @@
     "md5"     : "39426160b37442fde1f7cc6f3f308b4a"
 },{
     "level"   : "10",
+    "title"   : "elegante ~SUPER HARD~",
+    "artist"  : "LP+",
+    "comment" : "Maiden House",
+    "md5"     : "c8a7344169ba628c27686f8ff5c45b16"
+},{
+    "level"   : "10",
     "title"   : "lumpectomy (chop up mix)",
     "artist"  : "LU (remixed by LU)",
     "comment" : "HARDSTEP DRUM'N'BASS",
@@ -1762,6 +1780,12 @@
     "artist"  : "ETIA. feat.Jenga *LR.MIRROR or LR.RANDOM",
     "comment" : "J-CORE",
     "md5"     : "1ea47d3eff8f2b3f14e128a3b1e8db52"
+},{
+    "level"   : "★6",
+    "title"   : "Valhalla ~SUPER HARD~",
+    "artist"  : "xi",
+    "comment" : "NORSE MYTHOLOGY",
+    "md5"     : "956d6b59622d901f9bc807d188c15da3"
 },{
     "level"   : "★6",
     "title"   : "図書室のエルザ ~CATASTROPHE~",
