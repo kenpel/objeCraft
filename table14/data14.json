@@ -8382,6 +8382,12 @@
     "md5"     : "eb13323a1716842fa05647664a61c342"
 },{
     "level"   : "3",
+    "title"   : "スーパーイザナギオブジェクト -Double HD-",
+    "artist"  : "er obj.rk22",
+    "comment" : "Neo traditionalism",
+    "md5"     : "257f99162e5d29db4931b0faf9bb0e19"
+},{
+    "level"   : "3",
     "title"   : "ソノママ  [DP ANOTHER]",
     "artist"  : "dawn-system / (obj:V-E)",
     "comment" : "トゥルーエンシー",
@@ -28980,6 +28986,12 @@
     "md5"     : "6a45afa9bb97f4d62eca1efd64328eb2"
 },{
     "level"   : "★4",
+    "title"   : "Wizdomiot [俄十四]",
+    "artist"  : "ZUN remixed by LeaF Movie:Optie / obj:綾  *FLIP",
+    "comment" : "RATIONAL PUNISHMENT",
+    "md5"     : "ae2b73cf5e0d23201922414b342d5b14"
+},{
+    "level"   : "★4",
     "title"   : "Y",
     "artist"  : "ヲルバ＝田中・ヴァニラ obj:LIEF  *R.MIRROR",
     "comment" : "IRREGULAR HI-BREAK",
@@ -29748,6 +29760,12 @@
     "md5"     : "8fdf7d07be32c9a9481b5e3d1b7017e1"
 },{
     "level"   : "★5",
+    "title"   : "Magus Logos",
+    "artist"  : "sa10 obj.rk22  *MAXBPM",
+    "comment" : "Gothic Hard Dance[LN Sorcery]",
+    "md5"     : "e7da5ba38c777d5e18d23371692d84f1"
+},{
+    "level"   : "★5",
     "title"   : "marginated [試作14]",
     "artist"  : "紅蓮月影 obj:ucc *AVERAGE+70 R.MIR or FLIP R.MIR",
     "comment" : "ジャッジメント",
@@ -30493,7 +30511,7 @@
 },{
     "level"   : "★6",
     "title"   : "Castor(BMS edit) [DP INSANE]",
-    "artist"  : "polysha mov.zue-row / obj:コトネとしずくちゃん",
+    "artist"  : "polysha mov.zue-row / obj:コトネとしずくちゃん  *L.MIR R.RAN",
     "comment" : "TRANCE",
     "md5"     : "75d4d7993c5608a92d42bd6a6803310b"
 },{
@@ -31006,6 +31024,12 @@
     "artist"  : "eicateve むらしん[movie] 為宙しなこ[illust] hi-low[object]",
     "comment" : "Nustyle Gabba / Another Story",
     "md5"     : "a0528e538e1f971e2c0ced743f64cc27"
+},{
+    "level"   : "★6",
+    "title"   : "Wizdomiot [LN Intelligence]",
+    "artist"  : "ZUN remixed by LeaF Movie:Optie / obj.RK22",
+    "comment" : "RATIONAL PUNISHMENT",
+    "md5"     : "2a502342721ba26662273af69da5e506"
 },{
     "level"   : "★6",
     "title"   : "x-Aria [DP 無茶THER]",
