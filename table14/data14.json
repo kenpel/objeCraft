@@ -744,6 +744,12 @@
     "md5"     : "c04bed2d9452adf684a6c0ef20e76f91"
 },{
     "level"   : "?",
+    "title"   : "septic septet -hand fear-",
+    "artist"  : "双闇 *FLIP R.MIRROR",
+    "comment" : "piano solo",
+    "md5"     : "e9652f856a1a9961b8ce28d84e8a71be"
+},{
+    "level"   : "?",
     "title"   : "Snow Black(Rework)-Watching 14",
     "artist"  : "Hazel-D Pattern By Kreshia  *FLIP",
     "comment" : "Synth Rock",
@@ -946,6 +952,12 @@
     "artist"  : "fether / futher",
     "comment" : "kirby pop (crazy14)",
     "md5"     : "8d0dffabddd25f5f5e26acf0e45c118a"
+},{
+    "level"   : "?",
+    "title"   : "『７』の傾斜",
+    "artist"  : "双闇 *AVERAGE LR.RAN",
+    "comment" : "piano solo",
+    "md5"     : "ecb5548800b237827cc825496ff51660"
 },{
     "level"   : "?",
     "title"   : "あい☆こんぷりーと  [KENRYU14]",
@@ -1156,6 +1168,12 @@
     "artist"  : "S.TART",
     "comment" : "Wilderness Ballad",
     "md5"     : "21618f06159dfda52eef7c11060905c2"
+},{
+    "level"   : "?",
+    "title"   : "梓 Another（long m ver）",
+    "artist"  : "LUNE/双空",
+    "comment" : "Organo",
+    "md5"     : "8969a5a32b511c4dd1cd9ae14c8a50d3"
 },{
     "level"   : "?",
     "title"   : "欲望☆うぉんちゅーせん！ [macho14]",
@@ -4272,6 +4290,18 @@
     "md5"     : "e75c365efe86a9d8f69f49993e5b3713"
 },{
     "level"   : "2",
+    "title"   : "analog sky [mono]",
+    "artist"  : "knot / iimode-do Notes: pico*  *FLIP",
+    "comment" : "Techno",
+    "md5"     : "d2422fa3fe0ddff8e5b943d8b126ee78"
+},{
+    "level"   : "2",
+    "title"   : "analog sky [H14]",
+    "artist"  : "knot / iimode-do obj:ucc",
+    "comment" : "Techno",
+    "md5"     : "12638e7ee87fb9b0bd794a82be61c6d7"
+},{
+    "level"   : "2",
     "title"   : "Ancient Memory(H mix) [A14]",
     "artist"  : "ZUN (Arr.sun3) obj:ucc",
     "comment" : "Ancient beats",
@@ -5892,6 +5922,12 @@
     "md5"     : "d35059864597a45113776ec6fc4ad7e6"
 },{
     "level"   : "2",
+    "title"   : "おもいでづくり -DP-",
+    "artist"  : "LUNE",
+    "comment" : "Chocolate Pop",
+    "md5"     : "c8b9c3ef381aef2a36ea2c2590c0ebe3"
+},{
+    "level"   : "2",
     "title"   : "そして伝説へ -Into the Legend- [ANOTHER14]",
     "artist"  : "ジパング・フィルハーモニー管弦楽団 / obj: NiGHTS. *MAXBPM FLIP LR.RANDOM",
     "comment" : "ORCHESTRA",
@@ -6240,6 +6276,12 @@
     "md5"     : "53f2c54705d588b293fd68bda8d73e23"
 },{
     "level"   : "2",
+    "title"   : "終人形　～尽～ -14key Another-",
+    "artist"  : "LUNE",
+    "comment" : "gigue",
+    "md5"     : "fdf1830a46aea46ef53953f93926a971"
+},{
+    "level"   : "2",
     "title"   : "腹腹時計",
     "artist"  : "Aozuna / obj:lichtr",
     "comment" : "Gabba",
@@ -6484,12 +6526,6 @@
     "artist"  : "yukitani / DKN / srof",
     "comment" : "Electro Swing Pop",
     "md5"     : "f6da7d06b0de4f75124ba2ecefdab592"
-},{
-    "level"   : "3",
-    "title"   : "analog sky [A14]",
-    "artist"  : "knot / iimode-do obj:ucc *L.MIRROR",
-    "comment" : "Techno",
-    "md5"     : "bd4af65cbb2efae5c70aa22f1f82558f"
 },{
     "level"   : "3",
     "title"   : "Andro [sub another]",
@@ -8736,6 +8772,12 @@
     "md5"     : "6408314fb66561cce094b8f6695762d6"
 },{
     "level"   : "3",
+    "title"   : "追憶の雨",
+    "artist"  : "双闇",
+    "comment" : "piano solo",
+    "md5"     : "c0f4e5cc257ee3f4b8cd6667e2253387"
+},{
+    "level"   : "3",
     "title"   : "遠い春を告げるあの娘の足音",
     "artist"  : "RYO-K / halcot *FLIP",
     "comment" : "Elec-Chill Out / Double Spring",
@@ -8964,10 +9006,10 @@
     "md5"     : "ad5bd3bc59340ea04ac75b337989b432"
 },{
     "level"   : "4",
-    "title"   : "analog sky [mono]",
-    "artist"  : "knot / iimode-do Notes: pico*",
+    "title"   : "analog sky [A14]",
+    "artist"  : "knot / iimode-do obj:ucc *FLIP",
     "comment" : "Techno",
-    "md5"     : "d2422fa3fe0ddff8e5b943d8b126ee78"
+    "md5"     : "bd4af65cbb2efae5c70aa22f1f82558f"
 },{
     "level"   : "4",
     "title"   : "Ancient Memory(A mix) [A14]",
@@ -11428,12 +11470,6 @@
     "artist"  : "void Movie : Momomi Aoyama / obj:lichtr",
     "comment" : "DISALTERNATIVE TRANCE",
     "md5"     : "ba9e10e7bc032b0c6c9bdae86b786018"
-},{
-    "level"   : "5",
-    "title"   : "analog sky [EX14]",
-    "artist"  : "knot / iimode-do obj:ucc *R.MIRROR",
-    "comment" : "Techno",
-    "md5"     : "25870865639df9f8f057e7057fc3d1bf"
 },{
     "level"   : "5",
     "title"   : "Ancient Blaze [Another14]",
@@ -15498,6 +15534,12 @@
     "md5"     : "96be155c3fe2f208da050fdcec3f27e9"
 },{
     "level"   : "6",
+    "title"   : "The Heroine Appears. DP Another",
+    "artist"  : "P4koo Obj. KENIN*",
+    "comment" : "Remix",
+    "md5"     : "7c237629ce3c30155c018cd12a3b7aff"
+},{
+    "level"   : "6",
     "title"   : "The Lady Is A Trump [A14]",
     "artist"  : "Damjoy&ほくとしちせい obj:ucc *LR.RANDOM",
     "comment" : "Prog Pop",
@@ -16540,6 +16582,12 @@
     "artist"  : "yukitani HS+40 -> HS+-0",
     "comment" : "Boogie Woogie",
     "md5"     : "6e5ee8b6d9b75607fc49a0745d8e7bb5"
+},{
+    "level"   : "7",
+    "title"   : "analog sky [EX14]",
+    "artist"  : "knot / iimode-do obj:ucc *R.MIRROR",
+    "comment" : "Techno",
+    "md5"     : "25870865639df9f8f057e7057fc3d1bf"
 },{
     "level"   : "7",
     "title"   : "Ancient Blaze-DP- [Another]",
@@ -23352,6 +23400,12 @@
     "md5"     : "526a111eeda409cba84bba4e80e72a38"
 },{
     "level"   : "9",
+    "title"   : "幽雅に咲かせ、黒染の桜～Border of life",
+    "artist"  : "編曲:ようか　BMS:双空 *FLIP L.MIR R.RAN",
+    "comment" : "東方妖々夢　piano solo",
+    "md5"     : "54c533874387846779add7eaf72d310f"
+},{
+    "level"   : "9",
     "title"   : "恐鳥14key",
     "artist"  : "主人公[obj:MGN]",
     "comment" : "ラストバトル",
@@ -29964,12 +30018,6 @@
     "md5"     : "b5e4d3b65214acd13a9f1535b49195f0"
 },{
     "level"   : "★5",
-    "title"   : "STAR STREAM  [INSANE14]",
-    "artist"  : "er *R.MIRROR",
-    "comment" : "TRANCY FLOWPOP",
-    "md5"     : "6d75cd4d23bcd8b15992bf66bf05d529"
-},{
-    "level"   : "★5",
     "title"   : "Stinging Attack",
     "artist"  : "HS *LR.MIRROR",
     "comment" : "Freeform Hardcore",
@@ -30010,12 +30058,6 @@
     "artist"  : "ユウスケタケウチ / objeCraft *R.MIRROR or LR.RANDOM",
     "comment" : "hardcore d'n'b",
     "md5"     : "8273dc5f3ba6a65da82e9deaa3f35a44"
-},{
-    "level"   : "★5",
-    "title"   : "Toki (Sound piercer's Timesucker Remix) [DP EXTRA]",
-    "artist"  : "puru twk. sound piercer (feat.Hee Bun.D) obj:Dr.K",
-    "comment" : "Freeform / Gabber",
-    "md5"     : "65adabbe450b2b42ff0cb4a7705a7769"
 },{
     "level"   : "★5",
     "title"   : "Tuk Tuk Boshi [14keys Gibbous]",
@@ -30265,7 +30307,7 @@
 },{
     "level"   : "★5",
     "title"   : "月光 [DP ANQTHER]",
-    "artist"  : "なおきち",
+    "artist"  : "なおきち *正規 or FLIP LR.MIR",
     "comment" : "Classic(その道のプロ)",
     "md5"     : "eed3fb9c0419d6f7d4e0fc87e73f7434"
 },{
@@ -30283,7 +30325,7 @@
 },{
     "level"   : "★5",
     "title"   : "真・千年女王 DP†LEGGENDARIA†",
-    "artist"  : "Shiraishi obj:hoi2",
+    "artist"  : "Shiraishi obj:hoi2  *LR.RANDOM",
     "comment" : "Hardcore",
     "md5"     : "1e970a6ec27945a3be715ee64fe03e06"
 },{
@@ -30511,7 +30553,7 @@
 },{
     "level"   : "★6",
     "title"   : "Castor(BMS edit) [DP INSANE]",
-    "artist"  : "polysha mov.zue-row / obj:コトネとしずくちゃん  *L.MIR R.RAN",
+    "artist"  : "polysha mov.zue-row / obj:コトネとしずくちゃん  *L.MIR",
     "comment" : "TRANCE",
     "md5"     : "75d4d7993c5608a92d42bd6a6803310b"
 },{
@@ -30811,7 +30853,7 @@
 },{
     "level"   : "★6",
     "title"   : "My favorite shoes",
-    "artist"  : "Arranged by Y.W",
+    "artist"  : "Arranged by Y.W *L.MIR or L.MIR R.RAN",
     "comment" : "HAPPY SYMPHONY /// 14KEYS CATASTROPHE LN",
     "md5"     : "311e7143764ca5997aa07c210eb83bea"
 },{
@@ -30948,6 +30990,12 @@
     "md5"     : "db71fac910128b2b63355dcd0b737edc"
 },{
     "level"   : "★6",
+    "title"   : "STAR STREAM  [INSANE14]",
+    "artist"  : "er *R.MIRROR",
+    "comment" : "TRANCY FLOWPOP",
+    "md5"     : "6d75cd4d23bcd8b15992bf66bf05d529"
+},{
+    "level"   : "★6",
     "title"   : "stardust carnival",
     "artist"  : "L.M.",
     "comment" : "Hi-Speed Galaxy Core [DP INSANE]",
@@ -30982,6 +31030,12 @@
     "artist"  : "BMS:Azell MIDI:来兎 (obj:hamburger) *R.MIRROR / LR.RANDOM",
     "comment" : "Game Music",
     "md5"     : "87444e28ab460d76bf998f9eb6b93e88"
+},{
+    "level"   : "★6",
+    "title"   : "Toki (Sound piercer's Timesucker Remix) [DP EXTRA]",
+    "artist"  : "puru twk. sound piercer (feat.Hee Bun.D) obj:Dr.K",
+    "comment" : "Freeform / Gabber",
+    "md5"     : "65adabbe450b2b42ff0cb4a7705a7769"
 },{
     "level"   : "★6",
     "title"   : "Total Eclipse of the Sun -脈動-",
