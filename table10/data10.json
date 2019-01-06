@@ -924,6 +924,12 @@
     "md5"     : "018f454c7b2fc647d1614b6803c8e174"
 },{
     "level"   : "4",
+    "title"   : "緋色メリーゴーランド",
+    "artist"  : "LUNE",
+    "comment" : "EXPERIMENT-10key-",
+    "md5"     : "01b924fab23def3c0b4fcacfda8d0cd1"
+},{
+    "level"   : "4",
     "title"   : "（＾∀＾）Ａ",
     "artist"  : "w32 / 131",
     "comment" : "HOUSE MIX",
@@ -1132,6 +1138,12 @@
     "artist"  : "Aozuna",
     "comment" : "GOREGRIND",
     "md5"     : "0359f97aee9f202f8bb3a07c86483589"
+},{
+    "level"   : "6",
+    "title"   : "SunShine Girl ~NORMAL~",
+    "artist"  : "GQ",
+    "comment" : "SHINY HARDCORE",
+    "md5"     : "266f2741ed0b0be68457b81bade18ee9"
 },{
     "level"   : "6",
     "title"   : "The Island of Albatross ~HARD~",
@@ -1390,6 +1402,12 @@
     "artist"  : "nmk feat.KANAE YUME",
     "comment" : "EUROBEAT",
     "md5"     : "cc01fcb8e1c6b914261f6282c862991b"
+},{
+    "level"   : "9",
+    "title"   : "平衡世界 -Parallel World- ~HARD~",
+    "artist"  : "daisan *LR.RANDOM",
+    "comment" : "Mirage Story",
+    "md5"     : "9324457a5064c45690f4d711abef473b"
 },{
     "level"   : "9",
     "title"   : "点、線、面、立体 ~HARD~",
@@ -1764,6 +1782,12 @@
     "md5"     : "5b5b68420327466bb7f034c96ce55862"
 },{
     "level"   : "★6",
+    "title"   : "Last Dial ~SUPER HARD~",
+    "artist"  : "ZUN(Arr.sun3)",
+    "comment" : "Trance core",
+    "md5"     : "0e166256b8059b7f393eebb1b1533b6d"
+},{
+    "level"   : "★6",
     "title"   : "Necrophantasia -LifeZero- ~SUPER HARD~",
     "artist"  : "CrossGear",
     "comment" : "Eastern Phantasm",
@@ -1812,6 +1836,12 @@
     "md5"     : "33ee1cfa673755d867527de88505753d"
 },{
     "level"   : "★7",
+    "title"   : "FELYS ~SUPER HARD~",
+    "artist"  : "onoken",
+    "comment" : "drum'n bass",
+    "md5"     : "b8f679b075ea7896e5a4c3e7420c6b37"
+},{
+    "level"   : "★7",
     "title"   : "Floating Garden ~SUPER HARD~",
     "artist"  : "TrioStaR x Lilyca x Mentalstock",
     "comment" : "Euphoric Trance",
@@ -1840,6 +1870,12 @@
     "artist"  : "ZUN remixed by LeaF",
     "comment" : "EMOTIONAL HARDCORE TECHNO",
     "md5"     : "8756305fbdf65ac2d6f68ecc365255cc"
+},{
+    "level"   : "★8",
+    "title"   : "Cranberry Pie Factory ~SUPER HARD~",
+    "artist"  : "Chelp *LR.RANDOM",
+    "comment" : "Contemporary",
+    "md5"     : "f50c4960f050dfd809800df767d146c8"
 },{
     "level"   : "★8",
     "title"   : "did -spitfire mix-",
@@ -1906,6 +1942,12 @@
     "artist"  : "Omnipotenx",
     "comment" : "SYMPHONIC SCHRANZ",
     "md5"     : "87c16ca4114f9649ad9469bd192f5aec"
+},{
+    "level"   : "★10",
+    "title"   : "Her Majesty ~SUPER HARD~",
+    "artist"  : "naotyu- / Mentalstock",
+    "comment" : "progressive breaks",
+    "md5"     : "86abb2e4ca714820a951ebad04213603"
 },{
     "level"   : "★10",
     "title"   : "Mario Paint (Time Regression Mix for BMS) ~CATASTROPHE~",
