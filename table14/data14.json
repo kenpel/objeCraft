@@ -4350,6 +4350,12 @@
     "md5"     : "4cd6dcfe5784aeab551e0e65ab4b2c08"
 },{
     "level"   : "2",
+    "title"   : "Artificial Integrity (gmtn. remix)  -14another-",
+    "artist"  : "Forte Escape remixed by gmtn./obj:epics- visualized by light motion *57  *R.MIR",
+    "comment" : "TRANCE",
+    "md5"     : "15ee795033d2f5847f2db04e9adee2de"
+},{
+    "level"   : "2",
     "title"   : "Ascension (DH)",
     "artist"  : "DaDass *L.MIRROR",
     "comment" : "Goa Trance",
@@ -5664,8 +5670,8 @@
     "md5"     : "f206f9789281fedbd3d322cefa2dc0b2"
 },{
     "level"   : "2",
-    "title"   : "Stay beside me (Another14)",
-    "artist"  : "kei_iwata *FLIP",
+    "title"   : "Stay beside me  (Another14)",
+    "artist"  : "kei_iwata",
     "comment" : "House",
     "md5"     : "15c7f0074050981661167ddb68d390e5"
 },{
@@ -6388,6 +6394,12 @@
     "artist"  : "bbangsami / obj:killer TOMATO *MAX+60",
     "comment" : "poCHIPwer",
     "md5"     : "05885935f66a923774786d193a07d1d4"
+},{
+    "level"   : "3",
+    "title"   : "2nd Anniversary [ANOTHER14]",
+    "artist"  : "Koji M",
+    "comment" : "EUROBEAT",
+    "md5"     : "c917fdb0c5c51b9539d32611fd895fbd"
 },{
     "level"   : "3",
     "title"   : "3amba cat [14keys]",
@@ -9652,6 +9664,12 @@
     "artist"  : "XEOEXE　obj:LAKE *FLIP R.MIRROR",
     "comment" : "Gorilla←このカーナビ持ってます",
     "md5"     : "0b3a81b0293a1e7b85dd7fba73baab7e"
+},{
+    "level"   : "4",
+    "title"   : "Gothic System -C.H.S_NRG Mix- [14KEYS A]",
+    "artist"  : "DJ TECHNORCH Remixed by tpa:pbr / obj:LD",
+    "comment" : "FREEFORM HARDCORE",
+    "md5"     : "1500c5bb65e49fa3ff72e39483c94145"
 },{
     "level"   : "4",
     "title"   : "gradation (DP ANOTHER)",
@@ -24390,6 +24408,12 @@
     "md5"     : "e689edf5db10c557bfd9fdd945240b39"
 },{
     "level"   : "10",
+    "title"   : "NO SIN FOR ME  (DA)",
+    "artist"  : "ESTi arranged by Quillah *MAXBPM+80->0",
+    "comment" : "Breakcore",
+    "md5"     : "fd2cf0fc3230306f1346514d132686f1"
+},{
+    "level"   : "10",
     "title"   : "No.337 EX14",
     "artist"  : "ATM obj:ucc *FLIP",
     "comment" : "deep",
@@ -29268,12 +29292,6 @@
     "md5"     : "0d28c2625be1262834f192b93f0ad425"
 },{
     "level"   : "★4",
-    "title"   : "物怪舞踏 [百鬼夜行]",
-    "artist"  : "篠螺悠那 OBJ : KLOC  *正規 or FLIP LR.MIR",
-    "comment" : "fantasia",
-    "md5"     : "d0f35c8d3614332cb53eeaf83bbba6cf"
-},{
-    "level"   : "★4",
     "title"   : "異説彼岸花 第二 -終世のリコリス- [DP2000KEY]",
     "artist"  : "田井中 律 / obj:二代目IIDX16相坂",
     "comment" : "HARD RENAISSANCE",
@@ -30316,6 +30334,12 @@
     "artist"  : "世紀末ニート obj@DemitassE  *LR.RAN or L.MIR",
     "comment" : "Hyper unko",
     "md5"     : "2033b34857d5c29862aabb052a3440fe"
+},{
+    "level"   : "★5",
+    "title"   : "物怪舞踏 [百鬼夜行]",
+    "artist"  : "篠螺悠那 OBJ : KLOC  *正規 or FLIP LR.MIR",
+    "comment" : "fantasia",
+    "md5"     : "d0f35c8d3614332cb53eeaf83bbba6cf"
 },{
     "level"   : "★5",
     "title"   : "玉の緒よ (双永呪)",
