@@ -846,6 +846,12 @@
     "md5"     : "8b8bbea6e87ebeb9e014eeffbb1ac1ee"
 },{
     "level"   : "4",
+    "title"   : "Say A Vengeance ~HARD~",
+    "artist"  : "ETIA. feat.Jenga",
+    "comment" : "J-CORE",
+    "md5"     : "b617053370d013102a907b86f2da839e"
+},{
+    "level"   : "4",
     "title"   : "SIREN OF DAWN ~HARD~",
     "artist"  : "K",
     "comment" : "TECHNO",
@@ -1170,6 +1176,12 @@
     "md5"     : "33ea82071587d0b2410f148088f6a901"
 },{
     "level"   : "7",
+    "title"   : "aballava ~NORMAL~",
+    "artist"  : "Team:SASAKURATION  /  Goten",
+    "comment" : "fgWood",
+    "md5"     : "2084dbde9c5a40a21ebe2fa61cb9c953"
+},{
+    "level"   : "7",
     "title"   : "AIRSHAVER ~HARD~",
     "artist"  : "mommy",
     "comment" : "PROGRESSIVE",
@@ -1301,6 +1313,12 @@
     "comment" : "HAPPY HARD CORE",
     "md5"     : "658faf20c3ab4255d5271721caf296ba"
 },{
+    "level"   : "8",
+    "title"   : "先天性エゴサ依存症候群 ~HARD~",
+    "artist"  : "ねこみりん feat.みゆ",
+    "comment" : "E.G.S.",
+    "md5"     : "48b0af5b1d8c41f028dea8f30657e987"
+},{
     "level"   : "9",
     "title"   : "Act Beloved ~HARD~",
     "artist"  : "Nene Anegasaki feat. Salita",
@@ -1384,6 +1402,12 @@
     "artist"  : "AcuticNotes",
     "comment" : "AcuticCore",
     "md5"     : "e00f393b872f74c287814480be3073ae"
+},{
+    "level"   : "9",
+    "title"   : "ZENITHALIZE ~HARD~",
+    "artist"  : "Z",
+    "comment" : "FULL ON",
+    "md5"     : "e11c58cc72446386ba423a9efcc3ce3d"
 },{
     "level"   : "9",
     "title"   : "トルコ行進曲 (Hd-NRG mix) ~HARD~",
@@ -1528,6 +1552,12 @@
     "artist"  : "霧原由羽 *LR.RANDOM or 正規",
     "comment" : "HR/HM",
     "md5"     : "45987e653dfa34d8b5f10eb15939dbcf"
+},{
+    "level"   : "★1",
+    "title"   : "Legend of Seeker ~HARD~",
+    "artist"  : "remixed celas",
+    "comment" : "pathos nrg",
+    "md5"     : "27c4a2d808b031726d834a262997cc05"
 },{
     "level"   : "★1",
     "title"   : "M-D:M+A",
@@ -1788,6 +1818,12 @@
     "md5"     : "5b5b68420327466bb7f034c96ce55862"
 },{
     "level"   : "★6",
+    "title"   : "feeling of your color ~CATASTROPHE~",
+    "artist"  : "nmk/sPH1Ca",
+    "comment" : "Dream Trance",
+    "md5"     : "8e0c3d988d86329eeb3e01b4a445ca11"
+},{
+    "level"   : "★6",
     "title"   : "Last Dial ~SUPER HARD~",
     "artist"  : "ZUN(Arr.sun3)",
     "comment" : "Trance core",
@@ -1942,6 +1978,12 @@
     "artist"  : "eicateve / Mentalstock / objeCraft",
     "comment" : "HARDCORE",
     "md5"     : "b0ed2a98504740ce67caf0cde9af637d"
+},{
+    "level"   : "★9",
+    "title"   : "MANIERA ~CATASTROPHE~",
+    "artist"  : "D",
+    "comment" : "ENCORE",
+    "md5"     : "f9456d50713406ff9bcb77389fbcb947"
 },{
     "level"   : "★9",
     "title"   : "PEACE BREAKER ~SUPER HARD~",
