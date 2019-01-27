@@ -3966,6 +3966,12 @@
     "md5"     : "79c7cc56e3608be3168f3c47d1107132"
 },{
     "level"   : "1",
+    "title"   : "日溜りの街－あ！－ [マシンガン]",
+    "artist"  : "猫蟹丸 [obj:mymt]",
+    "comment" : "Piano Rush",
+    "md5"     : "124720203bf238c8a731afe9e5d33b3c"
+},{
+    "level"   : "1",
     "title"   : "日立の樹-この木なんの木- [FASTER14]",
     "artist"  : "G-Y / srof",
     "comment" : "CM SONG",
@@ -20802,6 +20808,12 @@
     "md5"     : "ddef22e8ecd8b0bd9ad5a0db886cbb27"
 },{
     "level"   : "8",
+    "title"   : "Sugary Drive [DP Sugarless]",
+    "artist"  : "futonbound [obj:MGN]",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "d07d5352ec2431474b7e48820ce14744"
+},{
+    "level"   : "8",
     "title"   : "Summerland [14key_Extreme]",
     "artist"  : "Lime/obj:epics- *L.MIRROR",
     "comment" : "Cooling Trance",
@@ -23446,6 +23458,12 @@
     "artist"  : "bj.HaLo obj:ucc *FLIP L.MIRROR",
     "comment" : "NU STYLE KASSA",
     "md5"     : "9c525a78f81111d138ef6974facc1744"
+},{
+    "level"   : "9",
+    "title"   : "日溜りの街－あ！－ [マシンガン+]",
+    "artist"  : "猫蟹丸 [obj:mymt]",
+    "comment" : "Piano Rush",
+    "md5"     : "cd9a26e835b8850e71b7f45b00311c66"
 },{
     "level"   : "9",
     "title"   : "星蝕セクエンス  -DP CHALLENGE-",
@@ -29521,7 +29539,7 @@
 },{
     "level"   : "★5",
     "title"   : "CLOCKTOWER (Abraj Al Bait Towers)",
-    "artist"  : "Chitose / obj:kuro (Movie:zue-row)",
+    "artist"  : "Chitose / obj:kuro (Movie:zue-row)  *LR.RAN",
     "comment" : "Art Progressive Fusion",
     "md5"     : "03c2d647ba044238e256bc6e53927f38"
 },{
@@ -30313,7 +30331,7 @@
 },{
     "level"   : "★5",
     "title"   : "時架け [我]",
-    "artist"  : "Is-m / obj:Hersh Vo.　あまね（COOL&CREATE） BGA:iimo  *MAXBPM FLIP",
+    "artist"  : "Is-m / obj:Hersh Vo.　あまね（COOL&CREATE） BGA:iimo  *MAXBPM L.MIR",
     "comment" : "ETERNAL",
     "md5"     : "1ed77eed505b85aff747d33b68ad4550"
 },{
@@ -30493,7 +30511,7 @@
 },{
     "level"   : "★6",
     "title"   : "affected (EX14)",
-    "artist"  : "System SFM obj:ucc",
+    "artist"  : "System SFM obj:ucc *正規 or FLIP L.MIR",
     "comment" : "TRANCE",
     "md5"     : "af9a9ece85b278ae38131dcb1cbd7b82"
 },{
@@ -30898,6 +30916,12 @@
     "artist"  : "Plastiksoulman",
     "comment" : "electro disco punk",
     "md5"     : "72f2f5d437c274769d0c942cc6039ec6"
+},{
+    "level"   : "★6",
+    "title"   : "NS18 [delta]",
+    "artist"  : "3034/obj:hamburger Anomie / IllusionRain  *AVE 0->-20",
+    "comment" : "EXTREME TECHNO",
+    "md5"     : "704dcc734eb152884b4c0e2a576766a0"
 },{
     "level"   : "★6",
     "title"   : "NS18",
@@ -31630,12 +31654,6 @@
     "artist"  : "ZUN Remixed by Ωμεγα/obj;ROCO-G",
     "comment" : "RENAISSUWAKO",
     "md5"     : "a1ae807fe9fc0e8043a71a285cde76b7"
-},{
-    "level"   : "★7",
-    "title"   : "NS18 [delta]",
-    "artist"  : "3034/obj:hamburger Anomie / IllusionRain  *AVE 0->-20",
-    "comment" : "EXTREME TECHNO",
-    "md5"     : "704dcc734eb152884b4c0e2a576766a0"
 },{
     "level"   : "★7",
     "title"   : "Pangaea [bitter14]",
