@@ -1350,6 +1350,12 @@
     "md5"     : "148901c511a84b4fd50ebbf537ecc1c9"
 },{
     "level"   : "1",
+    "title"   : "All about... [ANOTHER]",
+    "artist"  : "NUM3R1CS",
+    "comment" : "JERSEY CLUB",
+    "md5"     : "8df8b51273eb768c3e8da6631415cc45"
+},{
+    "level"   : "1",
     "title"   : "Alpha-Centauri [Another]",
     "artist"  : "STPstate *FLIP",
     "comment" : "Simple Trance",
@@ -3682,6 +3688,12 @@
     "artist"  : "mattaku",
     "comment" : "game music",
     "md5"     : "708b1e489fb3e88966229a6fab51d9a8"
+},{
+    "level"   : "1",
+    "title"   : "ふしぎなおくりもの [DPH]",
+    "artist"  : "9-zen obj:肴",
+    "comment" : "Everyone Happy! Wi-Fi Connection",
+    "md5"     : "fde2c480967f93727ce4c8bc87b6759d"
 },{
     "level"   : "1",
     "title"   : "まくらもとのStarbow  (Another)",
@@ -7156,6 +7168,12 @@
     "artist"  : "APPARITION",
     "comment" : "GABBA meets TRANCE CORE",
     "md5"     : "556f25bba2246fa2c3fb988b026162e2"
+},{
+    "level"   : "3",
+    "title"   : "GLITCH SWITCH [ダブルおまけ！]",
+    "artist"  : "GRASSEZ Movie:Threader / obj.LetsOTL",
+    "comment" : "HYBRID J-CORE",
+    "md5"     : "04e486c23ed5b1bbe5d6262a9e2b5b66"
 },{
     "level"   : "3",
     "title"   : "glittering moment [DP ANOTHER]",
