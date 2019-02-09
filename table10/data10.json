@@ -618,6 +618,12 @@
     "md5"     : "0091e19abaf44d3f54d6f4f5e0be50c3"
 },{
     "level"   : "3",
+    "title"   : "Fanciful False -DP 5KEY-",
+    "artist"  : "Is-m/steelyvibe BGA:q/stol  *LR.MIRROR",
+    "comment" : "DRUM'N'BASS",
+    "md5"     : "2f55441e09d9b931c891ecf107aaf904"
+},{
+    "level"   : "3",
     "title"   : "G3 Double",
     "artist"  : "Mr.H",
     "comment" : "DRUM'N CORE-5",
@@ -1140,6 +1146,12 @@
     "md5"     : "418a49d841079dbfe6fe72bb5be8f0d7"
 },{
     "level"   : "6",
+    "title"   : "Necromancer",
+    "artist"  : "有栖川 悠",
+    "comment" : "HARDCORE RAVE",
+    "md5"     : "63c310b74edbcb3d3f0dc5733b58234a"
+},{
+    "level"   : "6",
     "title"   : "o2is (dp true)",
     "artist"  : "Octa the B.G. *LR.MIRROR",
     "comment" : "techno",
@@ -1390,6 +1402,12 @@
     "artist"  : "Nankumo *LR.MIRROR",
     "comment" : "TECHNO",
     "md5"     : "cecd868f6a8cf087e716048355865499"
+},{
+    "level"   : "9",
+    "title"   : "reflective moment -DP 5KEY-",
+    "artist"  : "Is-m BGA:140/fth",
+    "comment" : "TECHNO",
+    "md5"     : "0d623b7496990a963e72cb5c7af6fb73"
 },{
     "level"   : "9",
     "title"   : "Sgt.",
@@ -1650,6 +1668,12 @@
     "md5"     : "ea4837656c137afd0104cbb33aac01c5"
 },{
     "level"   : "★3",
+    "title"   : "Black Lair ~HARD~",
+    "artist"  : "DELETE feat. void",
+    "comment" : "Act / Wars",
+    "md5"     : "902174c91116f14380899c3ab3677582"
+},{
+    "level"   : "★3",
     "title"   : "KARASU (asso-)",
     "artist"  : "scytheleg *LR.MIRROR",
     "comment" : "ASIAN DNB",
@@ -1722,6 +1746,12 @@
     "md5"     : "c790651e5c8877c351b16a43e9cc326f"
 },{
     "level"   : "★4",
+    "title"   : "Orbital Period ~SUPER HARD~",
+    "artist"  : "8284 *LR.RANDOM",
+    "comment" : "Acoustic Breaks",
+    "md5"     : "876e7fe7536a8aea39e6cfa22d5815b4"
+},{
+    "level"   : "★4",
     "title"   : "多重極展開 ~SUPER HARD~",
     "artist"  : "Rocky *LR.MIRROR",
     "comment" : "INSI break",
@@ -1780,6 +1810,12 @@
     "artist"  : "Rabbit Bat *LR.MIRROR",
     "comment" : "Romantic Beats",
     "md5"     : "06019c2269d89b686cea953b5bbbbb36"
+},{
+    "level"   : "★5",
+    "title"   : "Utopiangela ~SUPER HARD~",
+    "artist"  : "infinity Lovewn☆",
+    "comment" : "BROKEN TOYBOX",
+    "md5"     : "14c8bc0bc2e982a3ae925310b0b963c7"
 },{
     "level"   : "★5",
     "title"   : "We are the xxxx ~SUPER HARD~",
@@ -1842,6 +1878,12 @@
     "md5"     : "0e166256b8059b7f393eebb1b1533b6d"
 },{
     "level"   : "★6",
+    "title"   : "Like a Sunflower ~SUPER HARD~",
+    "artist"  : "HIKAGE",
+    "comment" : "FLESH POP",
+    "md5"     : "34e88da77db0cdd02fbab0eb144c7a94"
+},{
+    "level"   : "★6",
     "title"   : "Necrophantasia -LifeZero- ~SUPER HARD~",
     "artist"  : "CrossGear",
     "comment" : "Eastern Phantasm",
@@ -1852,6 +1894,12 @@
     "artist"  : "Omnipotenx *LR.RANDOM",
     "comment" : "SYMPHONIC SCHRANZ",
     "md5"     : "d0cecd8f03dbd7773390dce707600871"
+},{
+    "level"   : "★6",
+    "title"   : "rebeltraitor ~CATASTROPHE~",
+    "artist"  : "sa10",
+    "comment" : "SPEED DANCE",
+    "md5"     : "9475c65dfae6ee4fdc67370056537f98"
 },{
     "level"   : "★6",
     "title"   : "Say A Vengeance ~SUPER HARD~",
@@ -1884,6 +1932,12 @@
     "md5"     : "74ee11b791b1947f85be41dfd967e548"
 },{
     "level"   : "★7",
+    "title"   : "-+ ~SUPER HARD~",
+    "artist"  : "daisan *LR.RANDOM",
+    "comment" : "Dirt Art",
+    "md5"     : "d1e7c8dead89a5ed4e3e61811518ba25"
+},{
+    "level"   : "★7",
     "title"   : "Etude for the Sinners [10KEYNS-Etude]",
     "artist"  : "Ice (Trolled) / obj : Lampades *LR.RANDOM",
     "comment" : "Experimental Etude",
@@ -1906,6 +1960,12 @@
     "artist"  : "Luxion *LR.RANDOM",
     "comment" : "OVERKILL",
     "md5"     : "8739bfcce27d0488366d2ae0f3864844"
+},{
+    "level"   : "★7",
+    "title"   : "N.U.clear",
+    "artist"  : "seizan",
+    "comment" : "MSGS TECH CORE",
+    "md5"     : "f065f0f4c46d85dd54469a23b4c90eff"
 },{
     "level"   : "★7",
     "title"   : "Wild Clown (10key-DNM)",
@@ -1985,6 +2045,18 @@
     "comment" : "HAPPY HARD CORE",
     "md5"     : "82493fa9d643f1c1c0cebc671c4ff718"
 },{
+    "level"   : "★8",
+    "title"   : "先天性エゴサ依存症候群 ~SUPER HARD~",
+    "artist"  : "ねこみりん feat.みゆ",
+    "comment" : "E.G.S.",
+    "md5"     : "71f7c8fb11936ca8ea47355a6714dedb"
+},{
+    "level"   : "★8",
+    "title"   : "愛と煩悩と輪廻と常識の極彩世界 ~CATASTROPHE~",
+    "artist"  : "sound piercer feat.Ritsu",
+    "comment" : "Progressive Fantasia",
+    "md5"     : "db7d1634938db92cfb8c718d511cc3e0"
+},{
     "level"   : "★9",
     "title"   : "Gun to Childhead (A)",
     "artist"  : "eicateve / Mentalstock / objeCraft",
@@ -2016,10 +2088,22 @@
     "md5"     : "f6e02fba003f20c9cd078fe49bc92b05"
 },{
     "level"   : "★10",
+    "title"   : "Pangaea ~CATASTROPHE~",
+    "artist"  : "sasakure.UK",
+    "comment" : "World Orchestra",
+    "md5"     : "ccf8e9d1f25563faa256ba553d3a740e"
+},{
+    "level"   : "★10",
     "title"   : "Quad Queens ~SUPER HARD~",
     "artist"  : "D.J.Nero",
     "comment" : "RENAISSANCE",
     "md5"     : "b3c685c5816490e718f496bd8b78e885"
+},{
+    "level"   : "★12",
+    "title"   : "SunnyShinyRing ~CATASTROPHE~",
+    "artist"  : "みここ ＆ 虹野ひかり",
+    "comment" : "Happy",
+    "md5"     : "09b0b1e2d4aac3121745164618398b30"
 },{
     "level"   : "★13",
     "title"   : "FREEDOM DiVE↓ ~CATASTROPHE~",
@@ -2032,6 +2116,12 @@
     "artist"  : "Luxion",
     "comment" : "OVERKILL",
     "md5"     : "6e98d54fda169f2895322200ab2b94aa"
+},{
+    "level"   : "★16",
+    "title"   : "Time files ~XRATE~",
+    "artist"  : "xi",
+    "comment" : "HAPPY",
+    "md5"     : "29c0a1fedb345b2af2b6b5e5c4fc8fae"
 },{
     "level"   : "★16",
     "title"   : "Toki (Sound piercer's Timesucker Remix) ~XRATE~",
