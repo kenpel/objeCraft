@@ -28099,7 +28099,7 @@
 },{
     "level"   : "★3",
     "title"   : "大都会partIII",
-    "artist"  : "Atomic Sphere feat. emonic *FLIP or LR.MIR or LR.RAN",
+    "artist"  : "Atomic Sphere feat. emonic *LR.RANDOM",
     "comment" : "DRUM'N'BASS",
     "md5"     : "b2af737d3f8cc7466511c12657609d69"
 },{
@@ -28246,12 +28246,6 @@
     "artist"  : "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。 obj:kuro",
     "comment" : "BRAVE",
     "md5"     : "a504bbaa84f4b4b60b1a894e2483ba23"
-},{
-    "level"   : "★4",
-    "title"   : "Aleph-0 [14ANOTHER]",
-    "artist"  : "LeaF / obj:hamburger Movie:Optie  *SUD+ FIXOFF190>140>190 F.LRM",
-    "comment" : "MUSIC",
-    "md5"     : "56ba1e06ded5a15153e14f5006fc1742"
 },{
     "level"   : "★4",
     "title"   : "Altale [more Fantastic14]",
@@ -29334,12 +29328,6 @@
     "md5"     : "933f7fe37a87ed36b16f7e4fdb4f5818"
 },{
     "level"   : "★4",
-    "title"   : "着物姿のアリス MGNother",
-    "artist"  : "tarolabo(obj:MGN) *SUD+ FLIP LR.RAN",
-    "comment" : "デスメタル[14key]",
-    "md5"     : "51099faffdf993eb1abdfc9060fce06b"
-},{
-    "level"   : "★4",
     "title"   : "神聖大樹 -98%keys-",
     "artist"  : "しらいし *L.MIR or FLIP L.MIR",
     "comment" : "TRANCE",
@@ -29446,6 +29434,12 @@
     "artist"  : "鳩 obj:ucc *R.MIRROR",
     "comment" : "DarkBreaks",
     "md5"     : "d9a045895761a0330d71f33025faec12"
+},{
+    "level"   : "★5",
+    "title"   : "Aleph-0 [14ANOTHER]",
+    "artist"  : "LeaF / obj:hamburger Movie:Optie  *SUD+ FIXOFF190>140>190 F.LRM",
+    "comment" : "MUSIC",
+    "md5"     : "56ba1e06ded5a15153e14f5006fc1742"
 },{
     "level"   : "★5",
     "title"   : "Angel dust [S]",
@@ -30390,6 +30384,12 @@
     "md5"     : "1e970a6ec27945a3be715ee64fe03e06"
 },{
     "level"   : "★5",
+    "title"   : "着物姿のアリス MGNother",
+    "artist"  : "tarolabo(obj:MGN) *SUD+ LR.MIR or FLIP LR.RAN",
+    "comment" : "デスメタル[14key]",
+    "md5"     : "51099faffdf993eb1abdfc9060fce06b"
+},{
+    "level"   : "★5",
     "title"   : "神聖大樹 [BLACK ANOTHER14]",
     "artist"  : "しらいし / srof *L.MIRROR",
     "comment" : "TRANCE",
@@ -30595,7 +30595,7 @@
 },{
     "level"   : "★6",
     "title"   : "Black Lotus [DP Power14]",
-    "artist"  : "wa. / 百舌谷 obj:けろりん",
+    "artist"  : "wa. / 百舌谷 obj:けろりん *FLIP R.MIRROR",
     "comment" : "GrimReaper",
     "md5"     : "7ff299b92cc61cce055dac46b7e2eed1"
 },{
