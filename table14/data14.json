@@ -4242,6 +4242,12 @@
     "md5"     : "c70c65b318720ceb693b74f579c519a5"
 },{
     "level"   : "2",
+    "title"   : "3.14",
+    "artist"  : "ルゼ / obj:lichtr *FLIP R.MIRROR",
+    "comment" : "PSYTEC",
+    "md5"     : "4048a3558376356aac6a51ebc5ced9a1"
+},{
+    "level"   : "2",
     "title"   : "[OpenMRF]AfternoonTea(BMSEdit) [sub another]",
     "artist"  : "Reanisz obj:kuro",
     "comment" : "House",
@@ -8866,12 +8872,6 @@
     "artist"  : "ルゼ obj:ucc",
     "comment" : "PSYTEC",
     "md5"     : "724189121010baf82413048d4f0d6d88"
-},{
-    "level"   : "4",
-    "title"   : "3.14",
-    "artist"  : "ルゼ / obj:lichtr",
-    "comment" : "PSYTEC",
-    "md5"     : "4048a3558376356aac6a51ebc5ced9a1"
 },{
     "level"   : "4",
     "title"   : "5.1.1(ReMix) [虎のAnother14]",
@@ -14076,12 +14076,6 @@
     "md5"     : "6e339a74a67f7eddb755cf8a77d58b56"
 },{
     "level"   : "6",
-    "title"   : "Central Nucleus [DP INSANE]",
-    "artist"  : "8284 / Obj:ゆ～兎",
-    "comment" : "CYBER ENERGETIC TRANCE",
-    "md5"     : "0d0d9db6e6a6a9e2c5cbbefe15a9c6b0"
-},{
-    "level"   : "6",
     "title"   : "CG [↑Cut,Gravity↓] bms edit (DP)",
     "artist"  : "エルリ鳥 obj:azurite",
     "comment" : "duckweed",
@@ -16906,6 +16900,12 @@
     "artist"  : "Team PAPERBOY *LR.RANDOM",
     "comment" : "Deliverance [14ANOTHER]",
     "md5"     : "5b1dee45b511f6574f04e61262adcb42"
+},{
+    "level"   : "7",
+    "title"   : "Central Nucleus [DP INSANE]",
+    "artist"  : "8284 / Obj:ゆ～兎 *FLIP LR.MIRROR",
+    "comment" : "CYBER ENERGETIC TRANCE",
+    "md5"     : "0d0d9db6e6a6a9e2c5cbbefe15a9c6b0"
 },{
     "level"   : "7",
     "title"   : "Chinese Typhoon [DP ANOTHER]",
@@ -20398,6 +20398,12 @@
     "artist"  : "Orange Strophe obj:ucc *FLIP LR.MIRROR",
     "comment" : "Progressive Jazz",
     "md5"     : "653f894b0fe350f592cecee6088ff9c6"
+},{
+    "level"   : "8",
+    "title"   : "new earth [14k Second generation]",
+    "artist"  : "er / obj:C4",
+    "comment" : "TECHNO",
+    "md5"     : "7d10ea80186253b5e40ec143b43d653f"
 },{
     "level"   : "8",
     "title"   : "Nightshade DPA",
@@ -29880,6 +29886,12 @@
     "md5"     : "8682d8f8d7afb7f962ce1d644ac21b42"
 },{
     "level"   : "★5",
+    "title"   : "MEKKHALA [DP ANOTHER]",
+    "artist"  : "RANDO: / obj:C4 *MAXBPM+20",
+    "comment" : "Alternative rock",
+    "md5"     : "dc16a13ec66d6fd931e5a7ac9426f733"
+},{
+    "level"   : "★5",
     "title"   : "Merry Christmas Mr.EXIT",
     "artist"  : "sasakure.UK obj:名無し",
     "comment" : "LAMENT",
@@ -29998,6 +30010,12 @@
     "artist"  : "lazward BGA:ましろ",
     "comment" : "Trancecore",
     "md5"     : "f3cb1c7a478e06efe2669608a4dd807a"
+},{
+    "level"   : "★5",
+    "title"   : "Re:End of a Dream [DPA]",
+    "artist"  : "uma vs. モリモリあつし",
+    "comment" : "Hard Renaissance",
+    "md5"     : "1869dbdd99498596675db23e44f7ae19"
 },{
     "level"   : "★5",
     "title"   : "Red End Dream [14key_Makeshift]",
@@ -30187,7 +30205,7 @@
 },{
     "level"   : "★5",
     "title"   : "これ、Gamegameっすよ(^_^;) (bms edit)",
-    "artist"  : "s-don / 篠乃ちよ obj : mbp",
+    "artist"  : "s-don / 篠乃ちよ obj : mbp  *FLIP LR.MIR",
     "comment" : "Tech Dance",
     "md5"     : "8809260b0514461ca925bdb4cbad3328"
 },{
@@ -31002,12 +31020,6 @@
     "md5"     : "f109554c97936983e5b7cae56151df97"
 },{
     "level"   : "★6",
-    "title"   : "Re:End of a Dream [DPA]",
-    "artist"  : "uma vs. モリモリあつし",
-    "comment" : "Hard Renaissance",
-    "md5"     : "1869dbdd99498596675db23e44f7ae19"
-},{
-    "level"   : "★6",
     "title"   : "Red -reduction division- [more Sadistic14]",
     "artist"  : "nmk feat.かなえゆめ　obj ； S",
     "comment" : "彼女たちの流儀",
@@ -31327,7 +31339,7 @@
 },{
     "level"   : "★6",
     "title"   : "桜華月 [Habanero14]",
-    "artist"  : "AKITO obj:nBel *FLIP",
+    "artist"  : "AKITO obj:nBel *FLIP LR.MIRROR",
     "comment" : "JP-SPIRITUAL POP",
     "md5"     : "a56107dcfda617b0da5b11a5ef38f140"
 },{
