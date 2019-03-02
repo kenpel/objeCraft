@@ -1254,6 +1254,12 @@
     "md5"     : "f65f2ed13cec6a56b3f5513470f2173d"
 },{
     "level"   : "1",
+    "title"   : "07xx1999 complete (KASATHER DPA)",
+    "artist"  : "cranky with Queen P.A.L. obj:KASAKO",
+    "comment" : "TRANCE POP",
+    "md5"     : "13e3d437abddc19ce34184ee451fc242"
+},{
+    "level"   : "1",
     "title"   : "12tomorrow (14keys Another)",
     "artist"  : "Feelful / obj:tako_st (L-Mys & 碑蓮) *FLIP",
     "comment" : "HAPPY HARDCORE",
@@ -3784,6 +3790,12 @@
     "artist"  : "eoll/obj:epics-",
     "comment" : "TECH STEP",
     "md5"     : "7aacabef42ed952f59972b8d30f7bca5"
+},{
+    "level"   : "1",
+    "title"   : "コオリノバラ [radio edit] -14-",
+    "artist"  : "naotyu- feat. miyu / obj:Redrum",
+    "comment" : "Soul",
+    "md5"     : "014a69c12a2b99b5dadf1662bf351997"
 },{
     "level"   : "1",
     "title"   : "コスモワンダラー [DP ANOTHER]",
@@ -18954,6 +18966,12 @@
     "md5"     : "2edd9a2b6d344023a133953a1f5f9026"
 },{
     "level"   : "7",
+    "title"   : "トリクロマチックダイアリー [DP sub black another]",
+    "artist"  : "日向縁 映像:長谷川ふみ / obj:kuro",
+    "comment" : "Hinaturebass",
+    "md5"     : "f9b73e0c667068f51a7e3f61d4945891"
+},{
+    "level"   : "7",
     "title"   : "トリプルウェルカム [A14]",
     "artist"  : "copyyyy obj:ucc *L.MIRROR",
     "comment" : "_",
@@ -19864,6 +19882,12 @@
     "artist"  : "ETIA. vs MM Sequence / obj:Louis",
     "comment" : "ROTTERDAM TECHNO",
     "md5"     : "76524b902ba8a38506f7f713bf5b9bd6"
+},{
+    "level"   : "8",
+    "title"   : "Dizzolve [DPA]",
+    "artist"  : "Ester mov : mi",
+    "comment" : "dezire",
+    "md5"     : "15254743d61a5c1b52e1d2d6471f6902"
 },{
     "level"   : "8",
     "title"   : "Don't be Afraid",
@@ -22242,6 +22266,12 @@
     "md5"     : "df08b8d24f55da5a91d3f536d5450d70"
 },{
     "level"   : "9",
+    "title"   : "Emptiness [DP ANOTHER]",
+    "artist"  : "Xect. / obj:nono22 MOVIE: SeibaR",
+    "comment" : "IDM",
+    "md5"     : "f7498e0befb9d2e581871430d9670ecc"
+},{
+    "level"   : "9",
     "title"   : "Endless Dream MGNother.2nd",
     "artist"  : "SHIKI // BGA:あかくらげ & M.H [obj:MGN]",
     "comment" : "HAPPY HARDCORE(14key)",
@@ -23898,12 +23928,6 @@
     "md5"     : "39d3f1d69fa9b9025121b2590556b3aa"
 },{
     "level"   : "10",
-    "title"   : "Anti Function  -DP INSANE-",
-    "artist"  : "Is-m BGA:ハマドメハマル  *FLIP L.MIR",
-    "comment" : "OLDSKOOL TECH*TRICK",
-    "md5"     : "2344584fd7bc2c430ffd3a12afdfad9d"
-},{
-    "level"   : "10",
     "title"   : "Astral Xebec",
     "artist"  : "Saikoro (obj:EIT) *R.MIRROR",
     "comment" : "Trance",
@@ -25518,6 +25542,12 @@
     "md5"     : "6912b945e537f0d0f2f7e7d1047f1670"
 },{
     "level"   : "★1",
+    "title"   : "Anti Function  -DP INSANE-",
+    "artist"  : "Is-m BGA:ハマドメハマル  *FLIP L.MIR",
+    "comment" : "OLDSKOOL TECH*TRICK",
+    "md5"     : "2344584fd7bc2c430ffd3a12afdfad9d"
+},{
+    "level"   : "★1",
     "title"   : "Ascension to Heaven [右の鍛練]",
     "artist"  : "xi obj:ucc *LR.RANDOM",
     "comment" : "ARTCORE",
@@ -25930,6 +25960,12 @@
     "artist"  : "SM-NX",
     "comment" : "IDM",
     "md5"     : "97179537ff19d164f2169e7d9c2f9d59"
+},{
+    "level"   : "★1",
+    "title"   : "Nhelv [purgatory : β]",
+    "artist"  : "Silentroom / 駿 Ωbj. Ωnedict vs LetsΩTL　　*MINBPM",
+    "comment" : "KATASTROPHE",
+    "md5"     : "8cca952713c2815852b8e2894eed64c0"
 },{
     "level"   : "★1",
     "title"   : "Nichirin [DP anOTLer]",
