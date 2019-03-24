@@ -1362,12 +1362,6 @@
     "md5"     : "8df8b51273eb768c3e8da6631415cc45"
 },{
     "level"   : "1",
-    "title"   : "Alpha-Centauri [Another]",
-    "artist"  : "STPstate *FLIP",
-    "comment" : "Simple Trance",
-    "md5"     : "30c9a4a820af518861761dc89dcbd4e0"
-},{
-    "level"   : "1",
     "title"   : "Alruna  [DP ANOTHER]",
     "artist"  : "wa. obj:ucc",
     "comment" : "INNOCENCE",
@@ -4318,6 +4312,12 @@
     "artist"  : "lydian D-style obj:ucc",
     "comment" : "unisex",
     "md5"     : "f1d4d8dac75465580570b4d2e2c8ab97"
+},{
+    "level"   : "2",
+    "title"   : "Alpha-Centauri [Another]",
+    "artist"  : "STPstate *FLIP",
+    "comment" : "Simple Trance",
+    "md5"     : "30c9a4a820af518861761dc89dcbd4e0"
 },{
     "level"   : "2",
     "title"   : "Alternative Utopia",
@@ -28663,7 +28663,7 @@
 },{
     "level"   : "★4",
     "title"   : "brain bleeding [EX14]",
-    "artist"  : "Professor S obj:ucc *LR.MIRROR",
+    "artist"  : "Professor S obj:ucc *L.MIR or LR.MIR",
     "comment" : "TEKNO",
     "md5"     : "c14519724728826c93dfd2256f9faaee"
 },{
