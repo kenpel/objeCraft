@@ -1680,6 +1680,12 @@
     "md5"     : "902174c91116f14380899c3ab3677582"
 },{
     "level"   : "★3",
+    "title"   : "happy century ~HARD~",
+    "artist"  : "recognize m.",
+    "comment" : "rapid pop",
+    "md5"     : "e31ed4e19f160c5b7caa40d622f5d62b"
+},{
+    "level"   : "★3",
     "title"   : "KARASU (asso-)",
     "artist"  : "scytheleg *LR.MIRROR",
     "comment" : "ASIAN DNB",
@@ -1950,6 +1956,12 @@
     "md5"     : "d1e7c8dead89a5ed4e3e61811518ba25"
 },{
     "level"   : "★7",
+    "title"   : "AXION ~CATASTROPHE~",
+    "artist"  : "Magic Mash Man / New Genuine Magicial Girl",
+    "comment" : "Chaos fantasia",
+    "md5"     : "b93403f600bc22c5b274b88ee9153516"
+},{
+    "level"   : "★7",
     "title"   : "Etude for the Sinners [10KEYNS-Etude]",
     "artist"  : "Ice (Trolled) / obj : Lampades *LR.RANDOM",
     "comment" : "Experimental Etude",
@@ -1990,6 +2002,18 @@
     "artist"  : "HOLY SAMBA MASTER 佐藤 -SATOH-",
     "comment" : "ゆったり系アンセムトランス",
     "md5"     : "3440bf5026775678c86e842795fbf5df"
+},{
+    "level"   : "★7",
+    "title"   : "恋の2-4-11 ~CATASTROPHE~",
+    "artist"  : "Gun-SEKI feat.那珂",
+    "comment" : "IDOL SONG",
+    "md5"     : "8fe2e42d07bbaa09decabe30d4ba2da5"
+},{
+    "level"   : "★8",
+    "title"   : "Act Beloved ~CATASTROPHE~",
+    "artist"  : "Nene Anegasaki feat. Salita",
+    "comment" : "PIANO HOUSE",
+    "md5"     : "6bbd211429499b73aca9967c6e3af5df"
 },{
     "level"   : "★8",
     "title"   : "Calamity Fortune ~CATASTROPHE~",
@@ -2086,6 +2110,12 @@
     "artist"  : "Omnipotenx",
     "comment" : "SYMPHONIC SCHRANZ",
     "md5"     : "87c16ca4114f9649ad9469bd192f5aec"
+},{
+    "level"   : "★9",
+    "title"   : "Pokemon battle imaging - No.3 ~SUPER HARD~",
+    "artist"  : "Y.W",
+    "comment" : "BATTLE IMAGING",
+    "md5"     : "fe9d212d97aaab6788d1c5414393c74b"
 },{
     "level"   : "★10",
     "title"   : "Her Majesty ~SUPER HARD~",
