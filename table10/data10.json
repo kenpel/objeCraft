@@ -1488,6 +1488,12 @@
     "md5"     : "adb2435ff4d5fbc87ad5fcbaf2d4cf71"
 },{
     "level"   : "10",
+    "title"   : "-+ ~HARD~",
+    "artist"  : "daisan",
+    "comment" : "Dirt Art",
+    "md5"     : "f6dd6a06f8687a9a9039cf118d7af00c"
+},{
+    "level"   : "10",
     "title"   : "Altersist ~SUPER HARD~",
     "artist"  : "void *LR.MIRROR",
     "comment" : "DISALTERNATIVE TRANCE",
@@ -1516,6 +1522,12 @@
     "artist"  : "LP+",
     "comment" : "Maiden House",
     "md5"     : "c8a7344169ba628c27686f8ff5c45b16"
+},{
+    "level"   : "10",
+    "title"   : "Fly Again ~HARD~",
+    "artist"  : "Junk feat.Salita",
+    "comment" : "HYPER TRANCE",
+    "md5"     : "732c19e20e912e09cfa5ec788634c9c9"
 },{
     "level"   : "10",
     "title"   : "lumpectomy (chop up mix)",
@@ -1762,6 +1774,12 @@
     "artist"  : "8284 *LR.RANDOM",
     "comment" : "Acoustic Breaks",
     "md5"     : "876e7fe7536a8aea39e6cfa22d5815b4"
+},{
+    "level"   : "★4",
+    "title"   : "りりりくろ！！ ~HARD~",
+    "artist"  : "代打三兄弟（走）",
+    "comment" : "shuffle pop'n",
+    "md5"     : "4b2e6c339c44fe3556e11c979ddf5c76"
 },{
     "level"   : "★4",
     "title"   : "多重極展開 ~SUPER HARD~",
@@ -2141,11 +2159,23 @@
     "comment" : "RENAISSANCE",
     "md5"     : "b3c685c5816490e718f496bd8b78e885"
 },{
+    "level"   : "★10",
+    "title"   : "★So SweeT LittlE HearT★ ~SUPER HARD~",
+    "artist"  : "kbwnk max",
+    "comment" : "HappY PoPcorN",
+    "md5"     : "631ba4463a69d11e0e5cf77b7cee4545"
+},{
     "level"   : "★12",
     "title"   : "SunnyShinyRing ~CATASTROPHE~",
     "artist"  : "みここ ＆ 虹野ひかり",
     "comment" : "Happy",
     "md5"     : "09b0b1e2d4aac3121745164618398b30"
+},{
+    "level"   : "★13",
+    "title"   : "Ascension to Heaven ~CATASTROPHE~",
+    "artist"  : "xi",
+    "comment" : "ARTCORE",
+    "md5"     : "27a43e4218817b2873ae95c640d102dd"
 },{
     "level"   : "★13",
     "title"   : "FREEDOM DiVE↓ ~CATASTROPHE~",
@@ -2170,6 +2200,12 @@
     "artist"  : "puru twk. sound piercer (feat.Hee Bun.D)",
     "comment" : "Freeform / Gabber",
     "md5"     : "8b4b632f8a03bd0b6febedf3d0b4be02"
+},{
+    "level"   : "★17",
+    "title"   : "FREEDOM DiVE↓ ~XRATE~",
+    "artist"  : "xi",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "7c49e66a4fc45f02b9656b2474f8c18a"
 },{
     "level"   : "無理",
     "title"   : "Egypt (10key)",
