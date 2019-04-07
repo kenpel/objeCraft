@@ -109,7 +109,7 @@
 },{
     "level"   : "?",
     "title"   : "Aragami [DP SOSYOU]",
-    "artist"  : "xi.dbm iimo  *引越し",
+    "artist"  : "xi.dbm iimo  *引っ越し",
     "comment" : "LIFE STREAM",
     "md5"     : "98db5e2dfdd345aa0ab6e915bb1955db"
 },{
@@ -307,7 +307,7 @@
 },{
     "level"   : "?",
     "title"   : "FELYS (house‐moving)",
-    "artist"  : "onoken *引越し",
+    "artist"  : "onoken *引っ越し FLIP",
     "comment" : "drum'n bass",
     "md5"     : "2da6ac3cfa5646a74faa6579e89451b8"
 },{
@@ -367,13 +367,13 @@
 },{
     "level"   : "?",
     "title"   : "glorious red - 赫月、黒陽ヲ穿ツ - (Battle)",
-    "artist"  : "obj:yst *L.MIRROR, 引越し",
+    "artist"  : "obj:yst *L.MIRROR, 引っ越し",
     "comment" : "fever trucks",
     "md5"     : "fb2603e0945bc7774b3569a041c01c12"
 },{
     "level"   : "?",
     "title"   : "glorious red - 赫月、黒陽ヲ穿ツ - (Battle Extra)",
-    "artist"  : "obj:yst *引っ越し",
+    "artist"  : "obj:yst *引っ越し FLIP",
     "comment" : "fever trucks",
     "md5"     : "27819bd36985178cb14a49f77c548629"
 },{
@@ -4588,6 +4588,12 @@
     "artist"  : "sound piercer obj:kuro",
     "comment" : "Pop Rock",
     "md5"     : "f06185b4320624fbddea5c92d176bf1e"
+},{
+    "level"   : "2",
+    "title"   : "CELLS [DP ANOTHER]",
+    "artist"  : "Yosk!",
+    "comment" : "TRANCE",
+    "md5"     : "ada4ddd496eef8091ae0fa303e027bab"
 },{
     "level"   : "2",
     "title"   : "Central Nucleus [DP ANOTHER]",
@@ -10164,6 +10170,12 @@
     "md5"     : "603bbbf7179184f923bc0b4976f1718e"
 },{
     "level"   : "4",
+    "title"   : "Minette [DP ANOTHER]",
+    "artist"  : "Yosk!",
+    "comment" : "Bad Cat Boogie",
+    "md5"     : "75f5f73b9df47a8a71ae7eaa43762966"
+},{
+    "level"   : "4",
     "title"   : "Mirage Imitation [DP ANOTHER]",
     "artist"  : "はがね / bga:白助 / object:全白",
     "comment" : "Progressive",
@@ -11830,6 +11842,12 @@
     "artist"  : "DEMK/obj:Gatia",
     "comment" : "TRAPARA",
     "md5"     : "a988707912f2242bb3763a08a1968c9a"
+},{
+    "level"   : "5",
+    "title"   : "CELLS [DP EXTRA]",
+    "artist"  : "Yosk!",
+    "comment" : "TRANCE",
+    "md5"     : "6f5953a9839b8fa46ba60f67623ed116"
 },{
     "level"   : "5",
     "title"   : "Central GRAY [DP ANOTHER]",
@@ -21445,7 +21463,7 @@
 },{
     "level"   : "8",
     "title"   : "スプラッシュコード－０６ [ANOTHER14]",
-    "artist"  : "ねこひめたん *R.MIRROR 引越し",
+    "artist"  : "ねこひめたん *R.MIRROR 引っ越し",
     "comment" : "テクノ",
     "md5"     : "434a927e31eeba5b869a20101626042a"
 },{
@@ -23760,6 +23778,12 @@
     "md5"     : "610ce529a9445e9ceee7e89abaf35879"
 },{
     "level"   : "9",
+    "title"   : "櫻嬰嬰 [DP EXTRA]",
+    "artist"  : "Yosk!",
+    "comment" : "Oriental Dance Music",
+    "md5"     : "afac99105d812beffa8de61b3f47ea51"
+},{
+    "level"   : "9",
     "title"   : "歪んだ樹 -ANOTHER14-",
     "artist"  : "次元大介 / 金獅子 / 29 / notes:Lara *R.RANDOM",
     "comment" : "CONTEMPORARY_BossBattle",
@@ -24922,6 +24946,12 @@
     "artist"  : "[IX] / BGA : [IX] / obj:二代目IIDX16 Frozen Satellite / Icarus",
     "comment" : "Trance",
     "md5"     : "b5f2fa8c74f123f5ed3b8c09b9eaeba0"
+},{
+    "level"   : "10",
+    "title"   : "Sleet in the city [DP EXTRA]",
+    "artist"  : "Yosk!",
+    "comment" : "TECHNO",
+    "md5"     : "1d371a81e507eeb6b443a586f7606810"
 },{
     "level"   : "10",
     "title"   : "Smiling [DP CHALLENGER]",
@@ -30475,7 +30505,7 @@
 },{
     "level"   : "★5",
     "title"   : "x-Aria [DP えぬTHER+]",
-    "artist"  : "ridis  obj ; N *正規 or L.MIRROR",
+    "artist"  : "ridis  obj ; N *正規 or L.MIRROR or FLIP LR.MIR",
     "comment" : "intelligence",
     "md5"     : "e05216f33674d459fc7164a1d138a333"
 },{
@@ -31693,7 +31723,7 @@
 },{
     "level"   : "★6",
     "title"   : "異説彼岸花 第二 -終世のリコリス- [LN版DP2000KEY]",
-    "artist"  : "田井中 律 / obj:二代目IIDX16相坂 *FLIP or L.MIRROR",
+    "artist"  : "田井中 律 / obj:二代目IIDX16相坂 *L.MIRROR or FLIP",
     "comment" : "HARD RENAISSANCE",
     "md5"     : "2bd7c7bd3d6c54d3f85bfb610a1afd15"
 },{
