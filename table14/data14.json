@@ -1128,6 +1128,12 @@
     "md5"     : "804f199a3b3c4f615961356baca2ceab"
 },{
     "level"   : "?",
+    "title"   : "人　身　事　故　で　停　止",
+    "artist"  : "VjHEaRTs/yo.t/UN&CO/落合 obj:しよゆ  *FLIP R.S-RAN",
+    "comment" : "エクスペリメントシーケンサ",
+    "md5"     : "6453d7f653101a1b5d1ba16cb6d21dee"
+},{
+    "level"   : "?",
     "title"   : "代々木ゼミナール",
     "artist"  : "(^肉^)",
     "comment" : "CM SONG",
@@ -7330,6 +7336,12 @@
     "artist"  : "EXCITECH *FLIP",
     "comment" : "Hardcore",
     "md5"     : "0fbbc2e7f71180173a168af3e6340add"
+},{
+    "level"   : "3",
+    "title"   : "Ice Cradle (ANOTHER)",
+    "artist"  : "Est(obj:A-4)",
+    "comment" : "TRANCE",
+    "md5"     : "79cfe0632365a10798392304d6faf4fb"
 },{
     "level"   : "3",
     "title"   : "Ihika",
@@ -27372,6 +27384,12 @@
     "md5"     : "10055140817a17f974ca2066c886ddde"
 },{
     "level"   : "★2",
+    "title"   : "x-Aria -14key real-",
+    "artist"  : "ridis(obj:A-4)",
+    "comment" : "intelligence",
+    "md5"     : "be0b77021d030e2eb3ffd93f97d444ee"
+},{
+    "level"   : "★2",
     "title"   : "X909 [A14]",
     "artist"  : "xtc@clip obj:ucc",
     "comment" : "SCHRANZ",
@@ -31224,6 +31242,12 @@
     "md5"     : "bd126ef1829e6ff1f2af6209fa399e15"
 },{
     "level"   : "★6",
+    "title"   : "LivedaM (REAL14)",
+    "artist"  : "kurenaissance(obj:A-4)",
+    "comment" : "SEVERAL DIGITS",
+    "md5"     : "43076294c7e75800af91ac11737c9a60"
+},{
+    "level"   : "★6",
     "title"   : "Lo-Fi Groove (FULL ON)",
     "artist"  : "dj Highnoiz / objeCraft *FLIP or FLIP LR.RANDOM",
     "comment" : "minimal",
@@ -31597,7 +31621,7 @@
 },{
     "level"   : "★6",
     "title"   : "プナイプナイたいそう [DP INS☆NE]",
-    "artist"  : "立秋 feat.ちょこ obj:Starfish",
+    "artist"  : "立秋 feat.ちょこ obj:Starfish  *FLIP",
     "comment" : "プナイプナイPOP",
     "md5"     : "f8e822c988dc4181a783c81dc4e111af"
 },{
@@ -32616,10 +32640,22 @@
     "md5"     : "3178f56bda4357d141bbe469d39debbb"
 },{
     "level"   : "★8",
+    "title"   : "Moonless Night (14Another)",
+    "artist"  : "MASA(obj:A-4)",
+    "comment" : "trance core",
+    "md5"     : "bd362bd9138d3bba28b6a526e146d49f"
+},{
+    "level"   : "★8",
     "title"   : "myste`re? [Pandora]",
     "artist"  : "HOUJIROU / BGA: hardlove / obj:Hersh *FLIP",
     "comment" : "Drum 'n Bass",
     "md5"     : "a17dc12d2463849a8f28e16058ad1f6c"
+},{
+    "level"   : "★8",
+    "title"   : "orion ring -p-",
+    "artist"  : "daiji&sa10(obj:A-4)",
+    "comment" : "IR #23",
+    "md5"     : "3ec0d05bac02ec503026ce71407c6e9c"
 },{
     "level"   : "★8",
     "title"   : "Pangaea 【あんのーん(^_^;)】",
@@ -33498,6 +33534,12 @@
     "md5"     : "382dc18aef7467ec72c997410676a27f"
 },{
     "level"   : "★10",
+    "title"   : "sensitive [beat]",
+    "artist"  : "white crystal obj:しよゆ *LR.S-RAN",
+    "comment" : "euro trance",
+    "md5"     : "2bb5f20e3bdec65a46b92170e673a69b"
+},{
+    "level"   : "★10",
     "title"   : "Smiling [DP ★14！]",
     "artist"  : "櫟井唯 / 岡野佳 obj:kuro",
     "comment" : "kawaiicore",
@@ -33916,6 +33958,12 @@
     "artist"  : "奏 obj:kuro mov:いとう まさき",
     "comment" : "Overture",
     "md5"     : "6c8b9a90b86d525443de511be301b2d7"
+},{
+    "level"   : "★12",
+    "title"   : "LivedaM (GENOCIDE14)",
+    "artist"  : "kurenaissance(obj:A-4)",
+    "comment" : "SEVERAL DIGITS",
+    "md5"     : "2668bba99c3ad98eb1b8e1aadf179f0a"
 },{
     "level"   : "★12",
     "title"   : "Love & Justice [DP GOD]",
