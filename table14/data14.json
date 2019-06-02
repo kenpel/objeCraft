@@ -402,6 +402,18 @@
     "md5"     : "7943775a39ee7ebba545a241a0614139"
 },{
     "level"   : "?",
+    "title"   : "Halo (Bass House Mix)  [14key]",
+    "artist"  : "STS-88 (a.k.a. 九八式旋回機関銃&NASA) remixed by Pink Elephant / mov:Pink Elephant / obj.nor",
+    "comment" : "BASS HOUSE",
+    "md5"     : "b23ac11b2940bd406a60a91109584bed"
+},{
+    "level"   : "?",
+    "title"   : "Halo (Bassline House Mix)  [BaSARAin House Mix]",
+    "artist"  : "STS-88 (a.k.a. 九八式旋回機関銃&NASA) remixed by Ziken Akahane / mov:Athame&くわぎう / obj:0310",
+    "comment" : "BASSLINE HOUSE",
+    "md5"     : "e393918a951c3c550832b44068b88573"
+},{
+    "level"   : "?",
     "title"   : "Hazy moon (triathlon)",
     "artist"  : "Chitose /無名発狂十段 vs 無名発狂DP六段 vs 無名LN皆伝",
     "comment" : "Fusion/Breakbeats",
@@ -678,6 +690,12 @@
     "md5"     : "b9ef15180fdfea1880286d2e9ed72a04"
 },{
     "level"   : "?",
+    "title"   : "Proof [14k] another",
+    "artist"  : "esSeL",
+    "comment" : "Hard Melodic Trance",
+    "md5"     : "440dc8419eec0bce8074e508d18d36e9"
+},{
+    "level"   : "?",
     "title"   : "PURE RAPE",
     "artist"  : "mentalhealz *FLIP",
     "comment" : "QUARTERSTEP",
@@ -796,6 +814,12 @@
     "artist"  : "onoken / Kz *AVERAGE-10 FLIP",
     "comment" : "electro",
     "md5"     : "5d8ee832d03fdd8c37a6ee7f0fe1a9da"
+},{
+    "level"   : "?",
+    "title"   : "The Grape Song",
+    "artist"  : "ぶどうとう BGA: Hashirama Higashikata",
+    "comment" : "PERFECTNESS",
+    "md5"     : "74d7e84bbb0b4229acb34ae97e737634"
 },{
     "level"   : "?",
     "title"   : "The Theme Of K.U.S.O.",
@@ -1246,6 +1270,12 @@
     "artist"  : "カラフル・サウンズ・ポート obj:NEPIA",
     "comment" : "classical crossover pop",
     "md5"     : "75caa2f889f50c33612c55c7ca372e7c"
+},{
+    "level"   : "?",
+    "title"   : "風詠の祠",
+    "artist"  : "しなちくシステム *FLIP(片面)",
+    "comment" : "Soundtrack",
+    "md5"     : "2321b1abbd564b78a212e2c89947b965"
 },{
     "level"   : "?",
     "title"   : "ｶﾁｬｶﾁｬｶﾁｬ……ｯﾀｰﾝ!!",
@@ -4704,6 +4734,12 @@
     "md5"     : "acd8f94367abf1b7ed85d3537ff37fac"
 },{
     "level"   : "2",
+    "title"   : "coinarrows [dp another]",
+    "artist"  : "rukhdrop *SUD+",
+    "comment" : "artcore",
+    "md5"     : "6c457d5867c98e4e85db1378d98aa6f0"
+},{
+    "level"   : "2",
     "title"   : "Complex Colors -改 MIX- [DP HYPER]",
     "artist"  : "DJ MEGA ROSERADE",
     "comment" : "TECHNO",
@@ -7020,6 +7056,12 @@
     "md5"     : "af26ffe425adb1c16935e99717ba65ff"
 },{
     "level"   : "3",
+    "title"   : "d.q.n. (14keys)",
+    "artist"  : "314 名前：（　´_ゝ`）さん *R.MIRROR",
+    "comment" : "ドキュソテクノ",
+    "md5"     : "4c1c0776fc7b3cf4a6bb04d25e3077d9"
+},{
+    "level"   : "3",
     "title"   : "Damnation 565 [14key practice]",
     "artist"  : "ETIA. Movie: Freezer / obj: 乱打毎座",
     "comment" : "古典電子音楽",
@@ -8598,6 +8640,12 @@
     "md5"     : "93ed70d496ee2a1446a27bc33c1edfeb"
 },{
     "level"   : "3",
+    "title"   : "まゆすき ~Deep Inside~",
+    "artist"  : "0310 pres. まゆP",
+    "comment" : "Deeptech House",
+    "md5"     : "06acf72097a3befbc2e8db6d4aa7e95a"
+},{
+    "level"   : "3",
     "title"   : "アイーシャの剣-Forcing breakthrough- [二刀流]",
     "artist"  : "Alicia* / obj:killer TOMATO *FLIP",
     "comment" : "CUNi DRAMATIC TRANCE CORE",
@@ -8692,6 +8740,12 @@
     "artist"  : "ねこみりん feat.みゆ / むらしん obj.BACO stole by srof  *LR.RANDOM",
     "comment" : "AKIBA POP",
     "md5"     : "95967731eaa7d629a502d8e41238a548"
+},{
+    "level"   : "3",
+    "title"   : "プナイプナイせんそう [でかぷに]",
+    "artist"  : "立秋 feat.ちょこ / obj:alt *FLIP LR.MIRROR",
+    "comment" : "プナイプナイWAR",
+    "md5"     : "c8769b03a29db0469c2c4668d34733eb"
 },{
     "level"   : "3",
     "title"   : "ベストフレンド [DP ANOTHER]",
@@ -10192,6 +10246,12 @@
     "artist"  : "Yu^ta [obj:MGN]",
     "comment" : "Moe Euro",
     "md5"     : "6b76dd1422c0c4d588936f2f3e0ae3bd"
+},{
+    "level"   : "4",
+    "title"   : "low light (ORGANIST)",
+    "artist"  : "First Class *R.MIRROR",
+    "comment" : "CHILL",
+    "md5"     : "7daa985a19883d24f4c5b85ae7d4c9a6"
 },{
     "level"   : "4",
     "title"   : "Lucid Dreaming [DP INSANE+]",
@@ -16254,6 +16314,12 @@
     "md5"     : "f6c137f587319ab8824b8cb9a83b9766"
 },{
     "level"   : "6",
+    "title"   : "【Freak《Show】Down》 ｛Clown｝",
+    "artist"  : "obj:alt bms:暮狛 / mov:くわぎう",
+    "comment" : "Wicked",
+    "md5"     : "a8abb8476289428a5e1f328353860c2e"
+},{
+    "level"   : "6",
     "title"   : "あい☆こんぷりーと [sub another]",
     "artist"  : "ねこみりん feat.小宮真央 obj:kuro Movie:石王マサト / Obj:yukitani",
     "comment" : "AKIBA TECHROCK",
@@ -17077,7 +17143,7 @@
 },{
     "level"   : "7",
     "title"   : "AVALON -14GB-",
-    "artist"  : "Team:SASAKURATION ;obj G-No.9 *FIX-OFF -70",
+    "artist"  : "Team:SASAKURATION ;obj G-No.9 *SUD+ FIXOFF-70",
     "comment" : "Ω",
     "md5"     : "0fecea0860f0857d647e0c24bd09123a"
 },{
@@ -17386,12 +17452,6 @@
     "artist"  : "maxXx65535 / cyclia",
     "comment" : "Artcore(DPH)",
     "md5"     : "02c6c6c9e1d1204b25484af2357aef4b"
-},{
-    "level"   : "7",
-    "title"   : "d.q.n. (14keys)",
-    "artist"  : "314 名前：（　´_ゝ`）さん *FLIP R.MIRROR",
-    "comment" : "ドキュソテクノ",
-    "md5"     : "4c1c0776fc7b3cf4a6bb04d25e3077d9"
 },{
     "level"   : "7",
     "title"   : "dance in the dark [EX14]",
@@ -17794,6 +17854,12 @@
     "artist"  : "xi obj = Mr.egg  *FLIP",
     "comment" : "RENAISSANCE HARDCORE",
     "md5"     : "2831d3dca9a7303d16ed93e51e8df8f0"
+},{
+    "level"   : "7",
+    "title"   : "Halo  (スーパーチャクチ)",
+    "artist"  : "STS-88 (a.k.a. 九八式旋回機関銃&NASA) mov:ヨダス田中&くわぎう / obj:alt",
+    "comment" : "CHIPBREAK",
+    "md5"     : "a0335eaa8d60ef4aa9a7eea2b0343df4"
 },{
     "level"   : "7",
     "title"   : "HASIHIME",
@@ -18798,6 +18864,12 @@
     "md5"     : "02cd164511a6c1dd6215e299bf75abbd"
 },{
     "level"   : "7",
+    "title"   : "timeleeeess!!!  [ANOTHER14]",
+    "artist"  : "ねこみりん scolded by 小宮真央 Movie:むらしん / obj:SIERRA",
+    "comment" : "CREATOR DISTRESS",
+    "md5"     : "91934a4b2a02f6ba9381b07e52bf88eb"
+},{
+    "level"   : "7",
     "title"   : "To-O-Won-O [DP ANOTHER]",
     "artist"  : "LiTaNia/objEPICS-",
     "comment" : "Spiritual Rave",
@@ -19597,7 +19669,7 @@
 },{
     "level"   : "7",
     "title"   : "ＤＱⅢ　Battle -Graviol14-",
-    "artist"  : "あやめ♪ obj:アカイライ",
+    "artist"  : "あやめ♪ obj:アカイライ *LR.RAN or LR.MIR",
     "comment" : "Game Music",
     "md5"     : "f781b7d93eee40fd7b95dd34c3ebd1d2"
 },{
@@ -28668,6 +28740,12 @@
     "md5"     : "9e10f8bfe8634585850bdc3e3d4e2619"
 },{
     "level"   : "★3",
+    "title"   : "歪んだ神",
+    "artist"  : "次元大介(obj:A-4) *LR.MIR or FLIP or LR.RAN",
+    "comment" : "SYMPHONIC_BossBattle(ANOTHER14)",
+    "md5"     : "0d28c2625be1262834f192b93f0ad425"
+},{
+    "level"   : "★3",
     "title"   : "水晶世界 ～Fracture～ [DPcrystal]",
     "artist"  : "秋山 澪 obj 穂海  *L.MIRROR",
     "comment" : "hard nrg",
@@ -29850,12 +29928,6 @@
     "md5"     : "1dfc4e57a699d65dfccee219bc01f113"
 },{
     "level"   : "★4",
-    "title"   : "歪んだ神",
-    "artist"  : "次元大介(obj:A-4) *LR.MIR or FLIP or LR.RAN",
-    "comment" : "SYMPHONIC_BossBattle(ANOTHER14)",
-    "md5"     : "0d28c2625be1262834f192b93f0ad425"
-},{
-    "level"   : "★4",
     "title"   : "異説彼岸花 第二 -終世のリコリス- [DP2000KEY]",
     "artist"  : "田井中 律 / obj:二代目IIDX16相坂",
     "comment" : "HARD RENAISSANCE",
@@ -30232,6 +30304,12 @@
     "artist"  : "xi obj:ucc *LR.RANDOM",
     "comment" : "RENAISSANCE HARDCORE",
     "md5"     : "eb1c32bf3a85db5983605bf3c5c8aee9"
+},{
+    "level"   : "★5",
+    "title"   : "Halo (Bassline House Mix)  [DP Anatar]",
+    "artist"  : "STS-88 (a.k.a. 九八式旋回機関銃&NASA) remixed by Ziken Akahane / mov:Athame&くわぎう / obj.nor  *FLIP",
+    "comment" : "BASSLINE HOUSE",
+    "md5"     : "cb1d8063df74d01a71fcfb82c9c8b8cb"
 },{
     "level"   : "★5",
     "title"   : "happy puppy [DP 250%]",
@@ -32976,6 +33054,12 @@
     "md5"     : "28ced59ee8bcfb02f31238cacca43814"
 },{
     "level"   : "★8",
+    "title"   : "【Freak《Show】Down》 14K ABUSIVE",
+    "artist"  : "obj:.ctc bms:暮狛 / mov:くわぎう",
+    "comment" : "Wicked",
+    "md5"     : "a1ab3de454dff35d4c0603d7e3236466"
+},{
+    "level"   : "★8",
     "title"   : "オトゲラヴ！ {DP CHALLENGER+}",
     "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:kuro Movie:kkkfff2 / Illust:永山ゆうのん  *FLIP LR.MIR",
     "comment" : "A-POP",
@@ -33376,6 +33460,12 @@
     "artist"  : "FROL / objeCraft *FLIP L.MIRROR",
     "comment" : "hard techno mix",
     "md5"     : "88a699987f0027de658051fd67696ba1"
+},{
+    "level"   : "★9",
+    "title"   : "Rendaring",
+    "artist"  : "ルゼ *FLIP",
+    "comment" : "OVERLOAD[DP ANOTHER]",
+    "md5"     : "6ed464bba13465d54068f85741ef39f2"
 },{
     "level"   : "★9",
     "title"   : "Rifling Burster [infinity]",
@@ -34308,6 +34398,12 @@
     "md5"     : "ca90a0cda9b6c0feae9d7807ff927799"
 },{
     "level"   : "★16",
+    "title"   : "R.I.P.",
+    "artist"  : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] kanone[object]",
+    "comment" : "Her Requiem",
+    "md5"     : "7f38b0e191e6baef4b64191bc57e61a0"
+},{
+    "level"   : "★16",
     "title"   : "Romancecar (Kukan Junkyu Edit)",
     "artist"  : "jet:tones / obj:juaeat *FLIP LR.MIRROR",
     "comment" : "Liquid Funk",
@@ -34708,6 +34804,12 @@
     "artist"  : "テニス坂(.gate)",
     "comment" : "うろおぼえクスペリメンタル[2P]",
     "md5"     : "9fc1e7d4336ee04f1d74e444019c778a"
+},{
+    "level"   : "無理",
+    "title"   : "バーチャルセラピー [template]",
+    "artist"  : "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付",
+    "comment" : "IDOL SONG / FUTURE POP",
+    "md5"     : "005f4c649b0a4d6f86cad701d01ca0b6"
 },{
     "level"   : "無理",
     "title"   : "七つの鍵盤と大きな円盤のための練習曲 第一番 ハ短調 \"たのしいピクニック\"",
