@@ -1,5 +1,23 @@
 [{
     "level"   : "?",
+    "title"   : "(^Sym-pho-ni-ang^) [normal14]",
+    "artist"  : "Sinnippolian / obj.2y *FIXOFF",
+    "comment" : "(^^)",
+    "md5"     : "4e883a2eddb882e7c8739762e3b4b296"
+},{
+    "level"   : "?",
+    "title"   : "(^Sym-pho-ni-ang^) [hyper14]",
+    "artist"  : "Sinnippolian / obj.2y",
+    "comment" : "(^^)",
+    "md5"     : "780ac7becd35b9cb4a7568a372c21235"
+},{
+    "level"   : "?",
+    "title"   : "(^Sym-pho-ni-ang^) [another14]",
+    "artist"  : "Sinnippolian / obj.2y *MAXBPM FLIP LR.MIR",
+    "comment" : "(^^)",
+    "md5"     : "cb0052d6998f1a372213ef273b1898fe"
+},{
+    "level"   : "?",
     "title"   : "(^Sym-pho-ni-ang^) [insane14]",
     "artist"  : "Sinnippolian / obj.2y",
     "comment" : "(^^)",
@@ -3948,6 +3966,12 @@
     "md5"     : "c7bb243470fabeebb272bb1d7b7a1b5f"
 },{
     "level"   : "1",
+    "title"   : "プナイプナイせんそう [ぷにぷに]",
+    "artist"  : "立秋 feat.ちょこ / obj.にゃむ",
+    "comment" : "プナイプナイWAR",
+    "md5"     : "ba39c1a5636cc072ab2c6c654243e6a0"
+},{
+    "level"   : "1",
     "title"   : "マカロニ望遠鏡 -DP-",
     "artist"  : "Ricca(obj:ka2o) *FLIP L.MIRROR",
     "comment" : "MACARO'N' STEP",
@@ -6106,6 +6130,12 @@
     "artist"  : "姉ヶ崎 寧々 BGA : photonskyto  obj : Fairy",
     "comment" : "FULL ON",
     "md5"     : "837cfe84b857a21b1d9293b202fb3095"
+},{
+    "level"   : "2",
+    "title"   : "☆ウィンドサンバランド☆ -DP ANOTHER-",
+    "artist"  : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
+    "comment" : "ゆったり系ティンクルポップ",
+    "md5"     : "fdc6f8e3e78e78f45e763ef20ef848a6"
 },{
     "level"   : "2",
     "title"   : "あした (ANOTHER14)",
@@ -8740,6 +8770,12 @@
     "artist"  : "ねこみりん feat.みゆ / むらしん obj.BACO stole by srof  *LR.RANDOM",
     "comment" : "AKIBA POP",
     "md5"     : "95967731eaa7d629a502d8e41238a548"
+},{
+    "level"   : "3",
+    "title"   : "プナイプナイせんそう  -DP Luna-",
+    "artist"  : "立秋 feat.ちょこ / selene.",
+    "comment" : "プナイプナイWAR",
+    "md5"     : "a7fd36c3bb7f0b1304681d9a635fad3c"
 },{
     "level"   : "3",
     "title"   : "プナイプナイせんそう [でかぷに]",
@@ -11392,6 +11428,12 @@
     "artist"  : "ねこみりん feat.みゆ / むらしん obj:irul  *FLIP",
     "comment" : "AKIBA POP",
     "md5"     : "5f0fdb4319c1addb0a2aeb39d694bf9e"
+},{
+    "level"   : "4",
+    "title"   : "プナイプナイせんそう [DPLi]",
+    "artist"  : "立秋 feat.ちょこ obj:LIEF",
+    "comment" : "プナイプナイWAR",
+    "md5"     : "3672632a20510330a375b120f2eb29eb"
 },{
     "level"   : "4",
     "title"   : "マジョリテへの憧れとミノリテの矜持",
@@ -14635,7 +14677,7 @@
 },{
     "level"   : "6",
     "title"   : "Doppler Effect (14)",
-    "artist"  : "Process 2.3.1. / objeCraft",
+    "artist"  : "Process 2.3.1. / objeCraft *FLIP LR.MIRROR",
     "comment" : "Abstract Techno",
     "md5"     : "9b5953795bd5b14092ebf781a86bd0e4"
 },{
@@ -15475,7 +15517,7 @@
 },{
     "level"   : "6",
     "title"   : "NativeFaith - CrossGear Mix [LN-DPD]",
-    "artist"  : "CrossGear (DPobject by tsk) *FLIP",
+    "artist"  : "CrossGear (DPobject by tsk)",
     "comment" : "神々が恋した幻想郷",
     "md5"     : "9bdbb9a221c7c7b4b46dec3f5f4d46e4"
 },{
@@ -16525,7 +16567,7 @@
 },{
     "level"   : "6",
     "title"   : "四十五年ノ雪桜 ～珊瑚童子～",
-    "artist"  : "kozato obj:noix *LR.RANDOM",
+    "artist"  : "kozato obj:noix",
     "comment" : "Dramatical",
     "md5"     : "e894ec6bfb58f143c736e777e92cc683"
 },{
@@ -16792,6 +16834,12 @@
     "artist"  : "fmy. × TrioStaR × Lylica* × ｂ cislv × Mentalstock / obj:lichtr",
     "comment" : "Hybridize Trance",
     "md5"     : "83e2eb6882794750f364981150ff82fb"
+},{
+    "level"   : "6",
+    "title"   : "虹夜パレッド  -DP ANOTHER-",
+    "artist"  : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
+    "comment" : "SPARKLE",
+    "md5"     : "3d2e885dd03b4067580158829049afa7"
 },{
     "level"   : "6",
     "title"   : "虹微笑x1肌色扇情扇情　 [A14]",
@@ -19608,6 +19656,12 @@
     "md5"     : "0f6438acd360778ab50dc54f68756587"
 },{
     "level"   : "7",
+    "title"   : "虹夜パレッド  -DP INSANE-",
+    "artist"  : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
+    "comment" : "SPARKLE",
+    "md5"     : "d9eb79083ccba32cda9baf1d1e1bc796"
+},{
+    "level"   : "7",
     "title"   : "覚醒フィールド (ANOTHER14)",
     "artist"  : "cosMo OBJ.みっと",
     "comment" : "DTX STARTER PACK_Extra",
@@ -20137,7 +20191,7 @@
 },{
     "level"   : "8",
     "title"   : "CUTEXECUTE (DH)",
-    "artist"  : "QUARKPOP *L.MIRROR",
+    "artist"  : "QUARKPOP *AVERAGE R.MIR or FLIP R.MIR",
     "comment" : "HARDCORE",
     "md5"     : "4e4aac0dd258b0ab9979e35b51d7c3db"
 },{
@@ -21612,6 +21666,12 @@
     "md5"     : "811d820e22858d145e7ba70ee74d2cc3"
 },{
     "level"   : "8",
+    "title"   : "【Freak《Show】Down》 14K ANOTHER",
+    "artist"  : "obj:ctc bms:暮狛 / mov:くわぎう  *FIXOFF200",
+    "comment" : "Wicked",
+    "md5"     : "66739cb4d49693b07fa33ed2265f1f6f"
+},{
+    "level"   : "8",
     "title"   : "うみねこ亭リリィ DP Another+",
     "artist"  : "careless",
     "comment" : "pop",
@@ -21973,7 +22033,7 @@
 },{
     "level"   : "8",
     "title"   : "煉獄-Purgatorium- [H14]",
-    "artist"  : "incinerate obj:ucc *L.RAN R.MIR",
+    "artist"  : "incinerate obj:ucc *L.RAN R.MIR or FLIP R.MIR",
     "comment" : "OVERKILL",
     "md5"     : "94f9f4e81dd211f02cc41fe7e49f6de8"
 },{
@@ -23095,7 +23155,7 @@
 },{
     "level"   : "9",
     "title"   : "Melancholia [14keys]",
-    "artist"  : "Yoshito Abo *FLIP",
+    "artist"  : "Yoshito Abo *FLIP or L.MIRROR",
     "comment" : "DARK AMBIENT",
     "md5"     : "7e659587f6160332ac57f1db296db51a"
 },{
@@ -23320,6 +23380,12 @@
     "artist"  : "SUPER MOTEX (O-SE+CSP)/mov:murotani obj:肴",
     "comment" : "Electro Dance Pop",
     "md5"     : "780384c8241f2a413b5151695ddba4e5"
+},{
+    "level"   : "9",
+    "title"   : "RD2018 [14KEYS　BROTHER]",
+    "artist"  : "luzebzk(from 300club) (obj : zrk)",
+    "comment" : "HARENTI ROTTERDAM",
+    "md5"     : "ae4e7f24a3dfb10be607aa4f64af3dcf"
 },{
     "level"   : "9",
     "title"   : "Re Confront [sub black another]",
@@ -23842,6 +23908,12 @@
     "artist"  : "wa. / obj:ojaga",
     "comment" : "IntelligenceTerror",
     "md5"     : "bf95bc36291bb79ed26485a49b11c45e"
+},{
+    "level"   : "9",
+    "title"   : "下水鳴動して鼠一匹  (DPA)",
+    "artist"  : "O-SE (mov. q/stol) *MINBPM",
+    "comment" : "Nonsense",
+    "md5"     : "96fcb91b4f3515d917e2a598f8971833"
 },{
     "level"   : "9",
     "title"   : "乙女ノススメ！ (DP)",
@@ -25111,7 +25183,7 @@
 },{
     "level"   : "10",
     "title"   : "Qualia [LN14 / BGA Edit]",
-    "artist"  : "Junk / RAY obj:ucc *L.MIRROR",
+    "artist"  : "Junk / RAY obj:ucc *FLIP L.MIRROR",
     "comment" : "Future Pop",
     "md5"     : "db1df84e7df6618b564b4d5f636c7f07"
 },{
@@ -27666,6 +27738,18 @@
     "md5"     : "8d4639e90b83696dc2db187b96a3295b"
 },{
     "level"   : "★2",
+    "title"   : "☆ウィンドサンバランド☆ -DP LAST BOSS-",
+    "artist"  : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
+    "comment" : "ゆったり系ティンクルポップ",
+    "md5"     : "262383412ad7a96e51b91d2f1977d714"
+},{
+    "level"   : "★2",
+    "title"   : "【Freak《Show】Down》",
+    "artist"  : "obj:uet bms:暮狛 / mov:くわぎう",
+    "comment" : "Wicked[SCR PARADISE]",
+    "md5"     : "314f631de22519f81bf2cffa021fa453"
+},{
+    "level"   : "★2",
     "title"   : "しぇる☆どっきんぐ ～だめ！このままじゃ溢れちゃう！～ -DP 席替えの小悪魔-",
     "artist"  : "髭姫 feat.しゆ＆橘花音  *FLIP LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO obj:ゆゆゆ！",
     "comment" : "LILY POP",
@@ -28632,6 +28716,12 @@
     "md5"     : "efc1e3c8341bf392bbc91e26a9299713"
 },{
     "level"   : "★3",
+    "title"   : "【Freak《Show】Down》 ｛2+4=Fish｝",
+    "artist"  : "obj:alt bms:暮狛 / mov:くわぎう  *FLIP LR.MIR",
+    "comment" : "Wicked",
+    "md5"     : "a5e10c0667274eabf172e519fa7ad391"
+},{
+    "level"   : "★3",
     "title"   : "アズール リミックス -DPANOTHER-",
     "artist"  : "メスクラ (エヴァたん＆メコたん) / midori / obj:h *FLIP R.MIRROR",
     "comment" : "ルネッサンスコア",
@@ -29206,6 +29296,12 @@
     "artist"  : "keyc",
     "comment" : "Nu Style Gabba",
     "md5"     : "f07cea518888a34c40a1aff0445c2dd9"
+},{
+    "level"   : "★4",
+    "title"   : "Galassia  [DP INSANE]",
+    "artist"  : "38k *R.MIRROR",
+    "comment" : "TRANCE",
+    "md5"     : "38c5cb5eef5811418a6341e7f8b42281"
 },{
     "level"   : "★4",
     "title"   : "gradation (DP MANIAQ)",
@@ -30751,7 +30847,7 @@
 },{
     "level"   : "★5",
     "title"   : "V804N [DP ANOTHER]",
-    "artist"  : "II-L *SUD+",
+    "artist"  : "II-L *SUD+ L.MIRROR",
     "comment" : "ガラパゴスケータイ",
     "md5"     : "b2cc3459a06f4674026afc57f6383ae6"
 },{
