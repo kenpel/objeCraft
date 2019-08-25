@@ -462,6 +462,12 @@
     "md5"     : "b4619d3c40b96ba553243c1eee3f3f0e"
 },{
     "level"   : "2",
+    "title"   : "-if- ~NORMAL~",
+    "artist"  : "HOMURA",
+    "comment" : "Parallel Story",
+    "md5"     : "cb91257f4b479a3927b3026bb2eafbf4"
+},{
+    "level"   : "2",
     "title"   : "AcidAce-Alliance (deep mix)",
     "artist"  : "paraoka Remixed by doctor.R *MINBPM",
     "comment" : "house(DP/another)",
@@ -570,6 +576,18 @@
     "md5"     : "931bb3c1032b4c07cb643abc85f7670b"
 },{
     "level"   : "2",
+    "title"   : "Utopiangela ~NORMAL~",
+    "artist"  : "infinity Lovewn☆",
+    "comment" : "BROKEN TOYBOX",
+    "md5"     : "eaaf361dd7adea791dfdf0aac09c6fc2"
+},{
+    "level"   : "2",
+    "title"   : "にじいろクレヨン ~HARD~",
+    "artist"  : "kagerow",
+    "comment" : "どれみふぁぽっぷ",
+    "md5"     : "b3c10102bd1089a57752e416a1c594d7"
+},{
+    "level"   : "2",
     "title"   : "オオカミなんか 大キライ！ (10)",
     "artist"  : "Bulleta / objeCraft *LR.MIRROR",
     "comment" : "Victory song",
@@ -598,6 +616,12 @@
     "artist"  : "ＯＮＯＫＥＮ/mixed.DASI",
     "comment" : "NASTY TRANCE",
     "md5"     : "5f7a24f537d8292e6fecd6f95766c580"
+},{
+    "level"   : "3",
+    "title"   : "Believe the Future ~NORMAL~",
+    "artist"  : "NIKITA",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "5fcef272eff639d13d1c35c781d4255e"
 },{
     "level"   : "3",
     "title"   : "Beyond Forgiveness",
@@ -670,6 +694,12 @@
     "artist"  : "Yamadajet",
     "comment" : "HARENTI ELECTRO",
     "md5"     : "756b09dc728ed12aa160b2c25df3ac72"
+},{
+    "level"   : "3",
+    "title"   : "rainy beauty ~NORMAL~",
+    "artist"  : "Rabbit Bat",
+    "comment" : "Romantic Beats",
+    "md5"     : "b2db5328e11420b3c7df68373e46a525"
 },{
     "level"   : "3",
     "title"   : "rorschachVIP",
@@ -930,6 +960,12 @@
     "md5"     : "d5329a830d26156152d905b38eb6125a"
 },{
     "level"   : "4",
+    "title"   : "We are the xxxx ~HARD~",
+    "artist"  : "ikaruga_nex feat. Salita",
+    "comment" : "freeform",
+    "md5"     : "5523cb6776732cdfa5a85f4aa3e502bd"
+},{
+    "level"   : "4",
     "title"   : "りりりくろ！！ ~NORMAL~",
     "artist"  : "代打三兄弟（走）",
     "comment" : "shuffle pop'n",
@@ -1030,6 +1066,12 @@
     "artist"  : "6yen",
     "comment" : "TECHNO",
     "md5"     : "1ba6c756cd443a1ef2446dd4e39e843b"
+},{
+    "level"   : "5",
+    "title"   : "Her Majesty ~NORMAL~",
+    "artist"  : "naotyu- / Mentalstock",
+    "comment" : "progressive breaks",
+    "md5"     : "1350ae0e30bffdf43f140fd57e2352b4"
 },{
     "level"   : "5",
     "title"   : "Horizone",
@@ -1248,6 +1290,12 @@
     "md5"     : "e409f1e7830fcbcf0517ae9c27ee0efc"
 },{
     "level"   : "7",
+    "title"   : "RAY ~HARD~",
+    "artist"  : "MILK",
+    "comment" : "HARD TRANCE",
+    "md5"     : "2777fc2286aa8f9f6a0a6ae334de7832"
+},{
+    "level"   : "7",
     "title"   : "SIGHTRANCER",
     "artist"  : "バンギラス",
     "comment" : "TRANCE",
@@ -1350,6 +1398,12 @@
     "md5"     : "3c356fb3d9abebe8426287a98630ece2"
 },{
     "level"   : "8",
+    "title"   : "Toy-Like \"Cardy\"ans",
+    "artist"  : "FT 718 feat. sd5y U.Celsius",
+    "comment" : "DIGITAL HARDCORE",
+    "md5"     : "97082538e6d5eefbc4aa30bc6494bdfc"
+},{
+    "level"   : "8",
     "title"   : "Urban Renewal [DP ANOTHER]",
     "artist"  : "Studio Chieph",
     "comment" : "BIGBEAT",
@@ -1392,6 +1446,12 @@
     "md5"     : "1502b9dce94aff7a53bde228305fd1c6"
 },{
     "level"   : "9",
+    "title"   : "KISS CANDY FLAVOR ~HARD~",
+    "artist"  : "C・S・P *LR.MIRROR",
+    "comment" : "TECHNO POP",
+    "md5"     : "471faaebf563f4dec829a350d8b659b0"
+},{
+    "level"   : "9",
     "title"   : "KRAKEN ~HARD~",
     "artist"  : "HEXAHEDRA",
     "comment" : "HARDCORE ULTIMATE",
@@ -1420,6 +1480,12 @@
     "artist"  : "fripSide",
     "comment" : "Ani song",
     "md5"     : "6632de63c7741c1ae59a1c3a5b4ece75"
+},{
+    "level"   : "9",
+    "title"   : "PUPA ~HARD~",
+    "artist"  : "モリモリあつし *LR.MIRROR",
+    "comment" : "HARD RENAISSANCE",
+    "md5"     : "ff207eec8e7e8d82c0391feb5d4e4ac4"
 },{
     "level"   : "9",
     "title"   : "QUESTING",
@@ -1524,6 +1590,12 @@
     "md5"     : "ab8a354cc2da2bc4b3296e7e3ff140f4"
 },{
     "level"   : "10",
+    "title"   : "Brandnew Mind ~SUPER HARD~",
+    "artist"  : "Seibin",
+    "comment" : "Ani Pop",
+    "md5"     : "f154445d318112cc7dbc1722db317698"
+},{
+    "level"   : "10",
     "title"   : "Cervelle Connexion - 10K SHDMix",
     "artist"  : "Warp-E",
     "comment" : "Epic Trance",
@@ -1570,6 +1642,12 @@
     "artist"  : "Yamajet (remix by Mr.Mazuyama)  *SUD+ AVERAGE-60",
     "comment" : "BREAK CORE",
     "md5"     : "25dba6607feff720ca8bb139d53f6f29"
+},{
+    "level"   : "10",
+    "title"   : "Utopiangela ~HARD~",
+    "artist"  : "infinity Lovewn☆",
+    "comment" : "BROKEN TOYBOX",
+    "md5"     : "09f91033929d11570483a789c1e2d167"
 },{
     "level"   : "10",
     "title"   : "YATA ~HARD~",
@@ -1637,6 +1715,12 @@
     "comment" : "IDM",
     "md5"     : "ff3fd344f3edfdc4bd18500864739afc"
 },{
+    "level"   : "★1",
+    "title"   : "白黒神楽煩悩七百七十七ツ之法則 ~HARD~",
+    "artist"  : "かゆき",
+    "comment" : "和洋折衷JazzRock",
+    "md5"     : "b9fd769677171c4530fc07abf9fd9f14"
+},{
     "level"   : "★2",
     "title"   : "3.14 (TT mix)",
     "artist"  : "ルゼ",
@@ -1654,6 +1738,12 @@
     "artist"  : "Remixed by Octa the B.G. *SUD+",
     "comment" : "freestyle",
     "md5"     : "6447a99febe7c1c1d69a6447e8f67587"
+},{
+    "level"   : "★2",
+    "title"   : "PLASTIC GIRLS ~SUPER HARD~",
+    "artist"  : "wigen",
+    "comment" : "05' shibuyakei",
+    "md5"     : "ffcdbb90f791b01318ed65be7b154525"
 },{
     "level"   : "★2",
     "title"   : "Route 816 [DP NORMAL]",
@@ -2116,6 +2206,12 @@
     "artist"  : "xi",
     "comment" : "APOCALYPSIS JOHANNIS",
     "md5"     : "1d9187eb643d60a7913e2e5ffae67ec0"
+},{
+    "level"   : "★8",
+    "title"   : "Pokemon battle imaging - No.2 ~SUPER HARD~",
+    "artist"  : "Y.W",
+    "comment" : "BATTLE IMAGING",
+    "md5"     : "ac5d8a73aeb41e801e4396d57e82b416"
 },{
     "level"   : "★8",
     "title"   : "Time files ~SUPER HARD~",
