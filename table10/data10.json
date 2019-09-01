@@ -144,10 +144,22 @@
     "md5"     : "72323e534248edabb0b563ab90ce191c"
 },{
     "level"   : "?",
+    "title"   : "H-E  [10key]",
+    "artist"  : "skns / 147",
+    "comment" : "Digital rock",
+    "md5"     : "c53148b69a48277dcb794da0b6bb6da6"
+},{
+    "level"   : "?",
     "title"   : "IMITATOR",
     "artist"  : "Nacky",
     "comment" : "minimal(TERRIBLE)",
     "md5"     : "771de838a37bd50e2bde71036a438ce3"
+},{
+    "level"   : "?",
+    "title"   : "IRON DOGS",
+    "artist"  : "dj TIME",
+    "comment" : "Bigbeat",
+    "md5"     : "6565307a99472488984c8a2ff55cc610"
 },{
     "level"   : "?",
     "title"   : "k.e.d. (雛型)",
@@ -378,6 +390,12 @@
     "md5"     : "b3873681f758736b4e9c808cdb23f0a1"
 },{
     "level"   : "1",
+    "title"   : "Fly Again ~EASY~",
+    "artist"  : "Junk feat.Salita",
+    "comment" : "HYPER TRANCE",
+    "md5"     : "8cb188cbad8c48ab73694354971fc25f"
+},{
+    "level"   : "1",
     "title"   : "for me... (Radio Edit)",
     "artist"  : "seizan",
     "comment" : "JUSCO NATION JAZZ HOUSE",
@@ -502,6 +520,12 @@
     "artist"  : "Remixed by Octa the B.G.",
     "comment" : "freestyle",
     "md5"     : "6e4ca3116bd61c72c66d013a03a6f0b1"
+},{
+    "level"   : "2",
+    "title"   : "Good Neighbours 1P-2P",
+    "artist"  : "Haina",
+    "comment" : "early music",
+    "md5"     : "81a467628c94023d800dafec40931c08"
 },{
     "level"   : "2",
     "title"   : "GRAB BACK",
@@ -874,6 +898,12 @@
     "artist"  : "一次元 / 999",
     "comment" : "TRIBAL_PercussionBattle(DOUBLE HARD)",
     "md5"     : "9606381a60396837c0f8dcdb7735b50a"
+},{
+    "level"   : "4",
+    "title"   : "PEACE BREAKER ~NORMAL~",
+    "artist"  : "Omnipotenx",
+    "comment" : "SYMPHONIC SCHRANZ",
+    "md5"     : "e791f42c666f987534965e7c189c32b8"
 },{
     "level"   : "4",
     "title"   : "Quick Scamper Girl",
@@ -1716,6 +1746,12 @@
     "md5"     : "ff3fd344f3edfdc4bd18500864739afc"
 },{
     "level"   : "★1",
+    "title"   : "Toki ~SUPER HARD~",
+    "artist"  : "puru / kkkfff2",
+    "comment" : "ProgressiveTrance",
+    "md5"     : "bfd3f736df6a18d72a04a135d1ce548b"
+},{
+    "level"   : "★1",
     "title"   : "白黒神楽煩悩七百七十七ツ之法則 ~HARD~",
     "artist"  : "かゆき",
     "comment" : "和洋折衷JazzRock",
@@ -2026,6 +2062,12 @@
     "artist"  : "nmk/sPH1Ca",
     "comment" : "Dream Trance",
     "md5"     : "8e0c3d988d86329eeb3e01b4a445ca11"
+},{
+    "level"   : "★6",
+    "title"   : "Halcyon ~SUPER HARD~",
+    "artist"  : "xi",
+    "comment" : "RENAISSANCE HARDCORE",
+    "md5"     : "bf8a667d754726c7d6005689fae2ae4d"
 },{
     "level"   : "★6",
     "title"   : "Last Dial ~SUPER HARD~",
