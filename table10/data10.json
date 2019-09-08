@@ -660,6 +660,12 @@
     "md5"     : "1e29d2132936d86e4cd7c7b2165b8703"
 },{
     "level"   : "3",
+    "title"   : "Canon (blazing summer mix) ~HARD~",
+    "artist"  : "上杉うた with 星明",
+    "comment" : "trance pop",
+    "md5"     : "5df65ed80bdc0fad1db50cdb94752c5f"
+},{
+    "level"   : "3",
     "title"   : "CD-Marks",
     "artist"  : "Bit Upper",
     "comment" : "HARD TECHNO",
@@ -784,6 +790,12 @@
     "artist"  : "siromaru",
     "comment" : "schranz",
     "md5"     : "f6c75f79690290f2370d1587f28e4740"
+},{
+    "level"   : "4",
+    "title"   : "Akasagarbha ~NORMAL~",
+    "artist"  : "wa. vs ETIA. *LR.MIRROR",
+    "comment" : "MULTIVERSE",
+    "md5"     : "b32ef75ecb71d203aa24abe406a7439e"
 },{
     "level"   : "4",
     "title"   : "Angelic Layer ~HARD~",
@@ -1216,6 +1228,12 @@
     "artist"  : "Seibin",
     "comment" : "Ani Pop",
     "md5"     : "5a0752268023489d89637c5ef23426ee"
+},{
+    "level"   : "6",
+    "title"   : "Cosmowanderer ~HARD~",
+    "artist"  : "FALL *LR.MIRROR",
+    "comment" : "Hi-SPEED ELECTRO POP",
+    "md5"     : "170e8cc5ad7be23749b37772fc4e82f0"
 },{
     "level"   : "6",
     "title"   : "How to make TONKATSU with finger shoot",
