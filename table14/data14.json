@@ -17005,7 +17005,7 @@
 },{
     "level"   : "6",
     "title"   : "THANATOS --- 14KEYS ANQTHER",
-    "artist"  : "orangentle X cyclia / obj:QJITAI",
+    "artist"  : "orangentle X cyclia / obj:QJITAI *AVERAGE",
     "comment" : "Organic Techno",
     "md5"     : "930351c827d5b05d012fb8d60c05224f"
 },{
@@ -18892,12 +18892,6 @@
     "artist"  : "yassu /obj:ROCO",
     "comment" : "FINAL FANTASY Ⅵ",
     "md5"     : "91e89490279efdf9486e60b0528d138e"
-},{
-    "level"   : "7",
-    "title"   : "Field Combat",
-    "artist"  : "mattoh37/-45 *LR.RANDOM",
-    "comment" : "ジャレコ",
-    "md5"     : "69f81c10f8b32c25b42aa2f529f4c662"
 },{
     "level"   : "7",
     "title"   : "Fiore Tempesta -桜前線-",
@@ -21348,12 +21342,6 @@
     "md5"     : "b27276878bfee682fb97ae401050ef64"
 },{
     "level"   : "8",
-    "title"   : "confront fortress (Hybrid Rock style)",
-    "artist"  : "Giude",
-    "comment" : "DRUM'N'DIGI-ROCK -DOUBLE ONE MORE ANOTHER-",
-    "md5"     : "2e476c0a57644ef761ce0193ac6fcc3c"
-},{
-    "level"   : "8",
     "title"   : "CONNECT γ [DP hututher]",
     "artist"  : "remixed celas vs 44teru-k obj.44teru-k  *FLIP LR.MIR",
     "comment" : "anime hardcore",
@@ -21937,7 +21925,7 @@
 },{
     "level"   : "8",
     "title"   : "Kreuz [dpa]",
-    "artist"  : "sky_delta obj. 深海",
+    "artist"  : "sky_delta obj. 深海  *SUD+",
     "comment" : "IDM",
     "md5"     : "1043fba94bacc1aaab95a243dfd8b133"
 },{
@@ -22222,12 +22210,6 @@
     "artist"  : "Zoety / Movie:Epsilon / obj:azurite *FLIP",
     "comment" : "UK Hardcore",
     "md5"     : "4e64c5925aa4f1254109560775ba2345"
-},{
-    "level"   : "8",
-    "title"   : "OVER LIGHT (Above blue sky Remix)",
-    "artist"  : "anubasu-anubasu Remixed by くっちー BGA:highluin",
-    "comment" : "J-CORE",
-    "md5"     : "48f2896851e3d981448f64c777c53095"
 },{
     "level"   : "8",
     "title"   : "Over The \"Period\" -Revolutionary.Himix-",
@@ -22732,12 +22714,6 @@
     "artist"  : "削除 / Mentalstock / obj 穂海 *FLIP",
     "comment" : "Overture / IDM",
     "md5"     : "dd5233a3f541b9467ad25408c1997fd9"
-},{
-    "level"   : "8",
-    "title"   : "VALLISTA [DP INSANE]",
-    "artist"  : "削除 / Mentalstock / obj:epics-",
-    "comment" : "Overture / IDM",
-    "md5"     : "2f4d63fdc0c26048d320d95660e4d423"
 },{
     "level"   : "8",
     "title"   : "Velaciela [DP ☆NOTHER]",
@@ -23251,7 +23227,7 @@
 },{
     "level"   : "8",
     "title"   : "煉獄-Purgatorium- [H14]",
-    "artist"  : "incinerate obj:ucc *FLIP",
+    "artist"  : "incinerate obj:ucc *FLIP R.MIR",
     "comment" : "OVERKILL",
     "md5"     : "94f9f4e81dd211f02cc41fe7e49f6de8"
 },{
@@ -23287,7 +23263,7 @@
 },{
     "level"   : "8",
     "title"   : "着物姿のアリス MGNother-",
-    "artist"  : "tarolabo(obj:MGN) *MAX+30",
+    "artist"  : "tarolabo(obj:MGN) *SUD+ MAX+40->0 FLIP",
     "comment" : "デスメタル[14key]",
     "md5"     : "fa530f7eb794aeac62e70b504d03cfab"
 },{
@@ -24636,6 +24612,12 @@
     "md5"     : "43e3b37cef8d58b0355f1195eb048382"
 },{
     "level"   : "9",
+    "title"   : "OVER LIGHT (Above blue sky Remix)",
+    "artist"  : "anubasu-anubasu Remixed by くっちー BGA:highluin",
+    "comment" : "J-CORE",
+    "md5"     : "48f2896851e3d981448f64c777c53095"
+},{
+    "level"   : "9",
     "title"   : "PHANTOM KILLER [DP INSANE+]",
     "artist"  : "q/stol / object by meteor* *L.MIRROR",
     "comment" : "Heavy Metal",
@@ -24973,7 +24955,7 @@
 },{
     "level"   : "9",
     "title"   : "Time files [ANOTHER14]",
-    "artist"  : "xi Obj.Gatia *LR.RANDOM or L.MIRROR",
+    "artist"  : "xi Obj.Gatia *L.MIR R.RAN",
     "comment" : "HAPPY",
     "md5"     : "115b8d801e40aab090ebf3b7c6671553"
 },{
@@ -25036,6 +25018,12 @@
     "artist"  : "Musical Masterpiece obj.BACO  *L.MIRROR",
     "comment" : "PROGRESSIVE JAZZ",
     "md5"     : "d6e3d25437d6fc341092b806f2973816"
+},{
+    "level"   : "9",
+    "title"   : "VALLISTA [DP INSANE]",
+    "artist"  : "削除 / Mentalstock / obj:epics-",
+    "comment" : "Overture / IDM",
+    "md5"     : "2f4d63fdc0c26048d320d95660e4d423"
 },{
     "level"   : "9",
     "title"   : "volcanic -EDEN ( ﾟдﾟ )-",
@@ -25729,7 +25717,7 @@
 },{
     "level"   : "10",
     "title"   : "aliceblue (Hanase Edit) (DP ANOTHER)",
-    "artist"  : "syatten (obj:k?) *FLIP",
+    "artist"  : "syatten (obj:k?) *FLIP L.MIRROR",
     "comment" : "European Trance",
     "md5"     : "d8084e26c383a229ce00cfc7ddaf2647"
 },{
@@ -25962,6 +25950,12 @@
     "md5"     : "7807abb44eba0044f29d7c762a354ff2"
 },{
     "level"   : "10",
+    "title"   : "confront fortress (Hybrid Rock style)",
+    "artist"  : "Giude",
+    "comment" : "DRUM'N'DIGI-ROCK -DOUBLE ONE MORE ANOTHER-",
+    "md5"     : "2e476c0a57644ef761ce0193ac6fcc3c"
+},{
+    "level"   : "10",
     "title"   : "Cosmic Raid [DP 準星]",
     "artist"  : "xellox  / obj:mymt",
     "comment" : "PSYCHEDELIC TRANCE",
@@ -26071,7 +26065,7 @@
 },{
     "level"   : "10",
     "title"   : "emergency call: Xeno [code;N1]",
-    "artist"  : "ROKINA",
+    "artist"  : "ROKINA *R.MIR or FLIP R.MIR",
     "comment" : "BOSS BATTLE",
     "md5"     : "e5ff61f7922ad667b2e0d7509816627c"
 },{
@@ -26134,6 +26128,12 @@
     "artist"  : "saikoro obj:k *L.MIRROR",
     "comment" : "trance",
     "md5"     : "67de7388d2bcffdcd1615abb237f0510"
+},{
+    "level"   : "10",
+    "title"   : "Field Combat",
+    "artist"  : "mattoh37/-45 *AVERAGE LR.RANDOM",
+    "comment" : "ジャレコ",
+    "md5"     : "69f81c10f8b32c25b42aa2f529f4c662"
 },{
     "level"   : "10",
     "title"   : "FINAL FANTASY V ～ビッグブリッヂの死闘～ (DP BLACK ANOTHER)",
@@ -26395,7 +26395,7 @@
 },{
     "level"   : "10",
     "title"   : "Leonids -standard -Quintessence-",
-    "artist"  : "horoscope/obj:hamburger object by あ",
+    "artist"  : "horoscope/obj:hamburger object by あ  *SUD+",
     "comment" : "リュウセイグン",
     "md5"     : "e81b95a8cf612e75ef36c08ca9f1ec12"
 },{
@@ -29227,7 +29227,7 @@
 },{
     "level"   : "★2",
     "title"   : "THIS TIME; LAST TIME [14KEYS HYPER]",
-    "artist"  : "早明浦キュウゾウ *LR.MIRROR",
+    "artist"  : "早明浦キュウゾウ *FLIP or LR.MIRROR",
     "comment" : "2 step",
     "md5"     : "d607166ccd395fbfc010be1731f89d88"
 },{
@@ -29905,7 +29905,7 @@
 },{
     "level"   : "★3",
     "title"   : "Fracsynapse [14Key ANOTHER]",
-    "artist"  : "syrela //obj:MIST",
+    "artist"  : "syrela //obj:MIST *LR.RANDOM",
     "comment" : "Hi-tech Dance",
     "md5"     : "ed41009265ea08a572192681f9d34eda"
 },{
