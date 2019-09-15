@@ -7830,6 +7830,12 @@
     "md5"     : "a6b487d1a69096e74119b1b7c91e202c"
 },{
     "level"   : "3",
+    "title"   : "GO BACK 2 RAVE (BEAT BACK 2 SCRATCH)",
+    "artist"  : "DOT96",
+    "comment" : "TECH DANCE",
+    "md5"     : "82cf270056e6a2c222eed30b5b70af62"
+},{
+    "level"   : "3",
     "title"   : "going on R [14KEY-ANOTHER]",
     "artist"  : "BMS:○△□ / Arrange：ろっきゅ",
     "comment" : "Alice Soft Music",
@@ -8296,6 +8302,12 @@
     "artist"  : "Epsilon-Sakuralys / srof",
     "comment" : "Trance(DoubleAnother)",
     "md5"     : "157b620574d1f157e9d8f2f5dc0c6586"
+},{
+    "level"   : "3",
+    "title"   : "NANAME front (14keys Maniac)",
+    "artist"  : "Moxyo / obj:imit8or *FLIP",
+    "comment" : "なんちゃってSTEP",
+    "md5"     : "23d8752df28a33d7237eab50b8279a43"
 },{
     "level"   : "3",
     "title"   : "Navy Star [14Key Another]",
@@ -15564,6 +15576,12 @@
     "md5"     : "b5ddceb7aacb23de173a08c9a35d23ac"
 },{
     "level"   : "6",
+    "title"   : "Daydreamer [Doughnuts]",
+    "artist"  : "Lime / Roaring Flame / obj:alt",
+    "comment" : "Hardcore",
+    "md5"     : "4808028a0a7452891ea5d9e554b9774a"
+},{
+    "level"   : "6",
     "title"   : "Defeated Wings [ANOTHER]",
     "artist"  : "ALTM *FLIP",
     "comment" : "ARTCORE",
@@ -15952,12 +15970,6 @@
     "artist"  : "11.UK Hardcore Team",
     "comment" : "UK Hardcore",
     "md5"     : "74fc30833d11f7a10a8f1b7334542711"
-},{
-    "level"   : "6",
-    "title"   : "GO BACK 2 RAVE (BEAT BACK 2 SCRATCH)",
-    "artist"  : "DOT96",
-    "comment" : "TECH DANCE",
-    "md5"     : "82cf270056e6a2c222eed30b5b70af62"
 },{
     "level"   : "6",
     "title"   : "going on -spring wind- [A14 ver.2010]",
@@ -23376,6 +23388,12 @@
     "md5"     : "5140f7cfde52876519efa99325f3000d"
 },{
     "level"   : "9",
+    "title"   : "-Phantom Tear-［ANOTHER］",
+    "artist"  : "SOMON / obj.vectorla",
+    "comment" : "Artcore",
+    "md5"     : "985e26ab42e0272e701269d1950e8449"
+},{
+    "level"   : "9",
     "title"   : "-生命の樹- [EXPERT]",
     "artist"  : "SOMON obj.vectorla  *LR.RANDOM",
     "comment" : "Sephirothic Artcore",
@@ -26803,7 +26821,7 @@
 },{
     "level"   : "10",
     "title"   : "Sonata No. 14 In C-Sharp Minor, Op. 27-2, Mvt. 3",
-    "artist"  : "Ludwig Van Beethoven",
+    "artist"  : "Ludwig Van Beethoven *LR.MIRROR",
     "comment" : "SONATA",
     "md5"     : "8794197cf58ef4680795def14feee002"
 },{
@@ -26863,7 +26881,7 @@
 },{
     "level"   : "10",
     "title"   : "sunlit power stone [Dynames]",
-    "artist"  : "dj sept-em / Symphonian *FLIP",
+    "artist"  : "dj sept-em / Symphonian",
     "comment" : "Freeform / 14keys",
     "md5"     : "32c421e48df266fe62f1025274e7c68f"
 },{
@@ -26884,6 +26902,12 @@
     "artist"  : "syzfonics(仮名) *R.MIRROR",
     "comment" : "Trance",
     "md5"     : "4d010d35f0f096abe790441adb78d83f"
+},{
+    "level"   : "10",
+    "title"   : "The Azure Port (14keys Maniac)",
+    "artist"  : "roomcoast / obj:imit8or *FLIP",
+    "comment" : "jazz report",
+    "md5"     : "89eee69a18b6973512e0d21f4e97b7f1"
 },{
     "level"   : "10",
     "title"   : "THE EMBER [PREMIUM 14]",
@@ -27445,7 +27469,7 @@
 },{
     "level"   : "10",
     "title"   : "禁忌と緋色幻想 -The Primary Plasm- [Red Storm]",
-    "artist"  : "ZUN Remixed by NoKANY obj:alt",
+    "artist"  : "ZUN Remixed by NoKANY obj:alt  *FLIP LR.MIR or 正規",
     "comment" : "CRIMSON CORE",
     "md5"     : "de397d520c998e66bbab4017791c9668"
 },{
@@ -27946,6 +27970,12 @@
     "artist"  : "polysha obj:teiji-taisha *FLIP",
     "comment" : "HARDCORE",
     "md5"     : "4f2701ca4792366e778f73b97823e962"
+},{
+    "level"   : "★1",
+    "title"   : "Journey to the ∞BIT World (14keys Maniac)",
+    "artist"  : "otoshi.b / obj:imit8or *R.MIRROR",
+    "comment" : "HI-SPEED HAPPYCORE",
+    "md5"     : "d2eb4ff0966a5b2e38b75004d23879a2"
 },{
     "level"   : "★1",
     "title"   : "KonfliKt Princess [DP Black Another]",
@@ -28732,6 +28762,12 @@
     "artist"  : "p_d / obj kohane Artwork : ふりっと★",
     "comment" : "SPRING CORE",
     "md5"     : "963af96d20154d718e8c88f05d0f927b"
+},{
+    "level"   : "★2",
+    "title"   : "Daydreamer [Somnambulism]",
+    "artist"  : "Lime / Roaring Flame / obj:alt",
+    "comment" : "Hardcore",
+    "md5"     : "99e2b25144bad0cc55a9e800c6968626"
 },{
     "level"   : "★2",
     "title"   : "DESPERATE [DP DESPERATE]",
@@ -30715,7 +30751,7 @@
 },{
     "level"   : "★4",
     "title"   : "brain bleeding [EX14]",
-    "artist"  : "Professor S obj:ucc *L.MIR or LR.MIR",
+    "artist"  : "Professor S obj:ucc *FLIP LR.MIR or L.MIR or LR.MIR",
     "comment" : "TEKNO",
     "md5"     : "c14519724728826c93dfd2256f9faaee"
 },{
@@ -31921,7 +31957,7 @@
 },{
     "level"   : "★5",
     "title"   : "Bird Sprite -D.K.R. mix- [giman]",
-    "artist"  : "ツナ?ヨちゃん Rustin *正規 or FLIP",
+    "artist"  : "ツナ?ヨちゃん Rustin *FLIP　or 正規",
     "comment" : "木工?ンドオブジェ",
     "md5"     : "642cd60044e7e983949694941e2927ed"
 },{
@@ -32338,6 +32374,12 @@
     "artist"  : "Walpurgis obj. Gisela  *正規 or L.MIR",
     "comment" : "Hybrid",
     "md5"     : "3c2653cf0ee1eafce27b247b6a85231e"
+},{
+    "level"   : "★5",
+    "title"   : "Nirvana Express [DP Bhudda]",
+    "artist"  : "RMHN / Symphonian *FLIP",
+    "comment" : "Vimuti Call Service",
+    "md5"     : "1b3e4653a8f3c08b60deb647cad98cb4"
 },{
     "level"   : "★5",
     "title"   : "NO, Thank You! -nrg mix- [MANIAC+]",
@@ -33211,7 +33253,7 @@
 },{
     "level"   : "★6",
     "title"   : "flowers [EX14]†leggendaria",
-    "artist"  : "mist-rose obj:ucc/reobj:hamburger *R.RANDOM",
+    "artist"  : "mist-rose obj:ucc/reobj:hamburger *R.MIR or R.RAN",
     "comment" : "センチュリー",
     "md5"     : "edfdc0413cd6b69387b555efb62781ab"
 },{
@@ -33253,7 +33295,7 @@
 },{
     "level"   : "★6",
     "title"   : "Glacier heart [Danger]",
-    "artist"  : "Blacksparrow VS DeathisM",
+    "artist"  : "Blacksparrow VS DeathisM *正規 or LR.RAN",
     "comment" : "Orchestral Drum'n Bass",
     "md5"     : "4ff1019c2a61c8e2aa8a93315edc76bc"
 },{
@@ -33462,22 +33504,10 @@
     "md5"     : "32b11a6460d9b5cd6865e43c69f65967"
 },{
     "level"   : "★6",
-    "title"   : "nativeFaith [DP BLACK ANOTHER]",
-    "artist"  : "ZUN Remixed by Ωμεγα/obj;ROCO *LR.RANDOM",
-    "comment" : "RENAISSUWAKO",
-    "md5"     : "bcc8581ac69f325408506a2b683dbc5b"
-},{
-    "level"   : "★6",
     "title"   : "Neverknows (but...) W",
     "artist"  : "Plastiksoulman",
     "comment" : "electro disco punk",
     "md5"     : "72f2f5d437c274769d0c942cc6039ec6"
-},{
-    "level"   : "★6",
-    "title"   : "Nirvana Express [DP Bhudda]",
-    "artist"  : "RMHN / Symphonian",
-    "comment" : "Vimuti Call Service",
-    "md5"     : "1b3e4653a8f3c08b60deb647cad98cb4"
 },{
     "level"   : "★6",
     "title"   : "NS18 [delta]",
@@ -33721,7 +33751,7 @@
 },{
     "level"   : "★6",
     "title"   : "ZENITHALIZE [>>>>]",
-    "artist"  : "姉ヶ崎 寧々 BGA : photonskyto obj:ucc",
+    "artist"  : "姉ヶ崎 寧々 BGA : photonskyto obj:ucc  *R.MIR",
     "comment" : "FULL ON",
     "md5"     : "35eef5c26f7f1825835fc77eaea170ac"
 },{
@@ -34231,7 +34261,7 @@
 },{
     "level"   : "★7",
     "title"   : "N.U.clear",
-    "artist"  : "seizan",
+    "artist"  : "seizan *L.MIRROR",
     "comment" : "MSGS TECH CORE",
     "md5"     : "532b0732e4de52d4a7258863ba305dc3"
 },{
@@ -34240,6 +34270,12 @@
     "artist"  : "void feat. コツキミヤ , Gt. えば /obj:kuro BGA : Photonskyto",
     "comment" : "Venerable Culture",
     "md5"     : "73eed18106415dddefddef6bb0cddd91"
+},{
+    "level"   : "★7",
+    "title"   : "nativeFaith [DP BLACK ANOTHER]",
+    "artist"  : "ZUN Remixed by Ωμεγα/obj;ROCO *LR.RANDOM",
+    "comment" : "RENAISSUWAKO",
+    "md5"     : "bcc8581ac69f325408506a2b683dbc5b"
 },{
     "level"   : "★7",
     "title"   : "nativeFaith [DP GOD]",
