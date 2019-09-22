@@ -1338,6 +1338,12 @@
     "md5"     : "bc5f9a7c628465be7e8715ba996258ed"
 },{
     "level"   : "?",
+    "title"   : "祈り 14",
+    "artist"  : "A.I.TOYS / 131",
+    "comment" : "chantcore breakbeats",
+    "md5"     : "57ed2653f46871382d4d731d2e3a5063"
+},{
+    "level"   : "?",
     "title"   : "逆サマ譜面のイデオロギー",
     "artist"  : "o.s.gate",
     "comment" : "Eroc Esrever[DP]",
@@ -3586,12 +3592,6 @@
     "artist"  : "Dark_seeD /obj:spt",
     "comment" : "[HardTechno]",
     "md5"     : "0bdddbfacd357b2e09e2e11dc0d9fcc4"
-},{
-    "level"   : "1",
-    "title"   : "THANKS 12TH",
-    "artist"  : "No.89",
-    "comment" : "12th",
-    "md5"     : "1179bdab30d4b534e090406fec99eed6"
 },{
     "level"   : "1",
     "title"   : "The Elegant Universe [DP ANOTHER]",
@@ -8794,6 +8794,12 @@
     "artist"  : "orangentle X cyclia (obj:sek) *AVERAGE",
     "comment" : "Organic Techno",
     "md5"     : "8ed1cf85741113aaf857e2965d4e4272"
+},{
+    "level"   : "3",
+    "title"   : "THANKS 12TH",
+    "artist"  : "No.89 *LR.MIRROR",
+    "comment" : "12th",
+    "md5"     : "1179bdab30d4b534e090406fec99eed6"
 },{
     "level"   : "3",
     "title"   : "The Adventurous Spirit -Another14-",
@@ -16375,7 +16381,7 @@
 },{
     "level"   : "6",
     "title"   : "marginated [A14]",
-    "artist"  : "紅蓮月影 obj:ucc",
+    "artist"  : "紅蓮月影 obj:ucc *R.MIRROR",
     "comment" : "ジャッジメント",
     "md5"     : "4df889c7268356d9df32a0a91def085f"
 },{
@@ -18558,12 +18564,6 @@
     "md5"     : "8992bf0c8d789d26aa12b98a3324604a"
 },{
     "level"   : "7",
-    "title"   : "Cinderella Story -DP AMETHER-",
-    "artist"  : "adumac / dp131 / obj:ROCO",
-    "comment" : "HOUSE",
-    "md5"     : "a4fb16914ae3eb94b7b0f4a4571268c8"
-},{
-    "level"   : "7",
     "title"   : "CLOCKTOWER (YOYOGI BUILDINGS)",
     "artist"  : "Chitose / obj:kuro (Movie:zue-row)",
     "comment" : "Art Progressive Fusion",
@@ -19069,7 +19069,7 @@
 },{
     "level"   : "7",
     "title"   : "Halcyon [DP EXTRA]",
-    "artist"  : "xi obj:ucc *R.MIRROR",
+    "artist"  : "xi obj:ucc *FLIP LR.RAN or R.MIR",
     "comment" : "RENAISSANCE HARDCORE",
     "md5"     : "03cd919f256c2d9dd7371c15f93b9b93"
 },{
@@ -20275,7 +20275,7 @@
 },{
     "level"   : "7",
     "title"   : "YAMAXANADU OF TWO (DP LuNLuN)",
-    "artist"  : "nmk feat.Salita(obj.WAS)",
+    "artist"  : "nmk feat.Salita(obj.WAS) *R.MIRROR",
     "comment" : "EUROBEAT",
     "md5"     : "ae3b218a699c94ad0c6498145898782b"
 },{
@@ -20934,12 +20934,6 @@
     "md5"     : "64bbf6a68a454762754d7d7f03611780"
 },{
     "level"   : "8",
-    "title"   : "1001 reasons why I love glasses [14-ANOTHER]",
-    "artist"  : "上条春菜 *FLIP",
-    "comment" : "Chip-Rock",
-    "md5"     : "7d2b1484597cc2aa45c2515969d3d8e8"
-},{
-    "level"   : "8",
     "title"   : "3NDL355×F3V3R×TiM3 -タ-",
     "artist"  : "MYUKKE. obj:k73 BGI：ゑのき",
     "comment" : "SPEEDRAVE",
@@ -20974,6 +20968,12 @@
     "artist"  : "裏 吉 川 / obj:ED *LR.MIRROR",
     "comment" : "t r a n c e",
     "md5"     : "6ffcb8c700b99c18a563b10ffe0a99fc"
+},{
+    "level"   : "8",
+    "title"   : "Absurd Gaff",
+    "artist"  : "siromaru / Mentalstock Rustin",
+    "comment" : "schranz",
+    "md5"     : "c95bdc0f3c24f8412f9733d9afdd8072"
 },{
     "level"   : "8",
     "title"   : "Absurd Gaff [DP ANOTHER]",
@@ -21322,6 +21322,12 @@
     "artist"  : "DJ YOSHITAKA×ZUN remixed by ueo obj:srof",
     "comment" : "jubea東方[dpAnother]",
     "md5"     : "a6a2521ca3d24e4c8608f5ff5c464ecd"
+},{
+    "level"   : "8",
+    "title"   : "Cinderella Story -DP AMETHER-",
+    "artist"  : "adumac / dp131 / obj:ROCO",
+    "comment" : "HOUSE",
+    "md5"     : "a4fb16914ae3eb94b7b0f4a4571268c8"
 },{
     "level"   : "8",
     "title"   : "CLOCKTOWER (DP ANOTHER)",
@@ -21997,7 +22003,7 @@
 },{
     "level"   : "8",
     "title"   : "Lemuria [VerA]",
-    "artist"  : "Festa  obj:右手が恋人 鑓田(alpha complex)",
+    "artist"  : "Festa  obj:右手が恋人 鑓田(alpha complex)  *SUD+",
     "comment" : "LIFE STREAM",
     "md5"     : "3969aa2fbc8482d5ba23aafbc1a167db"
 },{
@@ -22219,7 +22225,7 @@
 },{
     "level"   : "8",
     "title"   : "Orange sunlight [Maniac]",
-    "artist"  : "Zoety / Movie:Epsilon / obj:azurite *FLIP",
+    "artist"  : "Zoety / Movie:Epsilon / obj:azurite",
     "comment" : "UK Hardcore",
     "md5"     : "4e64c5925aa4f1254109560775ba2345"
 },{
@@ -22345,7 +22351,7 @@
 },{
     "level"   : "8",
     "title"   : "Quick Scamper Girl",
-    "artist"  : "Yamajet / obj:lichtr",
+    "artist"  : "Yamajet / obj:lichtr *AVERAGE",
     "comment" : "BREAK CORE",
     "md5"     : "890e1f57029379bd86ac0c6fe7619532"
 },{
@@ -22738,12 +22744,6 @@
     "artist"  : "Ninja Action Team obj:肴",
     "comment" : "Bigbeat",
     "md5"     : "e421ee16832c761392fa50b2aa103631"
-},{
-    "level"   : "8",
-    "title"   : "Wasabi - わさビーフ",
-    "artist"  : "Ninja Action Team/obj:epics- *正規 or FLIP",
-    "comment" : "Bigbeat",
-    "md5"     : "cd63167498f4f8a08a5a87b7f2704f08"
 },{
     "level"   : "8",
     "title"   : "We are the xxxx",
@@ -23170,12 +23170,6 @@
     "artist"  : "佐久間まゆ / 星輝子 / 星井美希 *FLIP R.MIRROR",
     "comment" : "ソウシソウアイ",
     "md5"     : "c9af7281f8fe092797923ec993d5cc07"
-},{
-    "level"   : "8",
-    "title"   : "恍惚之宴 [A14]",
-    "artist"  : "紫陽花 obj:ucc *R.MIRROR",
-    "comment" : "怨霊徒濫須",
-    "md5"     : "7c5b18cd5edfd82a22a800c7e2cf6966"
 },{
     "level"   : "8",
     "title"   : "春の湊に (14)",
@@ -24456,6 +24450,12 @@
     "md5"     : "59b1cd15d84b8cc17494b7df2c98f828"
 },{
     "level"   : "9",
+    "title"   : "MARENOL",
+    "artist"  : "LeaF Movie:Optie&Fiz Rustin",
+    "comment" : "PHANTASMA",
+    "md5"     : "b1baf2d86204ccc391d03a4d0041012f"
+},{
+    "level"   : "9",
     "title"   : "Mario Paint (Time Regression Mix for BMS) -4つ同時押し-",
     "artist"  : "ueotan /obj:松魚 reobj:k",
     "comment" : "GAMEMUSIC",
@@ -25062,6 +25062,12 @@
     "md5"     : "d8dcf3fb20ced6bf20129cf8f5b11424"
 },{
     "level"   : "9",
+    "title"   : "Wasabi - わさビーフ",
+    "artist"  : "Ninja Action Team/obj:epics- *L.MIRROR",
+    "comment" : "Bigbeat",
+    "md5"     : "cd63167498f4f8a08a5a87b7f2704f08"
+},{
+    "level"   : "9",
     "title"   : "wind-line (DP AYATHER)",
     "artist"  : "ZUN(Arr.sun3) / 射命丸 文 *FLIP",
     "comment" : "House",
@@ -25632,6 +25638,12 @@
     "md5"     : "99f59bacb55654ccf991e4b0b145e1f7"
 },{
     "level"   : "10",
+    "title"   : "1001 reasons why I love glasses [14-ANOTHER]",
+    "artist"  : "上条春菜 *FLIP",
+    "comment" : "Chip-Rock",
+    "md5"     : "7d2b1484597cc2aa45c2515969d3d8e8"
+},{
+    "level"   : "10",
     "title"   : "1st Acceleration [DPQ]",
     "artist"  : "Xerenet OBJ : QUART",
     "comment" : "RAVE",
@@ -25759,7 +25771,7 @@
 },{
     "level"   : "10",
     "title"   : "AltMirrorBell MX+",
-    "artist"  : "Grand thaw  obj:ROCO",
+    "artist"  : "Grand thaw  obj:ROCO *SUD+",
     "comment" : "NOCTURNE",
     "md5"     : "818a195bdce5361759dc1b4245223739"
 },{
@@ -25783,7 +25795,7 @@
 },{
     "level"   : "10",
     "title"   : "ANGELIC MIRAGE (ANOTHER14)",
-    "artist"  : "sun3(obj:A-4) *LR.MIRROR",
+    "artist"  : "sun3(obj:A-4) *FLIP or LR.MIRROR",
     "comment" : "Nu-style Gabba",
     "md5"     : "39d3f1d69fa9b9025121b2590556b3aa"
 },{
@@ -26059,7 +26071,7 @@
 },{
     "level"   : "10",
     "title"   : "dreamin' -happycore version - [business]",
-    "artist"  : "AOiRO_Manbow with kagerow / obj:ED *FLIP",
+    "artist"  : "AOiRO_Manbow with kagerow / obj:ED *R.MIR or FLIP R.MIR",
     "comment" : "ドリームポップREMIX",
     "md5"     : "6707b89df8e974341e71dc8f1cb268b5"
 },{
@@ -27370,6 +27382,12 @@
     "artist"  : "tarolabo / Symphonian",
     "comment" : "[Goa/Gore]",
     "md5"     : "ccdb11fa9066dcbbe8a7be6b09180d36"
+},{
+    "level"   : "10",
+    "title"   : "恍惚之宴 [A14]",
+    "artist"  : "紫陽花 obj:ucc *R.MIRROR",
+    "comment" : "怨霊徒濫須",
+    "md5"     : "7c5b18cd5edfd82a22a800c7e2cf6966"
 },{
     "level"   : "10",
     "title"   : "星の器～STAR OF ANDROMEDA (ANOTHER)",
@@ -32724,12 +32742,6 @@
     "md5"     : "307012cfa0cdb675d0b1d4021cfd416a"
 },{
     "level"   : "★5",
-    "title"   : "オトゲラヴ！ {DP INFINITY}",
-    "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:kuro Movie:kkkfff2 / Illust:永山ゆうのん",
-    "comment" : "A-POP",
-    "md5"     : "a06c590932aa986a12f35f6b47fcb738"
-},{
-    "level"   : "★5",
     "title"   : "キミとボクへの葬送歌 [DP ANOTHER]",
     "artist"  : "ROKINA BGA:REI-K OBJ:Yosk!",
     "comment" : "EXCELSIOR",
@@ -33121,7 +33133,7 @@
 },{
     "level"   : "★6",
     "title"   : "believe again -MictranMix-",
-    "artist"  : "Remixed by U.P. *L.MIRROR or FLIP",
+    "artist"  : "Remixed by U.P. *LR.MIRROR or FLIP",
     "comment" : "TRANCE POP MIX",
     "md5"     : "9b9fc99e3a2655ff43f00ddb3b3efd8a"
 },{
@@ -33361,7 +33373,7 @@
 },{
     "level"   : "★6",
     "title"   : "Kalte [Leben]",
-    "artist"  : "Dachs Movie : mi / obj:Hersh",
+    "artist"  : "Dachs Movie : mi / obj:Hersh  *SUD+",
     "comment" : "Aesthetic Trance",
     "md5"     : "b5fddf61b7c813be76ce713fdd6100d7"
 },{
@@ -33457,7 +33469,7 @@
 },{
     "level"   : "★6",
     "title"   : "MASAMUNE [EDO]",
-    "artist"  : "NS-Factory obj:ED *AVERAGE",
+    "artist"  : "NS-Factory obj:ED *SUD+ AVERAGE-20",
     "comment" : "Oriental Edge",
     "md5"     : "6e8389b620f4fc1cf02dc189c93bc2a6"
 },{
@@ -33784,6 +33796,12 @@
     "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:Zarpedon Movie:kkkfff2 / Illust:永山ゆうのん  *FLIP LR.M or FLIP R.M",
     "comment" : "A-POP",
     "md5"     : "6fede52769825d01afc28d171fea0ae6"
+},{
+    "level"   : "★6",
+    "title"   : "オトゲラヴ！ {DP INFINITY}",
+    "artist"  : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:kuro Movie:kkkfff2 / Illust:永山ゆうのん",
+    "comment" : "A-POP",
+    "md5"     : "a06c590932aa986a12f35f6b47fcb738"
 },{
     "level"   : "★6",
     "title"   : "キミとボクへの葬送歌 [14keyChallenge]",
