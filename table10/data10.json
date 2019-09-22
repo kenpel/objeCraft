@@ -1998,12 +1998,6 @@
     "md5"     : "d03d7110af8963972b03e1022708e041"
 },{
     "level"   : "★5",
-    "title"   : "Dream Rocket* ~SUPER HARD~",
-    "artist"  : "Junk",
-    "comment" : "Epic Trance",
-    "md5"     : "cddd127398e6ab75c3435c64123c87b9"
-},{
-    "level"   : "★5",
     "title"   : "empire of the steam",
     "artist"  : "paraoka / objeCraft",
     "comment" : "techno(DP/difficult)",
@@ -2038,12 +2032,6 @@
     "artist"  : "paraoka *LR.RANDOM",
     "comment" : "breakbeats",
     "md5"     : "0075acfda3cb43ae5e2266fb83d68875"
-},{
-    "level"   : "★5",
-    "title"   : "PUPA ~SUPER HARD~",
-    "artist"  : "モリモリあつし",
-    "comment" : "HARD RENAISSANCE",
-    "md5"     : "6b2feee8eb62368d6c56cc581b546de6"
 },{
     "level"   : "★5",
     "title"   : "rainy beauty ~SUPER HARD~",
@@ -2100,6 +2088,12 @@
     "md5"     : "92f1b71efc90f9e628914580bee82bd5"
 },{
     "level"   : "★6",
+    "title"   : "Dream Rocket* ~SUPER HARD~",
+    "artist"  : "Junk",
+    "comment" : "Epic Trance",
+    "md5"     : "cddd127398e6ab75c3435c64123c87b9"
+},{
+    "level"   : "★6",
     "title"   : "Fantasy ~SUPER HARD~",
     "artist"  : "goangra *LR.RANDOM",
     "comment" : "HARD RENAISSANSE",
@@ -2140,6 +2134,12 @@
     "artist"  : "Omnipotenx *LR.RANDOM",
     "comment" : "SYMPHONIC SCHRANZ",
     "md5"     : "d0cecd8f03dbd7773390dce707600871"
+},{
+    "level"   : "★6",
+    "title"   : "PUPA ~SUPER HARD~",
+    "artist"  : "モリモリあつし",
+    "comment" : "HARD RENAISSANCE",
+    "md5"     : "6b2feee8eb62368d6c56cc581b546de6"
 },{
     "level"   : "★6",
     "title"   : "rebeltraitor ~CATASTROPHE~",
@@ -2250,6 +2250,12 @@
     "md5"     : "6bbd211429499b73aca9967c6e3af5df"
 },{
     "level"   : "★8",
+    "title"   : "Ascension to Heaven ~SUPER HARD~",
+    "artist"  : "xi *SUD+",
+    "comment" : "ARTCORE",
+    "md5"     : "3a4c8964579fe891ce69583cb95da9d2"
+},{
+    "level"   : "★8",
     "title"   : "Calamity Fortune ~CATASTROPHE~",
     "artist"  : "ZUN remixed by LeaF",
     "comment" : "EMOTIONAL HARDCORE TECHNO",
@@ -2260,6 +2266,12 @@
     "artist"  : "Chelp *LR.RANDOM",
     "comment" : "Contemporary",
     "md5"     : "f50c4960f050dfd809800df767d146c8"
+},{
+    "level"   : "★8",
+    "title"   : "Delightness Brightness ~SUPER HARD~",
+    "artist"  : "翡乃イスカ",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "a51906aec249c6330bc01ec649e64654"
 },{
     "level"   : "★8",
     "title"   : "did -spitfire mix-",
@@ -2368,6 +2380,12 @@
     "artist"  : "Y.W",
     "comment" : "BATTLE IMAGING",
     "md5"     : "fe9d212d97aaab6788d1c5414393c74b"
+},{
+    "level"   : "★10",
+    "title"   : "Her Majesty ~CATASTROPHE~",
+    "artist"  : "naotyu- / Mentalstock",
+    "comment" : "progressive breaks",
+    "md5"     : "3deec867d0bf42acc9136109f37a7955"
 },{
     "level"   : "★10",
     "title"   : "Her Majesty ~SUPER HARD~",
