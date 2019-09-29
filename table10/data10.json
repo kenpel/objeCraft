@@ -540,6 +540,12 @@
     "md5"     : "097c7650e5f02d816a5dd561f4559ebe"
 },{
     "level"   : "2",
+    "title"   : "Delightness Brightness ~NORMAL~",
+    "artist"  : "翡乃イスカ",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "3e8470aa9bd2bb4ab62e801a77547d0f"
+},{
+    "level"   : "2",
     "title"   : "DJ BATTLE theme:PARANOiA (4 double DJ)",
     "artist"  : "Remixed by Octa the B.G.",
     "comment" : "freestyle",
@@ -696,6 +702,12 @@
     "md5"     : "b0e80e1cea693b808767308a4930211a"
 },{
     "level"   : "3",
+    "title"   : "Doppelganger ~NORMAL~",
+    "artist"  : "LeaF *MAXBPM",
+    "comment" : "EINSAMKEIT",
+    "md5"     : "534da06d23fd3aea754c405a233bc719"
+},{
+    "level"   : "3",
     "title"   : "elegante ~HARD~",
     "artist"  : "LP+",
     "comment" : "Maiden House",
@@ -748,6 +760,12 @@
     "artist"  : "Yamadajet",
     "comment" : "HARENTI ELECTRO",
     "md5"     : "756b09dc728ed12aa160b2c25df3ac72"
+},{
+    "level"   : "3",
+    "title"   : "Qualia ~HARD~",
+    "artist"  : "Junk",
+    "comment" : "Future Pop",
+    "md5"     : "5bde9fa4d6d25f243068326e33f10664"
 },{
     "level"   : "3",
     "title"   : "rainy beauty ~NORMAL~",
@@ -1242,6 +1260,12 @@
     "md5"     : "e4887a4d06e60d8bc8fa8517fcbaed05"
 },{
     "level"   : "6",
+    "title"   : "Aeventyr ~HARD~",
+    "artist"  : "Grand Thaw",
+    "comment" : "Neo Pagan Folk",
+    "md5"     : "989c25d9e4c9ca076208215e18a3c4ae"
+},{
+    "level"   : "6",
     "title"   : "Aeventyr ~NORMAL~",
     "artist"  : "Grand Thaw",
     "comment" : "Neo Pagan Folk",
@@ -1438,6 +1462,12 @@
     "artist"  : "void",
     "comment" : "Filmscore / Neurocore",
     "md5"     : "483feb4a9728e2573ca18d1563e7102b"
+},{
+    "level"   : "8",
+    "title"   : "Challenge the final mission! ~NORMAL~",
+    "artist"  : "Y.W *LR.MIRROR",
+    "comment" : "STG ROCK",
+    "md5"     : "d060c8d29d73bba27ee9a1c266aa7178"
 },{
     "level"   : "8",
     "title"   : "Hold me [DP ANOTHER]",
@@ -1668,6 +1698,12 @@
     "md5"     : "ab8a354cc2da2bc4b3296e7e3ff140f4"
 },{
     "level"   : "10",
+    "title"   : "Believe the Future ~HARD~",
+    "artist"  : "NIKITA",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "04ecf35febe68941fc23998821d97856"
+},{
+    "level"   : "10",
     "title"   : "Brandnew Mind ~SUPER HARD~",
     "artist"  : "Seibin",
     "comment" : "Ani Pop",
@@ -1768,6 +1804,12 @@
     "artist"  : "ZUN remixed by LeaF *LR.MIRROR",
     "comment" : "EMOTIONAL HARDCORE TECHNO",
     "md5"     : "5807554c1336510c8d35f8dcb8a67389"
+},{
+    "level"   : "★1",
+    "title"   : "Canon (blazing summer mix) ~SUPER HARD~",
+    "artist"  : "上杉うた with 星明",
+    "comment" : "trance pop",
+    "md5"     : "5aa8d7ff8625568fe139105314075342"
 },{
     "level"   : "★1",
     "title"   : "Elttab Tsal -Prince on a star object Requiem-",
@@ -1894,6 +1936,12 @@
     "artist"  : "scytheleg *LR.MIRROR",
     "comment" : "ASIAN DNB",
     "md5"     : "02433f85e29848666466f2baaa5c79ba"
+},{
+    "level"   : "★3",
+    "title"   : "Red-rize \"B172 mix\" ~SUPER HARD~",
+    "artist"  : "wint",
+    "comment" : "HYPER EURO RAVE",
+    "md5"     : "283408c617451267b465d18cbbc2b927"
 },{
     "level"   : "★3",
     "title"   : "Symphobia [DP]",
