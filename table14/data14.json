@@ -1776,6 +1776,12 @@
     "md5"     : "e969c5ea77dd1c142e4312d1cc693b5d"
 },{
     "level"   : "1",
+    "title"   : "Bogus of True (DPH)",
+    "artist"  : "polysha feat.Eir&Sasara",
+    "comment" : "ELECTRO HOUSE",
+    "md5"     : "ef8eb19116682827916ad353294f30c8"
+},{
+    "level"   : "1",
     "title"   : "brandish Wagyan [(^_^)14]",
     "artist"  : "tetsuo OBJ:KLOC",
     "comment" : "EURO BEAT",
@@ -2344,6 +2350,12 @@
     "artist"  : "Arrange by SM-NX (BGI : アカツキユウ) *L.MIRROR",
     "comment" : "Drum & Bass",
     "md5"     : "20b8fd1af72d8f88f2a6e74eaf90200f"
+},{
+    "level"   : "1",
+    "title"   : "FIONA [cyan 14]",
+    "artist"  : "w_tre Lyrics by Sing_fUA obj : ま～ぶるぴ～ぴ～",
+    "comment" : "Chiptune",
+    "md5"     : "198f3b3b8b2681df3ca392d0051fb208"
 },{
     "level"   : "1",
     "title"   : "Fly Again (bms edit) [Hyper14]",
@@ -4830,12 +4842,6 @@
     "md5"     : "261ca60d91af66abcb00191b7cffcaf4"
 },{
     "level"   : "2",
-    "title"   : "Bogus of True (DPH)",
-    "artist"  : "polysha feat.Eir&Sasara",
-    "comment" : "ELECTRO HOUSE",
-    "md5"     : "ef8eb19116682827916ad353294f30c8"
-},{
-    "level"   : "2",
     "title"   : "Bohemian Chic  [14keys Another]",
     "artist"  : "Chelp",
     "comment" : "European-Latin",
@@ -5226,12 +5232,6 @@
     "md5"     : "491f97a850f0e91dc73f547659ce986d"
 },{
     "level"   : "2",
-    "title"   : "FELYS",
-    "artist"  : "onoken / obj:lichtr",
-    "comment" : "drum'n bass",
-    "md5"     : "36411199985e55095505624e1ac5f4de"
-},{
-    "level"   : "2",
     "title"   : "FELYS Challenge14",
     "artist"  : "onoken / NORE obj:ucc",
     "comment" : "drum'n bass",
@@ -5248,12 +5248,6 @@
     "artist"  : "mattaku *R.MIRROR",
     "comment" : "game music",
     "md5"     : "f4f0b332f890a796771d2efb83392209"
-},{
-    "level"   : "2",
-    "title"   : "FIONA [cyan 14]",
-    "artist"  : "w_tre Lyrics by Sing_fUA obj : ま～ぶるぴ～ぴ～",
-    "comment" : "Chiptune",
-    "md5"     : "198f3b3b8b2681df3ca392d0051fb208"
 },{
     "level"   : "2",
     "title"   : "First Creation [ANOTHER]",
@@ -6570,6 +6564,12 @@
     "md5"     : "156f41a5210e537fc254c4a7472e4099"
 },{
     "level"   : "2",
+    "title"   : "ハニエルのうた DPA",
+    "artist"  : "sak feat.みゅい obj:msl BGI:球根",
+    "comment" : "ANGELIC FUTURE POP",
+    "md5"     : "9616428365252530dc3ac6b994e21443"
+},{
+    "level"   : "2",
     "title"   : "ハルトマンの妖怪少女 [不屈の男]",
     "artist"  : "G-Y obj:けろりん",
     "comment" : "GAME MUSIC",
@@ -6646,6 +6646,12 @@
     "artist"  : "wa. / obj. Z_N",
     "comment" : "OMNIVERSE",
     "md5"     : "07f8bb805ba4e3348c5b163062ccd57f"
+},{
+    "level"   : "2",
+    "title"   : "僕たちの旅とエピローグ。 [DP HYPER]",
+    "artist"  : "ああああ / obj:killer TOMATO",
+    "comment" : "game music",
+    "md5"     : "c97c32418db3abae79110cd8ecf26d75"
 },{
     "level"   : "2",
     "title"   : "先手必勝戦闘機　鳳 [DP ANOTHER]",
@@ -14508,12 +14514,6 @@
     "md5"     : "db5e5ed2b756972c5f37b777d60b5a1c"
 },{
     "level"   : "5",
-    "title"   : "「無垢」について (14)",
-    "artist"  : "p.p. / o.c.",
-    "comment" : "",
-    "md5"     : "5616afbbed377b38d1cc0846e03086fb"
-},{
-    "level"   : "5",
     "title"   : "あずぅる!! -双鍵難-",
     "artist"  : "あずにゃん",
     "comment" : "にゃあびーつ",
@@ -17664,6 +17664,12 @@
     "md5"     : "0de56bcd61f48fadb8a9d230264aee04"
 },{
     "level"   : "6",
+    "title"   : "僕たちの旅とエピローグ。 [DPA]",
+    "artist"  : "ああああ obj:肴 *MAX+40",
+    "comment" : "game music",
+    "md5"     : "dd40f89de5d2f59d838c978e2a8fd7b5"
+},{
+    "level"   : "6",
     "title"   : "入浴タイムズ (DP BLACK ANOTHER)",
     "artist"  : "BATH-ROMANCE compose:kota lyrics:kota",
     "comment" : "湯ったり HIPHOP",
@@ -18355,7 +18361,7 @@
 },{
     "level"   : "7",
     "title"   : "AVALON -14GB-",
-    "artist"  : "Team:SASAKURATION ;obj G-No.9 *SUD+ FIXOFF-70",
+    "artist"  : "Team:SASAKURATION ;obj G-No.9 *SUD+ FIXOFF-90",
     "comment" : "Ω",
     "md5"     : "0fecea0860f0857d647e0c24bd09123a"
 },{
@@ -18715,7 +18721,7 @@
 },{
     "level"   : "7",
     "title"   : "Demystify Feast [DP HYPER]",
-    "artist"  : "zun/MIDI：こんそめ/編集：wanco obj:けろりん *L.MIRROR",
+    "artist"  : "zun/MIDI：こんそめ/編集：wanco obj:けろりん *MINBPM L.MIRROR",
     "comment" : "東方萃夢想",
     "md5"     : "3463515d00ee6b6dbc9a923ffef41b10"
 },{
@@ -19453,7 +19459,7 @@
 },{
     "level"   : "7",
     "title"   : "Neps Paradox [A14]",
-    "artist"  : "Orange Strophe obj:ucc",
+    "artist"  : "Orange Strophe obj:ucc *FLIP R.MIRROR",
     "comment" : "Progressive Jazz",
     "md5"     : "02fe330880e2c31de8450747de9fc037"
 },{
@@ -20257,7 +20263,7 @@
 },{
     "level"   : "7",
     "title"   : "X Another14key",
-    "artist"  : "sasakure.UK obj:UCC",
+    "artist"  : "sasakure.UK obj:UCC *SUD+",
     "comment" : "UNIVERSE",
     "md5"     : "97a2ef62f32eb9abbca66c169b2d6f75"
 },{
@@ -20587,7 +20593,7 @@
 },{
     "level"   : "7",
     "title"   : "仲間を求めて [DP Borealis]",
-    "artist"  : "yassu / obj.箕作",
+    "artist"  : "yassu / obj.箕作 *L.MIRROR",
     "comment" : "Final Fantasy 6",
     "md5"     : "c35ea8d5a1b2e75890598f142a133b5a"
 },{
@@ -20596,12 +20602,6 @@
     "artist"  : "ULTRA-PRISM(Bms:KOUICHI) OBJ : KLOC  *L.MIRROR",
     "comment" : "ika song",
     "md5"     : "be8c0ae91ddb94baf0283ba6103be6c6"
-},{
-    "level"   : "7",
-    "title"   : "僕たちの旅とエピローグ。 [DPA]",
-    "artist"  : "ああああ obj:肴 *MAX+40",
-    "comment" : "game music",
-    "md5"     : "dd40f89de5d2f59d838c978e2a8fd7b5"
 },{
     "level"   : "7",
     "title"   : "八大地獄邪魂転生狂葬散火歌 [双・乃憂魔流]",
@@ -21304,12 +21304,6 @@
     "artist"  : "Team PAPERBOY *LR.RANDOM",
     "comment" : "Deliverance [14ANOTHER]",
     "md5"     : "89bdc7a8ef08ff7619bc54e8f8d94399"
-},{
-    "level"   : "8",
-    "title"   : "candy (neglected child) [DP ANOTHER]",
-    "artist"  : "CRUNCH from ELECTRIC駄菓子店 obj.BACO  *R.MIRROR",
-    "comment" : "MELANCHOLY",
-    "md5"     : "9e524ea81a70208ceda5b5326d10614c"
 },{
     "level"   : "8",
     "title"   : "Castor(BMS edit) -7+7key-",
@@ -23068,12 +23062,6 @@
     "artist"  : "Remixed By:夢幻 海 [DJ TAKUAN 及び 佐倉アヤキ] obj:ucc *FLIP LR.RANDOM",
     "comment" : "Symphonic",
     "md5"     : "e6bb1de41faa20c3971f0e144c224732"
-},{
-    "level"   : "8",
-    "title"   : "僕たちの旅とエピローグ。 [DP HYPER]",
-    "artist"  : "ああああ / obj:killer TOMATO",
-    "comment" : "game music",
-    "md5"     : "c97c32418db3abae79110cd8ecf26d75"
 },{
     "level"   : "8",
     "title"   : "円環の理 [DP ANOTHER]",
@@ -25146,6 +25134,12 @@
     "md5"     : "9a5b9a4d84550393357fb6b979307e32"
 },{
     "level"   : "9",
+    "title"   : "「無垢」について (14)",
+    "artist"  : "p.p. / o.c.",
+    "comment" : "",
+    "md5"     : "5616afbbed377b38d1cc0846e03086fb"
+},{
+    "level"   : "9",
     "title"   : "あい☆こんぷりーと [sub black another]",
     "artist"  : "ねこみりん feat.小宮真央 Movie:石王マサト / obj:kuro  *FLIP LR.MIRROR",
     "comment" : "AKIBA TECHROCK",
@@ -25894,6 +25888,12 @@
     "artist"  : "HOUJIROU / obj.LetsOTL",
     "comment" : "SPEED CORE",
     "md5"     : "af31a7f7dd25e74de552a672b69ddbd4"
+},{
+    "level"   : "10",
+    "title"   : "candy (neglected child) [DP ANOTHER]",
+    "artist"  : "CRUNCH from ELECTRIC駄菓子店 obj.BACO  *R.MIRROR",
+    "comment" : "MELANCHOLY",
+    "md5"     : "9e524ea81a70208ceda5b5326d10614c"
 },{
     "level"   : "10",
     "title"   : "Carezza",
@@ -27066,6 +27066,12 @@
     "md5"     : "4315ad2ad6df85064c3b2eb09117b908"
 },{
     "level"   : "10",
+    "title"   : "world devoid of you (fairydust radio edit) [Think]",
+    "artist"  : "void feat. Hiroko [obj:MGN]",
+    "comment" : "Euphoric Vocal J-Trance",
+    "md5"     : "9fe1d798275b9439b4ecc843843238ae"
+},{
+    "level"   : "10",
     "title"   : "world is Vanishing -Hope blooms in black hole- [LN MASTER]",
     "artist"  : "Initial-P/obj:epics- object by Initial-P / BGA by team : Colorful Channel  *FLIP",
     "comment" : "スパニッシュリキッド",
@@ -27721,7 +27727,7 @@
 },{
     "level"   : "★1",
     "title"   : "CallingMadness  -★-",
-    "artist"  : "MI-OH?",
+    "artist"  : "MI-OH? *FLIP",
     "comment" : "発狂BMS",
     "md5"     : "f4792b3ed2cdc244ecc731d593fc2c44"
 },{
@@ -28800,12 +28806,6 @@
     "md5"     : "fc9e006e79e1b013e865da7414a73d41"
 },{
     "level"   : "★2",
-    "title"   : "Destined Marionette (another14)",
-    "artist"  : "beatMARIO Obj.Gatia *R.MIRROR or FLIP R.MIRROR",
-    "comment" : "TECHNO",
-    "md5"     : "714ad864f995cc09de60e4ed470c6bb6"
-},{
-    "level"   : "★2",
     "title"   : "Doitz No.9",
     "artist"  : "新装姉妹 *SUD+ MAXBPM+40",
     "comment" : "SHOPPING CORE [DP DEUTSCH]",
@@ -29587,7 +29587,7 @@
 },{
     "level"   : "★2",
     "title"   : "戦歌「オルグラリヤ」",
-    "artist"  : "ルゼ",
+    "artist"  : "ルゼ *FLIP",
     "comment" : "DEATH CORE[14ANOTHER]",
     "md5"     : "9ab92d6e89dd25ed7ccd97051109d31c"
 },{
@@ -30475,7 +30475,7 @@
 },{
     "level"   : "★3",
     "title"   : "僕たちの旅とエピローグ。 [DP ANOTHER]",
-    "artist"  : "ああああ / obj:killer TOMATO *FLIP LR.MIRROR",
+    "artist"  : "ああああ / obj:killer TOMATO",
     "comment" : "game music",
     "md5"     : "7bb530b4c0bbb92fd4f25ab908d82e6b"
 },{
@@ -30838,6 +30838,12 @@
     "artist"  : "[IX] / BGA : EMSH / obj:nabisco",
     "comment" : "Trance",
     "md5"     : "b58bb5cca982be6753235bbf6fd0be4b"
+},{
+    "level"   : "★4",
+    "title"   : "Destined Marionette (another14)",
+    "artist"  : "beatMARIO Obj.Gatia *R.MIRROR or FLIP R.MIRROR",
+    "comment" : "TECHNO",
+    "md5"     : "714ad864f995cc09de60e4ed470c6bb6"
 },{
     "level"   : "★4",
     "title"   : "DIFINITION OF INSANITY [DP EXTRA]",
@@ -33091,7 +33097,7 @@
 },{
     "level"   : "★6",
     "title"   : "Alastor [ANQTHER]",
-    "artist"  : "鳩 / obj:QJITAI *FLIP",
+    "artist"  : "鳩 / obj:QJITAI",
     "comment" : "DarkBreaks",
     "md5"     : "a25814fbc3f9e1c72d0b50c41e1fb208"
 },{
