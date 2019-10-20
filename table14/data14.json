@@ -19963,7 +19963,7 @@
 },{
     "level"   : "7",
     "title"   : "SHOUT OMG [14key]",
-    "artist"  : "トツマル / obj:shita *FLIP",
+    "artist"  : "トツマル / obj:shita",
     "comment" : "SPEEDCORE",
     "md5"     : "c9d473b9fe04b7571ba0d27ff0481c8b"
 },{
@@ -20809,7 +20809,7 @@
 },{
     "level"   : "7",
     "title"   : "春の復活 (The Return of Spring)",
-    "artist"  : "Galen Borson",
+    "artist"  : "Galen Borson *SUD+",
     "comment" : "ARTCORE",
     "md5"     : "06b59889343d7680b7798b3c65ffd82b"
 },{
@@ -21328,6 +21328,12 @@
     "artist"  : "ZUN remixed by翡乃イスカ Obj:ゆ～兎",
     "comment" : "Midnight HARDCORE",
     "md5"     : "a38d4962ad34dbab32a513c20ef8c7f5"
+},{
+    "level"   : "8",
+    "title"   : "Blue Moment [DP ANOTHER]",
+    "artist"  : "nixx × mentalstock *FLIP R.MIRROR",
+    "comment" : "TECHNO",
+    "md5"     : "30c25dbee8850ff39a348eb59ee68050"
 },{
     "level"   : "8",
     "title"   : "BLUE SCREAM [14 WHITE SCREAM]",
@@ -23712,10 +23718,10 @@
     "md5"     : "a2ed4a85bbdd048d21dd341e88dee188"
 },{
     "level"   : "9",
-    "title"   : "Blue Moment [DP ANOTHER]",
-    "artist"  : "nixx × mentalstock *FLIP R.MIRROR",
+    "title"   : "Blue Moment [trek14]",
+    "artist"  : "nixx × mentalstock obj:Silvercreek Dam R  *FLIP",
     "comment" : "TECHNO",
-    "md5"     : "30c25dbee8850ff39a348eb59ee68050"
+    "md5"     : "c978998c05316e02204a83d960de2b73"
 },{
     "level"   : "9",
     "title"   : "Blue Wing [14keys Maniac]",
@@ -25986,10 +25992,10 @@
     "md5"     : "5e7f943f46e09f467bb85c29f865955a"
 },{
     "level"   : "10",
-    "title"   : "Blue Moment [trek14]",
-    "artist"  : "nixx × mentalstock obj:Silvercreek Dam R  *FLIP",
+    "title"   : "Blue Moment [tektrek14]",
+    "artist"  : "nixx × mentalstock",
     "comment" : "TECHNO",
-    "md5"     : "c978998c05316e02204a83d960de2b73"
+    "md5"     : "545881cc12478a59a4398881b4b61263"
 },{
     "level"   : "10",
     "title"   : "blue traces [There is no evidence]",
@@ -26464,6 +26470,12 @@
     "artist"  : "れおん *R.MIRROR",
     "comment" : "Symphonic Synth",
     "md5"     : "98f7618e420bcb3cd661f8f52a5fe9be"
+},{
+    "level"   : "10",
+    "title"   : "Infomorph [sub black another]",
+    "artist"  : "ETIA. feat. Jenga obj:kuro Movie: vol-t  *FLIP",
+    "comment" : "DRUM'N'BASS",
+    "md5"     : "3bb2f03aa5cf5656bb52b3e6b881f725"
 },{
     "level"   : "10",
     "title"   : "insolence feat. Golmont [14keys Hyper]",
@@ -27846,12 +27858,6 @@
     "md5"     : "b1fe91c37f001a6936eb6fa5e736537f"
 },{
     "level"   : "★1",
-    "title"   : "Blue Moment [tektrek14]",
-    "artist"  : "nixx × mentalstock",
-    "comment" : "TECHNO",
-    "md5"     : "545881cc12478a59a4398881b4b61263"
-},{
-    "level"   : "★1",
     "title"   : "blue traces [ANOTHER]",
     "artist"  : "keyc obj:NEPIA *FLIP",
     "comment" : "TRANCE",
@@ -28132,12 +28138,6 @@
     "artist"  : "ETIA. feat. Jenga obj:kuro Movie: HDLV",
     "comment" : "HYBRIDIZED J-CORE",
     "md5"     : "9aefd2086535bf871ebe3639fdfa992e"
-},{
-    "level"   : "★1",
-    "title"   : "Infomorph [sub black another]",
-    "artist"  : "ETIA. feat. Jenga obj:kuro Movie: vol-t  *FLIP",
-    "comment" : "DRUM'N'BASS",
-    "md5"     : "3bb2f03aa5cf5656bb52b3e6b881f725"
 },{
     "level"   : "★1",
     "title"   : "Is This Your Memory? [Flashes]",
@@ -29119,7 +29119,7 @@
 },{
     "level"   : "★2",
     "title"   : "IKAROS [DP sub black another]",
-    "artist"  : "ETIA. feat. Jenga obj:kuro Movie: HDLV  *FLIP LR.MIRROR",
+    "artist"  : "ETIA. feat. Jenga obj:kuro Movie: HDLV",
     "comment" : "HYBRIDIZED J-CORE",
     "md5"     : "b02d6d3cd6ac83045cbe28be13f53cde"
 },{
@@ -30181,7 +30181,7 @@
 },{
     "level"   : "★3",
     "title"   : "Imperial Strike [Yupither]",
-    "artist"  : "itaojirou obj:ゆ～兎 vs 檻",
+    "artist"  : "itaojirou obj:ゆ～兎 vs 檻  *L.MIRROR",
     "comment" : "happy hardcore",
     "md5"     : "96947302405f841d0c8f8f0a40beb1a9"
 },{
@@ -30520,6 +30520,12 @@
     "artist"  : "Frums obj: Telperion  *AVERAGE",
     "comment" : "EXPERIMENTAL",
     "md5"     : "a124e73eb8a6bccacd492e4cddb821dc"
+},{
+    "level"   : "★3",
+    "title"   : "Tiro finale [DP DELAY]",
+    "artist"  : "巴マミとキュゥべえ / obj 穂海 *FLIP LR.RANDOM",
+    "comment" : "円環の理",
+    "md5"     : "fbabe7a22a9fc99f7ba165e1edb68031"
 },{
     "level"   : "★3",
     "title"   : "Tom & Jerry (& Tuffy) Stage A [DP JERRY]",
@@ -31183,7 +31189,7 @@
 },{
     "level"   : "★4",
     "title"   : "furioso melodia [VerA]",
-    "artist"  : "witch's slave Graphic : koavenit  *FLIP LR.MIR",
+    "artist"  : "witch's slave Graphic : koavenit  *FLIP L.MIR or L.MIR",
     "comment" : "GOTHIC HARDCORE",
     "md5"     : "6916db29f791b2b52e08f605a5e7346e"
 },{
@@ -31690,12 +31696,6 @@
     "artist"  : "ねこみみ魔法使い (obj:k)",
     "comment" : "Synth Rock",
     "md5"     : "b4a7c2becc28426fbea8dd6494f2a6c4"
-},{
-    "level"   : "★4",
-    "title"   : "Tiro finale [DP DELAY]",
-    "artist"  : "巴マミとキュゥべえ / obj 穂海 *FLIP LR.RANDOM",
-    "comment" : "円環の理",
-    "md5"     : "fbabe7a22a9fc99f7ba165e1edb68031"
 },{
     "level"   : "★4",
     "title"   : "Total Eclipse of the Sun [DP total eclipse]",
@@ -32442,12 +32442,6 @@
     "md5"     : "3d6216c00ac84b17717a68784b38fc7f"
 },{
     "level"   : "★5",
-    "title"   : "Jack-the-Ripper◆◇",
-    "artist"  : "sasakure.UK obj:ucc *MAX+10 FLIP",
-    "comment" : "progressive",
-    "md5"     : "4aafb68a6e8a1b8c8ccc0cd4f876fffa"
-},{
-    "level"   : "★5",
     "title"   : "Justitia (DP CHALLENGER+)",
     "artist"  : "kanoryo feat.Hanon obj:kuro",
     "comment" : "Intelligent meets GABBA",
@@ -32518,12 +32512,6 @@
     "artist"  : "recognize m. / BGAnimation retu obj:ado *R.MIRROR",
     "comment" : "house",
     "md5"     : "ae2afa0caf2e3cbcec9ea0b789ad3b07"
-},{
-    "level"   : "★5",
-    "title"   : "M-A (DP 最近)",
-    "artist"  : "Musical Masterpiece / obj: エレクリだーーー！！ *FLIP LR.MIRROR",
-    "comment" : "MM SEQUENCER",
-    "md5"     : "471ff86f37a6c2b179a5b44896b6216c"
 },{
     "level"   : "★5",
     "title"   : "M-A (DP ちょっと昔)",
@@ -32770,12 +32758,6 @@
     "artist"  : "M / obj : lemon_aided *FLIP L.MIR or FLIP R.MIR or FLIP LR.RAN",
     "comment" : "4096",
     "md5"     : "9c8717af19609686427f4b5512ade424"
-},{
-    "level"   : "★5",
-    "title"   : "Tavatarduster -TAVATARより愛を込めて- <DP ANOTHER>",
-    "artist"  : "DJ ZUMMER feat. MC TUMMER Lovers T BGA by S-BLUE a.k.a 4UMMER  *MAX+50 SUD+",
-    "comment" : "Cacophony Style ZUMMERCORE",
-    "md5"     : "553aca64b6e517b4d525c7ca5884b581"
 },{
     "level"   : "★5",
     "title"   : "Tekno Tribe",
@@ -33589,7 +33571,7 @@
 },{
     "level"   : "★6",
     "title"   : "Lasting Dream (KOOKY)",
-    "artist"  : "ω",
+    "artist"  : "ω *L.MIRROR",
     "comment" : "PRELUDE",
     "md5"     : "56cfdb070bbd7d8cf55dba354c53d452"
 },{
@@ -33628,6 +33610,12 @@
     "artist"  : "Potwi + Alice + a-m / いち obj:nBel",
     "comment" : "Lapse Observer",
     "md5"     : "00507351968af8e4e53eb2176aec2c73"
+},{
+    "level"   : "★6",
+    "title"   : "M-A (DP 最近)",
+    "artist"  : "Musical Masterpiece / obj: エレクリだーーー！！ *FLIP LR.MIRROR",
+    "comment" : "MM SEQUENCER",
+    "md5"     : "471ff86f37a6c2b179a5b44896b6216c"
 },{
     "level"   : "★6",
     "title"   : "M-A†leggendaria",
@@ -33846,6 +33834,12 @@
     "md5"     : "81f9b09f907bef15dd2252552aefc2ed"
 },{
     "level"   : "★6",
+    "title"   : "Tavatarduster -TAVATARより愛を込めて- <DP ANOTHER>",
+    "artist"  : "DJ ZUMMER feat. MC TUMMER Lovers T BGA by S-BLUE a.k.a 4UMMER  *OFF230->160",
+    "comment" : "Cacophony Style ZUMMERCORE",
+    "md5"     : "553aca64b6e517b4d525c7ca5884b581"
+},{
+    "level"   : "★6",
     "title"   : "Thaumaturgy [Sanctus]",
     "artist"  : "qfeileadh as xuxuezique BGI : 睦月ふみよ obj:nBel  *正規 or LR.RAN",
     "comment" : "Entertain Me",
@@ -33949,7 +33943,7 @@
 },{
     "level"   : "★6",
     "title"   : "ZENITHALIZE [練習]",
-    "artist"  : "姉ヶ崎 寧々 / obj:ED BGA : photonskyto  *FLIP R.MIR",
+    "artist"  : "姉ヶ崎 寧々 / obj:ED BGA : photonskyto  *FLIP L.MIR",
     "comment" : "FULL ON",
     "md5"     : "d5d5c7f98d1656211ca5b8ca2c965cc5"
 },{
@@ -34396,6 +34390,12 @@
     "artist"  : "篠螺悠那 feat. 鯛の小骨 obj.係長 / reobj.Hador *FLIP R.MIRROR",
     "comment" : "Euro Rave",
     "md5"     : "4a03b858c777ffee9f511ea2a02c5923"
+},{
+    "level"   : "★7",
+    "title"   : "Jack-the-Ripper◆◇",
+    "artist"  : "sasakure.UK obj:ucc *R.MIR or L.MIR",
+    "comment" : "progressive",
+    "md5"     : "4aafb68a6e8a1b8c8ccc0cd4f876fffa"
 },{
     "level"   : "★7",
     "title"   : "jigsaw colors (white)",
