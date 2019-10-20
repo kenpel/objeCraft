@@ -564,6 +564,12 @@
     "md5"     : "f7b740cbc287fdd26b087e070fa5c0f5"
 },{
     "level"   : "2",
+    "title"   : "happy century ~NORMAL~",
+    "artist"  : "recognize m.",
+    "comment" : "rapid pop",
+    "md5"     : "ee3832398a39fb8667b51890714002bb"
+},{
+    "level"   : "2",
     "title"   : "Ire",
     "artist"  : "rife *LR.MIRROR",
     "comment" : "Nu Skool Breaks",
@@ -886,6 +892,12 @@
     "artist"  : "12x",
     "comment" : "techno",
     "md5"     : "450b32fe518c4c79a188f95083e0963e"
+},{
+    "level"   : "4",
+    "title"   : "DRAGONLADY ~HARD~",
+    "artist"  : "Nankumo",
+    "comment" : "HAPPY",
+    "md5"     : "8ee094f224a592d1d9d3b5c9a6458c68"
 },{
     "level"   : "4",
     "title"   : "ERIS ~HARD~",
@@ -1380,6 +1392,12 @@
     "md5"     : "9a5edb4be9bc7247b6f12d7cb2534183"
 },{
     "level"   : "7",
+    "title"   : "Angelic Layer ~SUPER HARD~",
+    "artist"  : "SHIKI",
+    "comment" : "TRANCE",
+    "md5"     : "3eef49aba3ac185171e5a07e63d6e614"
+},{
+    "level"   : "7",
     "title"   : "Aqua Regia Squall",
     "artist"  : "DJ owl-light vs xi",
     "comment" : "DARKSTEP MIX",
@@ -1756,6 +1774,12 @@
     "artist"  : "Yamajet (remix by Mr.Mazuyama)  *SUD+ AVERAGE-60",
     "comment" : "BREAK CORE",
     "md5"     : "25dba6607feff720ca8bb139d53f6f29"
+},{
+    "level"   : "10",
+    "title"   : "The Formula ~SUPER HARD~",
+    "artist"  : "Junk *LR.MIRROR",
+    "comment" : "TRANCE",
+    "md5"     : "3a7866fb329e8408845810b3faf14780"
 },{
     "level"   : "10",
     "title"   : "Utopiangela ~HARD~",
