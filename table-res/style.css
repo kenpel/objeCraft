@@ -1,6 +1,6 @@
 body {
+    background-color: #101000;
     color: #ffffee;
-    background-color: #222222;
     line-height: 1.5;
 }
 
@@ -8,37 +8,28 @@ h1 {
     text-align: center;
 }
 
-body a:link {
+a:link {
     color: cyan;
 }
 
-body a:visited {
+a:visited {
     color: orchid;
 }
 
 #difficulty_index {
-    text-align: center;
-    margin: auto auto;
     border-style: dashed;
     border-width: 2px;
+    margin: auto auto;
+    text-align: center;
 }
 
 #difficulty_table {
-    color: white;
-    text-align: center;
     border-collapse: separate;
     border-spacing: 1px;
+    color: white;
     table-layout: fixed;
+    text-align: center;
     width: 100%;
-}
-
-#difficulty_table tr {
-    transition-property: color, background-color;
-    transition-duration: 0.2s;
-}
-
-#difficulty_table .level {
-    width: 4em;
 }
 
 #difficulty_table a:link {
@@ -49,20 +40,24 @@ body a:visited {
     color: purple;
 }
 
-.tr_header {
+#difficulty_table td.level {
+    width: 4em;
+}
+
+#difficulty_table tr.tr_header {
     background-color: #666666;
 }
 
-.tr_separate {
+#difficulty_table tr.tr_separate {
     background-color: #aaaaaa;
     text-shadow: 2px 2px 2px #222222;
 }
 
-.tr_normal {
-    color: black;
+#difficulty_table tr.tr_normal {
     background-color: #eeeeee;
+    color: black;
 }
 
-.tr_normal:hover {
+#difficulty_table tr.tr_normal:hover {
     background-color: #70f0f0;
 }
