@@ -1248,6 +1248,12 @@
     "md5"     : "bcb6165b2546b53d9a1ba34f09b2fbb4"
 },{
     "level"   : "?",
+    "title"   : "ブロリーでonly my railgun",
+    "artist"  : "fripside with ブロリー *SP譜面",
+    "comment" : "とある野菜の超デデーン磁砲",
+    "md5"     : "d53b4d52025d8dfcf3139e7180ceb7cb"
+},{
+    "level"   : "?",
     "title"   : "ホムーラン [14点]",
     "artist"  : "路傍の石 Original:中潟憲雄 Obj:花中島 マサル *FLIP L.MIRROR",
     "comment" : "Chiptune",
@@ -4782,6 +4788,12 @@
     "md5"     : "bfbcea58cd5af6cab6e39bfdf9a3b7d3"
 },{
     "level"   : "2",
+    "title"   : "Bahamut  [DP ANOTHER]",
+    "artist"  : "しらいし obj: misty.ls04  *R.MIRROR",
+    "comment" : "CLASSICAL TRANCE",
+    "md5"     : "b3dc3b93f513032b51268f235e8901be"
+},{
+    "level"   : "2",
     "title"   : "Bang Bang Dan Gan [DP ANOTHER]",
     "artist"  : "C.S.Port/obj:epics-",
     "comment" : "K-POP",
@@ -7518,6 +7530,12 @@
     "md5"     : "b503db9947a9440b2f8db136c071ddae"
 },{
     "level"   : "3",
+    "title"   : "Death Waltz [DP ANOTHER]",
+    "artist"  : "Shinji Hirako *FLIP",
+    "comment" : "Death Waltz",
+    "md5"     : "c26be3a350ae80e0cf5aa8d3bf38cd12"
+},{
+    "level"   : "3",
     "title"   : "Deep blue",
     "artist"  : "EarBreaker/P.Crel *R.MIRROR",
     "comment" : "ambient(14keys)",
@@ -8716,12 +8734,6 @@
     "artist"  : "primrose / obj:2y",
     "comment" : "リンカーネーション",
     "md5"     : "06bec6d434189370d5e82695b1e670fc"
-},{
-    "level"   : "3",
-    "title"   : "Shock Waltz -DP ANOTHER-",
-    "artist"  : "Is-m BGA:AOiRO_Manbow  *FLIP",
-    "comment" : "HARD CORE",
-    "md5"     : "2844ef63f36c4d9026de0f3514508c94"
 },{
     "level"   : "3",
     "title"   : "Silver Heaven",
@@ -10114,12 +10126,6 @@
     "artist"  : "trance masters SCTL feat. Linne Illustration by raw_PNG / Obj. 35",
     "comment" : "Trance Core",
     "md5"     : "70d45bbc9b5f66bd21b61dafc4fccc35"
-},{
-    "level"   : "4",
-    "title"   : "Bahamut  [DP ANOTHER]",
-    "artist"  : "しらいし obj: misty.ls04  *R.MIRROR",
-    "comment" : "CLASSICAL TRANCE",
-    "md5"     : "b3dc3b93f513032b51268f235e8901be"
 },{
     "level"   : "4",
     "title"   : "BEER -DP ANOTHER-",
@@ -11890,12 +11896,6 @@
     "artist"  : "USOTA FUMINORI design : absorb spanish",
     "comment" : "SF ELECTRO",
     "md5"     : "d2aa974e5ba749ca8d27c5460c042437"
-},{
-    "level"   : "4",
-    "title"   : "Uranus (14A)",
-    "artist"  : "Est *FLIP",
-    "comment" : "ELECTROSHOCK",
-    "md5"     : "f1ad7163cabcf5d45602d932f1e21547"
 },{
     "level"   : "4",
     "title"   : "Urban Renewal [A14]",
@@ -14290,6 +14290,12 @@
     "artist"  : "chan + Lul / obj:ue",
     "comment" : "TECHNO POP",
     "md5"     : "f944584713b6b3ae279bcbfc002f46cd"
+},{
+    "level"   : "5",
+    "title"   : "Shock Waltz -DP ANOTHER-",
+    "artist"  : "Is-m BGA:AOiRO_Manbow  *FLIP",
+    "comment" : "HARD CORE",
+    "md5"     : "2844ef63f36c4d9026de0f3514508c94"
 },{
     "level"   : "5",
     "title"   : "Smile rocks",
@@ -17322,6 +17328,12 @@
     "md5"     : "dee5b73aef940b96009e69cf2da1d676"
 },{
     "level"   : "6",
+    "title"   : "Uranus (14A)",
+    "artist"  : "Est *FLIP",
+    "comment" : "ELECTROSHOCK",
+    "md5"     : "f1ad7163cabcf5d45602d932f1e21547"
+},{
+    "level"   : "6",
     "title"   : "Vajuranda [BGA DP ANOTHER]",
     "artist"  : "Lightning Obj:ゆ～兎",
     "comment" : "elemental breaks",
@@ -17476,6 +17488,12 @@
     "artist"  : "G.G",
     "comment" : "TRANCE",
     "md5"     : "48b0912a4d8312f2e425c6f29a241eaf"
+},{
+    "level"   : "6",
+    "title"   : "zodiac (OTHER14)",
+    "artist"  : "G.G *FLIP or LR.MIRROR",
+    "comment" : "TRANCE",
+    "md5"     : "d0bcff529fe17cf19f5564f5547ce559"
 },{
     "level"   : "6",
     "title"   : "§†гё∂㎡",
@@ -23293,7 +23311,7 @@
 },{
     "level"   : "8",
     "title"   : "本格的 ガチムチクラブミュージック ドラムステップ編",
-    "artist"  : "cybermiso(mov.HYOUTAN)",
+    "artist"  : "cybermiso(mov.HYOUTAN) *SUD+ FLIP",
     "comment" : "DRUMSTEP",
     "md5"     : "b480505c0ddfebd5347cc54a5b99ec03"
 },{
@@ -24511,7 +24529,7 @@
 },{
     "level"   : "9",
     "title"   : "macaron [DP えぬTHER-]",
-    "artist"  : "Est  obj ; N *FLIP",
+    "artist"  : "Est  obj ; N *L.MIRROR",
     "comment" : "HAPPY",
     "md5"     : "eac76f8e3cae2ca94b2c018b8932a184"
 },{
@@ -25384,6 +25402,12 @@
     "artist"  : "ノクティス・江口・チェラム obj;kuro",
     "comment" : "IRREGULAR HI-BREAK",
     "md5"     : "d6a2f738b3d383db092e65b46a86a829"
+},{
+    "level"   : "9",
+    "title"   : "ブロリーでonly my railgun",
+    "artist"  : "fripside with ブロリー",
+    "comment" : "とある野菜の超デデーン磁砲",
+    "md5"     : "cb58e8c6910eea5005f3098448acdc3d"
 },{
     "level"   : "9",
     "title"   : "プナイプナイせんそう [DP ☆NOTHER]",
@@ -27163,7 +27187,7 @@
 },{
     "level"   : "10",
     "title"   : "VALLISTA [DP Dystopia]",
-    "artist"  : "Sakuzyo/Mentalstock obj.Z_N",
+    "artist"  : "Sakuzyo/Mentalstock obj.Z_N  *SUD+",
     "comment" : "Overture / IDM",
     "md5"     : "257a5223f2c8cde547cfdc06610bcc90"
 },{
@@ -28968,6 +28992,12 @@
     "md5"     : "963af96d20154d718e8c88f05d0f927b"
 },{
     "level"   : "★2",
+    "title"   : "Daydreamer",
+    "artist"  : "Lime / Roaring Flame *FLIP R.MIRROR",
+    "comment" : "Hardcore",
+    "md5"     : "9b2eadc2498c3fb03f82cdfbb298ad5c"
+},{
+    "level"   : "★2",
     "title"   : "Daydreamer [Somnambulism]",
     "artist"  : "Lime / Roaring Flame / obj:alt",
     "comment" : "Hardcore",
@@ -29982,12 +30012,6 @@
     "md5"     : "a0e0552a5abf1a390f33ee1c3a63e974"
 },{
     "level"   : "★3",
-    "title"   : "Daydreamer",
-    "artist"  : "Lime / Roaring Flame *FLIP R.MIRROR",
-    "comment" : "Hardcore",
-    "md5"     : "9b2eadc2498c3fb03f82cdfbb298ad5c"
-},{
-    "level"   : "★3",
     "title"   : "DEADLINE (14keys Maniac)",
     "artist"  : "ZUMMER / obj:imit8or Image by Tsubame*",
     "comment" : "SPEEDCORE",
@@ -30019,7 +30043,7 @@
 },{
     "level"   : "★3",
     "title"   : "Destined Marionette [DP]",
-    "artist"  : "beatMARIO OBJ:KLOC",
+    "artist"  : "beatMARIO OBJ:KLOC  *R.MIRROR",
     "comment" : "TECHNO",
     "md5"     : "63e5fd68ee67017bcd2f05ba7385000a"
 },{
@@ -30178,6 +30202,12 @@
     "artist"  : "FOLiACETATE *R.MIRROR",
     "comment" : "COALENSCENT BREAKCORE",
     "md5"     : "e9df37c7f915cac00e86c5c86ac78c7f"
+},{
+    "level"   : "★3",
+    "title"   : "High-Priestess [GENOCIDE]",
+    "artist"  : "Luxion / Obj:ゆ～兎 *SUD+",
+    "comment" : "OVERKILL",
+    "md5"     : "5c1af26aeca11c281badbc81662597cd"
 },{
     "level"   : "★3",
     "title"   : "Imperial Strike [Yupither]",
@@ -31270,12 +31300,6 @@
     "artist"  : "FOLiACETATE",
     "comment" : "COALENSCENT BREAKCORE",
     "md5"     : "9c5da00a28236518feb445c673ef41ed"
-},{
-    "level"   : "★4",
-    "title"   : "High-Priestess [GENOCIDE]",
-    "artist"  : "Luxion / Obj:ゆ～兎",
-    "comment" : "OVERKILL",
-    "md5"     : "5c1af26aeca11c281badbc81662597cd"
 },{
     "level"   : "★4",
     "title"   : "I've Been Waiting For You [DP ANOTHER]",
@@ -32617,7 +32641,7 @@
 },{
     "level"   : "★5",
     "title"   : "P.S : Plasma Strike - 14 [EX]",
-    "artist"  : "Kinato/+- *R.MIRROR",
+    "artist"  : "Kinato/+- *FLIP",
     "comment" : "Techno Trance",
     "md5"     : "c1b018ec89a4f7208a25f05a7eee318e"
 },{
@@ -35071,7 +35095,7 @@
 },{
     "level"   : "★8",
     "title"   : "MENDES 本家Black Another",
-    "artist"  : "Humanoid Remixed by Hate obj:KONAMIのだれか *R.MIRROR or L.MIRROR",
+    "artist"  : "Humanoid Remixed by Hate obj:KONAMIのだれか *R.MIRROR",
     "comment" : "8bit mix",
     "md5"     : "3178f56bda4357d141bbe469d39debbb"
 },{
