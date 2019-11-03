@@ -18120,12 +18120,6 @@
     "md5"     : "543e864223cf915efe31011b2c6d78ba"
 },{
     "level"   : "6",
-    "title"   : "銀の風 [DP HYPER]",
-    "artist"  : "wa. remixed celas /obj;Frenzy BGA:TOHRU MiTSUHASHi",
-    "comment" : "hard nrg",
-    "md5"     : "8002c4ba4c89eefde2e82261527c894c"
-},{
-    "level"   : "6",
     "title"   : "鎖 -破-",
     "artist"  : "gmtn. visualized :: light motions *57 obj :: Psyk  *R.MIR",
     "comment" : "OTOGETIC CHAIN TECHNO <DP ANOTHER>",
@@ -23688,6 +23682,12 @@
     "md5"     : "03878db294265ae58099f87c1f826ff1"
 },{
     "level"   : "9",
+    "title"   : "BATTLE against 4 MICROPHONEs [14KEYS Hybrid]",
+    "artist"  : "BACO vs G.S. Patch crew *SUD+ MAX+20",
+    "comment" : "MC BATTLE",
+    "md5"     : "b0b1378e4d84065dba4e29c7aab19094"
+},{
+    "level"   : "9",
     "title"   : "Beatrice",
     "artist"  : "xi / obj : Ill",
     "comment" : "マジックジャズ[IDEAL]",
@@ -26377,7 +26377,7 @@
 },{
     "level"   : "10",
     "title"   : "FREEDOM DiVE [Another]",
-    "artist"  : "xi (obj:k) *R.MIR or L.MIR",
+    "artist"  : "xi (obj:k) *FLIP R.MIR or R.MIR",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "9cccf22b9610bf67b2d9ad3955e89c2e"
 },{
@@ -27720,6 +27720,12 @@
     "md5"     : "070ec084de32d19df2b2c79c7d50ed80"
 },{
     "level"   : "10",
+    "title"   : "銀の風 [DP HYPER]",
+    "artist"  : "wa. remixed celas /obj;Frenzy BGA:TOHRU MiTSUHASHi",
+    "comment" : "hard nrg",
+    "md5"     : "8002c4ba4c89eefde2e82261527c894c"
+},{
+    "level"   : "10",
     "title"   : "鎖 -急-",
     "artist"  : "gmtn. visualized :: light motions *57 obj :: Psyk  *FLIP",
     "comment" : "OTOGETIC CHAIN TECHNO <DP INSANE>",
@@ -27871,7 +27877,7 @@
 },{
     "level"   : "★1",
     "title"   : "beyond the limit -uranus-",
-    "artist"  : "Syatten / Hador *R.MIRROR",
+    "artist"  : "Syatten / Hador *FLIP LR.MIRROR",
     "comment" : "Trance",
     "md5"     : "0c9e0b649ffa4a5504f33e9065ff3c90"
 },{
@@ -32706,6 +32712,12 @@
     "md5"     : "c533dcf9dfd4911186785d725043a70d"
 },{
     "level"   : "★5",
+    "title"   : "Reinvent [DPかっぱ]",
+    "artist"  : "Sound Souler mov : Tagtraume / obj : tonbi",
+    "comment" : "Artcore",
+    "md5"     : "6065fac426e8113f7482a7fdf100f077"
+},{
+    "level"   : "★5",
     "title"   : "res extensa [DP EX]",
     "artist"  : "adamthix / obj.A- vs 綾 *FLIP LR.MIRROR",
     "comment" : "TECHNO",
@@ -34488,6 +34500,12 @@
     "md5"     : "83e52c2ba676a628601e6dc742000bea"
 },{
     "level"   : "★7",
+    "title"   : "MENDES 本家Black Another",
+    "artist"  : "Humanoid Remixed by Hate obj:KONAMIのだれか *R.MIRROR",
+    "comment" : "8bit mix",
+    "md5"     : "3178f56bda4357d141bbe469d39debbb"
+},{
+    "level"   : "★7",
     "title"   : "Moon-gate [Waxing]",
     "artist"  : "Music:しらいし obj:nBel *FLIP L.MIR or FLIP LR.MIR",
     "comment" : "Crystal Trance",
@@ -34885,7 +34903,7 @@
 },{
     "level"   : "★7",
     "title"   : "音楽 パガニーニの「ラ・カンパネラ」の主題より",
-    "artist"  : "弁士カンタビレオ *FLIP LR.MIRROR",
+    "artist"  : "弁士カンタビレオ *AVE-30? FLIP LR.MIR",
     "comment" : "サイレント",
     "md5"     : "0b0391376cfea843fbea9ca3b21bf8f7"
 },{
@@ -35092,12 +35110,6 @@
     "artist"  : "K's-traX *FLIP",
     "comment" : "SPEEDCORE",
     "md5"     : "9b372c67dcc5ca9d267bdf728c55bf47"
-},{
-    "level"   : "★8",
-    "title"   : "MENDES 本家Black Another",
-    "artist"  : "Humanoid Remixed by Hate obj:KONAMIのだれか *R.MIRROR",
-    "comment" : "8bit mix",
-    "md5"     : "3178f56bda4357d141bbe469d39debbb"
 },{
     "level"   : "★8",
     "title"   : "Moonless Night (14Another)",
