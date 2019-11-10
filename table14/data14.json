@@ -21247,7 +21247,7 @@
 },{
     "level"   : "8",
     "title"   : "B.B.K.K.B.K.K. (DP BASS vs KICK)",
-    "artist"  : "nora2r / 出前 / obj:ゆゆゆ！ *FLIP",
+    "artist"  : "nora2r / 出前 / obj:ゆゆゆ！ *LR.MIR or FLIP",
     "comment" : "UK HARDCORE",
     "md5"     : "98e33057a3e73a195dcc6a53ef4362ca"
 },{
@@ -22201,7 +22201,7 @@
 },{
     "level"   : "8",
     "title"   : "MooN [LN14]",
-    "artist"  : "Is-m obj:ucc BGA:coda",
+    "artist"  : "Is-m obj:ucc BGA:coda  *L.MIRROR",
     "comment" : "INFINITY",
     "md5"     : "7c112b64a1a53163a1f4f13fe7f33120"
 },{
@@ -23806,6 +23806,12 @@
     "artist"  : "naotyu- *FLIP",
     "comment" : "HipHop",
     "md5"     : "ebfff5c3d5ade4c5f53cdd745fdebd62"
+},{
+    "level"   : "9",
+    "title"   : "CHASER [DP sub black another]",
+    "artist"  : "SHIKI obj:kuro",
+    "comment" : "J-EURO",
+    "md5"     : "fa315caf44d1bfa0a6f9031b4e12a02a"
 },{
     "level"   : "9",
     "title"   : "cheeselove [DP insane]",
@@ -26082,12 +26088,6 @@
     "md5"     : "d547305427a0b02eade1551891d36606"
 },{
     "level"   : "10",
-    "title"   : "CHASER [DP sub black another]",
-    "artist"  : "SHIKI obj:kuro",
-    "comment" : "J-EURO",
-    "md5"     : "fa315caf44d1bfa0a6f9031b4e12a02a"
-},{
-    "level"   : "10",
     "title"   : "CHASER [DP CHALLENGER]",
     "artist"  : "SHIKI obj:kuro",
     "comment" : "J-EURO",
@@ -26383,7 +26383,7 @@
 },{
     "level"   : "10",
     "title"   : "fuga (ただの糞譜面)",
-    "artist"  : "WOOD Remixed by ACE /obj.waseda *FLIP R.MIRROR",
+    "artist"  : "WOOD Remixed by ACE /obj.waseda *R.MIR or FLIP R.MIR",
     "comment" : "classic",
     "md5"     : "473a1e39d0e65c1246af6239f265d421"
 },{
@@ -30505,7 +30505,7 @@
 },{
     "level"   : "★3",
     "title"   : "Senang Pesta! (Bari Bari mix)",
-    "artist"  : "DJ Alit from BALI (remix by DJ IKR) / obj:lichtr  *SUD+",
+    "artist"  : "DJ Alit from BALI (remix by DJ IKR) / obj:lichtr  *SUD+ FLIP LR.MIR",
     "comment" : "FUNKY KOTA",
     "md5"     : "7a9eefd817e7c1abafb94bf00a6251d8"
 },{
@@ -31663,7 +31663,7 @@
 },{
     "level"   : "★4",
     "title"   : "Scarlet Double Dance [DP NIGHTMARE]",
-    "artist"  : "REX / Obj:ゆ～兎 *LR.MIRROR",
+    "artist"  : "REX / Obj:ゆ～兎",
     "comment" : "DOUBLE ARRANGE",
     "md5"     : "9932da426d1c3f0097b0cb1872f93614"
 },{
@@ -31741,7 +31741,7 @@
 },{
     "level"   : "★4",
     "title"   : "Tripping In the Dream -14keys-",
-    "artist"  : "夢遊病 *FLIP LR.MIRROR",
+    "artist"  : "夢遊病 *SUD+ FLIP LR.MIR",
     "comment" : "( ~ω~)ｽﾔｧ…",
     "md5"     : "e6c8f21ba04a9a46a60b67ece9c3cfd3"
 },{
@@ -31771,7 +31771,7 @@
 },{
     "level"   : "★4",
     "title"   : "Valhalla [DP EX]",
-    "artist"  : "xi / obj:Louis",
+    "artist"  : "xi / obj:Louis *SUD+",
     "comment" : "NORSE MYTHOLOGY",
     "md5"     : "b1424988985b2cb72c308cd8db4d1ac9"
 },{
@@ -31939,7 +31939,7 @@
 },{
     "level"   : "★4",
     "title"   : "ニライカナイ -World Of Dystopia-",
-    "artist"  : "sweez & Meine Meinung",
+    "artist"  : "sweez & Meine Meinung *FLIP L.MIRROR",
     "comment" : "HOUSE",
     "md5"     : "6036a742b6dcda56dbf0db2c968b65ee"
 },{
@@ -33769,7 +33769,7 @@
 },{
     "level"   : "★6",
     "title"   : "Papillon (14key Ant)",
-    "artist"  : "Symphonian / Personality",
+    "artist"  : "Symphonian / Personality *FLIP or L.MIR",
     "comment" : "Full On",
     "md5"     : "3be9f48693f961db3c1db478910a5f86"
 },{
@@ -34201,7 +34201,7 @@
 },{
     "level"   : "★6",
     "title"   : "魔法少年は月夜にマワる (DP ANOTHER)",
-    "artist"  : "ジーニアスかわいい！！ *L.MIR R.RAN",
+    "artist"  : "ジーニアスかわいい！！ *SUD+ L.MIR R.RAN",
     "comment" : "SWING FLEBILE",
     "md5"     : "e92c5d3019bc0ccbc853b630a7e7c49f"
 },{
@@ -34237,7 +34237,7 @@
 },{
     "level"   : "★7",
     "title"   : "Akasha",
-    "artist"  : "神崎蘭子 *FLIP or LR.MIRROR",
+    "artist"  : "神崎蘭子 *LR.MIR or FLIP",
     "comment" : "Orchestral",
     "md5"     : "cc0343b573f45753b31f6055c417acba"
 },{
@@ -35467,7 +35467,7 @@
 },{
     "level"   : "★9",
     "title"   : "E reviver -imaging you- [Relife14]",
-    "artist"  : "美月 正 (obj: Beatnoob)",
+    "artist"  : "美月 正 (obj: Beatnoob) *SUD+",
     "comment" : "romantix",
     "md5"     : "849cf9edf92bcecf39929fda1e383ec9"
 },{
