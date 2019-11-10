@@ -726,6 +726,12 @@
     "md5"     : "0091e19abaf44d3f54d6f4f5e0be50c3"
 },{
     "level"   : "3",
+    "title"   : "End Time ~NORMAL~",
+    "artist"  : "Cres",
+    "comment" : "ReQuiEm tRanCe",
+    "md5"     : "78f866fa2bbe1afef8aa848a1a9b7455"
+},{
+    "level"   : "3",
     "title"   : "Fanciful False -DP 5KEY-",
     "artist"  : "Is-m/steelyvibe BGA:q/stol  *LR.MIRROR",
     "comment" : "DRUM'N'BASS",
@@ -1830,6 +1836,12 @@
     "md5"     : "d36dced741562c27aa1aa7e30833debe"
 },{
     "level"   : "★1",
+    "title"   : "Ascension to Heaven ~HARD~",
+    "artist"  : "xi *LR.RANDOM",
+    "comment" : "ARTCORE",
+    "md5"     : "4e3ceaee9bfe04da99b88ba45e20f3f7"
+},{
+    "level"   : "★1",
     "title"   : "Calamity Fortune ~SUPER HARD~",
     "artist"  : "ZUN remixed by LeaF *LR.MIRROR",
     "comment" : "EMOTIONAL HARDCORE TECHNO",
@@ -1954,6 +1966,12 @@
     "artist"  : "DELETE feat. void",
     "comment" : "Act / Wars",
     "md5"     : "902174c91116f14380899c3ab3677582"
+},{
+    "level"   : "★3",
+    "title"   : "conflict ~SUPER HARD~",
+    "artist"  : "siromaru + cranky // movie: iimo *LR.MIRROR",
+    "comment" : "HARMONIC SCHRANZ",
+    "md5"     : "f0106782b0c6cf823ea32e0aa73ec883"
 },{
     "level"   : "★3",
     "title"   : "happy century ~HARD~",
@@ -2146,6 +2164,12 @@
     "artist"  : "黄泉路テヂーモ",
     "comment" : "echolocation",
     "md5"     : "6da20d68775530e323aabc481a687127"
+},{
+    "level"   : "★5",
+    "title"   : "円環の理 ~HARD~",
+    "artist"  : "鹿目まどか *LR.RANDOM",
+    "comment" : "ENTROPY",
+    "md5"     : "557a9f0f644d804fd4e15963703af9ae"
 },{
     "level"   : "★6",
     "title"   : "B.B.K.K.B.K.K. ~SUPER HARD~",
