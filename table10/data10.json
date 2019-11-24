@@ -1176,6 +1176,12 @@
     "md5"     : "12d10fa20123e844973a1131bd9890f1"
 },{
     "level"   : "5",
+    "title"   : "FREEDOM DiVE↓ ~HARD~",
+    "artist"  : "xi",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "28398b9cb76ca382d227d7712f39ca64"
+},{
+    "level"   : "5",
     "title"   : "groundbreaker",
     "artist"  : "6yen",
     "comment" : "TECHNO",
@@ -1192,6 +1198,12 @@
     "artist"  : "ARMYTOM/LU",
     "comment" : "spatial",
     "md5"     : "80519b4161b2f6072997b350ff9bfff7"
+},{
+    "level"   : "5",
+    "title"   : "Illusion of Mind ~NORMAL~",
+    "artist"  : "P4koo",
+    "comment" : "Melodic NRG",
+    "md5"     : "e92eb1f884b1c9ca5e93ccb395ae46d7"
 },{
     "level"   : "5",
     "title"   : "n a n o d e l i c -10hard-",
@@ -1378,6 +1390,12 @@
     "artist"  : "paraoka *SUD+",
     "comment" : "bigbeat(DP/another)",
     "md5"     : "5145a4d2c70c1afe389c4eb41271cb64"
+},{
+    "level"   : "6",
+    "title"   : "円環の理 ~NORMAL~",
+    "artist"  : "鹿目まどか",
+    "comment" : "ENTROPY",
+    "md5"     : "20cd64546613f79a2df4473b946b10a3"
 },{
     "level"   : "7",
     "title"   : "07xx1999 complete [10key]",
@@ -1612,6 +1630,12 @@
     "artist"  : "Neun_jack *LR.MIRROR",
     "comment" : "NEURO FUNK",
     "md5"     : "2227fdd48c7e645deff3c4ccbdc8083e"
+},{
+    "level"   : "9",
+    "title"   : "Ocean Memory ~HARD~",
+    "artist"  : "Junk",
+    "comment" : "HYPER TRANCE",
+    "md5"     : "35e68a158c8cd5db5a299febcac39b9e"
 },{
     "level"   : "9",
     "title"   : "only my railgun ~HARD~",
@@ -1906,6 +1930,12 @@
     "artist"  : "Remixed by Octa the B.G. *SUD+",
     "comment" : "freestyle",
     "md5"     : "6447a99febe7c1c1d69a6447e8f67587"
+},{
+    "level"   : "★2",
+    "title"   : "HAPPY CIRCULATION ~SUPER HARD~",
+    "artist"  : "enxel",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "2a2d19695f1760c3c8a6f3402fb6154b"
 },{
     "level"   : "★2",
     "title"   : "PLASTIC GIRLS ~SUPER HARD~",
@@ -2459,6 +2489,12 @@
     "comment" : "Progressive Fantasia",
     "md5"     : "db7d1634938db92cfb8c718d511cc3e0"
 },{
+    "level"   : "★8",
+    "title"   : "臨終 ~SUPER HARD~",
+    "artist"  : "Lunatic Sounds",
+    "comment" : "Drum n Bass",
+    "md5"     : "0505f035acced777095f4f2211075cb7"
+},{
     "level"   : "★9",
     "title"   : "Gun to Childhead (A)",
     "artist"  : "eicateve / Mentalstock / objeCraft",
@@ -2512,6 +2548,12 @@
     "artist"  : "D.J.Nero",
     "comment" : "RENAISSANCE",
     "md5"     : "b3c685c5816490e718f496bd8b78e885"
+},{
+    "level"   : "★10",
+    "title"   : "SunnyShinyRing ~SUPER HARD~",
+    "artist"  : "みここ ＆ 虹野ひかり *LR.MIRROR",
+    "comment" : "Happy",
+    "md5"     : "f7c22731880d9d44da2712d513e86c78"
 },{
     "level"   : "★10",
     "title"   : "★So SweeT LittlE HearT★ ~SUPER HARD~",
