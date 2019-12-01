@@ -942,6 +942,12 @@
     "md5"     : "27f86904aa782eb8b8a8e04c74e50237"
 },{
     "level"   : "4",
+    "title"   : "Kaiden Aura ~NORMAL~",
+    "artist"  : "yukitani / HYOUTAN",
+    "comment" : "Nerd Mixture",
+    "md5"     : "65d4ceb2f679593e66bf1e41303439e7"
+},{
+    "level"   : "4",
     "title"   : "Lasting Dream ~HARD~",
     "artist"  : "ω",
     "comment" : "PRELUDE",
@@ -1440,6 +1446,12 @@
     "md5"     : "e409f1e7830fcbcf0517ae9c27ee0efc"
 },{
     "level"   : "7",
+    "title"   : "Childie Sharp ~SUPER HARD~",
+    "artist"  : "nmk feat.KANAE YUME",
+    "comment" : "EUROBEAT",
+    "md5"     : "23c97d177da48cae120729de1b7b0e3c"
+},{
+    "level"   : "7",
     "title"   : "RAY ~HARD~",
     "artist"  : "MILK",
     "comment" : "HARD TRANCE",
@@ -1594,6 +1606,12 @@
     "artist"  : "ZUN remixed by LeaF *LR.RANDOM",
     "comment" : "EMOTIONAL HARDCORE TECHNO",
     "md5"     : "de26532edf30fa8e8601a9ea07b1e54c"
+},{
+    "level"   : "9",
+    "title"   : "Candy & Baguette ~SUPER HARD~",
+    "artist"  : "sound piercer / mov : deadblue238",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "199a380e12df7df40c072789d58529e9"
 },{
     "level"   : "9",
     "title"   : "Ereshkigal ~NORMAL~",
@@ -1930,6 +1948,12 @@
     "artist"  : "Remixed by Octa the B.G. *SUD+",
     "comment" : "freestyle",
     "md5"     : "6447a99febe7c1c1d69a6447e8f67587"
+},{
+    "level"   : "★2",
+    "title"   : "Fading Star ~SUPER HARD~",
+    "artist"  : "D-Light *LR.MIRROR",
+    "comment" : "TRANCE",
+    "md5"     : "ac2c6f057d44443080c4addfc3c36658"
 },{
     "level"   : "★2",
     "title"   : "HAPPY CIRCULATION ~SUPER HARD~",
@@ -2494,6 +2518,12 @@
     "artist"  : "Lunatic Sounds",
     "comment" : "Drum n Bass",
     "md5"     : "0505f035acced777095f4f2211075cb7"
+},{
+    "level"   : "★9",
+    "title"   : "Black Lair ~SUPER HARD~",
+    "artist"  : "DELETE feat. void",
+    "comment" : "Act / Wars",
+    "md5"     : "cc30418d24fa0c868db8a2b8173453b8"
 },{
     "level"   : "★9",
     "title"   : "Gun to Childhead (A)",
