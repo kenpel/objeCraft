@@ -1350,6 +1350,12 @@
     "md5"     : "57ed2653f46871382d4d731d2e3a5063"
 },{
     "level"   : "?",
+    "title"   : "聖剣伝説2 ～危機～ (DP BLACK ANOTHER)",
+    "artist"  : "mattaku *SUD+ AVE-20 FLIP R.MIR",
+    "comment" : "game music",
+    "md5"     : "6cd482b082408fc79aafbbaeede8b924"
+},{
+    "level"   : "?",
     "title"   : "超絶技巧ネクロファンタジア  - ピアニスト -",
     "artist"  : "夜桜 鍵 *FLIP",
     "comment" : "東方妖々夢 Piano Solo",
@@ -11922,12 +11928,6 @@
     "md5"     : "278e057ad673918e692fea7a0188f28c"
 },{
     "level"   : "4",
-    "title"   : "Valedict [Farewell song]",
-    "artist"  : "void obj:けろりん Momomi Aoyama",
-    "comment" : "Sci-fi",
-    "md5"     : "f615e7b674524e9998ae70d932ec6459"
-},{
-    "level"   : "4",
     "title"   : "VALLISTA [DP VALLISTANDARD]",
     "artist"  : "削除 / Mentalstock / obj:epics-",
     "comment" : "Overture / IDM",
@@ -17338,6 +17338,12 @@
     "artist"  : "Lightning Obj:ゆ～兎",
     "comment" : "elemental breaks",
     "md5"     : "013ddb82b160516d9b9d08b6c6f71a58"
+},{
+    "level"   : "6",
+    "title"   : "Valedict [Farewell song]",
+    "artist"  : "void obj:けろりん Momomi Aoyama",
+    "comment" : "Sci-fi",
+    "md5"     : "f615e7b674524e9998ae70d932ec6459"
 },{
     "level"   : "6",
     "title"   : "Vanquish! [DP ANOTHER]",
@@ -26239,7 +26245,7 @@
 },{
     "level"   : "10",
     "title"   : "Dreadnought [46cm三連装砲]",
-    "artist"  : "Mastermind(xi+nora2r) iimo / obj.LetsOTL",
+    "artist"  : "Mastermind(xi+nora2r) iimo / obj.LetsOTL　　*AVE",
     "comment" : "Breakthrough",
     "md5"     : "883f1330d2ced101e16aff12bdd0b8de"
 },{
@@ -29713,7 +29719,7 @@
 },{
     "level"   : "★2",
     "title"   : "レトロモダンの玩具工場 [DP INSANE]",
-    "artist"  : "38k *L.MIRROR",
+    "artist"  : "38k *FLIP",
     "comment" : "Retrogressive",
     "md5"     : "26f7d6100583286d73ee5884c3c3759a"
 },{
@@ -30643,7 +30649,7 @@
 },{
     "level"   : "★3",
     "title"   : "アズール リミックス -DPANOTHER-",
-    "artist"  : "メスクラ (エヴァたん＆メコたん) / midori / obj:h *FLIP R.MIRROR",
+    "artist"  : "メスクラ (エヴァたん＆メコたん) / midori / obj:h *SUD+ FLIP R.MIRROR",
     "comment" : "ルネッサンスコア",
     "md5"     : "fe96298bb48f44b91542badcf458f131"
 },{
@@ -32298,12 +32304,6 @@
     "md5"     : "974d88ff4af54b8efe310aa9ed94d655"
 },{
     "level"   : "★5",
-    "title"   : "Doppelganger [DP LAST BOSS]",
-    "artist"  : "LeaF /obj: QJITAI Movie:To7  *FIXOFF 180",
-    "comment" : "EINSAMKEIT",
-    "md5"     : "1638aa49b41b6240aa75a99f6a7efab9"
-},{
-    "level"   : "★5",
     "title"   : "Dreadnought",
     "artist"  : "Mastermind(xi+nora2r) iimo / obj: lichtr  *MINBPM L.MIR or LR.RAN",
     "comment" : "Breakthrough",
@@ -32344,12 +32344,6 @@
     "artist"  : "CrossGear *正規 or L.MIRROR",
     "comment" : "Progressive Trance",
     "md5"     : "b08d260dce85d95ab8f4b33ce36c658b"
-},{
-    "level"   : "★5",
-    "title"   : "Fate/fete (DP ANOTHER)",
-    "artist"  : "ZUN(Arr.sun3)/obj:新橋 *R.RANDOM",
-    "comment" : "drum&synth",
-    "md5"     : "6cc94dc4adf2114e4207706035893506"
 },{
     "level"   : "★5",
     "title"   : "Field Combat (ANOTHER)",
@@ -32568,12 +32562,6 @@
     "md5"     : "e7da5ba38c777d5e18d23371692d84f1"
 },{
     "level"   : "★5",
-    "title"   : "marginated [試作14]",
-    "artist"  : "紅蓮月影 obj:ucc *AVERAGE+70 R.MIR or FLIP R.MIR",
-    "comment" : "ジャッジメント",
-    "md5"     : "08c603a6d775317c87137b06e06642f6"
-},{
-    "level"   : "★5",
     "title"   : "Merry Christmas Mr.EXIT",
     "artist"  : "sasakure.UK obj:名無し",
     "comment" : "LAMENT",
@@ -32785,7 +32773,7 @@
 },{
     "level"   : "★5",
     "title"   : "Synthesized Fortress [D85%]",
-    "artist"  : "M / obj : lemon_aided *FLIP L.MIR or FLIP R.MIR or FLIP LR.RAN",
+    "artist"  : "M / obj : lemon_aided *FLIP",
     "comment" : "4096",
     "md5"     : "9c8717af19609686427f4b5512ade424"
 },{
@@ -32890,12 +32878,6 @@
     "artist"  : "m OBJ:KLOC",
     "comment" : "Unhappy Hardcore",
     "md5"     : "86d3b524ca062a54decce0ac7676d736"
-},{
-    "level"   : "★5",
-    "title"   : "ДESPOND survivor",
-    "artist"  : "sumomo (& obj) // kusoX. *AVERAGE+0->-50",
-    "comment" : "SuperNOVA MINIMAL",
-    "md5"     : "77ba1ae6c0b69a6ae0480af11bccf202"
 },{
     "level"   : "★5",
     "title"   : "これ、Gamegameっすよ(^_^;) (bms edit)",
@@ -33148,12 +33130,6 @@
     "artist"  : "DJ TAKUAN 及び 佐倉アヤキ remixed by uet BGI:いかお / obj:浜風",
     "comment" : "J-CORE",
     "md5"     : "6185e2b774889c965fc9ab4bffd2e627"
-},{
-    "level"   : "★5",
-    "title"   : "聖剣伝説2 ～危機～ (DP BLACK ANOTHER)",
-    "artist"  : "mattaku *AVERAGE SUD+",
-    "comment" : "game music",
-    "md5"     : "6cd482b082408fc79aafbbaeede8b924"
 },{
     "level"   : "★5",
     "title"   : "自強號 [逆鱗]",
@@ -33438,6 +33414,12 @@
     "md5"     : "24078793d85850a2a7d7861ad8188413"
 },{
     "level"   : "★6",
+    "title"   : "Doppelganger [DP LAST BOSS]",
+    "artist"  : "LeaF /obj: QJITAI Movie:To7  *FIXOFF 180",
+    "comment" : "EINSAMKEIT",
+    "md5"     : "1638aa49b41b6240aa75a99f6a7efab9"
+},{
+    "level"   : "★6",
     "title"   : "Encrux [Enjoy]",
     "artist"  : "Sobrem / obj:Hador",
     "comment" : "Story",
@@ -33451,7 +33433,7 @@
 },{
     "level"   : "★6",
     "title"   : "eth剣 (DP CHALLENGE)",
-    "artist"  : "BOKKEN PINK obj:ED BOKKEN DODOME+MAGENTA  *正規 or FLIP R.MIR",
+    "artist"  : "BOKKEN PINK obj:ED BOKKEN DODOME+MAGENTA  *L.MIR or FLIP R.MIR",
     "comment" : "BOKKEN FUSION",
     "md5"     : "57848920aba3eab87faac0ffd12332c8"
 },{
@@ -33460,6 +33442,12 @@
     "artist"  : "ginkiha / obj kohane *LR.RANDOM",
     "comment" : "TRANCE",
     "md5"     : "fad47cac797653a3c3dbdf3719d14ba7"
+},{
+    "level"   : "★6",
+    "title"   : "Fate/fete (DP ANOTHER)",
+    "artist"  : "ZUN(Arr.sun3)/obj:新橋 *R.RANDOM",
+    "comment" : "drum&synth",
+    "md5"     : "6cc94dc4adf2114e4207706035893506"
 },{
     "level"   : "★6",
     "title"   : "flowers [EX14]†leggendaria",
@@ -33505,7 +33493,7 @@
 },{
     "level"   : "★6",
     "title"   : "Glacier heart [Danger]",
-    "artist"  : "Blacksparrow VS DeathisM *正規 or LR.RAN",
+    "artist"  : "Blacksparrow VS DeathisM *LR.MIR or LR.RAN",
     "comment" : "Orchestral Drum'n Bass",
     "md5"     : "4ff1019c2a61c8e2aa8a93315edc76bc"
 },{
@@ -33660,6 +33648,12 @@
     "md5"     : "6f443ffb6fd9a0e0a251c6148409270e"
 },{
     "level"   : "★6",
+    "title"   : "marginated [試作14]",
+    "artist"  : "紅蓮月影 obj:ucc *SUD+ (MAX+50/AVE+70) R.MIR or FLIP R.MIR",
+    "comment" : "ジャッジメント",
+    "md5"     : "08c603a6d775317c87137b06e06642f6"
+},{
+    "level"   : "★6",
     "title"   : "MASAMUNE [DP CHALLENGE]",
     "artist"  : "NS-Factory *正規 or FLIP LR.MIRROR",
     "comment" : "Oriental Edge",
@@ -33712,12 +33706,6 @@
     "artist"  : "void feat. コツキミヤ , Gt. えば BGA : Photonskyto / obj:Hersh",
     "comment" : "Venerable Culture",
     "md5"     : "32b11a6460d9b5cd6865e43c69f65967"
-},{
-    "level"   : "★6",
-    "title"   : "Neverknows (but...) W",
-    "artist"  : "Plastiksoulman",
-    "comment" : "electro disco punk",
-    "md5"     : "72f2f5d437c274769d0c942cc6039ec6"
 },{
     "level"   : "★6",
     "title"   : "NS18 [delta]",
@@ -33988,6 +33976,12 @@
     "artist"  : "姉ヶ崎 寧々 / obj:サラートマト BGA : photonskyto",
     "comment" : "FULL SC",
     "md5"     : "e2fab00b6a7e8a3829d13eb524de1d6c"
+},{
+    "level"   : "★6",
+    "title"   : "ДESPOND survivor",
+    "artist"  : "sumomo (& obj) // kusoX. *AVERAGE+0->-50",
+    "comment" : "SuperNOVA MINIMAL",
+    "md5"     : "77ba1ae6c0b69a6ae0480af11bccf202"
 },{
     "level"   : "★6",
     "title"   : "★LittlE HearTs★ [VerA]",
@@ -34528,6 +34522,12 @@
     "artist"  : "ZUN Remixed by Ωμεγα/obj;ROCO-G",
     "comment" : "RENAISSUWAKO",
     "md5"     : "a1ae807fe9fc0e8043a71a285cde76b7"
+},{
+    "level"   : "★7",
+    "title"   : "Neverknows (but...) W",
+    "artist"  : "Plastiksoulman",
+    "comment" : "electro disco punk",
+    "md5"     : "72f2f5d437c274769d0c942cc6039ec6"
 },{
     "level"   : "★7",
     "title"   : "P.S : Plasma Strike - LAST BOSS StD-",
