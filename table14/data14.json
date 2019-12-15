@@ -26383,7 +26383,7 @@
 },{
     "level"   : "10",
     "title"   : "FREEDOM DiVE [Another]",
-    "artist"  : "xi (obj:k) *FLIP R.MIR or R.MIR",
+    "artist"  : "xi (obj:k) *R.MIRROR",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "9cccf22b9610bf67b2d9ad3955e89c2e"
 },{
@@ -29119,7 +29119,7 @@
 },{
     "level"   : "★2",
     "title"   : "GaRaKuTic Dream [DP えぬTHER]",
-    "artist"  : "NEKI←T  obj ; N *FLIP R.MIRROR",
+    "artist"  : "NEKI←T  obj ; N *FLIP LR.MIRROR",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "4a5171b03c98fabe4d919ec16264c11b"
 },{
@@ -29359,7 +29359,7 @@
 },{
     "level"   : "★2",
     "title"   : "Planet Pulsation [refine14]",
-    "artist"  : "syatten *MINBPM",
+    "artist"  : "syatten *MINBPM 653/365",
     "comment" : "Cosmic / Dutch Trance",
     "md5"     : "ec913f21f5310992512896cfca0bab11"
 },{
@@ -29593,7 +29593,7 @@
 },{
     "level"   : "★2",
     "title"   : "x-Aria -14key real-",
-    "artist"  : "ridis(obj:A-4)",
+    "artist"  : "ridis(obj:A-4) *FLIP",
     "comment" : "intelligence",
     "md5"     : "be0b77021d030e2eb3ffd93f97d444ee"
 },{
@@ -30337,7 +30337,7 @@
 },{
     "level"   : "★3",
     "title"   : "Lonely Cat [S]",
-    "artist"  : "* (Asterisk) 前川みく×多田李衣菜  *正規 or FLIP or L.MIR",
+    "artist"  : "* (Asterisk) 前川みく×多田李衣菜  *FLIP L.MIR",
     "comment" : "HOUSE",
     "md5"     : "5eec61334ada9b17e6f9680283e312d8"
 },{
@@ -30655,7 +30655,7 @@
 },{
     "level"   : "★3",
     "title"   : "エピトゥリカの祀 [CHALLENGE14]",
-    "artist"  : "Team:SASAKURATION obj:ucc *L.MIR or FLIP LR.MIR or FLIP L.RAN R.MIR",
+    "artist"  : "Team:SASAKURATION obj:ucc *FLIP L.RAN R.MIR",
     "comment" : "WORLDTRONICA",
     "md5"     : "8a510d01be7147857b781f5d1b98a4d6"
 },{
@@ -31831,7 +31831,7 @@
 },{
     "level"   : "★4",
     "title"   : "ZENITHALIZE [俄十四]",
-    "artist"  : "姉ヶ崎 寧々 / obj:綾 BGA : photonskyto  *FLIP",
+    "artist"  : "姉ヶ崎 寧々 / obj:綾 BGA : photonskyto",
     "comment" : "FULL ON",
     "md5"     : "2bd5e1b10bb11961f5c0ea42c8064605"
 },{
@@ -33391,7 +33391,7 @@
 },{
     "level"   : "★6",
     "title"   : "Daydreamer [S]",
-    "artist"  : "Lime / Roaring Flame *FLIP",
+    "artist"  : "Lime / Roaring Flame",
     "comment" : "Hardcore",
     "md5"     : "5d38da901cd742b233c85769f89844ad"
 },{
@@ -33751,7 +33751,7 @@
 },{
     "level"   : "★6",
     "title"   : "Papillon (14key Ant)",
-    "artist"  : "Symphonian / Personality *FLIP L.RAN or L.MIR",
+    "artist"  : "Symphonian / Personality *FLIP L.RAN or LR.MIR",
     "comment" : "Full On",
     "md5"     : "3be9f48693f961db3c1db478910a5f86"
 },{
@@ -33832,6 +33832,12 @@
     "artist"  : "Kinato / obj : Hador *FLIP LR.MIRROR",
     "comment" : "Kinetic Trance",
     "md5"     : "106bf57f2d4526943dc22dcc84de8d6f"
+},{
+    "level"   : "★6",
+    "title"   : "STAGER [Infinity STAGE]",
+    "artist"  : "Ras obj:Hersh",
+    "comment" : "Tech electro",
+    "md5"     : "863731609949991af64c0a42f5d0a124"
 },{
     "level"   : "★6",
     "title"   : "Stampede",
@@ -34015,7 +34021,7 @@
 },{
     "level"   : "★6",
     "title"   : "クロノトリガー [INSANE]",
-    "artist"  : "Celas / obj:Chrono *FLIP LR.MIR or FLIP LR.RAN",
+    "artist"  : "Celas / obj:Chrono *FLIP L.MIR or FLIP LR.RAN",
     "comment" : "GAME MUSIC",
     "md5"     : "06adee9e7f05329d8c3fd1fe97dea41d"
 },{
@@ -34549,7 +34555,7 @@
 },{
     "level"   : "★7",
     "title"   : "PHANTOM LOST [DP EXTRA]",
-    "artist"  : "ZUN Remixed by くっちー Respect for L.E.D.-G vs Ryu☆ Illust:きさ Obj:ucc  *FLIP L.MIR or R.MIR or LR.RAN",
+    "artist"  : "ZUN Remixed by くっちー Respect for L.E.D.-G vs Ryu☆ Illust:きさ Obj:ucc  *FLIP L.RAN",
     "comment" : "TRANCE CORE",
     "md5"     : "91a65fd7aae9ddf40f4aab75e325ab39"
 },{
@@ -34573,7 +34579,7 @@
 },{
     "level"   : "★7",
     "title"   : "Remilia ～吸血鬼の為の協奏曲 [Lunatic14]",
-    "artist"  : "くっちー / あっきー obj:ucc *FLIP or FLIP L.MIRROR",
+    "artist"  : "くっちー / あっきー obj:ucc *FLIP L.MIRROR",
     "comment" : "PIANO CONCERTO",
     "md5"     : "fbb1b8e6d46e801efcb4ae55c9510ac4"
 },{
@@ -34612,12 +34618,6 @@
     "artist"  : "LeaF / obj:killer TOMATO",
     "comment" : "PROGRESSIVE",
     "md5"     : "566d465ef6a55d3a57101b0226a5954b"
-},{
-    "level"   : "★7",
-    "title"   : "STAGER [Infinity STAGE]",
-    "artist"  : "Ras obj:Hersh",
-    "comment" : "Tech electro",
-    "md5"     : "863731609949991af64c0a42f5d0a124"
 },{
     "level"   : "★7",
     "title"   : "the lost dedicated [life of KAMIKAZE]",
@@ -35485,7 +35485,7 @@
 },{
     "level"   : "★9",
     "title"   : "FREEDOM DiVE [Traning14]",
-    "artist"  : "xi obj:ucc *FLIP L.MIRROR",
+    "artist"  : "xi obj:ucc *FLIP L.MIR or FLIP R.MIR",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "344270b1434da215f09d837cf282ca5c"
 },{
