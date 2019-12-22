@@ -3090,6 +3090,12 @@
     "md5"     : "a35f4a7c5e77862db552c905fde184e8"
 },{
     "level"   : "1",
+    "title"   : "NANI-KORE [NA+NANI-KORE]",
+    "artist"  : "DENPA SAMPLER VJ : Personality & jueL / Illust : CAPOKI / Obj : KENIN*",
+    "comment" : "DENPACORE",
+    "md5"     : "a132cf3727dc9fc995c03fbd3054c45a"
+},{
+    "level"   : "1",
     "title"   : "NativeFaith - CrossGear Mix [DP EXTRA]",
     "artist"  : "CrossGear (object arranged by tsk) *FLIP R.MIRROR",
     "comment" : "神々が恋した幻想郷",
@@ -8416,6 +8422,12 @@
     "artist"  : "Art:ESTi Arr:アクジ obj:LLA",
     "comment" : "スタイリッシュピアノぼっち",
     "md5"     : "bff3002b5d9eab590376e95ef791015d"
+},{
+    "level"   : "3",
+    "title"   : "oceanbird [皆段]",
+    "artist"  : "Xacla / TOHRU MiTSUHASHi / Obj : KENIN* *LR.RANDOM",
+    "comment" : "Euphoric Trance",
+    "md5"     : "feecb66d3bd18f159c63b27c9fff9d21"
 },{
     "level"   : "3",
     "title"   : "off4_rmx [ANOTHER14]",
@@ -25830,6 +25842,12 @@
     "md5"     : "b6841d151aa98b78353af147f49db607"
 },{
     "level"   : "10",
+    "title"   : "A c i - L [DP ANOTHER]",
+    "artist"  : "裏 吉 川 Obj. KENIN*",
+    "comment" : "t r a n c e",
+    "md5"     : "2da426b24a002de947d412305b149c92"
+},{
+    "level"   : "10",
     "title"   : "A c i - L - D P A",
     "artist"  : "裏 吉 川 obj:NEPIA *FLIP",
     "comment" : "t r a n c e",
@@ -27457,7 +27475,7 @@
 },{
     "level"   : "10",
     "title"   : "フランの中できゅっ☆としてドピュッ† (B14)",
-    "artist"  : "ふらんどーる・すかーれっと(495さい) *FLIP LR.MIRROR",
+    "artist"  : "ふらんどーる・すかーれっと(495さい)",
     "comment" : "",
     "md5"     : "6879b83f891406bc89f7526d1682cc3e"
 },{
@@ -31542,12 +31560,6 @@
     "md5"     : "80a6073a8bdfb1d60b3389077417741a"
 },{
     "level"   : "★4",
-    "title"   : "on the sequence #1 [これはひどい]",
-    "artist"  : "6yen/obj:名無し *FLIP (低速無し)",
-    "comment" : "d'n'b",
-    "md5"     : "927ab0e0413b9a149f02369c91f9655a"
-},{
-    "level"   : "★4",
     "title"   : "Once in my life [DP CHALLENGER+]",
     "artist"  : "Manaka Takane feat.Nananao obj:kuro",
     "comment" : "Maiden House",
@@ -32106,6 +32118,12 @@
     "md5"     : "0a78906f9cf4e6bfd3bfe4b9bd26407c"
 },{
     "level"   : "★5",
+    "title"   : "514nm(Kucchi☆mix) [DP Leggendaria]",
+    "artist"  : "Another Infinity vs ZUN Remixed by くっちー Obj:JHS  *LR.MIRROR",
+    "comment" : "HARDCORE",
+    "md5"     : "79f4d065e179bbf0a35c766555106d19"
+},{
+    "level"   : "★5",
     "title"   : "A c i - L - A",
     "artist"  : "裏 吉 川 *FLIP",
     "comment" : "t r a n c e",
@@ -32610,6 +32628,12 @@
     "md5"     : "79afadcce6b71ef999c0a53d6f75c26f"
 },{
     "level"   : "★5",
+    "title"   : "on the sequence #1 [これはひどい]",
+    "artist"  : "6yen/obj:名無し *FLIP (低速無し)",
+    "comment" : "d'n'b",
+    "md5"     : "927ab0e0413b9a149f02369c91f9655a"
+},{
+    "level"   : "★5",
     "title"   : "Once in my life [DP INFINITY]",
     "artist"  : "Manaka Takane feat.Nananao obj:kuro",
     "comment" : "Maiden House",
@@ -32974,6 +32998,12 @@
     "artist"  : "koushirou（卑屈P） / obj : Ill *FLIP R.MIRROR",
     "comment" : "Techno Pop",
     "md5"     : "87e62864f9b16707ef33c1338cfa7713"
+},{
+    "level"   : "★5",
+    "title"   : "ハードルネッサンバ -DP MID BOSS-",
+    "artist"  : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj.KENIN* *FLIP LR.MIRROR",
+    "comment" : "ゆったり系失楽園",
+    "md5"     : "cfb9622768f5b5415e6a82169266eacf"
 },{
     "level"   : "★5",
     "title"   : "パネルでポン/フレアのテーマ [DP leggendaria]",
@@ -33708,6 +33738,12 @@
     "md5"     : "32b11a6460d9b5cd6865e43c69f65967"
 },{
     "level"   : "★6",
+    "title"   : "nativeFaith [DP BLACK ANOTHER]",
+    "artist"  : "ZUN Remixed by Ωμεγα/obj;ROCO *LR.RANDOM",
+    "comment" : "RENAISSUWAKO",
+    "md5"     : "bcc8581ac69f325408506a2b683dbc5b"
+},{
+    "level"   : "★6",
     "title"   : "NS18 [delta]",
     "artist"  : "3034/obj:hamburger Anomie / IllusionRain  *AVE 0->-20",
     "comment" : "EXTREME TECHNO",
@@ -33739,7 +33775,7 @@
 },{
     "level"   : "★6",
     "title"   : "Pandemonium [DP ANOTHER]",
-    "artist"  : "xi note by Y.W *FLIP LR.MIRROR",
+    "artist"  : "xi note by Y.W *FLIP L.MIRROR",
     "comment" : "無調音楽",
     "md5"     : "74232bfaaabeff7589ecef9c304a97fb"
 },{
@@ -34516,12 +34552,6 @@
     "artist"  : "void feat. コツキミヤ , Gt. えば /obj:kuro BGA : Photonskyto",
     "comment" : "Venerable Culture",
     "md5"     : "73eed18106415dddefddef6bb0cddd91"
-},{
-    "level"   : "★7",
-    "title"   : "nativeFaith [DP BLACK ANOTHER]",
-    "artist"  : "ZUN Remixed by Ωμεγα/obj;ROCO *LR.RANDOM",
-    "comment" : "RENAISSUWAKO",
-    "md5"     : "bcc8581ac69f325408506a2b683dbc5b"
 },{
     "level"   : "★7",
     "title"   : "nativeFaith [DP GOD]",
@@ -36744,6 +36774,12 @@
     "md5"     : "cb7c1fb99b6bfb1efd3bbbe93fa7cb17"
 },{
     "level"   : "無理",
+    "title"   : "compressed eyes (ALLKEY)",
+    "artist"  : "A.I.TOYS obj.c-ares",
+    "comment" : "hip hop",
+    "md5"     : "9320b97edf869767c443ddeadd0ba6fa"
+},{
+    "level"   : "無理",
     "title"   : "Cyberia Drive",
     "artist"  : "ROKINA *FLIP LR.S-RAN",
     "comment" : "Drum'n'Bass",
@@ -36790,6 +36826,12 @@
     "artist"  : "ROKINA",
     "comment" : "BOSS BATTLE",
     "md5"     : "424f3f1b03038ade5d5193cb82d2d55d"
+},{
+    "level"   : "無理",
+    "title"   : "FINAL RENDA AUDITION",
+    "artist"  : "ルゼ obj.ゆーきさん",
+    "comment" : "VERTICAL SYNC[ALL KEY]",
+    "md5"     : "beeb179c9b8f40dd8ff0d2c0faba6984"
 },{
     "level"   : "無理",
     "title"   : "Fiore Tempesta  [ALL KEY]",
@@ -37030,6 +37072,12 @@
     "artist"  : "nmk feat.EUROBEATアイドル橘花音 / obj:2y",
     "comment" : "EUROBEAT",
     "md5"     : "adc07fa1e5ba97a9eb87d52783a2c152"
+},{
+    "level"   : "無理",
+    "title"   : "エキサイティングなユーザ経験",
+    "artist"  : "みつどもえない obj.ゆーきさん",
+    "comment" : "レディオウェイヴディヂタルハードコア[niku]",
+    "md5"     : "b1ccab6fffe7e917461728796f1b51e6"
 },{
     "level"   : "無理",
     "title"   : "キエユクコトワリ  [ALL KEY]",
