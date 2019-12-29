@@ -750,6 +750,12 @@
     "md5"     : "3dc06196611d563df5ee36671131e62c"
 },{
     "level"   : "3",
+    "title"   : "L.D.2013 ~HARD~",
+    "artist"  : "silcostones (Original : Andy Lee)",
+    "comment" : "EURO BEAT",
+    "md5"     : "350f592cfcb4a6229f8b12896338198d"
+},{
+    "level"   : "3",
     "title"   : "Lapis -The Heavens Remix- [D^^P]",
     "artist"  : "arranged by Yamajet / tako_st *AVERAGE LR.RANDOM",
     "comment" : "EUROBEAT",
@@ -772,6 +778,12 @@
     "artist"  : "Yamadajet",
     "comment" : "HARENTI ELECTRO",
     "md5"     : "756b09dc728ed12aa160b2c25df3ac72"
+},{
+    "level"   : "3",
+    "title"   : "Quad Queens ~NORMAL~",
+    "artist"  : "D.J.Nero *LR.RANDOM",
+    "comment" : "RENAISSANCE",
+    "md5"     : "3eda3cdebf9475636db6f8fbd21633d8"
 },{
     "level"   : "3",
     "title"   : "Qualia ~HARD~",
@@ -1620,6 +1632,12 @@
     "md5"     : "199a380e12df7df40c072789d58529e9"
 },{
     "level"   : "9",
+    "title"   : "CLOCKTOWER ~SUPER HARD~",
+    "artist"  : "Chitose",
+    "comment" : "Art Progressive Fusion",
+    "md5"     : "0adc5292af8debaa93be383e4b970cc9"
+},{
+    "level"   : "9",
     "title"   : "Ereshkigal ~NORMAL~",
     "artist"  : "ABE3 *LR.RANDOM",
     "comment" : "DRUM'N'FORTE",
@@ -1804,6 +1822,12 @@
     "artist"  : "LP+",
     "comment" : "Maiden House",
     "md5"     : "c8a7344169ba628c27686f8ff5c45b16"
+},{
+    "level"   : "10",
+    "title"   : "Floating Garden ~NORMAL~",
+    "artist"  : "TrioStaR x Lilyca x Mentalstock",
+    "comment" : "Euphoric Trance",
+    "md5"     : "a305c44dabbedee555ccbe0f3c6e7ff9"
 },{
     "level"   : "10",
     "title"   : "Fly Again ~HARD~",
@@ -2026,6 +2050,12 @@
     "artist"  : "DELETE feat. void",
     "comment" : "Act / Wars",
     "md5"     : "902174c91116f14380899c3ab3677582"
+},{
+    "level"   : "★3",
+    "title"   : "BLAZE YOUR SOUL ~SUPER HARD~",
+    "artist"  : "sound piercer x ginkiha (mov : 1B)",
+    "comment" : "SCHRANZ",
+    "md5"     : "0d95e3fc2108064890466a0929086f5c"
 },{
     "level"   : "★3",
     "title"   : "conflict ~SUPER HARD~",
@@ -2302,6 +2332,12 @@
     "artist"  : "モリモリあつし",
     "comment" : "HARD RENAISSANCE",
     "md5"     : "6b2feee8eb62368d6c56cc581b546de6"
+},{
+    "level"   : "★6",
+    "title"   : "RAY ~SUPER HARD~",
+    "artist"  : "MILK *LR.RANDOM",
+    "comment" : "HARD TRANCE",
+    "md5"     : "406ca0cd03287557ed01b49648e24b6a"
 },{
     "level"   : "★6",
     "title"   : "rebeltraitor ~CATASTROPHE~",
