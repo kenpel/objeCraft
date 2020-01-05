@@ -1818,6 +1818,12 @@
     "md5"     : "7ac41ab31f75f91401ce44064f582bf4"
 },{
     "level"   : "1",
+    "title"   : "Breeze [台風とそよ風の境目]",
+    "artist"  : "Kankitsu / Limite",
+    "comment" : "House",
+    "md5"     : "a883969ae8ae045218a5f5a8f846eaf4"
+},{
+    "level"   : "1",
     "title"   : "Brightsphere  [14Maniac]",
     "artist"  : "Telno BGA:mi",
     "comment" : "Art Breaks",
@@ -2398,6 +2404,12 @@
     "artist"  : "きゃと composed by TiS / obj:夢瑠 CinerariaStudio",
     "comment" : "J-POP",
     "md5"     : "5d9037d676d872f4b9bfb0da210f0886"
+},{
+    "level"   : "1",
+    "title"   : "Fortress [14HYPER]",
+    "artist"  : "たこやき / Obj:JHS",
+    "comment" : "BIGROOM TRANCE",
+    "md5"     : "05220304fffa7b5455bd04eb018eebcf"
 },{
     "level"   : "1",
     "title"   : "Fortuna [DP ANOTHER-]",
@@ -3148,6 +3160,12 @@
     "artist"  : "fkRadish / Dr.A obj:ucc",
     "comment" : "Progressive Breaks",
     "md5"     : "6957a377a4bf497250d5893abd8697dd"
+},{
+    "level"   : "1",
+    "title"   : "Odin [DP Origin]",
+    "artist"  : "しらいし obj: misty.ls04",
+    "comment" : "Classical Trance",
+    "md5"     : "e0153296f887c533c2b1eb4afc37092c"
 },{
     "level"   : "1",
     "title"   : "Odin＿さぁ、同時押しアナザー",
@@ -6096,6 +6114,12 @@
     "md5"     : "a04bf26fceb445dbd913d9f05ddad30b"
 },{
     "level"   : "2",
+    "title"   : "Smiling",
+    "artist"  : "櫟井唯 / 岡野佳 / Limite from.制限",
+    "comment" : "kawaiicore",
+    "md5"     : "7870ad2dee9a20f592192c08e815efbf"
+},{
+    "level"   : "2",
     "title"   : "Snow White [sub another]",
     "artist"  : "Puru obj:kuro",
     "comment" : "Spirit Chill",
@@ -7590,6 +7614,18 @@
     "md5"     : "81750983821628d4400dca4a9a8a59f5"
 },{
     "level"   : "3",
+    "title"   : "Disorder [DPA]",
+    "artist"  : "HyuN",
+    "comment" : "depressive disorder",
+    "md5"     : "87b1773181907991e14826e2d5db07d5"
+},{
+    "level"   : "3",
+    "title"   : "Disorder -Another14-",
+    "artist"  : "HyuN obj : Thulium",
+    "comment" : "depressive disorder",
+    "md5"     : "916cf289bd1ce355639f7ecebff3ad65"
+},{
+    "level"   : "3",
     "title"   : "DistorteD MoonlighT [ANOTHER]",
     "artist"  : "π/3 BGA:Optie",
     "comment" : "NU SKOOL BREAKBEATS DARKSTEP DRUMSTEP ANTHEM HARDCORE",
@@ -7974,6 +8010,12 @@
     "md5"     : "b9074f3af92597ccbc149ea1291f1774"
 },{
     "level"   : "3",
+    "title"   : "honey cookie -practice race-",
+    "artist"  : "fether / Forbidden 71066",
+    "comment" : "pop",
+    "md5"     : "f915d405f713e21587c2f3ac591b2060"
+},{
+    "level"   : "3",
     "title"   : "Hong-Kong-Tea-Soda []",
     "artist"  : "Leichen(the NRGetic Fighter)　obj;バニーボーイ",
     "comment" : "エレオリ",
@@ -8146,6 +8188,12 @@
     "artist"  : "Jin - BGA : Ghastly Conceit",
     "comment" : "INDUSTRIAL",
     "md5"     : "491a0f4bed5d3a8a0c512c819f07cc33"
+},{
+    "level"   : "3",
+    "title"   : "Last Battle-T260G- [Grand Final]",
+    "artist"  : "GYAON *FLIP L.MIRROR",
+    "comment" : "SaGa Frontier",
+    "md5"     : "d08e6de1d6f7a78acf817a2b3470c240"
 },{
     "level"   : "3",
     "title"   : "lataia [DP ANQTHER]",
@@ -15828,6 +15876,12 @@
     "md5"     : "c53e377d470cfd492d635447c9efd615"
 },{
     "level"   : "6",
+    "title"   : "Electric Emotion [DP Extension Energy]",
+    "artist"  : "nmk feat.橘花音 BGA : わっふゑ / obj : BK",
+    "comment" : "EUROBEAT",
+    "md5"     : "972b10226fe6fb1cb39028570a1f34c1"
+},{
+    "level"   : "6",
     "title"   : "ELECTRiCiTY [DP ANOTHER+]",
     "artist"  : "NIKITA / misokabocha / Obj:@cyas *FLIP",
     "comment" : "HAPPY ELECTRO pf",
@@ -18928,6 +18982,12 @@
     "artist"  : "ATEMAK / obj:Ruby *R.MIRROR",
     "comment" : "Tech",
     "md5"     : "ba3d301336fa73e6aa9dbaa2f2015689"
+},{
+    "level"   : "7",
+    "title"   : "Disorder -Insane14-",
+    "artist"  : "HyuN obj : Thulium",
+    "comment" : "depressive disorder",
+    "md5"     : "f8ef90f8b88b7cb1bc98c1945e5f6737"
 },{
     "level"   : "7",
     "title"   : "DRAGONLADY (Sweet)",
@@ -22336,6 +22396,12 @@
     "artist"  : "er / obj:C4",
     "comment" : "TECHNO",
     "md5"     : "7d10ea80186253b5e40ec143b43d653f"
+},{
+    "level"   : "8",
+    "title"   : "New Windy Paradise [DP MANIAC]",
+    "artist"  : "BELUGA Movie : highluin  *L.MIRROR",
+    "comment" : "Instrumental",
+    "md5"     : "93086ca5d235d4b32016cf44520f50b9"
 },{
     "level"   : "8",
     "title"   : "NewFace!! [DPA]",
@@ -26340,6 +26406,12 @@
     "md5"     : "ead4d5ef2f682641679929a7f532c3d7"
 },{
     "level"   : "10",
+    "title"   : "Disorder [DPA+]",
+    "artist"  : "HyuN",
+    "comment" : "depressive disorder",
+    "md5"     : "5eeee8ce5d35f3321005f51f80e72de0"
+},{
+    "level"   : "10",
     "title"   : "Don't be Afraid (True Style)",
     "artist"  : "LiTaNia feat. RYL *MAXBPM R.MIRROR",
     "comment" : "Dance Pop",
@@ -30180,6 +30252,12 @@
     "md5"     : "63e5fd68ee67017bcd2f05ba7385000a"
 },{
     "level"   : "★3",
+    "title"   : "Destined Marionette [Despair14]",
+    "artist"  : "beatMARIO / obj:2y *FLIP",
+    "comment" : "TECHNO",
+    "md5"     : "924246337dab8032ebb033ba06b87181"
+},{
+    "level"   : "★3",
     "title"   : "DIFINITION OF INSANITY [VerA]",
     "artist"  : "H.U.T GiGAR  obj:右手が恋人",
     "comment" : "SCHRANZ",
@@ -32011,7 +32089,7 @@
 },{
     "level"   : "★4",
     "title"   : "もぺもぺ [R-18]",
-    "artist"  : "LeaF Movie:Optie / obj:Hersh  *L.MIRROR",
+    "artist"  : "LeaF Movie:Optie / obj:Hersh  *FLIP L.MIR",
     "comment" : "イルーム音楽",
     "md5"     : "e0726a437cc23b6f9e9033c08a48fa40"
 },{
@@ -32923,7 +33001,7 @@
 },{
     "level"   : "★5",
     "title"   : "Theme of \"NIGHT WRITER\" -QOHMix- [14LINE]†LEGGENDARIA",
-    "artist"  : "BMS:Azell MIDI:来兎 (obj:Lara)/reobj:hamburger",
+    "artist"  : "BMS:Azell MIDI:来兎 (obj:Lara)/reobj:hamburger *L.MIRROR",
     "comment" : "Game Music",
     "md5"     : "9523a11db620f2c834126a0c8aa5388f"
 },{
