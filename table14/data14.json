@@ -8214,6 +8214,12 @@
     "md5"     : "aa34128951b13967b303a1fccb4820af"
 },{
     "level"   : "3",
+    "title"   : "Le Specimen d'un Papillon",
+    "artist"  : "Process 2.3.1 vs Y-Itoh / obj:lichtr",
+    "comment" : "Trance",
+    "md5"     : "3ced8ed8f0cd80a598183b6ee23f182b"
+},{
+    "level"   : "3",
     "title"   : "Lemuria [DP HYPER]",
     "artist"  : "Festa 鑓田(alpha complex) obj:Yosk!",
     "comment" : "LIFE STREAM",
@@ -11248,6 +11254,12 @@
     "artist"  : "Toby Fox//arr.Is-m BGA:Y.A.B.tutidama",
     "comment" : "(o'v'o)CHEEK",
     "md5"     : "06cee8e2bf95b7051f00cdb97982051b"
+},{
+    "level"   : "4",
+    "title"   : "mental travel -DP ANOTHER-",
+    "artist"  : "parakeet 41 BGA:RICE  *L.MIRROR",
+    "comment" : "TRANCE",
+    "md5"     : "58ca552c3403e7820e9b746372a1f1d2"
 },{
     "level"   : "4",
     "title"   : "Merry Christmas Mr.Tiru",
@@ -32029,7 +32041,7 @@
 },{
     "level"   : "★4",
     "title"   : "VALLISTA",
-    "artist"  : "削除 / Mentalstock / obj:lichtr *FLIP R.MIRROR",
+    "artist"  : "削除 / Mentalstock / obj:lichtr *SUD+",
     "comment" : "Overture / IDM",
     "md5"     : "2d6776ce1a03a1c795bbad75ae5e0ffe"
 },{
@@ -34116,12 +34128,6 @@
     "md5"     : "863731609949991af64c0a42f5d0a124"
 },{
     "level"   : "★6",
-    "title"   : "Stampede",
-    "artist"  : "310 *FLIP or R.MIR",
-    "comment" : "EXTREME METAL",
-    "md5"     : "db71fac910128b2b63355dcd0b737edc"
-},{
-    "level"   : "★6",
     "title"   : "STAR STREAM  [INSANE14]",
     "artist"  : "er *R.MIRROR",
     "comment" : "TRANCY FLOWPOP",
@@ -34888,6 +34894,12 @@
     "artist"  : "LeaF / obj:killer TOMATO",
     "comment" : "PROGRESSIVE",
     "md5"     : "566d465ef6a55d3a57101b0226a5954b"
+},{
+    "level"   : "★7",
+    "title"   : "Stampede",
+    "artist"  : "310 *L.MIR or FLIP or R.MIR",
+    "comment" : "EXTREME METAL",
+    "md5"     : "db71fac910128b2b63355dcd0b737edc"
 },{
     "level"   : "★7",
     "title"   : "the lost dedicated [life of KAMIKAZE]",
