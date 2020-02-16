@@ -174,6 +174,12 @@
     "md5"     : "0e7dfe016e5a9361ad49f42c30abb811"
 },{
     "level"   : "?",
+    "title"   : "cat trick",
+    "artist"  : "MilkT obj.SCP-040-jp",
+    "comment" : "キャットハウス[14key upper]",
+    "md5"     : "4b4cf31ca189f275ac820bb6b39947cc"
+},{
+    "level"   : "?",
     "title"   : "Cervelle Connexion - 14K EXMix",
     "artist"  : "Warp-E",
     "comment" : "Epic Trance",
@@ -5034,6 +5040,12 @@
     "md5"     : "5c411ea03b7c7f2c5a78c324c9bce391"
 },{
     "level"   : "2",
+    "title"   : "Cry 4U (14keys Maniac)",
+    "artist"  : "KBT / obj:imit8or *L.MIRROR",
+    "comment" : "TRANCE",
+    "md5"     : "eb60f23ce6375e660303dcdc93ba7216"
+},{
+    "level"   : "2",
     "title"   : "Cynthia -with moon light- (14-Another)",
     "artist"  : "maxXx65535 / cyclia  /obj:spt",
     "comment" : "Artcore",
@@ -5632,6 +5644,12 @@
     "artist"  : "Bts-Factory / obj:lichtr",
     "comment" : "BRIT HOUSE",
     "md5"     : "d235f1fd2654a7b67a1d3ace8949b514"
+},{
+    "level"   : "2",
+    "title"   : "Manhattan Lover (14keys Maniac)",
+    "artist"  : "takdrive / obj:imit8or",
+    "comment" : "Funky Breaks",
+    "md5"     : "3d367b44febbdec48c0925ab90974e21"
 },{
     "level"   : "2",
     "title"   : "MilK [Choco flavor]",
@@ -25332,6 +25350,12 @@
     "md5"     : "eb98dd85f1bdfd9cfa6c5e616567616c"
 },{
     "level"   : "9",
+    "title"   : "The SunLight (DP ANOTHER)",
+    "artist"  : "(obj:A-4)",
+    "comment" : "plant",
+    "md5"     : "3dd40e9695d1b6b82da2ad0251dc4f96"
+},{
+    "level"   : "9",
     "title"   : "THE TIGHTNESS [A14]",
     "artist"  : "Defiler obj:ucc *FLIP",
     "comment" : "TECH DANCE",
@@ -28368,6 +28392,12 @@
     "md5"     : "c2a1854251194beba189c2893d019d0f"
 },{
     "level"   : "★1",
+    "title"   : "gazer [DP INS☆NE]",
+    "artist"  : "scytheleg obj:Starfish",
+    "comment" : "ELECTRANCE",
+    "md5"     : "bdc0ccf60becab6c4abad8056c984dc9"
+},{
+    "level"   : "★1",
     "title"   : "Halcyon [Armageddon]",
     "artist"  : "xi / obj:Louis",
     "comment" : "RENAISSANCE HARDCORE",
@@ -30444,12 +30474,6 @@
     "md5"     : "b924e4169622f4f3629e892eab3db713"
 },{
     "level"   : "★3",
-    "title"   : "gazer [DP INS☆NE]",
-    "artist"  : "scytheleg obj:Starfish",
-    "comment" : "ELECTRANCE",
-    "md5"     : "bdc0ccf60becab6c4abad8056c984dc9"
-},{
-    "level"   : "★3",
     "title"   : "Gerard [Enjoy]",
     "artist"  : "Widowmaker / obj:Hador",
     "comment" : "memorial",
@@ -30862,6 +30886,12 @@
     "artist"  : "Shaman Cure-All / Olkina",
     "comment" : "Suomisaundi",
     "md5"     : "6f35c4a72a65401f4072a7157573a739"
+},{
+    "level"   : "★3",
+    "title"   : "u gotta party [DP LAPITHER]",
+    "artist"  : "天音 / BGA:Johnny OBJ:Lapis  *FLIP LR.MIR",
+    "comment" : "UK HARDCORE",
+    "md5"     : "60f692fca2cd4ac496a69cc0e0d0bc5d"
 },{
     "level"   : "★3",
     "title"   : "Valkyrie Revolutia [Gram]",
@@ -34621,7 +34651,7 @@
 },{
     "level"   : "★7",
     "title"   : "Endless Dream　 -enhance14-",
-    "artist"  : "SHIKI *R.MIRROR",
+    "artist"  : "SHIKI",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "9f419c3bb84c4e0eaf3203c256e0c71e"
 },{
