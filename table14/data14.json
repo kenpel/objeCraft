@@ -948,6 +948,18 @@
     "md5"     : "f9576d237822646db6aa2b41c13efc7b"
 },{
     "level"   : "?",
+    "title"   : "TOKYO-RYTHM No.428 [14KEYS ANOTHER]",
+    "artist"  : "Fall obj.ゆーきさん *AVERAGE",
+    "comment" : "TOKYO ELECTRO",
+    "md5"     : "53504e2bfa38c8676184dda9770f4ae4"
+},{
+    "level"   : "?",
+    "title"   : "TOKYO-RYTHM No.428 [14KEYS INSANE]",
+    "artist"  : "Fall obj.ゆーきさん",
+    "comment" : "TOKYO ELECTRO",
+    "md5"     : "e8538d9e68426aa1450d89a5588f7029"
+},{
+    "level"   : "?",
     "title"   : "Traceability [もっと！ Merry Christmas Mr.Musaeus]",
     "artist"  : "Saturn. Dreams / EMSH Frozen Satellite / Append: 0samil0  *FLIP",
     "comment" : "Hard Trance",
@@ -1806,6 +1818,12 @@
     "md5"     : "ef8eb19116682827916ad353294f30c8"
 },{
     "level"   : "1",
+    "title"   : "Book of Wisdom [14H]",
+    "artist"  : "Aya Obj:JHS",
+    "comment" : "Euphoric Trance",
+    "md5"     : "b597ab25b2d76a40e6d533ed4895f702"
+},{
+    "level"   : "1",
     "title"   : "brandish Wagyan [(^_^)14]",
     "artist"  : "tetsuo OBJ:KLOC",
     "comment" : "EURO BEAT",
@@ -2506,12 +2524,6 @@
     "artist"  : "Cosine BGA[LeeGrimm] obj.Thulium",
     "comment" : "Future Bass",
     "md5"     : "149c4290972aa0d408e57b82171f015f"
-},{
-    "level"   : "1",
-    "title"   : "GOODTEK [DP ANOTHER]",
-    "artist"  : "EBIMAYO / obj.LetsOTL",
-    "comment" : "GOODPUMP",
-    "md5"     : "862bad018be732989b33886f12264d98"
 },{
     "level"   : "1",
     "title"   : "gravitronic⇒ (I) -DPH-",
@@ -5652,6 +5664,12 @@
     "md5"     : "3d367b44febbdec48c0925ab90974e21"
 },{
     "level"   : "2",
+    "title"   : "Merry Christmas Mr.Lawrence",
+    "artist"  : "sasakure.UK obj: second",
+    "comment" : "LAMENT",
+    "md5"     : "37f17efc2cc60d8757eb797f8e131a81"
+},{
+    "level"   : "2",
     "title"   : "MilK [Choco flavor]",
     "artist"  : "モリモリあつし obj: Hersh",
     "comment" : "Future Bass",
@@ -7156,6 +7174,12 @@
     "artist"  : "SHIKI / obj:Redrum *FLIP",
     "comment" : "TRANCE CORE",
     "md5"     : "68e1698e25f1fc84a71829c3e0301a08"
+},{
+    "level"   : "3",
+    "title"   : "Air",
+    "artist"  : "SHIKI (obj by Tetsu)",
+    "comment" : "TRANCE CORE(14key)",
+    "md5"     : "7be84ac1c60f8890945df4d24b9f8736"
 },{
     "level"   : "3",
     "title"   : "Air Rider (Another14)",
@@ -8872,6 +8896,12 @@
     "artist"  : "primrose / obj:2y",
     "comment" : "リンカーネーション",
     "md5"     : "06bec6d434189370d5e82695b1e670fc"
+},{
+    "level"   : "3",
+    "title"   : "SigSig (MiyuMiyu mix) Another",
+    "artist"  : "Est feat.Miyu",
+    "comment" : "シグシグトランスポップ[5BUTTON]",
+    "md5"     : "2c06f6382d52e4cd1bba71efb24d50fb"
 },{
     "level"   : "3",
     "title"   : "Silver Heaven",
@@ -10860,6 +10890,12 @@
     "md5"     : "8d6aca8f8e8be024ef4fbe98f22401b7"
 },{
     "level"   : "4",
+    "title"   : "GOODTEK [SPADA]",
+    "artist"  : "EBIMAYO",
+    "comment" : "GOODPUMP",
+    "md5"     : "8a0ba8feabfdd4b339a089b1a623c5b2"
+},{
+    "level"   : "4",
     "title"   : "Gorilla Gorilla -真・お手軽ゴリラちゃん-",
     "artist"  : "XEOEXE　obj:LAKE *FLIP R.MIRROR",
     "comment" : "Gorilla←このカーナビ持ってます",
@@ -12154,6 +12190,12 @@
     "artist"  : "keyc",
     "comment" : "DRUM'N' BASS",
     "md5"     : "f13a971e96ca9b3843fa0fb53c0f1209"
+},{
+    "level"   : "4",
+    "title"   : "X",
+    "artist"  : "sasakure.UK+- *SUD+ FLIP L.MIR",
+    "comment" : "UNIVERSE(14)",
+    "md5"     : "3f0e1d22d413f180767bd2075d6d4600"
 },{
     "level"   : "4",
     "title"   : "X - Level 2 -",
@@ -13666,12 +13708,6 @@
     "artist"  : "Arranged by Y.W",
     "comment" : "HAPPY SYMPHONY /// 14KEYS BOSS LN",
     "md5"     : "f28b6ea013a39136bca2c952d1cc3293"
-},{
-    "level"   : "5",
-    "title"   : "GOODTEK [SPADA]",
-    "artist"  : "EBIMAYO",
-    "comment" : "GOODPUMP",
-    "md5"     : "8a0ba8feabfdd4b339a089b1a623c5b2"
 },{
     "level"   : "5",
     "title"   : "Graduating traveler -DP ANOTHER-",
@@ -15612,6 +15648,12 @@
     "md5"     : "300de7e02992d2d105974b6ff484269a"
 },{
     "level"   : "6",
+    "title"   : "Book of Wisdom [14A]",
+    "artist"  : "Aya Obj:JHS",
+    "comment" : "Euphoric Trance",
+    "md5"     : "9d9d89bfb15ccadd176e92b52feb8869"
+},{
+    "level"   : "6",
     "title"   : "brain bleeding [A14]",
     "artist"  : "Professor S obj:ucc *R.MIRROR",
     "comment" : "TEKNO",
@@ -15646,6 +15688,12 @@
     "artist"  : "sound piercer / mov : deadblue238 obj:けろりん illust by monicaNC & mzet:-P  *FLIP",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "17f63354e2d715c49c9300bcc848cc85"
+},{
+    "level"   : "6",
+    "title"   : "Carol \"House Remix\"",
+    "artist"  : "Elyts obj.ゆーきさん",
+    "comment" : "ラウンジハウス[14key insane]",
+    "md5"     : "33dcc9b46c1397c3fd4248e6df89dbe2"
 },{
     "level"   : "6",
     "title"   : "Castor(BMS edit) [DP ANOTHER]",
@@ -20904,6 +20952,12 @@
     "md5"     : "487f7c380814c29b2c0b934b16daa009"
 },{
     "level"   : "7",
+    "title"   : "ロケットスタート [14KEYS LEGGENDARIA]",
+    "artist"  : "Yamajet Illust:ししとう Obj:Eleven  *SUD+",
+    "comment" : "Happy",
+    "md5"     : "c788b17c2218d03c6f7f813451070119"
+},{
+    "level"   : "7",
     "title"   : "上海紅茶館 [DP INSANE]",
     "artist"  : "NEKI←T + Est obj:mymt",
     "comment" : "-",
@@ -22090,6 +22144,12 @@
     "artist"  : "EBIMAYO / obj.LetsOTL *FLIP LR.RANDOM",
     "comment" : "GOODMOOMBAH",
     "md5"     : "2644aafd56e1615b32a445f794de3a87"
+},{
+    "level"   : "8",
+    "title"   : "GOODTEK [DP ANOTHER]",
+    "artist"  : "EBIMAYO / obj.LetsOTL",
+    "comment" : "GOODPUMP",
+    "md5"     : "862bad018be732989b33886f12264d98"
 },{
     "level"   : "8",
     "title"   : "Graduating traveler -k- (2017.01)",
@@ -23581,7 +23641,7 @@
 },{
     "level"   : "8",
     "title"   : "海神寓拝 [14-IIDX]",
-    "artist"  : "sasakure.UK / obj:Redrum",
+    "artist"  : "sasakure.UK / obj:Redrum *R.MIRROR",
     "comment" : "fantasia",
     "md5"     : "8ba7928daff4e41fa1d0effbb6f6207e"
 },{
@@ -24976,6 +25036,12 @@
     "artist"  : "FICY",
     "comment" : "HARDCORE",
     "md5"     : "aa4e9349c78830e325b10399b0fd1e8e"
+},{
+    "level"   : "9",
+    "title"   : "nullpop [14another]",
+    "artist"  : "Yamajet obj.youkeyjet(ゆーきじぇっと)",
+    "comment" : "SPEED GARAGE",
+    "md5"     : "2facf8fcf0561036154ba4109255fa3c"
 },{
     "level"   : "9",
     "title"   : "on the sequence #1",
@@ -27487,7 +27553,7 @@
 },{
     "level"   : "10",
     "title"   : "volcanic [A14]",
-    "artist"  : "DETRO obj:ucc",
+    "artist"  : "DETRO obj:ucc *L.MIRROR",
     "comment" : "ボルケーノ",
     "md5"     : "ef03a08d7f8cd74c0f2f4cc979d5d988"
 },{
@@ -28660,6 +28726,12 @@
     "artist"  : "nmk feat.かなえゆめ　obj ； S *FLIP LR.MIRROR",
     "comment" : "彼女たちの流儀",
     "md5"     : "586a0047f7e60e8977fc4825a726152d"
+},{
+    "level"   : "★1",
+    "title"   : "Regression 2099 [14I]",
+    "artist"  : "0310 Obj:JHS",
+    "comment" : "Nu Disco",
+    "md5"     : "fa24eb0ed46a128c5fd5b3ca25b0cfad"
 },{
     "level"   : "★1",
     "title"   : "Revival of Kalpa [Heartbeat]",
@@ -31045,7 +31117,7 @@
 },{
     "level"   : "★3",
     "title"   : "桜華月 [鷹の爪14]",
-    "artist"  : "AKITO　obj:nBel",
+    "artist"  : "AKITO　obj:nBel *R.MIRROR",
     "comment" : "JP-SPIRITUAL POP",
     "md5"     : "63af80ef9e56b2fe445ec25e20293a98"
 },{
@@ -32526,6 +32598,12 @@
     "md5"     : "00c69e73b5dd219e761a845c12ef2b16"
 },{
     "level"   : "★5",
+    "title"   : "Carol \"House Remix\"",
+    "artist"  : "Elyts obj.ゆーきさん",
+    "comment" : "ラウンジハウス[14key 夕日]",
+    "md5"     : "d93720ffd8e09ac3a2fe0455d164ec47"
+},{
+    "level"   : "★5",
     "title"   : "cheeselove [DP mami]",
     "artist"  : "charlotte obj. Gisela",
     "comment" : "okashicore",
@@ -33900,6 +33978,12 @@
     "md5"     : "aaf161d1bd1fc41e6f85970792d87597"
 },{
     "level"   : "★6",
+    "title"   : "last:wish [DP CHALLENGER+]",
+    "artist"  : "かゆき obj:kuro",
+    "comment" : "PROGRESSIVE FUSION",
+    "md5"     : "9ecf11f4b2a0ba11114036c91eae9c83"
+},{
+    "level"   : "★6",
     "title"   : "Lasting Dream (KOOKY)",
     "artist"  : "ω *L.MIRROR",
     "comment" : "PRELUDE",
@@ -34567,7 +34651,7 @@
 },{
     "level"   : "★7",
     "title"   : "Ascension to Heaven [Art]",
-    "artist"  : "xi / obj:Hador *LR.RANDOM",
+    "artist"  : "xi / obj:Hador *SUD+ LR.RANDOM",
     "comment" : "ARTCORE",
     "md5"     : "ce3c471d065cb3cebd116f83f509e5ee"
 },{
@@ -34606,6 +34690,12 @@
     "artist"  : "keyc",
     "comment" : "TRANCE",
     "md5"     : "e4cf36260e2aeb9b4a199a1760129e82"
+},{
+    "level"   : "★7",
+    "title"   : "Book of Wisdom [14I]",
+    "artist"  : "Aya Obj:JHS",
+    "comment" : "Euphoric Trance",
+    "md5"     : "9540068a690ba404c16dc5a8a315c69d"
 },{
     "level"   : "★7",
     "title"   : "carnot (ANOTHER)",
@@ -34756,12 +34846,6 @@
     "artist"  : "ルゼ / Symphonian",
     "comment" : "BUCKLER[鬼]",
     "md5"     : "038d55649b0980ac53aaa9c9983a3da4"
-},{
-    "level"   : "★7",
-    "title"   : "last:wish [DP CHALLENGER+]",
-    "artist"  : "かゆき obj:kuro",
-    "comment" : "PROGRESSIVE FUSION",
-    "md5"     : "9ecf11f4b2a0ba11114036c91eae9c83"
 },{
     "level"   : "★7",
     "title"   : "Leonids -Binary Stars-",
