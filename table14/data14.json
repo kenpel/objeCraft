@@ -1416,6 +1416,12 @@
     "md5"     : "002545378727bfe17c784f1df7168e00"
 },{
     "level"   : "?",
+    "title"   : "音弾超人ゴリライザー",
+    "artist"  : "ゴリライザー制作委員会 / obj.にゃむ *MINBPM FLIP R.MIRROR",
+    "comment" : "特撮",
+    "md5"     : "b1578874d726ed8c6b706803c2d90f4a"
+},{
+    "level"   : "?",
     "title"   : "風仁雷仁 (DP Another!?)",
     "artist"  : "カラフル・サウンズ・ポート obj:NEPIA *R.MIRROR",
     "comment" : "classical crossover pop",
@@ -1924,6 +1930,12 @@
     "artist"  : "美里 with Na+ ed@PEN",
     "comment" : "Euro Dance",
     "md5"     : "35623da1659b1872239d06430622a03e"
+},{
+    "level"   : "1",
+    "title"   : "Chariot -Miyabi style- -Level 2-",
+    "artist"  : "SHIKI / obj = Mr.egg",
+    "comment" : "drum'n bass",
+    "md5"     : "5c366cb12b30fe0ea1464e8fe6d96631"
 },{
     "level"   : "1",
     "title"   : "Chatblanc [DP Love e.piaNo]",
@@ -10420,6 +10432,12 @@
     "artist"  : "Feyrlin *R.MIRROR",
     "comment" : "Traditional Game Music",
     "md5"     : "249c6ec9b19c701cd0dc21dac99f738d"
+},{
+    "level"   : "4",
+    "title"   : "Chariot -Miyabi style- (Relating step mix)",
+    "artist"  : "SHIKI(remixed bynovu)",
+    "comment" : "drum'n bass (DP Hyper)",
+    "md5"     : "bda4e782cfb6a3a09b0f0ec28437f267"
 },{
     "level"   : "4",
     "title"   : "CHARON",
@@ -19260,6 +19278,12 @@
     "md5"     : "91e89490279efdf9486e60b0528d138e"
 },{
     "level"   : "7",
+    "title"   : "FF7 更に闘う者達 [DP逃走]",
+    "artist"  : "yassu [obj:mymt]  *FLIP LR.RAN",
+    "comment" : "FINAL FANTASY Ⅶ",
+    "md5"     : "6429e264169e13da1efe07391b33bead"
+},{
+    "level"   : "7",
     "title"   : "Fiore Tempesta -桜前線-",
     "artist"  : "ROKINA on schwarzekugel obj:YAS BGA:アカツキユウ / ImageIllust:あひゅりむ",
     "comment" : "HARD WALTZ",
@@ -19720,6 +19744,12 @@
     "artist"  : "TAROS",
     "comment" : "EURO HOUSE",
     "md5"     : "26585753deb455a28a3f019cbfd863ec"
+},{
+    "level"   : "7",
+    "title"   : "Lumos (BMS Edit) [DP-sagANOTHER]",
+    "artist"  : "L.K. / obj:sagoo",
+    "comment" : "2 Step / Chill Out",
+    "md5"     : "e8cc8ffe24025a4e616b1986d7cfef9c"
 },{
     "level"   : "7",
     "title"   : "Lunatic of the Full-Moon",
@@ -23380,6 +23410,12 @@
     "artist"  : "SOLVALOU obj:肴",
     "comment" : "xevious",
     "md5"     : "1a8ef27f6d6a977af128cbab5de78445"
+},{
+    "level"   : "8",
+    "title"   : "タイヨウパラダイス(Lemon beads J-core bootleg) -BMS Edit- (ANYATHER14)",
+    "artist"  : "nao/雪仁/水城新人 remixed by Lemon beads/obj:みっと",
+    "comment" : "ネコぱら Vol.1 ～ソレイユ開店しました！～",
+    "md5"     : "ada00fc4c3009cefb06fdf9b555ceb6d"
 },{
     "level"   : "8",
     "title"   : "ダーク・アヴァターラ・ビーム  [KALI]",
@@ -31759,7 +31795,7 @@
 },{
     "level"   : "★4",
     "title"   : "Lambda Driver [DP EX]",
-    "artist"  : "SPELL BREAK HEART BREAK  *正規 or L.RAN",
+    "artist"  : "SPELL BREAK HEART BREAK  *FLIP L.MIR R.RAN",
     "comment" : "HARD DANCE",
     "md5"     : "6de32de2bbbfdf8554ce9573ad6ccc03"
 },{
@@ -34356,6 +34392,12 @@
     "md5"     : "933c75f9a5d54c6d7b447dd6cb8cff12"
 },{
     "level"   : "★6",
+    "title"   : "Yellow Smile (bms edit) [DP hututher]",
+    "artist"  : "Junk BGA : YARITA  *L.RAN",
+    "comment" : "Trance Step",
+    "md5"     : "fdb4702225a4083bc345603dc7173b1a"
+},{
+    "level"   : "★6",
     "title"   : "Yugan Diver -PENDULUMs- 【12.5】",
     "artist"  : "次元大介 / 直之＆利之 / obj:hamburger *FLIP L.MIRROR",
     "comment" : "CHRONO BOSS BATTLE",
@@ -34459,7 +34501,7 @@
 },{
     "level"   : "★6",
     "title"   : "不思議の国のアリス [DP えぬTHER]",
-    "artist"  : "由蘭 / ALICE*  obj ; N",
+    "artist"  : "由蘭 / ALICE*  obj ; N *正規 or R.MIR or LR.RAN",
     "comment" : "東方怪綺談",
     "md5"     : "d4548a94f9a73173f0be533ae9219520"
 },{
@@ -35032,6 +35074,12 @@
     "artist"  : "ねこみみ魔法使い (obj:hamburger)",
     "comment" : "Synth Rock",
     "md5"     : "84d6010586f0c64890237df327a31014"
+},{
+    "level"   : "★7",
+    "title"   : "tinnitus [Beyond]",
+    "artist"  : "SP-# obj:nBel",
+    "comment" : "hardcore techno",
+    "md5"     : "cb300675c9be435d9ca10e62bc7094f3"
 },{
     "level"   : "★7",
     "title"   : "Trine SHRINE [DP Insane]",
@@ -37042,6 +37090,12 @@
     "artist"  : "ねこみりん *LR.MIRROR or FLIP",
     "comment" : "LIGHT RAVE",
     "md5"     : "736c981cf7c077b112d4aa4af7479f39"
+},{
+    "level"   : "★15",
+    "title"   : "tinnitus [Industrial]",
+    "artist"  : "SP-# obj:nBel",
+    "comment" : "hardcore techno",
+    "md5"     : "ee8aeedb9ad6866a32ec9a6b63a69857"
 },{
     "level"   : "★15",
     "title"   : "アズール リミックス <DP JUATHER>",
