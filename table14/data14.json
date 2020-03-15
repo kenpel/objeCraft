@@ -210,6 +210,12 @@
     "md5"     : "f94bf17246424738485c225465b740ac"
 },{
     "level"   : "?",
+    "title"   : "Cynic (VOLCANIC)",
+    "artist"  : "6yen / G / M",
+    "comment" : "techno",
+    "md5"     : "b8ad34f767a1a9610dbadad04b570cf8"
+},{
+    "level"   : "?",
     "title"   : "Date of Shooting Game 2 ~ Hyper Trance Remix ~ 14keys",
     "artist"  : "Kim Woon *L.MIRROR 長尺",
     "comment" : "Trance",
@@ -816,6 +822,12 @@
     "md5"     : "d21691ebf9f690a360ccd269819464f2"
 },{
     "level"   : "?",
+    "title"   : "Reflectiondo Liberator [14KEYS ANOTHER]",
+    "artist"  : "nora2r obj.SioN *AVERAGE",
+    "comment" : "MAINSTREAM HARDCONDORE",
+    "md5"     : "761921ff758e7cd9b52b86d391508a65"
+},{
+    "level"   : "?",
     "title"   : "Road To Cherry Blossom DP?",
     "artist"  : "Grand Thaw と ハカセ  *MAXBPM (分岐譜面)",
     "comment" : "Japanese Spiritual",
@@ -1132,6 +1144,12 @@
     "artist"  : "ねこみみ魔法使い (obj:k) *LR.RANDOM",
     "comment" : "steps",
     "md5"     : "753696417103465a5d3249218463ddd5"
+},{
+    "level"   : "?",
+    "title"   : "おいしいふりかけ [DSC]",
+    "artist"  : "Pierre / artofkusofumen",
+    "comment" : "鮭Break",
+    "md5"     : "5be985fb287a3461ed63d736d47a29e8"
 },{
     "level"   : "?",
     "title"   : "おでん -□□□□",
@@ -1510,12 +1528,6 @@
     "artist"  : "猫蟹丸 obj:ka2o",
     "comment" : "House",
     "md5"     : "a892387075cd41ef0e8c359e147426f2"
-},{
-    "level"   : "1",
-    "title"   : "A c i - L -",
-    "artist"  : "裏 吉 川",
-    "comment" : "t r a n c e",
-    "md5"     : "479e47392bc2d20e517db249322ffd9b"
 },{
     "level"   : "1",
     "title"   : "A gratitude... <14key another>",
@@ -2482,12 +2494,6 @@
     "artist"  : "455-38B/obj:spt",
     "comment" : "P s y / 14key",
     "md5"     : "bf109a7dc0d5bd341c80761fd4685d9f"
-},{
-    "level"   : "1",
-    "title"   : "Gamegame [DP New Game]",
-    "artist"  : "s-don / 篠乃ちよ obj:MGN",
-    "comment" : "Tech Dance",
-    "md5"     : "cc53a1e8ef18ef0504a0801657cec2a1"
 },{
     "level"   : "1",
     "title"   : "GEMINI (14keys Maniac)",
@@ -4164,6 +4170,12 @@
     "md5"     : "ca3b84f3579ba605455764cd8ccc5d6e"
 },{
     "level"   : "1",
+    "title"   : "ネコイチ(Lemon beads Remix) [DPA]",
+    "artist"  : "Duca/Scuderia K Remixed by Lemon beads / obj.にゃむ",
+    "comment" : "ネコぱらVol.3 ~ネコたちのアロマティゼ~",
+    "md5"     : "3266b99d9728e0c644d04d5ee0dc1dd3"
+},{
+    "level"   : "1",
     "title"   : "ハルシネーション [14key Moderate]",
     "artist"  : "Ym1024 feat. ひなたゆかり[obj:MGN]",
     "comment" : "Shuffle Pop",
@@ -5374,6 +5386,12 @@
     "artist"  : "Gatia",
     "comment" : "Space Pop",
     "md5"     : "3e5da28edf93385c429808abec03896f"
+},{
+    "level"   : "2",
+    "title"   : "Gamegame [DP New Game]",
+    "artist"  : "s-don / 篠乃ちよ obj:MGN",
+    "comment" : "Tech Dance",
+    "md5"     : "cc53a1e8ef18ef0504a0801657cec2a1"
 },{
     "level"   : "2",
     "title"   : "Gaster's Theme -VIXI Remix- [DP Hyper]",
@@ -10080,6 +10098,12 @@
     "md5"     : "991c38a92e6543e785fb5b30a77bc6ce"
 },{
     "level"   : "4",
+    "title"   : "A c i - L -",
+    "artist"  : "裏 吉 川",
+    "comment" : "t r a n c e",
+    "md5"     : "479e47392bc2d20e517db249322ffd9b"
+},{
+    "level"   : "4",
     "title"   : "a Sigh and a Claret [A14]",
     "artist"  : "J.T. obj:ucc",
     "comment" : "クラレット",
@@ -13122,12 +13146,6 @@
     "md5"     : "168b5744ea523bb4c1d561641dab0481"
 },{
     "level"   : "5",
-    "title"   : "Astronomical Twilight [sub black another]",
-    "artist"  : "anubasu-anubasu/6UT3/SHU10/U-hey/Lafale/CELLON./Kankitsu obj:kuro BGA:Roaring Flame/出前/ユウノ/Frantzz/Optie/温泉の力/To7",
-    "comment" : "Rotational Trance",
-    "md5"     : "e30648dc146320b08adb232acdd3d991"
-},{
-    "level"   : "5",
     "title"   : "Auburn Halo",
     "artist"  : "Arctures Obj: Telperion || BGA: 鑓田(alpha complex)  *OFF-50",
     "comment" : "Future Waltz",
@@ -15012,12 +15030,6 @@
     "md5"     : "1994adc4efc0aa9d74165fc97291dc4f"
 },{
     "level"   : "5",
-    "title"   : "ダークサンバランド",
-    "artist"  : "ダークサンバマスター佐藤 -SATOH-",
-    "comment" : "ゆったり系Psychedelic Trance",
-    "md5"     : "a8913fda12a78dc151e948bc6b793cb7"
-},{
-    "level"   : "5",
     "title"   : "チョウの標本 [14A]",
     "artist"  : "Process 2.3.1./obj:LLL",
     "comment" : "",
@@ -15646,6 +15658,12 @@
     "artist"  : "Syatten obj:irul",
     "comment" : "Dutch Trance (14key)",
     "md5"     : "90c1d334f3bb5fd00eedf243eac214fe"
+},{
+    "level"   : "6",
+    "title"   : "Astronomical Twilight [sub black another]",
+    "artist"  : "anubasu-anubasu/6UT3/SHU10/U-hey/Lafale/CELLON./Kankitsu obj:kuro BGA:Roaring Flame/出前/ユウノ/Frantzz/Optie/温泉の力/To7",
+    "comment" : "Rotational Trance",
+    "md5"     : "e30648dc146320b08adb232acdd3d991"
 },{
     "level"   : "6",
     "title"   : "Autumn illusions  [Hyper]",
@@ -18018,6 +18036,12 @@
     "md5"     : "c672f60a0b454e9c58215542cc542d85"
 },{
     "level"   : "6",
+    "title"   : "ダークサンバランド",
+    "artist"  : "ダークサンバマスター佐藤 -SATOH-",
+    "comment" : "ゆったり系Psychedelic Trance",
+    "md5"     : "a8913fda12a78dc151e948bc6b793cb7"
+},{
+    "level"   : "6",
     "title"   : "ダーク・アヴァターラ・ビーム  [ANOTHER]",
     "artist"  : "スーパーサイキッカー 藤井 -FUJY-/obj:tts1374",
     "comment" : "DARK FULL ON",
@@ -18772,12 +18796,6 @@
     "artist"  : "Syatten / obj:spt *FLIP R.MIRROR",
     "comment" : "Dutch Trance",
     "md5"     : "8e4b1dfb31ca65e05fd366d0fb9d8a02"
-},{
-    "level"   : "7",
-    "title"   : "Astronomical Twilight [sub black another]",
-    "artist"  : "anubasu-anubasu/6UT3/SHU10/U-hey/Lafale/CELLON./Kankitsu obj:kuro BGA:Roaring Flame/出前/ユウノ/Frantzz/Optie/温泉の力/To7",
-    "comment" : "Rotational Trance",
-    "md5"     : "fafa8702d4f1d8f7f77c1b826b3c8337"
 },{
     "level"   : "7",
     "title"   : "Atlach=Nacha - C.I.E.L -  (ANOTHER14)",
@@ -20772,6 +20790,12 @@
     "md5"     : "72a25a64f0052c2345d98495667d8568"
 },{
     "level"   : "7",
+    "title"   : "ZERODAY [DP Lunatic]",
+    "artist"  : "Lunatic Sounds / Yusi. obj.Cosmograph",
+    "comment" : "Schranz",
+    "md5"     : "10f712862ff5b7a9138f9696e5e4ae42"
+},{
+    "level"   : "7",
     "title"   : "◆ B a r o q u e ◆ [14key_another]",
     "artist"  : "tarolabo//obj.MIST *L.RAN R.MIR or FLIP L.MIR",
     "comment" : "[ProgressiveJack]",
@@ -21610,6 +21634,12 @@
     "artist"  : "remixed celas (obj:k)",
     "comment" : "happy hardcore",
     "md5"     : "66ec47e66235841b09adcc4f83de42f5"
+},{
+    "level"   : "8",
+    "title"   : "Astronomical Twilight [sub black another]",
+    "artist"  : "anubasu-anubasu/6UT3/SHU10/U-hey/Lafale/CELLON./Kankitsu obj:kuro BGA:Roaring Flame/出前/ユウノ/Frantzz/Optie/温泉の力/To7  *F LRM",
+    "comment" : "Rotational Trance",
+    "md5"     : "fafa8702d4f1d8f7f77c1b826b3c8337"
 },{
     "level"   : "8",
     "title"   : "AutumnBreeze [ANQTHER]",
@@ -28884,12 +28914,6 @@
     "md5"     : "586a0047f7e60e8977fc4825a726152d"
 },{
     "level"   : "★1",
-    "title"   : "Regression 2099 [14I]",
-    "artist"  : "0310 Obj:JHS",
-    "comment" : "Nu Disco",
-    "md5"     : "fa24eb0ed46a128c5fd5b3ca25b0cfad"
-},{
-    "level"   : "★1",
     "title"   : "Revival of Kalpa [Heartbeat]",
     "artist"  : "CrYmson / obj:Hersh",
     "comment" : "Artcore",
@@ -29932,6 +29956,12 @@
     "artist"  : "taqumi / obj:tako_st *FLIP",
     "comment" : "Drum'n Bass",
     "md5"     : "70ad9568b259c3aa340f238c8dd0a6a4"
+},{
+    "level"   : "★2",
+    "title"   : "Regression 2099 [14I]",
+    "artist"  : "0310 Obj:JHS",
+    "comment" : "Nu Disco",
+    "md5"     : "fa24eb0ed46a128c5fd5b3ca25b0cfad"
 },{
     "level"   : "★2",
     "title"   : "ROTTELER'S HOME \"fourteenth terrence edit\"",
@@ -31240,6 +31270,12 @@
     "artist"  : "夢幻 海 *AVE L.RAN or FLIP L.MIR R.RAN",
     "comment" : "Rhapsodie",
     "md5"     : "136014c59d26114b78d4983eddb1913f"
+},{
+    "level"   : "★3",
+    "title"   : "ブラーブルー [STELLA_DP]",
+    "artist"  : "Caerula/obj.M *R.MIRROR",
+    "comment" : "ART EMOTION",
+    "md5"     : "60fb807b92d4f241e80efadb9bdccdb1"
 },{
     "level"   : "★3",
     "title"   : "プナイプナイたいそう [マイガイテとハイダライテをかいたえるうんどう]",
@@ -36840,6 +36876,12 @@
     "md5"     : "373f9081ba711c176cd9c9c2dbf4c010"
 },{
     "level"   : "★11",
+    "title"   : "Air -DP_GOD-",
+    "artist"  : "SHIKI / obj.m",
+    "comment" : "TRANCE CORE",
+    "md5"     : "f8d59b4789af5d191bc9acb5de0b6f32"
+},{
+    "level"   : "★11",
     "title"   : "Andro [DP ★14！]",
     "artist"  : "紅蓮月影 BGA:A-ZERO Project obj:kuro",
     "comment" : "LOGICAL FORMAT",
@@ -36868,6 +36910,12 @@
     "artist"  : "養土卵 光 / 浜 柔好 / obj:aprop",
     "comment" : "Happy Hardcore",
     "md5"     : "9f6d62dbe84eef1817961a9f8914c891"
+},{
+    "level"   : "★11",
+    "title"   : "EXILE [悪夢]",
+    "artist"  : "-45",
+    "comment" : "",
+    "md5"     : "d7499424b4adec8ffd5dd67c1b2d0ade"
 },{
     "level"   : "★11",
     "title"   : "Fatal Assault  [ALL KEY]",
