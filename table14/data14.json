@@ -510,6 +510,12 @@
     "md5"     : "2fe6f24d2c5e2adea06e3e2afdcbca13"
 },{
     "level"   : "?",
+    "title"   : "hard strict [DP ANOTHER]",
+    "artist"  : "rat / BGI:鈎兎(KagiUsagi) remix.mentalhealz / obj.nor  *FLIP R.MIR",
+    "comment" : "SPEED GRIME",
+    "md5"     : "abc1d57e7dba5de4d0d82b76a868ac74"
+},{
+    "level"   : "?",
     "title"   : "Hazy moon (triathlon)",
     "artist"  : "Chitose /無名発狂十段 vs 無名発狂DP六段 vs 無名LN皆伝",
     "comment" : "Fusion/Breakbeats",
@@ -1480,6 +1486,12 @@
     "artist"  : "S.TART",
     "comment" : "Wilderness Ballad",
     "md5"     : "21618f06159dfda52eef7c11060905c2"
+},{
+    "level"   : "?",
+    "title"   : "暇な人のためのハローワールド",
+    "artist"  : "koushirou（卑屈P）- obj:(=ﾟωﾟ)ノぃょぅ *30分 R.MIRROR",
+    "comment" : "Techno Pop",
+    "md5"     : "416d5d41852ed6b7aa5def98b39e0ed4"
 },{
     "level"   : "?",
     "title"   : "梓 Another（long m ver）",
@@ -2860,6 +2872,12 @@
     "artist"  : "P4koo Obj:ゆ～兎",
     "comment" : "Melodic NRG",
     "md5"     : "459beb86411c5e60c3d67a0e9bff8160"
+},{
+    "level"   : "1",
+    "title"   : "INLINE [14k Another]",
+    "artist"  : "isocosa Obj: PSYK",
+    "comment" : "TECHNO",
+    "md5"     : "f06ba37659138a62c69f5c76ed3902af"
 },{
     "level"   : "1",
     "title"   : "innocent infant -DP ANOTHER-",
@@ -5520,12 +5538,6 @@
     "md5"     : "6060c3410ef743f30c948f6db640fccd"
 },{
     "level"   : "2",
-    "title"   : "Fluctuation [98%keys]",
-    "artist"  : "Electro Controller / obj.vectorla",
-    "comment" : "TECHNO",
-    "md5"     : "ef3cd7621afae2432ac2e6614724b91d"
-},{
-    "level"   : "2",
     "title"   : "From Highest HEAVEN [H14 没ver]",
     "artist"  : "Remixed by iROH obj:ucc *FLIP",
     "comment" : "ENERGETIC TRANCE",
@@ -6766,6 +6778,12 @@
     "artist"  : "daisan / object by meteor*",
     "comment" : "和奏電幻楽",
     "md5"     : "587381040b9327bb6540986e37ea641a"
+},{
+    "level"   : "2",
+    "title"   : "Yay or Nay [DP ☆NOTHER]",
+    "artist"  : "Sobrem (Vo. Boksoong) obj:Starfish",
+    "comment" : "Pop",
+    "md5"     : "e30c5af1577f36d24fb2b0a8e3b6f3b9"
 },{
     "level"   : "2",
     "title"   : "You're My Shining Star [DP-sagANOTHER]",
@@ -12162,6 +12180,12 @@
     "md5"     : "f933308f0963b29ad48b6fe249689560"
 },{
     "level"   : "4",
+    "title"   : "Ragnarok",
+    "artist"  : "Fenrir obj:SHITA",
+    "comment" : "Freeform Hardcore",
+    "md5"     : "a540b339e448b4ecb4fc3acae5733978"
+},{
+    "level"   : "4",
     "title"   : "Rainy Heart [DPQ]",
     "artist"  : "dai OBJ : QUART",
     "comment" : "House",
@@ -15072,6 +15096,12 @@
     "md5"     : "a35ade8976bd43d9d3d13f4895b58465"
 },{
     "level"   : "5",
+    "title"   : "Ruby Mushroom [DP 泥酔期]",
+    "artist"  : "うまかい obj:Watson",
+    "comment" : "HANGOVER",
+    "md5"     : "6622c233b55a99db7c1cd703cb5b05db"
+},{
+    "level"   : "5",
     "title"   : "Ruriko FINAL",
     "artist"  : "POSI-TRON! (obj:novu)",
     "comment" : "EURO-RAVE (DP Another)",
@@ -16398,6 +16428,12 @@
     "md5"     : "9d9d89bfb15ccadd176e92b52feb8869"
 },{
     "level"   : "6",
+    "title"   : "boxiv! on! fight!_KASATHER_DPヘビー級",
+    "artist"  : "KAH　BGA:自動車　原付　illust:りゅうら　obj:KASAKO",
+    "comment" : "violence tech",
+    "md5"     : "a1ebf5bd53376f5a3e3f6b57ca5657f1"
+},{
+    "level"   : "6",
     "title"   : "brain bleeding [A14]",
     "artist"  : "Professor S obj:ucc *R.MIRROR",
     "comment" : "TEKNO",
@@ -16654,12 +16690,6 @@
     "artist"  : "nya_n // 雛鍔 葵 親指改造計画 *FLIP",
     "comment" : "nyance",
     "md5"     : "f37e5d70d190584c345d63089e8b1a40"
-},{
-    "level"   : "6",
-    "title"   : "DIFINITION OF INSANITY [DP ANOTHER]",
-    "artist"  : "H.U.T GiGAR obj:ucc",
-    "comment" : "SCHRANZ",
-    "md5"     : "abd6932fb47bf8392869b20acf4c3437"
 },{
     "level"   : "6",
     "title"   : "Disaster -14A-",
@@ -17704,6 +17734,12 @@
     "artist"  : "Silentroom × 駿 / obj.LetsOTL",
     "comment" : "KATASTROPHE",
     "md5"     : "e7b02a0c898847cccdef2db546e16c1b"
+},{
+    "level"   : "6",
+    "title"   : "Night And Day [ANOTHER 14]",
+    "artist"  : "system \"sigma\" *L.MIRROR",
+    "comment" : "SIMPLE D'N'B",
+    "md5"     : "bbe3cd646ffaa767c2912a9709a49f6b"
 },{
     "level"   : "6",
     "title"   : "niKu [A14]",
@@ -19230,6 +19266,12 @@
     "md5"     : "97d0c86f7ee95769c3c577e7a4995b09"
 },{
     "level"   : "6",
+    "title"   : "覚醒フィールド [AT]",
+    "artist"  : "cosMo obj.にゃむ",
+    "comment" : "DTX STARTER PACK_Extra",
+    "md5"     : "3a5f5f09ac2c67d2e53fff073b6cc47f"
+},{
+    "level"   : "6",
     "title"   : "観世音菩薩 [DP Hyper]",
     "artist"  : "Stoic Comodo-TL12 Visualized by Irelriser, Obj: 35  *LR.RAN",
     "comment" : "Hard Techno",
@@ -20220,6 +20262,12 @@
     "md5"     : "79ca7ce5255cf0388fb34b048fe9d8d2"
 },{
     "level"   : "7",
+    "title"   : "Fluctuation [98%keys]",
+    "artist"  : "Electro Controller / obj.vectorla",
+    "comment" : "TECHNO",
+    "md5"     : "ef3cd7621afae2432ac2e6614724b91d"
+},{
+    "level"   : "7",
     "title"   : "Fly Again (bms edit) [Another14]",
     "artist"  : "Junk feat.Salita / obj:epics- *LR.MIRROR",
     "comment" : "HYPER TRANCE",
@@ -20310,6 +20358,12 @@
     "md5"     : "33438156c4f32a4f3b4e9a1fa6b7c009"
 },{
     "level"   : "7",
+    "title"   : "GOODFORTUNE [DP]",
+    "artist"  : "EBIMAYO / obj.LetsOTL",
+    "comment" : "GOODHAPPY",
+    "md5"     : "1e91bc362678c2ced52171ad33ad7f2c"
+},{
+    "level"   : "7",
     "title"   : "GOODWORLD [DP]",
     "artist"  : "EBIMAYO / obj.LetsOTL *FLIP",
     "comment" : "GOODHARD",
@@ -20398,6 +20452,12 @@
     "artist"  : "P4koo Obj:ゆ～兎  *R.MIRROR",
     "comment" : "Melodic NRG",
     "md5"     : "6c60ebb93243207d2b30da98ee18fcf0"
+},{
+    "level"   : "7",
+    "title"   : "IN [HAORSE MUSIC / DP譜面]",
+    "artist"  : "Zris feat. Katie / Limite",
+    "comment" : "N",
+    "md5"     : "d73cdd6d5d1897e2d3052b74263b5283"
 },{
     "level"   : "7",
     "title"   : "Indigo Flux [Gy]",
@@ -22708,6 +22768,12 @@
     "artist"  : "削除 feat. Nikki Simmons Movie:Radiocity&yoshimo / obj:Starfish",
     "comment" : "BEAM",
     "md5"     : "3313af61d72229ebf2910b7d82108083"
+},{
+    "level"   : "8",
+    "title"   : "DIFINITION OF INSANITY [DP ANOTHER]",
+    "artist"  : "H.U.T GiGAR obj:ucc",
+    "comment" : "SCHRANZ",
+    "md5"     : "abd6932fb47bf8392869b20acf4c3437"
 },{
     "level"   : "8",
     "title"   : "DISCHARGE RUSH  [ANOTHER]",
@@ -25212,6 +25278,12 @@
     "md5"     : "5609b06d5175eb0102725347ecb47c9e"
 },{
     "level"   : "9",
+    "title"   : "Cursed Rosemaid [DP ANOTHER]",
+    "artist"  : "Eckesachs",
+    "comment" : "HARD NRG",
+    "md5"     : "4be44384c5c0ee8615c7c61c9375d983"
+},{
+    "level"   : "9",
     "title"   : "CYCLONE",
     "artist"  : "MINT BGA : Can.D-mtmrw  *R.MIRROR",
     "comment" : "TECHNO",
@@ -25336,6 +25408,12 @@
     "artist"  : "Glome +- obj:kuro",
     "comment" : "Drum'n'Bass",
     "md5"     : "fa0df0f7d625c344663b1d9d41679c3e"
+},{
+    "level"   : "9",
+    "title"   : "Edge of bravery [DP INSANE]",
+    "artist"  : "みーに feat. 初音ミク Obj:JHS",
+    "comment" : "Rock-Core",
+    "md5"     : "2ba2327d4ad3a0fe195b4af12e751222"
 },{
     "level"   : "9",
     "title"   : "Electro Wind [DP ASHTHER]",
@@ -26110,6 +26188,12 @@
     "artist"  : "anubasu-anubasu Remixed by くっちー BGA:highluin",
     "comment" : "J-CORE",
     "md5"     : "48f2896851e3d981448f64c777c53095"
+},{
+    "level"   : "9",
+    "title"   : "PEACE BREAKER [DP ANOTHER]",
+    "artist"  : "Omnipotenx",
+    "comment" : "SYMPHONIC SCHRANZ",
+    "md5"     : "8991fe1785846530c7d4eaffb3051fd0"
 },{
     "level"   : "9",
     "title"   : "PHANTOM KILLER [DP INSANE+]",
@@ -27396,6 +27480,12 @@
     "md5"     : "39d3f1d69fa9b9025121b2590556b3aa"
 },{
     "level"   : "10",
+    "title"   : "Anosognosia [ANOTHER]",
+    "artist"  : "saaa(obj:A-4) BGA : Arishima_Caprico  *MAXBPM",
+    "comment" : "EUPHORIC FRENCHCORE",
+    "md5"     : "a3f2088268a7e3ffb63ccf9fade29e6d"
+},{
+    "level"   : "10",
     "title"   : "Armageddon [DP]",
     "artist"  : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/Obj:LetsOTL",
     "comment" : "KYRIE",
@@ -27870,6 +27960,12 @@
     "md5"     : "b70a498d572b76ebe8da1e757425dfbb"
 },{
     "level"   : "10",
+    "title"   : "GOODFORTUNE [皿__皿]",
+    "artist"  : "EBIMAYO / obj.LetsOTL",
+    "comment" : "GOODHAPPY",
+    "md5"     : "4e750e10d0e169794e7ca668c15f101b"
+},{
+    "level"   : "10",
     "title"   : "Growmeter [14key,Another]",
     "artist"  : "mommy *FLIP LR.MIRROR",
     "comment" : "PROGRESSIVE",
@@ -27930,6 +28026,12 @@
     "md5"     : "2693d7cbbd80982195feaa3744c1d28d"
 },{
     "level"   : "10",
+    "title"   : "Hypervigility [Vertigo]",
+    "artist"  : "Lian",
+    "comment" : "MASSIVE CORE",
+    "md5"     : "0dc327a78190c01e60e8b29e36c36982"
+},{
+    "level"   : "10",
     "title"   : "IKAROS [DP Nymph]",
     "artist"  : "ETIA. feat. Jenga obj:けろりん Movie: HDLV",
     "comment" : "HYBRIDIZED J-CORE",
@@ -27964,6 +28066,12 @@
     "artist"  : "ETIA. feat. Jenga obj:kuro Movie: vol-t  *FLIP",
     "comment" : "DRUM'N'BASS",
     "md5"     : "3bb2f03aa5cf5656bb52b3e6b881f725"
+},{
+    "level"   : "10",
+    "title"   : "INLINE [14k Rabbit]",
+    "artist"  : "isocosa Obj: PSYK  *正規 or FLIP L.MIR",
+    "comment" : "TECHNO",
+    "md5"     : "239932626d8779c39e72b38c32b9067b"
 },{
     "level"   : "10",
     "title"   : "insolence feat. Golmont [14keys Hyper]",
@@ -28308,16 +28416,16 @@
     "md5"     : "eea2442ba32a195f34eb8206794cadae"
 },{
     "level"   : "10",
-    "title"   : "PEACE BREAKER [DP ANOTHER]",
-    "artist"  : "Omnipotenx",
-    "comment" : "SYMPHONIC SCHRANZ",
-    "md5"     : "8991fe1785846530c7d4eaffb3051fd0"
-},{
-    "level"   : "10",
     "title"   : "PEACE BREAKER　 -14GB-",
     "artist"  : "Omnipotenx",
     "comment" : "SYMPHONIC SCHRANZ",
     "md5"     : "2d5e8168efd991251f961dc73dcb1a23"
+},{
+    "level"   : "10",
+    "title"   : "PERFECT PARFAIT -ここあ14-",
+    "artist"  : "E0ri4 BGA : A-ZERO Project / ILLUST : ゆいまり",
+    "comment" : "J-Core / HAPPY HARDCORE",
+    "md5"     : "9996e5f92b079f2aabfed522befc6270"
 },{
     "level"   : "10",
     "title"   : "PHANTOM LOST [DP ANOTHER]",
@@ -28420,6 +28528,12 @@
     "artist"  : "くっちー / あっきー obj:ucc *FLIP R.MIRROR",
     "comment" : "PIANO CONCERTO",
     "md5"     : "37db00fab1fec0e8bf0b08e559ff5d4a"
+},{
+    "level"   : "10",
+    "title"   : "Roaming melancholy [14keys Another]",
+    "artist"  : "Felisica / BGI:鈎兎(KagiUsagi) *R.MIRROR",
+    "comment" : "Atmostech",
+    "md5"     : "036ecb4bf938ec25795ef1a193a901af"
 },{
     "level"   : "10",
     "title"   : "Rocketropoliscratch",
@@ -31716,6 +31830,12 @@
     "md5"     : "890d0ac69965d7e8fc71640d44f4da2d"
 },{
     "level"   : "★3",
+    "title"   : "Cybenko's Theorem [DP NON'S ANother]",
+    "artist"  : "w_tre(obj.siyamaki) *LR.RANDOM",
+    "comment" : "ｫｷｫｰｫ筬､ｫﾉｫﾇｫ雖ｨｫﾃｫﾈ",
+    "md5"     : "9eab3f91679cf69edf9ddc37c33a942c"
+},{
+    "level"   : "★3",
     "title"   : "Cynic [度胸兄弟]",
     "artist"  : "6yen / G / obj.LetsOTL",
     "comment" : "techno",
@@ -33586,6 +33706,12 @@
     "artist"  : "paraoka *LR.MIRROR SUD+",
     "comment" : "rock",
     "md5"     : "6a45afa9bb97f4d62eca1efd64328eb2"
+},{
+    "level"   : "★4",
+    "title"   : "WHIRLWIND [Twin Blast]",
+    "artist"  : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj. RaiN",
+    "comment" : "Piano Trance",
+    "md5"     : "0b1234798d2da9bbde81c1eaf6111005"
 },{
     "level"   : "★4",
     "title"   : "Wizdomiot [俄十四]",
@@ -35460,6 +35586,12 @@
     "md5"     : "b5fddf61b7c813be76ce713fdd6100d7"
 },{
     "level"   : "★6",
+    "title"   : "Kirby in Luminous Land(short ver.) [14keys Astaroth]",
+    "artist"  : "れおん obj:Yosk!",
+    "comment" : "Violent POYOMI Technopop",
+    "md5"     : "8b304e71165fc3442351ee1125115f95"
+},{
+    "level"   : "★6",
     "title"   : "KISS CANDY FLAVOR (CRAZY LOVELY MONSTERS)",
     "artist"  : "カラフル・サウンズ・ポート obj:nBel *R.MIRROR",
     "comment" : "TECHNO POP",
@@ -35692,6 +35824,12 @@
     "artist"  : "uma vs. モリモリあつし obj;hag vs. Nurse",
     "comment" : "Hard Renaissance",
     "md5"     : "bf1fc51fb97c9f273b19c2b1467d06f7"
+},{
+    "level"   : "★6",
+    "title"   : "Reconnected [DP ANOTHER]",
+    "artist"  : "imitator T.G. obj:nBel  *FLIP LR.MIR or FLIP L.MIR",
+    "comment" : "TECHNO",
+    "md5"     : "88eb1cabf16eb04d5eda8bf5a94b48d3"
 },{
     "level"   : "★6",
     "title"   : "Red -reduction division- [more Sadistic14]",
