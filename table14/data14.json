@@ -1434,6 +1434,12 @@
     "md5"     : "04a4a6cd316911ac05d64f648b97c0bb"
 },{
     "level"   : "?",
+    "title"   : "ホームラン [14key Another]",
+    "artist"  : "路傍の石 Original:中潟憲雄 *MINBPM 0:20~",
+    "comment" : "Chiptune",
+    "md5"     : "0ad0949896e292cc35fa0f3ec2e04384"
+},{
+    "level"   : "?",
     "title"   : "ロッテルダムチルノ [⑨]",
     "artist"  : "ZUN / AU / 灰猫ユキハル obj@チルノ  *AVERAGE 引越し",
     "comment" : "Rotterdam techno",
@@ -3378,6 +3384,12 @@
     "md5"     : "40b7273656b0173c4f5c741f9e4487d7"
 },{
     "level"   : "1",
+    "title"   : "NOT BMS [14A]",
+    "artist"  : "Blue-J",
+    "comment" : "NOT BMS",
+    "md5"     : "b81307a95df915c89c4d13d1601ec88a"
+},{
+    "level"   : "1",
     "title"   : "Nuclear Fusion DPH",
     "artist"  : "Celas / obj ; N",
     "comment" : "聖剣伝説3",
@@ -4266,6 +4278,12 @@
     "md5"     : "fb3c6711abdcce8cbb6e98822a7f45c3"
 },{
     "level"   : "1",
+    "title"   : "アズール [H14]",
+    "artist"  : "メスクラ (エヴァたん＆メコたん) obj:ucc *R.MIRROR",
+    "comment" : "ルネッサンスコア",
+    "md5"     : "4ecb3992413d1355a94a08c1abe64e29"
+},{
+    "level"   : "1",
     "title"   : "アズール リミックス <DP HYPER>",
     "artist"  : "メスクラ (エヴァたん＆メコたん) *FLIP",
     "comment" : "ルネッサンスコア",
@@ -4318,6 +4336,12 @@
     "artist"  : "孔雀P BGI:いとこん",
     "comment" : "TECHNO POP",
     "md5"     : "018d7d8f37a2db6c92d3c1b87ea20fe0"
+},{
+    "level"   : "1",
+    "title"   : "グラビティマンステージ [DPA]",
+    "artist"  : "GYAON",
+    "comment" : "ROCKMAN MUSIC",
+    "md5"     : "0772e7e840a5f61c0f5989fefada8c22"
 },{
     "level"   : "1",
     "title"   : "グレートエスケープ -Another14-",
@@ -7116,6 +7140,12 @@
     "md5"     : "ff658d004f6dc3c2066b43b74ea57887"
 },{
     "level"   : "2",
+    "title"   : "ダークサンバランド -DP MOLTHER-",
+    "artist"  : "ダークサンバマスター佐藤 -SATOH- / obj:plum",
+    "comment" : "ゆったり系Psychedelic Trance",
+    "md5"     : "570881385b6009f79da330b64bce2c02"
+},{
+    "level"   : "2",
     "title"   : "チンブラ戦隊ブライアンのテーマ",
     "artist"  : "この見るゲをtkった人&ごーや",
     "comment" : "ETERNAL MRG",
@@ -8640,6 +8670,12 @@
     "md5"     : "0fbbc2e7f71180173a168af3e6340add"
 },{
     "level"   : "3",
+    "title"   : "I",
+    "artist"  : "LeaF Movie:Optie / obj:lichtr  *AVE-20",
+    "comment" : "PROGRESSIVE IDM",
+    "md5"     : "de7d981e2a12d30aca8dd4e2da574d6c"
+},{
+    "level"   : "3",
     "title"   : "I believe -DP Another-",
     "artist"  : "Gun string /obj:spt",
     "comment" : "blow",
@@ -9064,6 +9100,12 @@
     "artist"  : "U-hey respect for U2 / obj: plum",
     "comment" : "TRANCE",
     "md5"     : "9ec98d6df74be437a077c8ff1b8206d7"
+},{
+    "level"   : "3",
+    "title"   : "Modula (DH)",
+    "artist"  : "Symphonian",
+    "comment" : "Drum'n'Bass",
+    "md5"     : "4cd49ae2de06af44af6299830f8a2a93"
 },{
     "level"   : "3",
     "title"   : "moon spark vortex [EX14]",
@@ -12396,6 +12438,12 @@
     "md5"     : "3054144fdb43bf0404bd424570ff4ab3"
 },{
     "level"   : "4",
+    "title"   : "Psi Addicted [14key]",
+    "artist"  : "Phracta obj:肴",
+    "comment" : "Chiptune",
+    "md5"     : "1f9360e3380bf1997449260a4e972bf0"
+},{
+    "level"   : "4",
     "title"   : "Pure Boys -for Beginner14-",
     "artist"  : "luzebzk(from 300club)/obj:epics-",
     "comment" : "XBeatsLA",
@@ -13434,6 +13482,12 @@
     "md5"     : "9b2a7f55232d233a4dfa40442425db4b"
 },{
     "level"   : "4",
+    "title"   : "パステルプラネット [小惑星]",
+    "artist"  : "eoll feat.白羽美依 obj.にゃむ",
+    "comment" : "ピコピコポップ",
+    "md5"     : "ba489ea5e36ece66e790c36e2c5ea141"
+},{
+    "level"   : "4",
     "title"   : "パネルでポン/フレアのテーマ [DP PROFESSIONAL]",
     "artist"  : "tarolabo /// obj:ムギ五級",
     "comment" : "[riphop]",
@@ -13570,6 +13624,12 @@
     "artist"  : "er / obj.LetsOTL",
     "comment" : "ゆるふわボッサ/ゆるふわハウス",
     "md5"     : "04444711afe3b0776835b23f4d4bf2eb"
+},{
+    "level"   : "4",
+    "title"   : "古代の風に沈む城 [DPA]",
+    "artist"  : "gransear obj:肴",
+    "comment" : "WORLD/BREAKBEATS",
+    "md5"     : "087710c172456adf80ce6fd0f2f9d8c4"
 },{
     "level"   : "4",
     "title"   : "哀の羽音色",
@@ -16224,6 +16284,12 @@
     "md5"     : "9cb0905e30606b3fa664263826723cfa"
 },{
     "level"   : "5",
+    "title"   : "温泉大作戦 [DP NAGITHER]",
+    "artist"  : "Freezer feat. 妃苺 obj:NAGISA",
+    "comment" : "ONSEN POP",
+    "md5"     : "713926deb25bd3663ee6552f45f7514b"
+},{
+    "level"   : "5",
     "title"   : "白き星姫-Принцесса белая звезда- [Another]",
     "artist"  : "おみー obj:kuro *FLIP LR.MIRROR",
     "comment" : "INTELLIGENCE TRANCE",
@@ -18696,12 +18762,6 @@
     "md5"     : "375ca8f190fd011bd0416dc2cb0f4a10"
 },{
     "level"   : "6",
-    "title"   : "ugoku,ugoku-hyper m,gumix- [終末]",
-    "artist"  : "Masters Gumi. obj.にゃむ",
-    "comment" : "Hyper Trance Mix",
-    "md5"     : "a3f431c1c6abd20d6618d16c7c26d50c"
-},{
-    "level"   : "6",
     "title"   : "Una rosa azul el estado extatico. [14key_ANOTHER]",
     "artist"  : "xenothium",
     "comment" : "SPANISH CROSSOVER",
@@ -19060,6 +19120,12 @@
     "artist"  : "Remixed by sumomo",
     "comment" : "Techno Pop (Another14)",
     "md5"     : "9ebdee7d04f2b465784bf93f1f56043d"
+},{
+    "level"   : "6",
+    "title"   : "グラビティマンステージ [DPA2]",
+    "artist"  : "GYAON obj:肴",
+    "comment" : "ROCKMAN MUSIC",
+    "md5"     : "619aa06561ac8d7a30cd37aaf3b90308"
 },{
     "level"   : "6",
     "title"   : "スペクトラム [PRACTICE14]",
@@ -19492,6 +19558,12 @@
     "artist"  : "赦瞑",
     "comment" : "IDM",
     "md5"     : "e7e0f0024b48cc41a44e4669a2811c4b"
+},{
+    "level"   : "6",
+    "title"   : "繋いで！Miracle☆Wish -N&H Style Mix-[DP Another]",
+    "artist"  : "nmk feat.かなえゆめ / obj:mkd BGA:石王マサト",
+    "comment" : "EUROBEAT",
+    "md5"     : "1c99180eeafd54f8e80dd635f7362181"
 },{
     "level"   : "6",
     "title"   : "織姫(Independent from God, Everlasting love remix) [DP Another]",
@@ -21040,6 +21112,12 @@
     "artist"  : "やっす～ /obj:Redrum",
     "comment" : "HAPPY TRANCECORE",
     "md5"     : "ec515830deb9c3c209547ab277acbaa8"
+},{
+    "level"   : "7",
+    "title"   : "Mermaid Breeze [DP_ANOTHER]",
+    "artist"  : "13eastie",
+    "comment" : "Sad & Melodic Trance",
+    "md5"     : "781ba234b4722c23c00892d8351fe438"
 },{
     "level"   : "7",
     "title"   : "Messier 333 (OC14)",
@@ -24444,6 +24522,12 @@
     "md5"     : "f669a93fc77d81da057f903526042294"
 },{
     "level"   : "8",
+    "title"   : "ugoku,ugoku-hyper m,gumix- [終末]",
+    "artist"  : "Masters Gumi. obj.にゃむ",
+    "comment" : "Hyper Trance Mix",
+    "md5"     : "a3f431c1c6abd20d6618d16c7c26d50c"
+},{
+    "level"   : "8",
     "title"   : "Ultimate Weapon [XIV 新生エオルゼア]",
     "artist"  : "Tetra≠Elemental obj. 深海",
     "comment" : "EMOTIONAL TRANCECORE",
@@ -25956,6 +26040,12 @@
     "md5"     : "9cc30c054b4c12b886adccee7b4ff192"
 },{
     "level"   : "9",
+    "title"   : "G e n g a o z o A⇒Side [HIMMEL]",
+    "artist"  : "455 / *8284* obj: shiba",
+    "comment" : "P s y",
+    "md5"     : "bce0050335a4d2e46cf56f2e1215dc81"
+},{
+    "level"   : "9",
     "title"   : "G.N. [DP fk]",
     "artist"  : "keyc",
     "comment" : "Nu Style Gabba",
@@ -26146,6 +26236,12 @@
     "artist"  : "e.m.u/objEPICS-",
     "comment" : "piano trance",
     "md5"     : "9ef7d53d2c571acd30e6aef15a3dfa97"
+},{
+    "level"   : "9",
+    "title"   : "isolato (14kill)",
+    "artist"  : "abysalla",
+    "comment" : "Witch House",
+    "md5"     : "b232fe27e0c532df95ca5147c2349c34"
 },{
     "level"   : "9",
     "title"   : "Jack Knife [Another Murder]",
@@ -28764,6 +28860,12 @@
     "md5"     : "e2e430faf05b6a5d2b0ab301cb03657a"
 },{
     "level"   : "10",
+    "title"   : "OrganIsMandala (DX)",
+    "artist"  : "Symphoniac *LR.RANDOM",
+    "comment" : "Psytrance",
+    "md5"     : "e538ac1eab572f31cb3ebc58d950448a"
+},{
+    "level"   : "10",
     "title"   : "Over Sound",
     "artist"  : "EXAM.S/BGA:S-BLUE *FLIP",
     "comment" : "Mixture",
@@ -30300,6 +30402,12 @@
     "md5"     : "d6278d20463d6399290ef692c85f1f21"
 },{
     "level"   : "★1",
+    "title"   : "Modula (DA)",
+    "artist"  : "Symphonian *R.MIRROR",
+    "comment" : "Drum'n'Bass",
+    "md5"     : "3c62caa06b78e02ca32e5a4d3f70114e"
+},{
+    "level"   : "★1",
     "title"   : "More quaver♪ [DPA♪]",
     "artist"  : "Risk Junk / o.s.gate / obj:s2dp *LR.MIRROR or FLIP",
     "comment" : "ﾊｯﾋﾟｰｼｬﾄﾙﾗﾝ",
@@ -30904,6 +31012,12 @@
     "artist"  : "er *正規 or FLIP R.RAN",
     "comment" : "ARRANGE",
     "md5"     : "8f14d88c7eca350dc2f6c15cf46d1338"
+},{
+    "level"   : "★1",
+    "title"   : "永劫綺譚の純潔葬花 -DP MIYATHER-",
+    "artist"  : "nmk feat.橘花音 / obj:plum Guitar:はらたま BGA:わっふゑ",
+    "comment" : "FANTASIC EUROBEAT",
+    "md5"     : "4577b939918ed0bce242c806e8a3b0aa"
 },{
     "level"   : "★1",
     "title"   : "白黒神楽煩悩七百七十七ツ之法則 [七七七]",
@@ -31660,6 +31774,12 @@
     "artist"  : "Junk (obj:k) *L.MIRROR",
     "comment" : "Urban Electro",
     "md5"     : "b6a1cb77a4192407de45461cf5cb1065"
+},{
+    "level"   : "★2",
+    "title"   : "The sinking world [DP EXTREME]",
+    "artist"  : "Syatten obj:肴",
+    "comment" : "Instrumental",
+    "md5"     : "88f52ea26341b40c85be5e52aa28b5e7"
 },{
     "level"   : "★2",
     "title"   : "the wind of electro [ANOTHER14]",
@@ -34596,6 +34716,12 @@
     "md5"     : "506d55f3d6321cd20b49931482fc23e5"
 },{
     "level"   : "★5",
+    "title"   : "Bravoooo!!!! [哲学14]",
+    "artist"  : "Maestro Zbigniew obj : 71066  *R.MIRROR",
+    "comment" : "Classic memories",
+    "md5"     : "4d4059d4f865b94916fb2afecd648f93"
+},{
+    "level"   : "★5",
     "title"   : "Brynhildr",
     "artist"  : "Muhiyh *FLIP",
     "comment" : "Die Walkure",
@@ -35770,12 +35896,6 @@
     "artist"  : "uma feat. ましろ obj:kuro *FLIP LR.MIRROR",
     "comment" : "Eurobeat",
     "md5"     : "c6099221e3870cf5508d712ade89264f"
-},{
-    "level"   : "★6",
-    "title"   : "Bravoooo!!!! [哲学14]",
-    "artist"  : "Maestro Zbigniew obj : 71066  *R.MIRROR",
-    "comment" : "Classic memories",
-    "md5"     : "4d4059d4f865b94916fb2afecd648f93"
 },{
     "level"   : "★6",
     "title"   : "Castor(BMS edit) [DP INSANE]",
@@ -38554,6 +38674,12 @@
     "artist"  : "紅蓮月影 BGA:A-ZERO Project obj:nBel  *LR.MIR",
     "comment" : "LOGICAL FORMAT",
     "md5"     : "e9b05f5e08cb165ef95815b60e8f20ad"
+},{
+    "level"   : "★10",
+    "title"   : "Armageddon [Nuclear Launch Detected]",
+    "artist"  : "ZUN remixed by LeaF / Limite feat.LetsOTL Movie:Optie / Illust:セシル◇タイト",
+    "comment" : "KYRIE",
+    "md5"     : "1aa94d84cc4e9def196eab2b8900ad4d"
 },{
     "level"   : "★10",
     "title"   : "Ascension to Heaven",
