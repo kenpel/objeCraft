@@ -696,6 +696,18 @@
     "md5"     : "87981f08b083c52c1405f8094c86dcfb"
 },{
     "level"   : "?",
+    "title"   : "Magical Love Words 10分耐久 (ぜったい、ぜーったい両永世皆伝になるんだっ！)",
+    "artist"  : "源屋feat.ユスラ obj:killer TOMATO reobj.にゃむ",
+    "comment" : "Akiiiiiiiiiiba Poooooooooop",
+    "md5"     : "97d13284a74c45bfb7fede1229578d2c"
+},{
+    "level"   : "?",
+    "title"   : "Magical Love...トリルながっ！",
+    "artist"  : "源屋feat.ユスラ obj.にゃむ",
+    "comment" : "Akiba Pop",
+    "md5"     : "71ac7a4b3d66e47fb9b5d39f356364bc"
+},{
+    "level"   : "?",
     "title"   : "Merry Christmas Mr.DBM",
     "artist"  : "sasakure.UK obj:NEPIA",
     "comment" : "LAMENT",
@@ -1444,6 +1456,12 @@
     "artist"  : "路傍の石 Original:中潟憲雄 *MINBPM 0:20~",
     "comment" : "Chiptune",
     "md5"     : "0ad0949896e292cc35fa0f3ec2e04384"
+},{
+    "level"   : "?",
+    "title"   : "マジカルラブ全押し",
+    "artist"  : "源屋feat.ユスラ obj.にゃむ",
+    "comment" : "Akiba Pop",
+    "md5"     : "bc391c265f0c441c59fe865e925a1d67"
 },{
     "level"   : "?",
     "title"   : "ロッテルダムチルノ [⑨]",
@@ -4206,6 +4224,12 @@
     "md5"     : "e41aa5c1cbb5af33f7dcb6d4a9074b92"
 },{
     "level"   : "1",
+    "title"   : "ΦReboot [14key]",
+    "artist"  : "くるやのぶ BGA:CORAL obj:Ploutonendou",
+    "comment" : "TECHNO/TECHNO TRANCE",
+    "md5"     : "349ba985ad69368d8bc559c86d2fd256"
+},{
+    "level"   : "1",
     "title"   : "★LittlE HearTs★",
     "artist"  : "ねこみみ魔法使い",
     "comment" : "HappY PoPcorN",
@@ -5454,6 +5478,12 @@
     "md5"     : "f3f50ce2095a8b63f6e5fbb2d871376e"
 },{
     "level"   : "2",
+    "title"   : "Drainage [another14]",
+    "artist"  : "Modulation Spin / obj: 634k",
+    "comment" : "Deep Techno",
+    "md5"     : "3d5feeb109d5e692552a217018fbe7cf"
+},{
+    "level"   : "2",
     "title"   : "Dream Overture",
     "artist"  : "kagerow / obj:irul",
     "comment" : "pop step jump (Another)",
@@ -6394,6 +6424,12 @@
     "artist"  : "NIKITA / object by meteor*",
     "comment" : "STG drum'n'bass",
     "md5"     : "aa7da90a5898dc06e6e632af16239b98"
+},{
+    "level"   : "2",
+    "title"   : "RAVE NIGHTINGALE [Daybreak14]",
+    "artist"  : "Hyparpax obj : 71066",
+    "comment" : "HARD RAVE EUPHORIA",
+    "md5"     : "7d9100fba417fa838b31f86728ba2659"
 },{
     "level"   : "2",
     "title"   : "Re*incarnacion (DPH)",
@@ -8742,6 +8778,12 @@
     "md5"     : "5bb70357c4fe1d1c90607da4f5d5b94b"
 },{
     "level"   : "3",
+    "title"   : "Il cimento dell'armonia e dell'inventzone [ANOTHER]",
+    "artist"  : "Antonio Lucio Vivaldi",
+    "comment" : "TRANCE",
+    "md5"     : "2759c3363d5f7e94fa975edd1a06518b"
+},{
+    "level"   : "3",
     "title"   : "Implexrough [SRBOFU2017DP]",
     "artist"  : "Silentroom × mommy × Nate / obj.LetsOTL *FLIP",
     "comment" : "FORTISSIMO",
@@ -9492,6 +9534,12 @@
     "md5"     : "9fef3280b1cf17fa64cf048ce5e28101"
 },{
     "level"   : "3",
+    "title"   : "retrospection [ANOTHER]",
+    "artist"  : "sfjjjjjj",
+    "comment" : "MA-X TRANCE",
+    "md5"     : "156c057df3cf6a7524b7df2e692c93e2"
+},{
+    "level"   : "3",
     "title"   : "Rifling Burster [DPA]",
     "artist"  : "アッサム / GAMEBAKA Pattern:金碧ツインテ",
     "comment" : "Drumstep",
@@ -10152,6 +10200,12 @@
     "md5"     : "03fda7321a636426c9860c2c0c0fc7a0"
 },{
     "level"   : "3",
+    "title"   : "ひだまりエクスプレス [14keys Another]",
+    "artist"  : "mugijet *L.MIRROR",
+    "comment" : "nostalgia/daydream",
+    "md5"     : "65b511bc8a72e9689843d59535d6f62e"
+},{
+    "level"   : "3",
     "title"   : "ほしぞらたんけんたい [LN14]",
     "artist"  : "horoscope obj:ucc",
     "comment" : "ホシゾラ",
@@ -10678,6 +10732,12 @@
     "artist"  : "双闇",
     "comment" : "piano solo",
     "md5"     : "c0f4e5cc257ee3f4b8cd6667e2253387"
+},{
+    "level"   : "3",
+    "title"   : "進めっ！勇者竜っ！（難ゲー14）",
+    "artist"  : "桃山 Obj.Gatia",
+    "comment" : "fantasy tune",
+    "md5"     : "ee26b2de73ea5693dbe4875eb206667b"
 },{
     "level"   : "3",
     "title"   : "遠い春を告げるあの娘の足音",
@@ -11850,6 +11910,12 @@
     "md5"     : "a2768a96f3d26adb6e076192b1a9976e"
 },{
     "level"   : "4",
+    "title"   : "Gymnopedie 1",
+    "artist"  : "E.Satie",
+    "comment" : "3BEAT TRANCE",
+    "md5"     : "bad73d9fe1dc969d70f967c72c3f1671"
+},{
+    "level"   : "4",
     "title"   : "H'az'E (Another mix)",
     "artist"  : "KITUNE + EcHiNoCoCcUs *LR.RANDOM",
     "comment" : "TECHNO",
@@ -12232,6 +12298,12 @@
     "artist"  : "ZUN (Remixed by EXCALIpUR)",
     "comment" : "FREEFORM",
     "md5"     : "543477f8ad202479e277a948bb65ad29"
+},{
+    "level"   : "4",
+    "title"   : "Magical Double Scratching",
+    "artist"  : "源屋feat.ユスラ obj.にゃむ",
+    "comment" : "Akiba Pop",
+    "md5"     : "1c55b5082c6ba2d61ca346066dc70876"
 },{
     "level"   : "4",
     "title"   : "Maharaja Trance -Full Mahara Jacket-",
@@ -13282,6 +13354,12 @@
     "artist"  : "篠螺悠那 / selene.",
     "comment" : "Euro trance",
     "md5"     : "8bd635ded6fc98cc7f796acbbc444fe2"
+},{
+    "level"   : "4",
+    "title"   : "XALICE [DP WONDERLAND]",
+    "artist"  : "ShiraiC4 obj: misty.ls04",
+    "comment" : "WALTZ",
+    "md5"     : "dfecee0e19120dcdc4f92271699016fa"
 },{
     "level"   : "4",
     "title"   : "Yutu (14_Extreme)",
@@ -15478,6 +15556,12 @@
     "artist"  : "rate-dat + Cranky + hi-low obj:Psyk",
     "comment" : "OLD SCHOOL RAVE[DP ANOTHER]",
     "md5"     : "2fa7e372cb6b58253035d99ce650c97e"
+},{
+    "level"   : "5",
+    "title"   : "RAVE NIGHTINGALE [14K ANOTHER]",
+    "artist"  : "Hyparpax Obj: PSYK",
+    "comment" : "HARD RAVE EUPHORIA",
+    "md5"     : "8a3fd2429d928890cd4963d45fb8928f"
 },{
     "level"   : "5",
     "title"   : "Ravers Rave Anthem II [Tasty]",
@@ -24324,6 +24408,12 @@
     "md5"     : "314601fd779e5be5817546ac09dc3d06"
 },{
     "level"   : "8",
+    "title"   : "R4T5 [14光年の星]",
+    "artist"  : "KaKi BGA:kokodoko / OBJ:JHS",
+    "comment" : "Energetic Trance",
+    "md5"     : "b9bf8c1fcde9faa7e7a97ccb8c634a13"
+},{
+    "level"   : "8",
     "title"   : "Radio Organico DP_Owned",
     "artist"  : "Team:SASAKURATION / BMSSP obj:kai",
     "comment" : "ACID JAZZ",
@@ -26008,6 +26098,12 @@
     "artist"  : "Mastermind(xi+nora2r) iimo / りりぃ  *LR.RAN or FLIP R.MIR",
     "comment" : "Breakthrough",
     "md5"     : "35b43bf9f6fca1d27f04b2c5b0aba170"
+},{
+    "level"   : "9",
+    "title"   : "Drop Down [DP Cosmo]",
+    "artist"  : "LunaticSounds / ShiginoEicar obj.Cosmograph",
+    "comment" : "Drum&Bass",
+    "md5"     : "adc49759fc9692f84803e9d45c3a558f"
 },{
     "level"   : "9",
     "title"   : "Dstorv [Cupiditas]",
@@ -27984,6 +28080,12 @@
     "md5"     : "f18e2859390e6dd8e08ec6b87ffad8f3"
 },{
     "level"   : "10",
+    "title"   : "#be_fortunate [DPYoitherEASY]",
+    "artist"  : "翡乃イスカ / obj:十六夜",
+    "comment" : "J-HappyHardcore",
+    "md5"     : "ad27797ac54d934ad13ee1dcafdd329d"
+},{
+    "level"   : "10",
     "title"   : "0n14",
     "artist"  : "moriga / oc *FLIP R.MIRROR",
     "comment" : "techno",
@@ -28824,6 +28926,12 @@
     "md5"     : "65e6d0847431d8b5d8c2615fe4185a40"
 },{
     "level"   : "10",
+    "title"   : "L.D.2013 [GENERATION]",
+    "artist"  : "silcostones (Original : Andy Lee) obj:nBel",
+    "comment" : "eurobeat",
+    "md5"     : "e9b52b961f26952a4ae1d964de176bb6"
+},{
+    "level"   : "10",
     "title"   : "L9 (Stair to Hell mode)Another DP [皿なし]",
     "artist"  : "paraoka　object by NORE/DP:DJKYO *LR.MIRROR",
     "comment" : "pro階段sive",
@@ -29100,6 +29208,12 @@
     "md5"     : "c96b9d1f1210c44d80ae2443b8965bc0"
 },{
     "level"   : "10",
+    "title"   : "Pandemonium -Extra Stage-",
+    "artist"  : "xi obj : 71066",
+    "comment" : "無調音楽",
+    "md5"     : "ca9df77d43b0db4b04fecef7620edaeb"
+},{
+    "level"   : "10",
     "title"   : "Pangaea [Natural disaster]",
     "artist"  : "sasakure.UK [obj:MGN]  *R.MIRROR",
     "comment" : "World Orchestra",
@@ -29218,6 +29332,12 @@
     "artist"  : "Yamajet (remix by Mr.Mazuyama) / obj:lichtr  *AVE-60 SUD+",
     "comment" : "BREAK CORE",
     "md5"     : "f3680613b23fd88092bb384b6f7b909f"
+},{
+    "level"   : "10",
+    "title"   : "RAVE NIGHTINGALE [14K NIGHTFALL]",
+    "artist"  : "Hyparpax Obj: PSYK  *LR.RAN",
+    "comment" : "HARD RAVE EUPHORIA",
+    "md5"     : "72b2e4e69a95c73d22dee6f2c58f2dbf"
 },{
     "level"   : "10",
     "title"   : "Re*incarnacion (DPA)",
@@ -31696,6 +31816,12 @@
     "artist"  : "CRESCENT obj.4ZR4L",
     "comment" : "Hard Renaissance",
     "md5"     : "6f9729a05a4eb332240d76d4a691c866"
+},{
+    "level"   : "★2",
+    "title"   : "L.D.2013 [GENERATION LN Version]",
+    "artist"  : "silcostones (Original : Andy Lee) obj:nBel  *L.MIR or FLIP L.MIR",
+    "comment" : "eurobeat",
+    "md5"     : "b8d81168493b47e5cc1a6a84f56b6f34"
 },{
     "level"   : "★2",
     "title"   : "last mother",
@@ -36048,6 +36174,12 @@
     "md5"     : "af9a9ece85b278ae38131dcb1cbd7b82"
 },{
     "level"   : "★6",
+    "title"   : "After Burner [DP CHALLENGER+]",
+    "artist"  : "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。 obj:kuro",
+    "comment" : "BRAVE",
+    "md5"     : "fb8b3328b866472f5e63f81aca763094"
+},{
+    "level"   : "★6",
     "title"   : "Air (DP EX2008†LEGGENDARIA)",
     "artist"  : "SHIKI / obj:Redrum vs killer TOMATO/reobj:hamburger *FLIP LR.MIR or 正規",
     "comment" : "TRANCE CORE",
@@ -37134,6 +37266,12 @@
     "md5"     : "e92c5d3019bc0ccbc853b630a7e7c49f"
 },{
     "level"   : "★7",
+    "title"   : "#be_fortunate [DPYoither]",
+    "artist"  : "翡乃イスカ / obj:十六夜",
+    "comment" : "J-HappyHardcore",
+    "md5"     : "2bd5ac999c652d0d5d11fe5cca497c05"
+},{
+    "level"   : "★7",
     "title"   : "- harmonics - [DP CHALLENGER+]",
     "artist"  : "L-Line obj:kuro BGA : WCMP",
     "comment" : "HARMONICS",
@@ -37455,7 +37593,7 @@
     "title"   : "Name of oath [DP CHALLENGER+]",
     "artist"  : "void feat. コツキミヤ , Gt. えば /obj:kuro BGA : Photonskyto",
     "comment" : "Venerable Culture",
-    "md5"     : "73eed18106415dddefddef6bb0cddd91"
+    "md5"     : "d0cdae2e4c62164b8ee9a2e01328c46b"
 },{
     "level"   : "★7",
     "title"   : "nativeFaith [DP GOD]",
@@ -39460,6 +39598,12 @@
     "artist"  : "ROKINA / obj:Hador",
     "comment" : "ASTRALCORE",
     "md5"     : "46714c59403fcddfb49a007bb6127789"
+},{
+    "level"   : "★11",
+    "title"   : "SHIFTLIFT [Revulsion]",
+    "artist"  : "6666 obj. Z_N  *LR.RANDOM",
+    "comment" : "JUKE",
+    "md5"     : "a08a5e168688df6e24b844f3e43ce1f3"
 },{
     "level"   : "★11",
     "title"   : "The Lady Is A Trump [DPANOTHER]",
