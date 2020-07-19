@@ -2940,6 +2940,12 @@
     "md5"     : "f06ba37659138a62c69f5c76ed3902af"
 },{
     "level"   : "1",
+    "title"   : "innocent cradle [sleep]",
+    "artist"  : "syatten / obj = Mr.egg *FLIP",
+    "comment" : "Dream Trance - Level 1 -",
+    "md5"     : "73028028559d295bef44f4d82ca90b3e"
+},{
+    "level"   : "1",
     "title"   : "innocent infant -DP ANOTHER-",
     "artist"  : "parakeet 41 BGA:HAINA",
     "comment" : "TECHNO POP",
@@ -3040,12 +3046,6 @@
     "artist"  : "mommy",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "622ee1065b397fbb7b964bd8d0ffc51b"
-},{
-    "level"   : "1",
-    "title"   : "Lambda Driver -DP-",
-    "artist"  : "SPELL BREAK obj:ka2o HEART BREAK",
-    "comment" : "HARD DANCE",
-    "md5"     : "4c098ada4f9975bc6e363d7d25a87f0d"
 },{
     "level"   : "1",
     "title"   : "Lapis [MGNother]",
@@ -3174,12 +3174,6 @@
     "md5"     : "44e7200ef77120f9e950bc7249e5d87c"
 },{
     "level"   : "1",
-    "title"   : "Lucifuge Rofocale (Another14)",
-    "artist"  : "L-Mys /obj:spt",
-    "comment" : "DARKFEAR",
-    "md5"     : "37f0b970db8116f54079336a89bb29b5"
-},{
-    "level"   : "1",
     "title"   : "Lumos (BMS Edit) -DP-",
     "artist"  : "L.K. / obj:TK&FM",
     "comment" : "2 Step / Chill Out",
@@ -3190,6 +3184,12 @@
     "artist"  : "L.K. obj:ザイルvsゆゆゆ！",
     "comment" : "2 Step / Chill Out",
     "md5"     : "73012ac67ea897ae78c0202df48b7edc"
+},{
+    "level"   : "1",
+    "title"   : "Luna Light [DPYoither]",
+    "artist"  : "TiS / obj:十六夜",
+    "comment" : "Artcore",
+    "md5"     : "cf0468156953e7c633c378605ad9e5da"
 },{
     "level"   : "1",
     "title"   : "Luv 5 Dancer [DP Another]",
@@ -5812,12 +5812,6 @@
     "artist"  : "篠螺悠那 feat. 鯛の小骨 obj:ucc",
     "comment" : "Euro Rave",
     "md5"     : "b7d75db84015445beeb58fa4e50b4f97"
-},{
-    "level"   : "2",
-    "title"   : "innocent cradle [sleep]",
-    "artist"  : "syatten / obj = Mr.egg *FLIP",
-    "comment" : "Dream Trance - Level 1 -",
-    "md5"     : "73028028559d295bef44f4d82ca90b3e"
 },{
     "level"   : "2",
     "title"   : "IRREPLACEBLE THINGS [LNA14]",
@@ -8568,6 +8562,12 @@
     "md5"     : "0b636f40127036ed4b3f192f9a58d802"
 },{
     "level"   : "3",
+    "title"   : "Float  -Another14-",
+    "artist"  : "Gatia",
+    "comment" : "Instrumental",
+    "md5"     : "375dae9fe74a85698776c77efa85f9e8"
+},{
+    "level"   : "3",
     "title"   : "Flowers'　 [A14]",
     "artist"  : "Ym1024 obj:ucc",
     "comment" : "Instrumental House",
@@ -8698,6 +8698,12 @@
     "artist"  : "Music:しらいし/obj:tts1374",
     "comment" : "Happy hard core",
     "md5"     : "f08008100ce91d1a162f1ccbe5ff59af"
+},{
+    "level"   : "3",
+    "title"   : "Happy Time  -Another14-",
+    "artist"  : "Gatia",
+    "comment" : "Happy Pop",
+    "md5"     : "b7762d2172ea3ea26c15c6d90008d702"
 },{
     "level"   : "3",
     "title"   : "Heilenwelt [DP ANOTHER]",
@@ -8914,6 +8920,12 @@
     "artist"  : "xenothium",
     "comment" : "DANCEHALL EURO DUBSTEP HARDTRANCE",
     "md5"     : "031e0e68a0686fd89ad1075cf0a10156"
+},{
+    "level"   : "3",
+    "title"   : "Lambda Driver -DP-",
+    "artist"  : "SPELL BREAK obj:ka2o HEART BREAK",
+    "comment" : "HARD DANCE",
+    "md5"     : "4c098ada4f9975bc6e363d7d25a87f0d"
 },{
     "level"   : "3",
     "title"   : "Lament of Mechanical Heart",
@@ -10090,6 +10102,12 @@
     "artist"  : "TiS underground/obj:epics-",
     "comment" : "DEMENTATION CORE",
     "md5"     : "21a349a1031557613ccafa925887b93b"
+},{
+    "level"   : "3",
+    "title"   : "XIX [DP ANOTHER]",
+    "artist"  : "しらいし obj: misty.ls04",
+    "comment" : "CORE",
+    "md5"     : "99ed36f2f00e01140210fe15f51902ea"
 },{
     "level"   : "3",
     "title"   : "YAMAXANADU OF TWO (DP-A)",
@@ -12720,6 +12738,12 @@
     "md5"     : "9265118b531f1dbfd549c274d3dae19e"
 },{
     "level"   : "4",
+    "title"   : "reflection [14KEYS ANOTHER]",
+    "artist"  : "Kyuzo Sameura obj:RaiN",
+    "comment" : "HYBRID SPEED GARAGE",
+    "md5"     : "4c255eff38e5b42b117901b4f2890e07"
+},{
+    "level"   : "4",
     "title"   : "Reincarnation  [EXPERT]",
     "artist"  : "湊 友希那 / 奥沢 美咲 *R.MIRROR",
     "comment" : "GOTHIC HARDCORE",
@@ -15126,6 +15150,12 @@
     "md5"     : "a5adc2b3f4034bb7e5f89cfbd291c93e"
 },{
     "level"   : "5",
+    "title"   : "JUMMER [DPI]",
+    "artist"  : "momo★yama (BGA:アカツキユウ) / obj.にゃむ　　*R.MIR",
+    "comment" : "ENERGETIC TRANCE",
+    "md5"     : "f5c210f39dced2003239a3accb04c6e4"
+},{
+    "level"   : "5",
     "title"   : "Just a one night love song",
     "artist"  : "カラフル・サウンズ・ポート / obj:lichtr",
     "comment" : "ELECTRO R&B",
@@ -15244,6 +15274,12 @@
     "artist"  : "Re:gats&/BGA,obj:いかお *FLIP R.MIRROR",
     "comment" : "Progressive House",
     "md5"     : "6de3a1c1521a65da8ed517b255e7df0f"
+},{
+    "level"   : "5",
+    "title"   : "Lucifuge Rofocale (Another14)",
+    "artist"  : "L-Mys /obj:spt *FLIP L.MIR",
+    "comment" : "DARKFEAR",
+    "md5"     : "37f0b970db8116f54079336a89bb29b5"
 },{
     "level"   : "5",
     "title"   : "Lunatic of the Full-Moon (14A)",
@@ -17772,6 +17808,12 @@
     "md5"     : "2cee669d43062d796c5c4d7d51651da0"
 },{
     "level"   : "6",
+    "title"   : "Indignant Divinity [DPYoither]",
+    "artist"  : "flashygoodness / obj:十六夜",
+    "comment" : "Tower of Heaven",
+    "md5"     : "f3d9159dc82099b8eef77d264597068f"
+},{
+    "level"   : "6",
     "title"   : "intertwined -DP ANOTHER-",
     "artist"  : "Is-m BGA:yuru  *FLIP",
     "comment" : "PROGRESSIVE HOUSE",
@@ -18472,6 +18514,12 @@
     "artist"  : "H.U.T GiGAR obj:ucc",
     "comment" : "GABBER",
     "md5"     : "25d2f3ac981b7fae073247a96e477668"
+},{
+    "level"   : "6",
+    "title"   : "reflection [ADDICTION2DP]",
+    "artist"  : "Kyuzo Sameura obj:RaiN",
+    "comment" : "HYBRID SPEED GARAGE",
+    "md5"     : "4042deb9de11b3c67d8e70e4668fe51d"
 },{
     "level"   : "6",
     "title"   : "Remilialized... [うー☆]",
@@ -26202,6 +26250,12 @@
     "md5"     : "b75a3baae5837f7528443aaaa0f2d94b"
 },{
     "level"   : "9",
+    "title"   : "Fancy Rainbow Bubble  -Another14-",
+    "artist"  : "Gatia *FLIP",
+    "comment" : "Chiptune",
+    "md5"     : "5d55c5e4396f223744e57a0f6b7a2c2a"
+},{
+    "level"   : "9",
     "title"   : "Farewell song BrightMix [Double EX]",
     "artist"  : "A&G/Vision OBJ:KLOC",
     "comment" : "Air Music",
@@ -27070,6 +27124,12 @@
     "artist"  : "H.U.T GiGAR / obj.LetsOTL",
     "comment" : "GABBER",
     "md5"     : "cf9cdc336afc82692202572d3e5846a3"
+},{
+    "level"   : "9",
+    "title"   : "reflection [雨]",
+    "artist"  : "Kyuzo Sameura obj. KENIN*",
+    "comment" : "HYBRID SPEED GARAGE",
+    "md5"     : "eea00f5f90f25f96b3707f247ce2c07a"
 },{
     "level"   : "9",
     "title"   : "Reinforced Soul -MACHERIE-",
@@ -30811,7 +30871,7 @@
 },{
     "level"   : "★1",
     "title"   : "Ophelia [Catastrophe]",
-    "artist"  : "Lime [obj:MGN]",
+    "artist"  : "Lime [obj:MGN]  *FLIP",
     "comment" : "Rosso Phantasma",
     "md5"     : "a401fe58853cc8d334bd338465cdff77"
 },{
@@ -32124,10 +32184,10 @@
     "md5"     : "b6a1cb77a4192407de45461cf5cb1065"
 },{
     "level"   : "★2",
-    "title"   : "The sinking world [DP EXTREME]",
+    "title"   : "The sinking world [DP EXTREME 2]",
     "artist"  : "Syatten obj:肴",
     "comment" : "Instrumental",
-    "md5"     : "88f52ea26341b40c85be5e52aa28b5e7"
+    "md5"     : "baa218833211f71a4a589528adbe184b"
 },{
     "level"   : "★2",
     "title"   : "the wind of electro [ANOTHER14]",
@@ -34434,6 +34494,12 @@
     "md5"     : "a1856c046425a0d89a8a9e9dcd7354a2"
 },{
     "level"   : "★4",
+    "title"   : "Precociousness",
+    "artist"  : "A Piece of MM / Limite",
+    "comment" : "INFLUX",
+    "md5"     : "0b177713479b1acbd3dc305f2ab16784"
+},{
+    "level"   : "★4",
     "title"   : "Prog-M -DoublePragma-",
     "artist"  : "srask obj: qtp13",
     "comment" : "TRANCECORE",
@@ -34462,6 +34528,12 @@
     "artist"  : "MILK obj@PEN  *FLIP",
     "comment" : "HARD TRANCE",
     "md5"     : "2e638f98334648c1a5ceb8225bb24fb4"
+},{
+    "level"   : "★4",
+    "title"   : "reflection [雫]",
+    "artist"  : "Kyuzo Sameura obj. KENIN*  *FLIP LR.MIR",
+    "comment" : "HYBRID SPEED GARAGE",
+    "md5"     : "3e72bf70dfc40f5cca98ce424ef07cbc"
 },{
     "level"   : "★4",
     "title"   : "Retroactive Rain [CH14]",
@@ -34504,6 +34576,12 @@
     "artist"  : "w_tre respect for AT&HU / obj:lichtr *L.MIRROR",
     "comment" : "PIANO ALGEBRA",
     "md5"     : "6d1d41ab908e9861857f94a062b47c79"
+},{
+    "level"   : "★4",
+    "title"   : "Silent Beat  -Another14-",
+    "artist"  : "Gatia *FLIP",
+    "comment" : "Drum'n Bass",
+    "md5"     : "e3f0200edfdbba5d938e22bad7205218"
 },{
     "level"   : "★4",
     "title"   : "SPACE RAIDERS",
@@ -34630,6 +34708,12 @@
     "artist"  : "ZUN remixed by LeaF Movie:Optie / obj:綾  *FLIP",
     "comment" : "RATIONAL PUNISHMENT",
     "md5"     : "ae2b73cf5e0d23201922414b342d5b14"
+},{
+    "level"   : "★4",
+    "title"   : "XIX [DP EXTRA]",
+    "artist"  : "しらいし obj:MN3  *LR.RAN",
+    "comment" : "CORE",
+    "md5"     : "ce21c675fbcb3e2c5a37416a78fd6b3c"
 },{
     "level"   : "★4",
     "title"   : "Y",
