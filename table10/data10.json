@@ -624,6 +624,18 @@
     "md5"     : "599d5b19f060ed09da92b1a1bf46e8b8"
 },{
     "level"   : "2",
+    "title"   : "RAY ~NORMAL~",
+    "artist"  : "MILK *LR.MIRROR",
+    "comment" : "HARD TRANCE",
+    "md5"     : "24ce92e5d9cd30a3b06f353d2d2826f2"
+},{
+    "level"   : "2",
+    "title"   : "Red -reduction division- ~HARD~",
+    "artist"  : "nmk feat.KANAE YUME",
+    "comment" : "----",
+    "md5"     : "0044953e99d4b52a40f004b30a4c0981"
+},{
+    "level"   : "2",
     "title"   : "sample No.13 [For I-Ha-k]",
     "artist"  : "3034",
     "comment" : "TtM",
@@ -1272,6 +1284,12 @@
     "md5"     : "e92eb1f884b1c9ca5e93ccb395ae46d7"
 },{
     "level"   : "5",
+    "title"   : "Legend of Seeker ~NORMAL~",
+    "artist"  : "remixed celas",
+    "comment" : "pathos nrg",
+    "md5"     : "d9b4582a07699359d9b5bb06c7103ee9"
+},{
+    "level"   : "5",
     "title"   : "n a n o d e l i c -10hard-",
     "artist"  : "sumomo",
     "comment" : "Retro-NUSTYLE GABBA",
@@ -1450,6 +1468,12 @@
     "artist"  : "anubasu-anubasu *LR.RANDOM",
     "comment" : "ENERGETIC TRANCE",
     "md5"     : "ae49c6720c34530e0d6f78dc64848469"
+},{
+    "level"   : "6",
+    "title"   : "Toki (Sound piercer's Timesucker Remix) ~HARD~",
+    "artist"  : "puru twk. sound piercer (feat.Hee Bun.D)",
+    "comment" : "Freeform / Gabber",
+    "md5"     : "3639c65faa5a0fa09cb3ece672325a32"
 },{
     "level"   : "6",
     "title"   : "witchcraft",
@@ -1926,6 +1950,12 @@
     "md5"     : "09f91033929d11570483a789c1e2d167"
 },{
     "level"   : "10",
+    "title"   : "Valedict ~HARD~",
+    "artist"  : "void",
+    "comment" : "Sci-fi",
+    "md5"     : "8eb594eebf392887b8e7acf355f856ba"
+},{
+    "level"   : "10",
     "title"   : "YATA ~HARD~",
     "artist"  : "kireji",
     "comment" : "Harmonization",
@@ -2002,6 +2032,12 @@
     "artist"  : "Unknown Artist",
     "comment" : "IDM",
     "md5"     : "ff3fd344f3edfdc4bd18500864739afc"
+},{
+    "level"   : "★1",
+    "title"   : "Poppin' Shower ~SUPER HARD~",
+    "artist"  : "P*Light",
+    "comment" : "HAPPY SWEETS CORE",
+    "md5"     : "78dc24d6360ff025b3c3f1129493cf84"
 },{
     "level"   : "★1",
     "title"   : "Toki ~SUPER HARD~",
