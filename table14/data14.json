@@ -2178,6 +2178,18 @@
     "md5"     : "65d9badfd44a4ac79e6e7452d32c60e4"
 },{
     "level"   : "1",
+    "title"   : "Cinderella Story [DP ANOTHER]",
+    "artist"  : "adumac/objEPICS-",
+    "comment" : "HOUSE",
+    "md5"     : "dd0ea3f8e8357e0ce8ca70c2ccd71238"
+},{
+    "level"   : "1",
+    "title"   : "Cinderella Story (14keys-Another)",
+    "artist"  : "adumac / obj:KGRY",
+    "comment" : "HOUSE",
+    "md5"     : "192843733da1d0890b2c8c646d0bb2e2"
+},{
+    "level"   : "1",
     "title"   : "Circuitry [DP Grotesque]",
     "artist"  : "Ixia / EMSH obj. Z_N",
     "comment" : "Glitch Step",
@@ -3958,6 +3970,12 @@
     "artist"  : "scytheleg / obj.BACO",
     "comment" : "INSTRUMENTAL BIGBEAT",
     "md5"     : "6bff75242aa5c897d718fe82dc17a486"
+},{
+    "level"   : "1",
+    "title"   : "The Sundering [DP Disruption]",
+    "artist"  : "八重蔵 / obj:JHS",
+    "comment" : "Upheaval",
+    "md5"     : "3f6b1ff696ac3eaf8fd5119acf706d7f"
 },{
     "level"   : "1",
     "title"   : "The vicious fog between cloud [another14]",
@@ -6042,6 +6060,18 @@
     "md5"     : "b207c688e3e9bcc20de92f841d968702"
 },{
     "level"   : "2",
+    "title"   : "MAGENTA POTION [DP ANOTHER]",
+    "artist"  : "EmoCo. ? NO|SER Obj. 0ne",
+    "comment" : "Aphrodite",
+    "md5"     : "d9635f7eb5624f8a4c0ac6ef50c70667"
+},{
+    "level"   : "2",
+    "title"   : "MAGENTA POTION [DP ANOTHER]",
+    "artist"  : "EmoCo. × NO|SER Obj. 0ne",
+    "comment" : "Aphrodite",
+    "md5"     : "ba7386c72592856a6c68c4b167b6a839"
+},{
+    "level"   : "2",
     "title"   : "Magical Love Words [もうすぐトマト祭]",
     "artist"  : "源屋feat.ユスラ obj:けろりん",
     "comment" : "Akiba Pop",
@@ -6948,6 +6978,12 @@
     "md5"     : "a02bbaafdcc1a77eed3ef11de63d821b"
 },{
     "level"   : "2",
+    "title"   : "XALICE [DP WONDERLAND]",
+    "artist"  : "ShiraiC4 obj: misty.ls04",
+    "comment" : "WALTZ",
+    "md5"     : "dfecee0e19120dcdc4f92271699016fa"
+},{
+    "level"   : "2",
     "title"   : "Xhroria [DPA]",
     "artist"  : "AcuticNotes(An/レク）/obj:epics-",
     "comment" : "AcuticCore",
@@ -7510,6 +7546,12 @@
     "artist"  : "Aozuna / obj:lichtr",
     "comment" : "Gabba",
     "md5"     : "6160a23cb09adc5ade55597867c97c4e"
+},{
+    "level"   : "2",
+    "title"   : "花たちに希望を -DP ANOTHER-",
+    "artist"  : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin / selene.",
+    "comment" : "FINALE",
+    "md5"     : "635d3eef766c2c9efef1d42c68b7dfe0"
 },{
     "level"   : "2",
     "title"   : "花鳥風月",
@@ -8932,6 +8974,12 @@
     "artist"  : "Jin - BGA : Ghastly Conceit",
     "comment" : "INDUSTRIAL",
     "md5"     : "491a0f4bed5d3a8a0c512c819f07cc33"
+},{
+    "level"   : "3",
+    "title"   : "Lamir (hyper14)",
+    "artist"  : "激辛マニア /obj:ue",
+    "comment" : "tenac wave",
+    "md5"     : "f2b35204ffae53ef760f3e96f55542ea"
 },{
     "level"   : "3",
     "title"   : "Last Battle-T260G- [Grand Final]",
@@ -13380,12 +13428,6 @@
     "md5"     : "8bd635ded6fc98cc7f796acbbc444fe2"
 },{
     "level"   : "4",
-    "title"   : "XALICE [DP WONDERLAND]",
-    "artist"  : "ShiraiC4 obj: misty.ls04",
-    "comment" : "WALTZ",
-    "md5"     : "dfecee0e19120dcdc4f92271699016fa"
-},{
-    "level"   : "4",
     "title"   : "Yutu (14_Extreme)",
     "artist"  : "Zris obj:Gypsy",
     "comment" : "Xrossbreed",
@@ -15910,6 +15952,12 @@
     "artist"  : "unknown \"ω\" obj:kuro *FLIP LR.MIRROR",
     "comment" : "Gaming Breakbeats",
     "md5"     : "ad1e1d3e39241c854a711858b5338dc6"
+},{
+    "level"   : "5",
+    "title"   : "The Pyrokinesis [PIANOFORTE VIRTUOSO]",
+    "artist"  : "Kamisys Obj: PSYK",
+    "comment" : "Concerto Virtuoso",
+    "md5"     : "8e9024eddba2a3adb2f0f56fda23df18"
 },{
     "level"   : "5",
     "title"   : "the sorrow of the islands (ANOTHER)",
@@ -24750,6 +24798,12 @@
     "md5"     : "5e650beb2b82378789f73001636d79b8"
 },{
     "level"   : "8",
+    "title"   : "The Last Page [BEGIN]",
+    "artist"  : "ARForest / inukoro obj. RaiN",
+    "comment" : "Artcore",
+    "md5"     : "094a21a46e5c68de001c0485315f3125"
+},{
+    "level"   : "8",
     "title"   : "thunder storm",
     "artist"  : "Modulation Spin",
     "comment" : "filter schranz",
@@ -28066,6 +28120,12 @@
     "artist"  : "痛男次郎 / obj:もりお *FLIP or R.MIRROR",
     "comment" : "英國硬核",
     "md5"     : "f1e5836575028659417d05eda405574b"
+},{
+    "level"   : "9",
+    "title"   : "花たちに希望を -DP Luna-",
+    "artist"  : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin / selene.",
+    "comment" : "FINALE",
+    "md5"     : "48c81aa467c0346c572aacfbc687f4dc"
 },{
     "level"   : "9",
     "title"   : "蓄積×フラストレーション -1Pvs2P-",
@@ -34626,6 +34686,12 @@
     "md5"     : "527452a03a482d56baa8a3cdf5ac09f7"
 },{
     "level"   : "★4",
+    "title"   : "The Last Page [LIFE]",
+    "artist"  : "ARForest / inukoro obj. RaiN  *正規 or FLIP LR.MIR",
+    "comment" : "Artcore",
+    "md5"     : "42704776a63541e2114738ec3433bcd3"
+},{
+    "level"   : "★4",
     "title"   : "the lost dedicated [mind]",
     "artist"  : "哀愁マニア",
     "comment" : "hi-nrg / trance",
@@ -38665,7 +38731,7 @@
 },{
     "level"   : "★9",
     "title"   : "Alruna  [DP Training]",
-    "artist"  : "wa. obj:ucc *正規 or R.MIRROR",
+    "artist"  : "wa. obj:ucc",
     "comment" : "INNOCENCE",
     "md5"     : "80156d83c404f8225cb521056a9e1a1f"
 },{
