@@ -768,6 +768,12 @@
     "md5"     : "2f55441e09d9b931c891ecf107aaf904"
 },{
     "level"   : "3",
+    "title"   : "Future MUSiC ~HARD~",
+    "artist"  : "Ym1024 feat. lamie*",
+    "comment" : "J-Electro Pop",
+    "md5"     : "f0b6054b8ea19a66e64015aa517b4445"
+},{
+    "level"   : "3",
     "title"   : "G3 Double",
     "artist"  : "Mr.H",
     "comment" : "DRUM'N CORE-5",
@@ -934,6 +940,12 @@
     "artist"  : "nora2r",
     "comment" : "UK HARDCORE",
     "md5"     : "7a1243bf893678f0e6940694be9109d2"
+},{
+    "level"   : "4",
+    "title"   : "Black Lair ~NORMAL~",
+    "artist"  : "DELETE feat. void",
+    "comment" : "Act / Wars",
+    "md5"     : "913dbc91338dfb8286c97e0625f3945a"
 },{
     "level"   : "4",
     "title"   : "brightocean [ANOTHER10]",
@@ -1236,6 +1248,12 @@
     "md5"     : "4b38d243db9a9cf16e2dbe2f08afef63"
 },{
     "level"   : "5",
+    "title"   : "Clear Blue ~HARD~",
+    "artist"  : "sun3",
+    "comment" : "Happy Hardcore",
+    "md5"     : "d237bb111369faed47271738c9bb1853"
+},{
+    "level"   : "5",
     "title"   : "contact force sense (remix)",
     "artist"  : "TO-MAX remixed by LU",
     "comment" : "NEUROTECH MIX",
@@ -1372,6 +1390,12 @@
     "artist"  : "Aozuna",
     "comment" : "Gabba",
     "md5"     : "208f7c64e9d2655d8222106450b76b36"
+},{
+    "level"   : "5",
+    "title"   : "臨終 ~NORMAL~",
+    "artist"  : "Lunatic Sounds",
+    "comment" : "Drum n Bass",
+    "md5"     : "1e87c07fbccae4f4f5867c395d74b6fd"
 },{
     "level"   : "6",
     "title"   : "Acid Disco Groove Explosion",
@@ -1540,6 +1564,12 @@
     "artist"  : "bbangsami feat.Sugar Reactor / Haping,SMIN",
     "comment" : "Sweet Hardcore",
     "md5"     : "0f0f5aa287387031684e5393fd792237"
+},{
+    "level"   : "7",
+    "title"   : "Once in my life ~SUPER HARD~",
+    "artist"  : "Manaka Takane feat.Nananao",
+    "comment" : "Maiden House",
+    "md5"     : "4ae8968cd46baceefab2b79a97392a26"
 },{
     "level"   : "7",
     "title"   : "RAY ~HARD~",
@@ -1714,6 +1744,12 @@
     "artist"  : "ABE3 *LR.RANDOM",
     "comment" : "DRUM'N'FORTE",
     "md5"     : "1502b9dce94aff7a53bde228305fd1c6"
+},{
+    "level"   : "9",
+    "title"   : "Evangelize ~HARD~",
+    "artist"  : "syatten",
+    "comment" : "Trance",
+    "md5"     : "22b0f3d92e6f83f7d94cef918540b9cb"
 },{
     "level"   : "9",
     "title"   : "KISS CANDY FLAVOR ~HARD~",
@@ -2442,6 +2478,12 @@
     "md5"     : "1ea47d3eff8f2b3f14e128a3b1e8db52"
 },{
     "level"   : "★6",
+    "title"   : "Synthesized Fortress ~SUPER HARD~",
+    "artist"  : "M",
+    "comment" : "4096",
+    "md5"     : "936026c384b69dc36a34001711c6a2f3"
+},{
+    "level"   : "★6",
     "title"   : "Valhalla ~SUPER HARD~",
     "artist"  : "xi",
     "comment" : "NORSE MYTHOLOGY",
@@ -2500,6 +2542,12 @@
     "artist"  : "TrioStaR x Lilyca x Mentalstock",
     "comment" : "Euphoric Trance",
     "md5"     : "c8f24803a2016c29a9b364de1351a181"
+},{
+    "level"   : "★7",
+    "title"   : "FREEDOM DiVE↓ ~SUPER HARD~",
+    "artist"  : "xi",
+    "comment" : "HAPPY HARDCORE",
+    "md5"     : "0b61c5d6978dc27f2cd5ed8f60ceb21f"
 },{
     "level"   : "★7",
     "title"   : "High-Priestess ~HARD~",
@@ -2734,6 +2782,18 @@
     "artist"  : "kbwnk max",
     "comment" : "HappY PoPcorN",
     "md5"     : "631ba4463a69d11e0e5cf77b7cee4545"
+},{
+    "level"   : "★11",
+    "title"   : "kkotipari Hangaduk! ~CATASTROPHE~",
+    "artist"  : "bbangsami feat.Sugar Reactor / Haping,SMIN",
+    "comment" : "Sweet Hardcore",
+    "md5"     : "74dca222c1e7b63fcf2d125b896a66e9"
+},{
+    "level"   : "★11",
+    "title"   : "Time files ~CATASTROPHE~",
+    "artist"  : "xi *LR.MIRROR",
+    "comment" : "HAPPY",
+    "md5"     : "4f3097de0917f8070184abae502bc63c"
 },{
     "level"   : "★11",
     "title"   : "Toki (Sound piercer's Timesucker Remix) ~CATASTROPHE~",
