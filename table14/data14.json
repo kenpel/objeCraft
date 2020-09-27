@@ -4362,6 +4362,12 @@
     "md5"     : "c6a7d599735b842d07ae8fcf115efc97"
 },{
     "level"   : "1",
+    "title"   : "キミとスキ [DP EXTRA]",
+    "artist"  : "Rinko Kobayakawa feat. Peko Azusawa obj:ucc",
+    "comment" : "Hyper ElectroPop",
+    "md5"     : "d647bf109798cc20e4a5a576b7145907"
+},{
+    "level"   : "1",
     "title"   : "キミガスキ feat.Miku Hatsune",
     "artist"  : "孔雀P BGI:いとこん",
     "comment" : "TECHNO POP",
@@ -18433,7 +18439,7 @@
 },{
     "level"   : "6",
     "title"   : "Oriens [A14]",
-    "artist"  : "ginkiha obj:ucc *L.MIRROR",
+    "artist"  : "ginkiha obj:ucc *LR.MIRROR",
     "comment" : "FREESTYLE ORIENTAL ELECTRO",
     "md5"     : "60e0d12ff4d2d61c767e087e1c4e38db"
 },{
@@ -28795,7 +28801,7 @@
 },{
     "level"   : "10",
     "title"   : "far in the blue sky... [quasar14]",
-    "artist"  : "saikoro obj:k *L.MIRROR",
+    "artist"  : "saikoro obj:k *L.MIR or FLIP L.MIR",
     "comment" : "trance",
     "md5"     : "67de7388d2bcffdcd1615abb237f0510"
 },{
@@ -37782,6 +37788,12 @@
     "md5"     : "6e1104842f945d1c41e3f4250168a0ae"
 },{
     "level"   : "★7",
+    "title"   : "PEACE BREAKER [GENOCIDE]",
+    "artist"  : "Omnipotenx/obj:epics- *R.MIRROR",
+    "comment" : "SYMPHONIC SCHRANZ",
+    "md5"     : "a03286236d276f999313691e541c30ce"
+},{
+    "level"   : "★7",
     "title"   : "PHANTOM LOST [DP EXTRA]",
     "artist"  : "ZUN Remixed by くっちー Respect for L.E.D.-G vs Ryu☆ Illust:きさ Obj:ucc  *FLIP L.RAN",
     "comment" : "TRANCE CORE",
@@ -38239,7 +38251,7 @@
 },{
     "level"   : "★8",
     "title"   : "antilife (puzzle game)",
-    "artist"  : "甘党マニア *FLIP",
+    "artist"  : "甘党マニア",
     "comment" : "---",
     "md5"     : "91b0d0c982a00ef50c2bf021e01bf074"
 },{
@@ -38470,12 +38482,6 @@
     "artist"  : "sasakure.UK  obj ;; ravelll / reobj ;; Hador",
     "comment" : "World Orchestra",
     "md5"     : "b4a02dfd81f62f71b30c78254160b788"
-},{
-    "level"   : "★8",
-    "title"   : "PEACE BREAKER [GENOCIDE]",
-    "artist"  : "Omnipotenx/obj:epics- *R.MIRROR",
-    "comment" : "SYMPHONIC SCHRANZ",
-    "md5"     : "a03286236d276f999313691e541c30ce"
 },{
     "level"   : "★8",
     "title"   : "Physical damage -Past Scars- [DPEX]",
