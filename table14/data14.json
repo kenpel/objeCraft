@@ -162,6 +162,12 @@
     "md5"     : "0441daa4a6514f051deadd16db5beed0"
 },{
     "level"   : "?",
+    "title"   : "Blacksphere [Hexade皿ical14]",
+    "artist"  : "Iriss-Frantzz obj : 71066",
+    "comment" : "Connection",
+    "md5"     : "69736418d05ac0ff9551d4058d8482c1"
+},{
+    "level"   : "?",
     "title"   : "Blastix☆Shine",
     "artist"  : "かめりゆ",
     "comment" : "J-HAPPY SPEEDCORE",
@@ -10032,6 +10038,12 @@
     "md5"     : "8cd24c8387dd9bccd6b45ae30828d1a0"
 },{
     "level"   : "3",
+    "title"   : "The SkyScrapers [DP-sagINSANE]",
+    "artist"  : "litmus* / obj:sagoo mov : まも",
+    "comment" : "Electro House",
+    "md5"     : "bdb21ed11e1e31d8b1b3f3afb52f820f"
+},{
+    "level"   : "3",
     "title"   : "the sorrow of the islands(Flow Edition) -DP-",
     "artist"  : "narve arranged by FMN *FLIP",
     "comment" : "ibiza trance",
@@ -11800,6 +11812,12 @@
     "artist"  : "-45 / obj: black train",
     "comment" : "",
     "md5"     : "4d4a132f107ac41bb901e43f8c809f9d"
+},{
+    "level"   : "4",
+    "title"   : "Exit [DP-sagANOTHER]",
+    "artist"  : "Transin / obj:sagoo",
+    "comment" : "Trance",
+    "md5"     : "f333a2350265a7dd5355cc56da39cecd"
 },{
     "level"   : "4",
     "title"   : "Exploring the blue sky [DP Another]",
@@ -17640,6 +17658,12 @@
     "md5"     : "39f01d9d3fc8fdc1917d4869b0784cb9"
 },{
     "level"   : "6",
+    "title"   : "Flying Fantasiti-Ca (ANOTHER14)",
+    "artist"  : "sun3",
+    "comment" : "Trance Core",
+    "md5"     : "b821dfb48b785355484ee916927791d7"
+},{
+    "level"   : "6",
     "title"   : "Force (DP Another)",
     "artist"  : "Luv Strawberry's Delta(obj:ka2o)",
     "comment" : "HARDCORE D'N'B",
@@ -20146,6 +20170,12 @@
     "artist"  : "xi",
     "comment" : "JAZZ FUSION",
     "md5"     : "c565417473f62384809880504398fee9"
+},{
+    "level"   : "7",
+    "title"   : "14DP:If you were here [DP-sagINSANE]",
+    "artist"  : "猫蟹丸 Featuring PLAGAREC / obj:sagoo",
+    "comment" : "Dance",
+    "md5"     : "c013e3dcd3420ca16d82fcd74e2ca3be"
 },{
     "level"   : "7",
     "title"   : "3.14",
@@ -23470,6 +23500,12 @@
     "artist"  : "polysha",
     "comment" : "TRANCE",
     "md5"     : "56cf6e8ea38bcb1c30a5798b200dc091"
+},{
+    "level"   : "8",
+    "title"   : "CHRISTMAS EVE [DPINSA.NE]",
+    "artist"  : "DESKJUGGLER/obj:LLL",
+    "comment" : "la r/n g am/u ente",
+    "md5"     : "34e80fc82b43ce986f37cf8a63831cc1"
 },{
     "level"   : "8",
     "title"   : "CILBIDA",
@@ -28476,6 +28512,12 @@
     "md5"     : "1d5271bfc794b9108809335f5968bae5"
 },{
     "level"   : "10",
+    "title"   : "Angel dust -DP Busy-",
+    "artist"  : "LV.4 / obj : IDMZETA",
+    "comment" : "HARD NRG",
+    "md5"     : "6120499aa063564d5f409710b31303fc"
+},{
+    "level"   : "10",
     "title"   : "Angelic layer [DP ANOTHER+]",
     "artist"  : "SHIKI obj:NEPIA",
     "comment" : "TRANCE",
@@ -28728,6 +28770,12 @@
     "md5"     : "ed3b46618d07ef00780a3c260019d671"
 },{
     "level"   : "10",
+    "title"   : "Dark Sky -dp-",
+    "artist"  : "tanacoro/BGA:musao,wars,M.Takezaki obj : 71066",
+    "comment" : "Euro battle",
+    "md5"     : "8c3a98ff3828ec861cc9ba90bbf53d91"
+},{
+    "level"   : "10",
     "title"   : "DataErr0r [sub black another]",
     "artist"  : "Music : Lunatic Sounds / BGA : Photonskyto obj:kuro",
     "comment" : "ArtCore",
@@ -28954,6 +29002,12 @@
     "artist"  : "WOOD Remixed by ACE /obj.waseda *R.MIR or FLIP R.MIR",
     "comment" : "classic",
     "md5"     : "473a1e39d0e65c1246af6239f265d421"
+},{
+    "level"   : "10",
+    "title"   : "fushigichan [双子ちゃん]",
+    "artist"  : "牧野 obj.にゃむ",
+    "comment" : "TEK PUNK",
+    "md5"     : "04a91733a51fc21b42f90f1265fea9c3"
 },{
     "level"   : "10",
     "title"   : "galaxy fall -DP EX-",
@@ -30724,6 +30778,12 @@
     "artist"  : "Is-m BGA:murotani",
     "comment" : "INFINITY",
     "md5"     : "962676d58867f80b41d005d5b5ee9146"
+},{
+    "level"   : "★1",
+    "title"   : "electric butterfly [social distance-14]",
+    "artist"  : "養土卵 光 / 浜 柔好 obj : 71066",
+    "comment" : "Happy Hardcore",
+    "md5"     : "8158554125fff05cba1dc0e19c1fd24c"
 },{
     "level"   : "★1",
     "title"   : "elegaNte [DP えぬTHER+]",
@@ -32812,12 +32872,6 @@
     "artist"  : "紅蓮月影 BGA:A-ZERO Project obj:nBel",
     "comment" : "LOGICAL FORMAT",
     "md5"     : "9d75fd9eea215590e4eb8215eaef28d3"
-},{
-    "level"   : "★3",
-    "title"   : "Angel dust -DP NORMAL-",
-    "artist"  : "LV.4 obj:大我大和",
-    "comment" : "HARD NRG",
-    "md5"     : "8f0a7061537c8cc91cfc63b9084d0cfa"
 },{
     "level"   : "★3",
     "title"   : "Angelic layer [DP 黒ANOTHER]",
@@ -35922,6 +35976,12 @@
     "md5"     : "bcab76ce124f942621705e949d4783f1"
 },{
     "level"   : "★5",
+    "title"   : "RiZE UP",
+    "artist"  : "TiS feat.きゃと obj: shiba",
+    "comment" : "J-EURO",
+    "md5"     : "28930898866a710a40046ea7c6764ed8"
+},{
+    "level"   : "★5",
     "title"   : "sample No.02",
     "artist"  : "3034 *L.MIRROR",
     "comment" : "BRIGHT-NOISE",
@@ -37450,6 +37510,12 @@
     "artist"  : "witch's slave obj:nBel Graphic by Est",
     "comment" : "ILLEGAL GOTHIC SCHRANZ",
     "md5"     : "01acd82d22edc820b093441c1ceb2d73"
+},{
+    "level"   : "★6",
+    "title"   : "夜桜 [DP INS☆NE]",
+    "artist"  : "彩音 / 小宮真央 obj:Starfish",
+    "comment" : "oriental",
+    "md5"     : "7497cf25fdd0988557ff78c8aa55f034"
 },{
     "level"   : "★6",
     "title"   : "夢/あるいは在りし日の [Reminiscence]",
