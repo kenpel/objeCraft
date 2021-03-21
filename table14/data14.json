@@ -2136,6 +2136,12 @@
     "md5"     : "2e28b1fc88e3a9811147616e341029f4"
 },{
     "level"   : "1",
+    "title"   : "c.s.q.n. [DP]",
+    "artist"  : "Aoi mov:出前 / obj.LetsOTL",
+    "comment" : "HYBRID CORE",
+    "md5"     : "1754b47ff373aa71494bff859a6a0ba8"
+},{
+    "level"   : "1",
     "title"   : "calm sea [DP another]",
     "artist"  : "asahi3 / ぽよん",
     "comment" : "#Seapunk",
@@ -31110,6 +31116,12 @@
     "md5"     : "a401fe58853cc8d334bd338465cdff77"
 },{
     "level"   : "★1",
+    "title"   : "Ophelia [DPG]",
+    "artist"  : "Lime/obj:G#",
+    "comment" : "Rosso Phantasma",
+    "md5"     : "462c2c77bebb5b9b7909924923593c4c"
+},{
+    "level"   : "★1",
     "title"   : "Our Dream, Our Justice [DP CHALLENGER]",
     "artist"  : "tcheb / mov : 石王マサト obj:kuro",
     "comment" : "AGAINST \"The World\"",
@@ -35388,6 +35400,12 @@
     "md5"     : "ef6dd4bb81888a15a82e90006c4410de"
 },{
     "level"   : "★5",
+    "title"   : "Baby Baby Frenzy",
+    "artist"  : "er obj: shiba",
+    "comment" : "TECHNO POP",
+    "md5"     : "10277eaefc69ba187ae17e1483a346ab"
+},{
+    "level"   : "★5",
     "title"   : "Backside of the world [DP AFOTHER]",
     "artist"  : "rebellion / obj:Louis *FLIP",
     "comment" : "SPEEDCORE",
@@ -37908,6 +37926,12 @@
     "md5"     : "833e8c6197c4b86297549499d3313625"
 },{
     "level"   : "★7",
+    "title"   : "Lamir",
+    "artist"  : "激辛マニア obj: shiba",
+    "comment" : "tenac wave",
+    "md5"     : "39e9250c86bb0179591fce7008af385a"
+},{
+    "level"   : "★7",
     "title"   : "Lang Tone",
     "artist"  : "ルゼ / Symphonian",
     "comment" : "BUCKLER[鬼]",
@@ -38176,6 +38200,12 @@
     "artist"  : "paraoka *FLIP R.MIR or FLIP R.RAN",
     "comment" : "rock",
     "md5"     : "588a284d3fc323e2293a96ca272052b2"
+},{
+    "level"   : "★7",
+    "title"   : "Wayra pacha [DP GOD]",
+    "artist"  : "adamthix obj: shiba",
+    "comment" : "TRANCE",
+    "md5"     : "70104e918e65f0def60bee2e0534f414"
 },{
     "level"   : "★7",
     "title"   : "Winter Gals [片手SPA+]",
