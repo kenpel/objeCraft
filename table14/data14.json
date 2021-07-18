@@ -9228,6 +9228,12 @@
     "md5"     : "ea6b80c4ae9e7d6b574b0ad48058ccc2"
 },{
     "level"   : "3",
+    "title"   : "marine snow [DP+]",
+    "artist"  : "LaValse / reobj.にゃむ *FLIP LR.MIRROR",
+    "comment" : "TRANCE AMBIENT",
+    "md5"     : "53d81a81a5441958b5c56abd82be548d"
+},{
+    "level"   : "3",
     "title"   : "marquid [Boxed]",
     "artist"  : "willowisp / obj = Mr.egg *FLIP R.MIRROR",
     "comment" : "Ambience noize - Level 1 -",
@@ -22380,6 +22386,12 @@
     "md5"     : "3f4d32cd1d27940c4202a5cedbda06ab"
 },{
     "level"   : "7",
+    "title"   : "Wayra pacha",
+    "artist"  : "adamthix obj: shiba",
+    "comment" : "TRANCE",
+    "md5"     : "8b5aac78eec1d21f3788d83cadc0c76c"
+},{
+    "level"   : "7",
     "title"   : "Welcome Mr.E-R [DPQ]",
     "artist"  : "beatMARIO OBJ : QUART  *AVERAGE",
     "comment" : "Oriental Euro",
@@ -24112,6 +24124,12 @@
     "artist"  : "篠螺悠那 feat. 鯛の小骨+- *L.MIRROR",
     "comment" : "Euro Rave",
     "md5"     : "a3e4553a12e754396b33294c66578595"
+},{
+    "level"   : "8",
+    "title"   : "In a dream [DP-sagINSANE]",
+    "artist"  : "Team Shanghai Alice (Remixed by Est) / obj:sagoo",
+    "comment" : "TRANCE",
+    "md5"     : "da85236c483061c2959208463ac199e9"
 },{
     "level"   : "8",
     "title"   : "IN THE HOUSE (14 Extreme)",
@@ -26260,6 +26278,18 @@
     "artist"  : "kozato[obj:MGN]",
     "comment" : "コザトランス2",
     "md5"     : "0e6af43729dc8784c59b745c395c3c26"
+},{
+    "level"   : "9",
+    "title"   : "Dai-katsugeki(AMAZE Remix) -DP CHECKMATE-",
+    "artist"  : "minun♂ Remixed by AMAZE obj.Lapis",
+    "comment" : "BIG BEAT",
+    "md5"     : "d103f12d96f5ba3c872e34d7e2c2300d"
+},{
+    "level"   : "9",
+    "title"   : "Dandelion Sparkle!! [April14]",
+    "artist"  : "p_d obj : 71066",
+    "comment" : "SPRING CORE",
+    "md5"     : "21ab21ac193f4a56910a7316f6361b63"
 },{
     "level"   : "9",
     "title"   : "DANJIRI",
@@ -34380,6 +34410,12 @@
     "md5"     : "38c5cb5eef5811418a6341e7f8b42281"
 },{
     "level"   : "★4",
+    "title"   : "Gerard [Enjoy_anmitsu]",
+    "artist"  : "Widowmaker / obj:Hador",
+    "comment" : "memorial",
+    "md5"     : "6b1b2225a9211d36f0779b5c2e94a09f"
+},{
+    "level"   : "★4",
     "title"   : "Giselle [Practice14]",
     "artist"  : "Widowmaker(obj.siyamaki)",
     "comment" : "Ballet",
@@ -37324,6 +37360,12 @@
     "artist"  : "東風屋 梓 *AVERAGE-20 FLIP",
     "comment" : "AQUATIC BREAKBEATS",
     "md5"     : "665203b8344a901a8a939eb13d4ee789"
+},{
+    "level"   : "★6",
+    "title"   : "unquenchable [14keys]",
+    "artist"  : "dj Extrose / obj:sagoo",
+    "comment" : "SPEED TEK",
+    "md5"     : "53ef5245dc45263ae52da89473e01687"
 },{
     "level"   : "★6",
     "title"   : "VALLISTA [Rhodes14]",
