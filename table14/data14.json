@@ -54,6 +54,12 @@
     "md5"     : "95feff7a4b8b1755d22d30e0e1c24318"
 },{
     "level"   : "?",
+    "title"   : "[-kirisame] [DP-]",
+    "artist"  : "paraoka // bga. ALEX //obj:MIST",
+    "comment" : "minimal",
+    "md5"     : "5881a4fb0f60ee2b9ca42a2dc69ca5e6"
+},{
+    "level"   : "?",
     "title"   : "[DP New period]",
     "artist"  : "maru / BGA:Johnny obj.nor",
     "comment" : "Footwork",
@@ -544,6 +550,12 @@
     "artist"  : "Chitose /無名発狂十段 vs 無名発狂DP六段 vs 無名LN皆伝",
     "comment" : "Fusion/Breakbeats",
     "md5"     : "367d9e541078b28991bd11d9116a2dd5"
+},{
+    "level"   : "?",
+    "title"   : "heptaphase (2oct)",
+    "artist"  : "spine",
+    "comment" : "現代音楽",
+    "md5"     : "cd3848867e2fb1b4a7def34729872227"
 },{
     "level"   : "?",
     "title"   : "HIMEM.SYS (10KEYS)",
@@ -5328,6 +5340,12 @@
     "md5"     : "88b451d8196bf4759e14e50a1507edd8"
 },{
     "level"   : "2",
+    "title"   : "CherryImpact [十四鍵 銀]",
+    "artist"  : "kozato obj:銀次",
+    "comment" : "VividColors",
+    "md5"     : "fdd6dce5b7f86e8e177a6573b078fe95"
+},{
+    "level"   : "2",
     "title"   : "Chronomia [VerN]",
     "artist"  : "Lime / inukoro  obj:右手が恋人",
     "comment" : "Dramatical",
@@ -5764,6 +5782,12 @@
     "artist"  : "Mystinia *FLIP",
     "comment" : "Progressive Trance",
     "md5"     : "28bf28d494ec57f570360b5b67a98eef"
+},{
+    "level"   : "2",
+    "title"   : "Gerard [DP Hyper3]",
+    "artist"  : "Widowmaker / Obj:Jhs",
+    "comment" : "memorial",
+    "md5"     : "e8cc0766c617a3e9fdc6bb67e8197919"
 },{
     "level"   : "2",
     "title"   : "gigagod freeze-R",
@@ -11982,6 +12006,12 @@
     "md5"     : "1246b736873448e7da63a1ba1d4ab765"
 },{
     "level"   : "4",
+    "title"   : "Gerard [DP Another]",
+    "artist"  : "Widowmaker / Obj:Jhs",
+    "comment" : "memorial",
+    "md5"     : "872cf9e36dfc6e2691b2db9f542a6546"
+},{
+    "level"   : "4",
     "title"   : "GIGAGOONIES Part2",
     "artist"  : "DJ Saw-Low vs nob unfotunated",
     "comment" : "RAVE",
@@ -17386,6 +17416,12 @@
     "artist"  : "Lime / Roaring Flame / obj:alt",
     "comment" : "Hardcore",
     "md5"     : "4808028a0a7452891ea5d9e554b9774a"
+},{
+    "level"   : "6",
+    "title"   : "Deepsea Moonlight [Cuvelia14]",
+    "artist"  : "daisan obj : 71066",
+    "comment" : "Trance",
+    "md5"     : "66f2263a8e854298029231c872c3e14b"
 },{
     "level"   : "6",
     "title"   : "Defeated Wings [ANOTHER]",
@@ -28128,6 +28164,12 @@
     "md5"     : "534b544b7c5ef5ebe078d83362ed8000"
 },{
     "level"   : "9",
+    "title"   : "年中夢中な好奇心 [物量バカ]",
+    "artist"  : "er obj : 71066",
+    "comment" : "やるきファンク",
+    "md5"     : "61cb0e8e41cc8a2d3d4c0616ed1ed653"
+},{
+    "level"   : "9",
     "title"   : "幸降開花",
     "artist"  : "落龍",
     "comment" : "ASIAN HIGH-SPEED[14鍵難]",
@@ -30750,6 +30792,12 @@
     "md5"     : "ea4242bff8da40325c552ac89572bbfa"
 },{
     "level"   : "★1",
+    "title"   : "Danse de Romani",
+    "artist"  : "MUE / mov : Lyrebird Ferdinant obj: shiba",
+    "comment" : "Ethnic House",
+    "md5"     : "badd87bc03a1b5657c4f9061e3bbd083"
+},{
+    "level"   : "★1",
     "title"   : "Dead or Arabesque",
     "artist"  : "spine *FLIP",
     "comment" : "BURJ TECHNO[DP DUBAI]",
@@ -30934,6 +30982,12 @@
     "artist"  : "scytheleg obj:Starfish",
     "comment" : "ELECTRANCE",
     "md5"     : "bdc0ccf60becab6c4abad8056c984dc9"
+},{
+    "level"   : "★1",
+    "title"   : "Gerard [DP Another3]",
+    "artist"  : "Widowmaker / Obj:Jhs",
+    "comment" : "memorial",
+    "md5"     : "e5b7d08ed53e519de856ce8789088131"
 },{
     "level"   : "★1",
     "title"   : "Halcyon [Armageddon]",
@@ -37080,6 +37134,12 @@
     "md5"     : "7d048dceec71d63faefdb98e27b44e94"
 },{
     "level"   : "★6",
+    "title"   : "Misdirection",
+    "artist"  : "enxel vs D.J.Nero obj: shiba  *LR.MIR or FLIP",
+    "comment" : "CONFUSION",
+    "md5"     : "0f02f93656ca5eed99f361ea3f74dfc6"
+},{
+    "level"   : "★6",
     "title"   : "mnemogeny (14k a: ashes)",
     "artist"  : "Arctures obj: Telperion  *MAXBPM FLIP LR.MIR or 正規",
     "comment" : "Progressive Slowstep",
@@ -37402,6 +37462,12 @@
     "artist"  : "ridis  obj ; N *SUD+",
     "comment" : "intelligence",
     "md5"     : "933c75f9a5d54c6d7b447dd6cb8cff12"
+},{
+    "level"   : "★6",
+    "title"   : "YAKUI",
+    "artist"  : "はがね bgi.ばんぶー obj: shiba",
+    "comment" : "Darkpsy",
+    "md5"     : "d0365f3ed458bc5da9a45f712efb1df8"
 },{
     "level"   : "★6",
     "title"   : "Yellow Smile (bms edit) [DP hututher]",
@@ -40210,6 +40276,12 @@
     "artist"  : "養土卵 光 / 浜 柔好 / obj : zairu *LR.RANDOM",
     "comment" : "Happy Hardcore",
     "md5"     : "ff3ee5a318f613f3a6e9a9d289f95848"
+},{
+    "level"   : "★12",
+    "title"   : "Finixe -DP Ragnarok-",
+    "artist"  : "Silentroom × iimo / selene.",
+    "comment" : "LEGEND",
+    "md5"     : "0b4dfaf39d4baca75e117a6f46d32dbd"
 },{
     "level"   : "★12",
     "title"   : "FREEDOM DiVE [EMPRESS]",
