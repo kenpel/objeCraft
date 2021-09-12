@@ -4968,6 +4968,12 @@
     "md5"     : "fd653cecd5aa8ec20d3624f98c62e8b6"
 },{
     "level"   : "2",
+    "title"   : "A-chasing-Y [DPA.NOTHER]",
+    "artist"  : "Sakamiya feat.mirina img:十恵/obj:LLL",
+    "comment" : "Digital-J-Pop",
+    "md5"     : "6efd10be91930e18d3a1cb77fcd73a7f"
+},{
+    "level"   : "2",
     "title"   : "Acid ambience -Harder 18th Anv edit-",
     "artist"  : "Yusumi with Thredding-GD",
     "comment" : "Hard Tech",
@@ -9858,6 +9864,12 @@
     "md5"     : "7345307cefe158b0d4c4b33a9ea1d0a3"
 },{
     "level"   : "3",
+    "title"   : "Sky Angelus [DP ANOTHER]",
+    "artist"  : "おみー obj:フォルティッシモ",
+    "comment" : "kawaiiTrance",
+    "md5"     : "6d7583a3d79b693ea4a29912af203a3b"
+},{
+    "level"   : "3",
     "title"   : "Sky Cave [14keys Another]",
     "artist"  : "Holidra.K BGA:k_kouzuki / note by Y.W  *FLIP L.MIRROR",
     "comment" : "Sky Rock",
@@ -13494,12 +13506,6 @@
     "md5"     : "634ffd7c6a99928176771b8a515849ac"
 },{
     "level"   : "4",
-    "title"   : "Wicked plot [DP HYPER]",
-    "artist"  : "keyc / Symphonian",
-    "comment" : "m9 MINIMAL",
-    "md5"     : "1aa0f976a5b9361fe1d2581d15b6ad51"
-},{
-    "level"   : "4",
     "title"   : "World Against 2 [DP sub another]",
     "artist"  : "Sound Souler / Tagtraume obj:kuro Voc:Ms.Valentine / Illust:TheKara / obj:XYZ",
     "comment" : "Liquid Funk",
@@ -17082,6 +17088,12 @@
     "md5"     : "e30648dc146320b08adb232acdd3d991"
 },{
     "level"   : "6",
+    "title"   : "aura [DP EX]",
+    "artist"  : "daisan feat. 天城あくる / aoid obj.nor",
+    "comment" : "Actless Actress",
+    "md5"     : "94e84eb1f6dd30a0b3ddcb9c1e8c49b7"
+},{
+    "level"   : "6",
     "title"   : "Aurora [北極で撮った素晴らしい虹色]",
     "artist"  : "Lime / LetsOTL + Limite",
     "comment" : "Dramatical",
@@ -19330,6 +19342,12 @@
     "artist"  : "dj nagureo / Yamajet *FLIP",
     "comment" : "LOUNGE",
     "md5"     : "83a64935668b1e23379183eea871f6e6"
+},{
+    "level"   : "6",
+    "title"   : "Wicked plot [DP HYPER]",
+    "artist"  : "keyc / Symphonian",
+    "comment" : "m9 MINIMAL",
+    "md5"     : "1aa0f976a5b9361fe1d2581d15b6ad51"
 },{
     "level"   : "6",
     "title"   : "Wild! West! Showdown! [DP ANOTHER]",
@@ -23262,6 +23280,12 @@
     "md5"     : "e9a48d7fb35792cba1c60ad9b88e42d1"
 },{
     "level"   : "8",
+    "title"   : "A-chasing-Y [DPINSA.NE]",
+    "artist"  : "Sakamiya feat.mirina img:十恵/obj:LLL",
+    "comment" : "Digital-J-Pop",
+    "md5"     : "56fb12dbf24ac83b4a02364c88734567"
+},{
+    "level"   : "8",
     "title"   : "Absurd Gaff",
     "artist"  : "siromaru / Mentalstock Rustin",
     "comment" : "schranz",
@@ -24894,6 +24918,12 @@
     "md5"     : "d829ea4e2ca8d5050a77d5e0fd9f4102"
 },{
     "level"   : "8",
+    "title"   : "Sky Angelus [kawaii]",
+    "artist"  : "おみー obj:フォルティッシモ  *LR.MIR",
+    "comment" : "kawaiiTrance",
+    "md5"     : "976abd1ad8acca9b27571093f9f1d87b"
+},{
+    "level"   : "8",
     "title"   : "SLEEPLESS (70's M.L.NIGHT MIX) Long Edition  [DP ANOTHER]",
     "artist"  : "4G",
     "comment" : "HARD HOUSE",
@@ -25087,7 +25117,7 @@
 },{
     "level"   : "8",
     "title"   : "Twilight",
-    "artist"  : "Alicia* / srof *FLIP L.MIRROR",
+    "artist"  : "Alicia* / srof *L.MIR or FLIP L.MIR",
     "comment" : "AMBIENT",
     "md5"     : "31610e99853d1ac07da68f3d445bda61"
 },{
@@ -32496,6 +32526,12 @@
     "md5"     : "701ccc06b22973d220f7407ef28f2fd1"
 },{
     "level"   : "★2",
+    "title"   : "RE:START [DP-soijoy]",
+    "artist"  : "結月ゆかり and Ark-Z / obj:sagoo",
+    "comment" : "VOCALOID-TRANCEPOP",
+    "md5"     : "1e1c6839c85633f9d198686b98505bec"
+},{
+    "level"   : "★2",
     "title"   : "Read Air",
     "artist"  : "ark k'fied *FLIP",
     "comment" : "HARD CLASSICAL",
@@ -33005,12 +33041,6 @@
     "comment" : "hard nrg",
     "md5"     : "f6e9fe9f7efde02c8fad22eca4e86964"
 },{
-    "level"   : "★2",
-    "title"   : "魔理沙が大変な事になりました [EX14]",
-    "artist"  : "IOSYS Remixed by Hate obj:ucc",
-    "comment" : "原曲破壊",
-    "md5"     : "79f049d1bd6d5c924f01a549c01c7a4b"
-},{
     "level"   : "★3",
     "title"   : "- harmonics - [DP CHALLENGER]",
     "artist"  : "L-Line obj:kuro BGA : WCMP",
@@ -33178,12 +33208,6 @@
     "artist"  : "w_tre(obj.siyamaki) *LR.RANDOM",
     "comment" : "ｫｷｫｰｫ筬､ｫﾉｫﾇｫ雖ｨｫﾃｫﾈ",
     "md5"     : "9eab3f91679cf69edf9ddc37c33a942c"
-},{
-    "level"   : "★3",
-    "title"   : "CYCLONE [Gravity Distorting Module]",
-    "artist"  : "MINT BGA : Can.D-mtmrw / obj: shiba",
-    "comment" : "TECHNO",
-    "md5"     : "767177285abbedf42d833793842cc70d"
 },{
     "level"   : "★3",
     "title"   : "Cynic [度胸兄弟]",
@@ -34086,6 +34110,12 @@
     "md5"     : "3b80bb088a842c2483d0d2e993c63fd4"
 },{
     "level"   : "★3",
+    "title"   : "魔理沙が大変な事になりました [EX14]",
+    "artist"  : "IOSYS Remixed by Hate obj:ucc",
+    "comment" : "原曲破壊",
+    "md5"     : "79f049d1bd6d5c924f01a549c01c7a4b"
+},{
+    "level"   : "★3",
     "title"   : "＜('ヮ')＞灼熱Pt.2 [RED TRAIN]",
     "artist"  : "Yamajet / obj@PEN BGA: sta  *L.MIRROR",
     "comment" : "Ascii Art Break",
@@ -34114,6 +34144,12 @@
     "artist"  : "-45 / obj : Hador",
     "comment" : "trance",
     "md5"     : "ea6d52d06c85d302378f04654055561d"
+},{
+    "level"   : "★4",
+    "title"   : "A-chasing-Y [DPINSA.NE+]",
+    "artist"  : "Sakamiya feat.mirina img:十恵/obj:LLL",
+    "comment" : "Digital-J-Pop",
+    "md5"     : "b3b9364b9175f8198e9c725ec107a873"
 },{
     "level"   : "★4",
     "title"   : "After Burner [DP SUB CHALLENGE]",
@@ -34336,6 +34372,12 @@
     "artist"  : "sak with.ごくごくプリン Movie: げ～むばか / obj:MGN",
     "comment" : "Kawaii FUTURE POP",
     "md5"     : "c59cff640e2e2a064dd045d7fc187b32"
+},{
+    "level"   : "★4",
+    "title"   : "CYCLONE [Gravity Distorting Module]",
+    "artist"  : "MINT BGA : Can.D-mtmrw / obj: shiba",
+    "comment" : "TECHNO",
+    "md5"     : "767177285abbedf42d833793842cc70d"
 },{
     "level"   : "★4",
     "title"   : "DEATH†TENGOQ ～怒りの天地合体野郎～ [DPGL]",
@@ -34600,6 +34642,12 @@
     "artist"  : "enxel *正規 or FLIP R.MIRROR",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "82d097a4e01f8df7b89213a9495c9b42"
+},{
+    "level"   : "★4",
+    "title"   : "happy puppy [DP 250%]",
+    "artist"  : "masopp /OBJ:fruit",
+    "comment" : "chipskit",
+    "md5"     : "da9e4429038f3a5af7f1f1a22de7b7ec"
 },{
     "level"   : "★4",
     "title"   : "happy puppy [HELL]",
@@ -35430,6 +35478,12 @@
     "md5"     : "2d8e3abf3042697a2b6c5068d96d78d0"
 },{
     "level"   : "★4",
+    "title"   : "織姫 [雨天]",
+    "artist"  : "DJ TAKUAN 及び 佐倉アヤキ / obj:ED",
+    "comment" : "TRANCE",
+    "md5"     : "5e7515ff42137507b13a60abba0bdb26"
+},{
+    "level"   : "★4",
     "title"   : "自強號 [同時押し管理局 / DP譜面]",
     "artist"  : "痛男次郎 / 制限",
     "comment" : "英國硬核",
@@ -35848,12 +35902,6 @@
     "artist"  : "STS-88 (a.k.a. 九八式旋回機関銃&NASA) remixed by Ziken Akahane / mov:Athame&くわぎう / obj.nor  *FLIP",
     "comment" : "BASSLINE HOUSE",
     "md5"     : "cb1d8063df74d01a71fcfb82c9c8b8cb"
-},{
-    "level"   : "★5",
-    "title"   : "happy puppy [DP 250%]",
-    "artist"  : "masopp /OBJ:fruit",
-    "comment" : "chipskit",
-    "md5"     : "da9e4429038f3a5af7f1f1a22de7b7ec"
 },{
     "level"   : "★5",
     "title"   : "HE is an Energizer (14keys love)",
@@ -36606,12 +36654,6 @@
     "md5"     : "84e32bdbd0a9c77632e11dbe6cfe0a3d"
 },{
     "level"   : "★5",
-    "title"   : "織姫 [雨天]",
-    "artist"  : "DJ TAKUAN 及び 佐倉アヤキ / obj:ED",
-    "comment" : "TRANCE",
-    "md5"     : "5e7515ff42137507b13a60abba0bdb26"
-},{
-    "level"   : "★5",
     "title"   : "織姫(Independent from God, Everlasting love remix) [DP 駆逐ロ級]",
     "artist"  : "DJ TAKUAN 及び 佐倉アヤキ remixed by uet BGI:いかお / obj:浜風",
     "comment" : "J-CORE",
@@ -36967,7 +37009,7 @@
 },{
     "level"   : "★6",
     "title"   : "evidence [DPG]",
-    "artist"  : "Yusuke Takeuchi/obj:G# *FLIP R.MIRROR",
+    "artist"  : "Yusuke Takeuchi/obj:G# *R.MIRROR",
     "comment" : "Interectual",
     "md5"     : "fbb3c866b8872253878d5b8db86fa7ed"
 },{
