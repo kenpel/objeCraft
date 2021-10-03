@@ -26928,6 +26928,12 @@
     "md5"     : "f0b2bacc636002f743bc458ee90b9a5c"
 },{
     "level"   : "9",
+    "title"   : "Jihad [Biblia14]",
+    "artist"  : "polysha obj : 71066",
+    "comment" : "SYMPHONIC DRUM'N BASS",
+    "md5"     : "acca3ec22215cd89efa2e02a4d7c34e0"
+},{
+    "level"   : "9",
     "title"   : "Journey to Happyland [14keys Another]",
     "artist"  : "Symphonian",
     "comment" : "Acoustic Pop",
@@ -29014,6 +29020,12 @@
     "artist"  : "LiTaNia feat. RYL *MAXBPM R.MIRROR",
     "comment" : "Dance Pop",
     "md5"     : "a43aa94bc7eee64a0430acaf4813526a"
+},{
+    "level"   : "10",
+    "title"   : "Don't Make Me One [Nearly Love]",
+    "artist"  : "Kyuzo Sameura feat. a-m BGA : 荒巻＆早明浦キュウゾウ / obj:RaiN",
+    "comment" : "J-R&B",
+    "md5"     : "cdc8610d3ff921b66462469e224bf0d8"
 },{
     "level"   : "10",
     "title"   : "DRAGONLADY [VerA]",
@@ -32617,7 +32629,7 @@
 },{
     "level"   : "★2",
     "title"   : "Technotris [DP Insane]",
-    "artist"  : "Greentea",
+    "artist"  : "Greentea *正規 or LR.MIR",
     "comment" : "エセJazz",
     "md5"     : "71ad4e74af052414831c45fcfe8f07c4"
 },{
@@ -35094,6 +35106,12 @@
     "md5"     : "9bc918dae5103051fcb9b60e28fa2a52"
 },{
     "level"   : "★4",
+    "title"   : "The Heroine Appears. [DP UNDYING]",
+    "artist"  : "P4koo obj:フォルティッシモ  *R.MIRROR",
+    "comment" : "Remix",
+    "md5"     : "3fb387d4ff7268ffc5eb5a9e492bde32"
+},{
+    "level"   : "★4",
     "title"   : "The Lady Is A Trump [CH14]",
     "artist"  : "Damjoy&ほくとしちせい obj:ucc *FLIP",
     "comment" : "Prog Pop",
@@ -35464,6 +35482,12 @@
     "artist"  : "しらいし *L.MIR or FLIP L.MIR",
     "comment" : "TRANCE",
     "md5"     : "160b8d10664f7515678261861a78f73f"
+},{
+    "level"   : "★4",
+    "title"   : "私のヒトミ",
+    "artist"  : "nmk feat.橘花音 obj: shiba  *FLIP LR.MIR",
+    "comment" : "EUROBEAT",
+    "md5"     : "56dee1bccba7f5505d2076e4c5ac2b9b"
 },{
     "level"   : "★4",
     "title"   : "米騒動 [腕釣れ14]",
@@ -37404,6 +37428,12 @@
     "md5"     : "f109554c97936983e5b7cae56151df97"
 },{
     "level"   : "★6",
+    "title"   : "Quickening 2 the RED [DP LAPITHER]",
+    "artist"  : "Loki-mitsu + Mentalstock obj.Lapis",
+    "comment" : "ETHEREAL ELECTRONIC",
+    "md5"     : "a76eaa0afcd5d1f61f0a936da0571638"
+},{
+    "level"   : "★6",
     "title"   : "Re:End of a Dream -memento mori mori-",
     "artist"  : "uma vs. モリモリあつし obj;hag vs. Nurse",
     "comment" : "Hard Renaissance",
@@ -38382,12 +38412,6 @@
     "md5"     : "db71fac910128b2b63355dcd0b737edc"
 },{
     "level"   : "★7",
-    "title"   : "the lost dedicated [life of KAMIKAZE]",
-    "artist"  : "哀愁マニア / obj@DemitassE",
-    "comment" : "hi-nrg / trance",
-    "md5"     : "5c464476f49ad219ffada8fe1f922ef9"
-},{
-    "level"   : "★7",
     "title"   : "the lost dedicated 【(^_^;)】",
     "artist"  : "哀愁マニア/obj:hamburger",
     "comment" : "hi-nrg / trance",
@@ -39094,6 +39118,12 @@
     "artist"  : "M / obj:綾",
     "comment" : "8192",
     "md5"     : "22b4ad410d28394a353659ed02b46c81"
+},{
+    "level"   : "★8",
+    "title"   : "the lost dedicated [life of KAMIKAZE]",
+    "artist"  : "哀愁マニア / obj@DemitassE",
+    "comment" : "hi-nrg / trance",
+    "md5"     : "5c464476f49ad219ffada8fe1f922ef9"
 },{
     "level"   : "★8",
     "title"   : "the lost dedicated(Hamburger",
