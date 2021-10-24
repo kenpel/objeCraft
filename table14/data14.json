@@ -6438,6 +6438,12 @@
     "md5"     : "9a0b8667f231747b7795b6ebfba85a46"
 },{
     "level"   : "2",
+    "title"   : "Phantom of spring",
+    "artist"  : "PDN obj.nor  *FLIP",
+    "comment" : "techno",
+    "md5"     : "aded77219ae0e94ee731af0166dab77e"
+},{
+    "level"   : "2",
     "title"   : "PicoPico (演奏感軽視14)",
     "artist"  : "chan + Lul /obj:ue",
     "comment" : "DREAM TECHNO",
@@ -12324,6 +12330,12 @@
     "md5"     : "d2b2b5db8631ea1c9da7cd6d2b85bc84"
 },{
     "level"   : "4",
+    "title"   : "JUGGLE",
+    "artist"  : "Ras obj.nor",
+    "comment" : "HI-TECH ELECTRO",
+    "md5"     : "775b2e444efe936e62d670740391f615"
+},{
+    "level"   : "4",
     "title"   : "K",
     "artist"  : "Hawk",
     "comment" : "KSKST",
@@ -12736,6 +12748,12 @@
     "artist"  : "tcheb / mov : 石王マサト obj:kuro",
     "comment" : "AGAINST \"The World\"",
     "md5"     : "194cd3612abd7ae397e83ff6553c87d7"
+},{
+    "level"   : "4",
+    "title"   : "Out of Sense [DPI]",
+    "artist"  : "Sound Souler mov:Eicar Shigino/Illust:Keshiks/obj:RaiN",
+    "comment" : "Music",
+    "md5"     : "47a1ebb4cf334c718b13b7be451396fe"
 },{
     "level"   : "4",
     "title"   : "Ovital [DP HYPER]",
@@ -13468,6 +13486,12 @@
     "artist"  : "削除 / Mentalstock / obj:epics-",
     "comment" : "Overture / IDM",
     "md5"     : "8fda1f7edc956b0a390aa9c7ba1f8d6c"
+},{
+    "level"   : "4",
+    "title"   : "VENDeTTA [DP HYPER]",
+    "artist"  : "Cataclysmic Order BGI:FARNA",
+    "comment" : "AFGODSBEELD",
+    "md5"     : "b69c3a636fa38dc161bd8e50fbe8b977"
 },{
     "level"   : "4",
     "title"   : "Verre -Sunset, ibiza Mix- [clow]",
@@ -15612,6 +15636,12 @@
     "md5"     : "7ea93cd84b1ed74d10bbf0c25dd277d7"
 },{
     "level"   : "5",
+    "title"   : "NS18 [14key EXTRA]",
+    "artist"  : "3034 Anomie / IllusionRain / obj.nor",
+    "comment" : "EXTREME TECHNO",
+    "md5"     : "8bbd97f6dd454f6c5707a60b9693189c"
+},{
+    "level"   : "5",
     "title"   : "on the sequence #1",
     "artist"  : "6yen // BGA : SonicPulse/Obj:xi-forne",
     "comment" : "d'n'b",
@@ -17122,6 +17152,12 @@
     "artist"  : "未来 obj:ucc",
     "comment" : "コウヨウ",
     "md5"     : "cf88d2b8852fa277d4ab80dc552099ec"
+},{
+    "level"   : "6",
+    "title"   : "Az My Dear [14key MGNother]",
+    "artist"  : "Ym1024 feat. lamie*[obj:MGN]",
+    "comment" : "J-Baroque Pop",
+    "md5"     : "fab6f9cbb1aab76fee81a032994c6c11"
 },{
     "level"   : "6",
     "title"   : "Az My Dear [DP YANDERE]",
@@ -21388,6 +21424,12 @@
     "artist"  : "e.m.u/objEPICS-",
     "comment" : "piano trance",
     "md5"     : "874285497aa337ea85647dd13e536895"
+},{
+    "level"   : "7",
+    "title"   : "intersection？！ [DP-sagINSANE]",
+    "artist"  : "⑮ / obj:sagoo BGA:えらる",
+    "comment" : "Digi Rock",
+    "md5"     : "0bbbca1139495420d3e06690e32da63b"
 },{
     "level"   : "7",
     "title"   : "Ire",
@@ -30126,6 +30168,12 @@
     "md5"     : "e4b9122c17cdf591a35066266ff69857"
 },{
     "level"   : "10",
+    "title"   : "VENDeTTA [DP ANOTHER]",
+    "artist"  : "Cataclysmic Order BGI:FARNA",
+    "comment" : "AFGODSBEELD",
+    "md5"     : "bf48dde4dd3907cdb73dcc470e4ce26b"
+},{
+    "level"   : "10",
     "title"   : "volcanic [A14]",
     "artist"  : "DETRO obj:ucc *L.MIRROR",
     "comment" : "ボルケーノ",
@@ -31626,6 +31674,12 @@
     "md5"     : "62eef846ddc385b1c2dabe5e83e04248"
 },{
     "level"   : "★1",
+    "title"   : "Xecus [XX]",
+    "artist"  : "SHIKI/fity obj:RaiN",
+    "comment" : "Trance core",
+    "md5"     : "1a412707e08ab5ab63dce10a37657f37"
+},{
+    "level"   : "★1",
     "title"   : "ZEUS+1",
     "artist"  : "ルゼ obj.nor",
     "comment" : "FORCE[DP EXTRA]",
@@ -32512,6 +32566,12 @@
     "artist"  : "xi / obj:Louis",
     "comment" : "APOCALYPSIS JOHANNIS",
     "md5"     : "b75b33d1c32e579e85405deb4fe0f432"
+},{
+    "level"   : "★2",
+    "title"   : "Party 4U \"holy nite mix\" [DP FLASH ERA]",
+    "artist"  : "cranky (Chart By DJ ANDREA) *FLIP",
+    "comment" : "RAVE",
+    "md5"     : "6ac359359453014078ec1e221c58fd63"
 },{
     "level"   : "★2",
     "title"   : "PENETRATION - 14HD",
@@ -34764,6 +34824,12 @@
     "md5"     : "a480ff4b60230357041b2b9c9df46626"
 },{
     "level"   : "★4",
+    "title"   : "Kaiden Aura [DP 発狂十段]",
+    "artist"  : "yukitani / HYOUTAN / Symphonian obj : 71066",
+    "comment" : "Nerd Mixture",
+    "md5"     : "c9dc766163ed14cba58f49f3ff53212c"
+},{
+    "level"   : "★4",
     "title"   : "Kids' Tricky Cheating (Mellow Grand Piano Side)",
     "artist"  : "SlowMouse *L.MIRROR R.RANDOM",
     "comment" : "Sixteen-Handed Piano Quartet",
@@ -35104,6 +35170,12 @@
     "artist"  : "度胸姉妹 / obj:lichtr *正規 or FLIP",
     "comment" : "TRANSCENDENTAL ETUDES",
     "md5"     : "22bc2d535a195b866ea10822294235e5"
+},{
+    "level"   : "★4",
+    "title"   : "suffruti",
+    "artist"  : "Black Lotus obj:shiba",
+    "comment" : "Suffrutic Requiem",
+    "md5"     : "01bd9b363a1d5c87998b077d60f96875"
 },{
     "level"   : "★4",
     "title"   : "TAVADELIC CYBER FIELD -TAVATARISM LOVE FOREVER- <DP ANOTHER>",
@@ -36174,6 +36246,12 @@
     "md5"     : "1914354cf0ca0371fcc06cf1bbddc6e3"
 },{
     "level"   : "★5",
+    "title"   : "Out of Sense [Lost Wonderland]",
+    "artist"  : "Sound Souler mov:Eicar Shigino/Illust:Keshiks/obj:RaiN",
+    "comment" : "Music",
+    "md5"     : "fdd73e5fb241ce64c57eb702e0c80fab"
+},{
+    "level"   : "★5",
     "title"   : "P.S : Plasma Strike [S]",
     "artist"  : "Kinato *FLIP",
     "comment" : "Techno Trance",
@@ -36859,7 +36937,7 @@
 },{
     "level"   : "★6",
     "title"   : "Alastor [ANQTHER]",
-    "artist"  : "鳩 / obj:QJITAI",
+    "artist"  : "鳩 / obj:QJITAI *FLIP R.MIR",
     "comment" : "DarkBreaks",
     "md5"     : "a25814fbc3f9e1c72d0b50c41e1fb208"
 },{
@@ -36868,6 +36946,12 @@
     "artist"  : "LeaF Movie:想起 / Illust:セシル◇タイト",
     "comment" : "GOTHIC CHOIR",
     "md5"     : "c277c818ba83b759b4f6e128929075cf"
+},{
+    "level"   : "★6",
+    "title"   : "Andro [NuLL_P01nTeR_ExCepT10n]",
+    "artist"  : "紅蓮月影 / Limite BGA:A-ZERO Project",
+    "comment" : "LOGICAL FORMAT",
+    "md5"     : "4a02e6db3958b81a221b8e0a4836cf05"
 },{
     "level"   : "★6",
     "title"   : "Andromeda [Physical]",
