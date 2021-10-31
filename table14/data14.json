@@ -162,6 +162,12 @@
     "md5"     : "e699a4080fb3a1c48f48ffdf4d4da37f"
 },{
     "level"   : "?",
+    "title"   : "bitch bass",
+    "artist"  : "bitch bros *FLIP L.S-RAN",
+    "comment" : "HARDCORE",
+    "md5"     : "295d25f327910a3c53a5b2eccbcfc5d7"
+},{
+    "level"   : "?",
     "title"   : "BlackCity  [14EXTRA]",
     "artist"  : "Telno VS 流菜 / BGA:Johnny *FIXOFF",
     "comment" : "Breakbeats",
@@ -790,6 +796,12 @@
     "artist"  : "CR2032",
     "comment" : "SOFLA 'n' MINIMAL",
     "md5"     : "3da41c6fc4e278e38c398add1316c887"
+},{
+    "level"   : "?",
+    "title"   : "ninth [wind up]",
+    "artist"  : "sta / obj:25 *MAXBPM+100",
+    "comment" : "Clockwork",
+    "md5"     : "d243b4fc641789e392a052a111993d33"
 },{
     "level"   : "?",
     "title"   : "Nirvana Express [DP Bhudda]",
@@ -1470,6 +1482,12 @@
     "md5"     : "b011f0b0df93df5d0b4e654ded042ae4"
 },{
     "level"   : "?",
+    "title"   : "ノスタルジアの海 -10key asso-",
+    "artist"  : "atmosphere / Kz *AVERAGE FLIP",
+    "comment" : "ambient",
+    "md5"     : "ceb37f2655f43aedac287ba8befda69f"
+},{
+    "level"   : "?",
     "title"   : "ノスタルジアの海 -10key asso (おまけ)-",
     "artist"  : "atmosphere / Kz *AVERAGE FLIP",
     "comment" : "ambient",
@@ -1672,6 +1690,12 @@
     "artist"  : "ゴリライザー制作委員会 / obj.にゃむ *MINBPM FLIP R.MIRROR",
     "comment" : "特撮",
     "md5"     : "b1578874d726ed8c6b706803c2d90f4a"
+},{
+    "level"   : "?",
+    "title"   : "風の旋律 [14key scratcher]",
+    "artist"  : "AKITO //obj:MIST *FLIP",
+    "comment" : "Celtic",
+    "md5"     : "93d5b2e09b5adb4252fa9e7788b836fc"
 },{
     "level"   : "?",
     "title"   : "風仁雷仁 (DP Another!?)",
@@ -5322,6 +5346,12 @@
     "md5"     : "337e17dca65dffadff741470022d02d1"
 },{
     "level"   : "2",
+    "title"   : "carillon 14line another",
+    "artist"  : "-45(obj:A-4)",
+    "comment" : "techno",
+    "md5"     : "e2e14fcc9a6ff9a88966f5a81ef0223d"
+},{
+    "level"   : "2",
     "title"   : "Castorpollux [DP ANOTHER]",
     "artist"  : "sound piercer obj:kuro",
     "comment" : "Pop Rock",
@@ -6528,6 +6558,12 @@
     "md5"     : "70f94972a59728462e5b40dc6e58936b"
 },{
     "level"   : "2",
+    "title"   : "QTロジック [DPロジック]",
+    "artist"  : "ケドメ　絵/るい　歌/初音ミク 差分/にゃむ",
+    "comment" : "TECHNO POP",
+    "md5"     : "3c4dbc85d18236ca08a8e95549415e9c"
+},{
+    "level"   : "2",
     "title"   : "Quadrosphere [14key]",
     "artist"  : "DJ.273K obj:ucc",
     "comment" : "HOUSE",
@@ -7312,6 +7348,12 @@
     "artist"  : "Est feat. 雪歌ユフ obj.vectorla  *L.MIRROR",
     "comment" : "ELEPOP",
     "md5"     : "bfa7329f23edce8d84f146018c220717"
+},{
+    "level"   : "2",
+    "title"   : "ゾンビはいやなの音頭 DP",
+    "artist"  : "電脳少女シロ / BMS:second *FLIP R.MIRROR",
+    "comment" : "電脳ソング",
+    "md5"     : "33a4bb4d3bf2dbf7e9fa658aabd0020c"
 },{
     "level"   : "2",
     "title"   : "タイヨウパラダイス(Lemon beads J-core bootleg) [DP ANOTHER]",
@@ -15240,6 +15282,12 @@
     "md5"     : "fa55f9a9810125119af7e909ff3ceeb3"
 },{
     "level"   : "5",
+    "title"   : "Hatred nightmare [DPA]",
+    "artist"  : "鈎兎(KagiUsagi)",
+    "comment" : "Promised Holocaust",
+    "md5"     : "796bc788cce7cb3b91689e178184a536"
+},{
+    "level"   : "5",
     "title"   : "Heptachromic Cube [14K Another]",
     "artist"  : "ReaLizer / obj:JHS",
     "comment" : "Happy Hardcore",
@@ -19294,6 +19342,12 @@
     "artist"  : "Shiraishi obj:けろりん",
     "comment" : "Voicedrama",
     "md5"     : "375ca8f190fd011bd0416dc2cb0f4a10"
+},{
+    "level"   : "6",
+    "title"   : "Ultimate Weapon [DP-sagHYPER]",
+    "artist"  : "TetraElemental / obj:sagoo",
+    "comment" : "EMOTIONAL TRANCECORE",
+    "md5"     : "8017da88e8077985f25038b77c7b93c1"
 },{
     "level"   : "6",
     "title"   : "Una rosa azul el estado extatico. [14key_ANOTHER]",
@@ -27606,6 +27660,12 @@
     "md5"     : "aaff2ce568b8968c3d9780622eb79eea"
 },{
     "level"   : "9",
+    "title"   : "route #10 [DP INSANE]",
+    "artist"  : "punchhh",
+    "comment" : "Bossa pop/Crossover",
+    "md5"     : "8c1c4ffd6695086aa70a37d4f509d45d"
+},{
+    "level"   : "9",
     "title"   : "running shuffle (DP)",
     "artist"  : "Bit Upper OBJ:KLOC",
     "comment" : "HAPPY",
@@ -31500,6 +31560,12 @@
     "md5"     : "3abb1e252cab0773211cb1a92936069d"
 },{
     "level"   : "★1",
+    "title"   : "Sekai [DP HYPER]",
+    "artist"  : "ArkaanDM *FLIP",
+    "comment" : "WORLD",
+    "md5"     : "1250fb4a7a277149a476a4e4d8b9608e"
+},{
+    "level"   : "★1",
     "title"   : "Shade of Gloria [Gladius]",
     "artist"  : "tcheb / mov:Roaring Flame / Illust:ゆ?ま。 / obj:Hersh",
     "comment" : "Renaissance Core",
@@ -35160,6 +35226,12 @@
     "md5"     : "6d1d41ab908e9861857f94a062b47c79"
 },{
     "level"   : "★4",
+    "title"   : "Shelter",
+    "artist"  : "ANKAKE obj: shiba",
+    "comment" : "instrumental",
+    "md5"     : "ffe21121ade9a2e33f8735cd6606e184"
+},{
+    "level"   : "★4",
     "title"   : "Silent Beat  -Another14-",
     "artist"  : "Gatia *FLIP",
     "comment" : "Drum'n Bass",
@@ -35254,6 +35326,12 @@
     "artist"  : "夢遊病 *SUD+ FLIP LR.MIR",
     "comment" : "( ~ω~)ｽﾔｧ…",
     "md5"     : "e6c8f21ba04a9a46a60b67ece9c3cfd3"
+},{
+    "level"   : "★4",
+    "title"   : "Ultimate Weapon [DP-sagANOTHER]",
+    "artist"  : "TetraElemental / obj:sagoo *FLIP",
+    "comment" : "EMOTIONAL TRANCECORE",
+    "md5"     : "31685414947eebbff79ff183a2a6de49"
 },{
     "level"   : "★4",
     "title"   : "underwater sunset ［あ！］",
@@ -38274,6 +38352,12 @@
     "md5"     : "db1ba0099702caf5a0a6bf7a13b05e50"
 },{
     "level"   : "★7",
+    "title"   : "Hatred nightmare [DPI]",
+    "artist"  : "鈎兎(KagiUsagi)",
+    "comment" : "Promised Holocaust",
+    "md5"     : "7afd6e2287b6f1912b4d6f77b4185a7e"
+},{
+    "level"   : "★7",
     "title"   : "I",
     "artist"  : "LeaF Movie:Optie / obj:lichtr  *SUD+ AVE-40",
     "comment" : "PROGRESSIVE IDM",
@@ -39910,6 +39994,12 @@
     "artist"  : "ルゼ ☆ えみゅう。 ☆ 石王マサト",
     "comment" : "CONDUCTOR[DELAY]",
     "md5"     : "d8c8783a46203d04cccf06766255699d"
+},{
+    "level"   : "★10",
+    "title"   : "",
+    "artist"  : "*L.MIR R.S-RAN",
+    "comment" : "",
+    "md5"     : "367e8609743e62629fe28528b1226ce0"
 },{
     "level"   : "★10",
     "title"   : "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 ～Falling in \"B\" mix～ 【うわ(^_^;)】",
