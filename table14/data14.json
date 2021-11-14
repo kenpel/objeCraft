@@ -606,6 +606,18 @@
     "md5"     : "dad54728eed244bf70f12bb8f5142f06"
 },{
     "level"   : "?",
+    "title"   : "I [am]",
+    "artist"  : "LeaF Movie:Optie / obj:alt  *AVE-20",
+    "comment" : "PROGRESSIVE IDM",
+    "md5"     : "c22ff839fcf7941cf7403b0ba4fabb5a"
+},{
+    "level"   : "?",
+    "title"   : "I [/O]",
+    "artist"  : "LeaF Movie:Optie / obj:alt",
+    "comment" : "PROGRESSIVE IDM",
+    "md5"     : "19210f16c7ac2ee8c2091f02868b89cb"
+},{
+    "level"   : "?",
     "title"   : "IIDX (JOLDER MIX) -DP HYPER-",
     "artist"  : "DJ SIMON / O.C. *MAX+90 SUD+ JUDGE-30",
     "comment" : "Trip Hop",
@@ -2860,6 +2872,12 @@
     "artist"  : "EBIMAYO 柏駅東口から徒歩10分 / obj:Yosk!",
     "comment" : "GOODDONK",
     "md5"     : "4c48bd05360933598c2db950e30b637e"
+},{
+    "level"   : "1",
+    "title"   : "Goodbye My Phantasia [DP POP]",
+    "artist"  : "FALL feat. yufu_sekka obj.にゃむ",
+    "comment" : "POP",
+    "md5"     : "0848bc574f178399aba9db27940dee38"
 },{
     "level"   : "1",
     "title"   : "Goodbye to Your memory [DP ANOTHER]",
@@ -7320,6 +7338,12 @@
     "md5"     : "1b53f2de1438d96554c62502aa3825bd"
 },{
     "level"   : "2",
+    "title"   : "ウタカタ・サマーメモリーズ [146Another]",
+    "artist"  : "kei_iwata feat.レゾナンスもえこ Movie:Arishima_Caprico Illust:Morph obj:NASA",
+    "comment" : "J-DANCE POP",
+    "md5"     : "c3f098b709e8c76d053b1e9753d00886"
+},{
+    "level"   : "2",
     "title"   : "ウタゲウタ(BMS Edition) [A14]",
     "artist"  : "J.T. // obj:ucc *MINBPM",
     "comment" : "J-Traditional",
@@ -11730,6 +11754,12 @@
     "md5"     : "7c2daff3817c9df249fbfd2cb8da5ed4"
 },{
     "level"   : "4",
+    "title"   : "Darkside of dawn (卯の刻 拾四鍵)",
+    "artist"  : "genesik / Z-siecle / obj:みっと",
+    "comment" : "Psy Trance",
+    "md5"     : "056c7f6bd67ac800bac9a9ebdacdfc11"
+},{
+    "level"   : "4",
     "title"   : "Dawn of hearts [Another]",
     "artist"  : "yamada. obj:FONTLM",
     "comment" : "Trance",
@@ -14034,6 +14064,12 @@
     "md5"     : "c1bd86080023e6e353cf65a9871e737a"
 },{
     "level"   : "4",
+    "title"   : "メインテーマ [DP-sagANOTHER]",
+    "artist"  : "Celas / obj:sagoo",
+    "comment" : "Final Fantasy V",
+    "md5"     : "419ed3baef6761bf596b56b7bdedcbd6"
+},{
+    "level"   : "4",
     "title"   : "メルト  (electeto lounge inst ver.)",
     "artist"  : "ryo arranged by FALL / obj:けろりん *LR.MIRROR",
     "comment" : "POP",
@@ -15232,6 +15268,12 @@
     "artist"  : "Mister.Himi *AVERAGE R.MIRROR",
     "comment" : "TECHNO STEP",
     "md5"     : "60b20e8cba893a040c32e0feb5498d41"
+},{
+    "level"   : "5",
+    "title"   : "GIRIMECHALA Reflects! (Indra)",
+    "artist"  : "Graviton vs kinaphar / obj:alt",
+    "comment" : "Psychedelic Trance",
+    "md5"     : "c3a061419139427fb3798e34fdf09471"
 },{
     "level"   : "5",
     "title"   : "Gleam of Aigis [DP ANOTHER]",
@@ -26664,6 +26706,12 @@
     "md5"     : "04c39b430d07e5a7e316350bdbc01c3d"
 },{
     "level"   : "9",
+    "title"   : "Daydream RE-Construction -Lucid Dream-",
+    "artist"  : "P4koo/ezgoon obj : 71066  *L.MIRROR",
+    "comment" : "Progressive Breaks",
+    "md5"     : "8446d0731f97298c62bfaf15d5d726f3"
+},{
+    "level"   : "9",
     "title"   : "Dazzling Neon [14 ANOTHER]",
     "artist"  : "ねこみりん / srof *R.MIRROR",
     "comment" : "LIGHT RAVE",
@@ -29448,6 +29496,12 @@
     "md5"     : "3d74262e61a34e33e1303bb3fc794a99"
 },{
     "level"   : "10",
+    "title"   : "GIRIMECHALA Reflects! (Chefei)",
+    "artist"  : "Graviton vs kinaphar / obj:alt",
+    "comment" : "Psychedelic Trance",
+    "md5"     : "f2f65790b1ff8d4fa269826c5f3c9a1f"
+},{
+    "level"   : "10",
     "title"   : "Goodbye My Life -7+3+4key-",
     "artist"  : "Junk *L.MIRROR",
     "comment" : "will",
@@ -30106,6 +30160,12 @@
     "artist"  : "BMS:くっちー / BGA:あっきー obj:ucc *FLIP LR.RANDOM",
     "comment" : "DANCE SPEED",
     "md5"     : "ec1640499e7537445a0725612bad226e"
+},{
+    "level"   : "10",
+    "title"   : "sensitive [DP-sagINSANE]",
+    "artist"  : "white crystal / obj:sagoo",
+    "comment" : "euro trance",
+    "md5"     : "c643dce337ccb18376d1de3d1503c886"
 },{
     "level"   : "10",
     "title"   : "shocKing King [DIFFICULT D]",
@@ -36030,6 +36090,12 @@
     "md5"     : "d93720ffd8e09ac3a2fe0455d164ec47"
 },{
     "level"   : "★5",
+    "title"   : "Celestial Axes [False End]",
+    "artist"  : "nmk / わっふゑ obj:RaiN",
+    "comment" : "GrimReaper",
+    "md5"     : "5432612f479810d9c6f5a005fc143094"
+},{
+    "level"   : "★5",
     "title"   : "Chaos MoEmot!on [金髪碧眼貧乳ロリツインテメイド水着ツンデレ天才妹495才]",
     "artist"  : "TRIAL bga:HYOUTAN / obj.にゃむ  *L.MIRROR",
     "comment" : "Rotterdam Techno",
@@ -39130,6 +39196,12 @@
     "artist"  : "234 /obj:hamburger",
     "comment" : "HAPPY HARDCORE",
     "md5"     : "bbd3fa6e1282aa54097a2bd3c461058c"
+},{
+    "level"   : "★8",
+    "title"   : "Celestial Axes [True End]",
+    "artist"  : "nmk / わっふゑ obj:RaiN",
+    "comment" : "GrimReaper",
+    "md5"     : "1e4a0688fefe60fedca9d325fcf73434"
 },{
     "level"   : "★8",
     "title"   : "Countdown to MADNESS†LEGGENDARIA",
