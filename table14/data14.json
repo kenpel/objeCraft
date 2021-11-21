@@ -10728,6 +10728,12 @@
     "md5"     : "a6948dc9f994d51f226a4a93f470c1e7"
 },{
     "level"   : "3",
+    "title"   : "不眠症CANDY",
+    "artist"  : "utah *FLIP",
+    "comment" : "HARDCORE",
+    "md5"     : "09998d04965eaaa828e5c79b08c97c24"
+},{
+    "level"   : "3",
     "title"   : "円環の理 [DP HYPER]",
     "artist"  : "鹿目まどか Obj:ゆ～兎 佐倉杏子",
     "comment" : "ENTROPY",
@@ -14200,6 +14206,12 @@
     "artist"  : "daisan (obj:k) *SUD+",
     "comment" : "IDM",
     "md5"     : "70cb7b495c1062f5a598bb78364534af"
+},{
+    "level"   : "4",
+    "title"   : "奥多摩トランス -Another14-",
+    "artist"  : "DJ TAKUAN obj : name94",
+    "comment" : "DARK PSYCHEDELIC TRANCE",
+    "md5"     : "d3af526856f56455e92406fa4002ca88"
 },{
     "level"   : "4",
     "title"   : "少女の檻 \"Last Night, Last Dancing.\" [Kumanother]",
@@ -23178,6 +23190,12 @@
     "md5"     : "7bdfee6e0dffbba0e55312e620f5e98a"
 },{
     "level"   : "7",
+    "title"   : "奥多摩トランス -Unexplored region14-",
+    "artist"  : "DJ TAKUAN obj : name94",
+    "comment" : "DARK PSYCHEDELIC TRANCE",
+    "md5"     : "5458e3390ca2502c8d6748d1f373b6b5"
+},{
+    "level"   : "7",
     "title"   : "少女の檻 [DP]",
     "artist"  : "beatMARIO OBJ:KLOC  *FLIP L.MIR or L.MIR",
     "comment" : "EURO BEAT",
@@ -26814,6 +26832,12 @@
     "md5"     : "df08b8d24f55da5a91d3f536d5450d70"
 },{
     "level"   : "9",
+    "title"   : "EMOJISM [DP JOY]",
+    "artist"  : "A-ZERO Project + iF + TeePy obj:PSYK",
+    "comment" : "PictogLife",
+    "md5"     : "ac939a715904e3a581f4b2b211eccda8"
+},{
+    "level"   : "9",
     "title"   : "Emptiness [DP ANOTHER]",
     "artist"  : "Xect. / obj:nono22 MOVIE: SeibaR",
     "comment" : "IDM",
@@ -28312,6 +28336,12 @@
     "artist"  : "しーけー obj:kuro",
     "comment" : "eschatology",
     "md5"     : "c116643861aba31a778792f3d86c7680"
+},{
+    "level"   : "9",
+    "title"   : "コケシネコ☆クライシス [DPA]",
+    "artist"  : "Ino obj.深海",
+    "comment" : "ブレイクコア",
+    "md5"     : "b054bb582512643588d43fe92154a181"
 },{
     "level"   : "9",
     "title"   : "サーカス・ギャロップ -normal-",
@@ -31356,6 +31386,12 @@
     "md5"     : "ccfcbb50cf6bae0ff20670520fb9df98"
 },{
     "level"   : "★1",
+    "title"   : "Finixe -DP Luna-",
+    "artist"  : "Silentroom × iimo / selene.",
+    "comment" : "LEGEND",
+    "md5"     : "0a7ed33914ff0ef15d78b379937d8a70"
+},{
+    "level"   : "★1",
     "title"   : "Fireball [14key...]",
     "artist"  : "tarolabo obj:ucc *L.MIRROR",
     "comment" : "[IDM]",
@@ -32524,6 +32560,12 @@
     "artist"  : "おみー vs. Re:gats& obj.nor  *正規 or L.RANDOM",
     "comment" : "Envisioned Glory",
     "md5"     : "7b859ed9ca39f957943ec372dafa29f0"
+},{
+    "level"   : "★2",
+    "title"   : "Finixe -DP Eclipse-",
+    "artist"  : "Silentroom × iimo / selene.",
+    "comment" : "LEGEND",
+    "md5"     : "90ce697202560c0b9e66bdbc76aa8eba"
 },{
     "level"   : "★2",
     "title"   : "FIVE RAYS -SESSION BATTLE-",
@@ -39276,6 +39318,12 @@
     "md5"     : "2bd293156f7d66d12307903ca4a0c4e9"
 },{
     "level"   : "★8",
+    "title"   : "Finixe -DP Genocide-",
+    "artist"  : "Silentroom × iimo / selene.",
+    "comment" : "LEGEND",
+    "md5"     : "76405b8342a144624b76ec2858ee8388"
+},{
+    "level"   : "★8",
     "title"   : "FK-Assault [ASSAULT14]",
     "artist"  : "Frost_Shrike vs Kucchi obj:ucc",
     "comment" : "HARDCORE BREAKS",
@@ -39352,6 +39400,12 @@
     "artist"  : "II-L / obj:hamburger & II-WAL *MINBPM",
     "comment" : "PSY FOOTWORK",
     "md5"     : "deb6a3695c450884b78654c75e12c0ed"
+},{
+    "level"   : "★8",
+    "title"   : "lifework [片手の過負荷エラー]",
+    "artist"  : "ああああ / Limite BGA:アアアア  *R.MIRROR",
+    "comment" : "人生",
+    "md5"     : "f3dc89ceb076574aef764ad351e036a1"
 },{
     "level"   : "★8",
     "title"   : "locked girl@Scarlet-Osara Palace",
