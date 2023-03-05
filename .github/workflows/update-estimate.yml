@@ -1,0 +1,40 @@
+name: Update estimate json
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * mon'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4
+
+      - name: Setup git
+        run: |
+            git config --local user.name ${GITHUB_ACTOR}
+            git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+      - name: Update difficulty estimate json
+        run: |
+          python .github/workflows/update-estimate.py
+          mv easydata.json estimate/
+          mv harddata.json estimate/
+
+      - name: Push difficulty estimate json
+        run: |
+          git add estimate/easydata.json estimate/harddata.json
+          git commit -m "[cron] Update estimate json"
+          git push
